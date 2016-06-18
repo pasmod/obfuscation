@@ -1,0 +1,205 @@
+[
+    {
+        "obfuscation": "Methought I heard a whir of wings on high .", 
+        "obfuscation-id": 1, 
+        "original": "   \n     Methought I heard a whir of wings on high.", 
+        "original-end-charpos": 50, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "I see naught save the snow and starry sky .", 
+        "obfuscation-id": 2, 
+        "original": "\n\n\n     I see naught save the snow and starry sky.", 
+        "original-end-charpos": 100, 
+        "original-start-charpos": 51
+    }, 
+    {
+        "obfuscation": "We 've come a long and mighty step today , From o'er the frosty hills and far away .", 
+        "obfuscation-id": 3, 
+        "original": "\n\n\n     We've come a long and mighty step today,\n     From o'er the frosty hills and far away.", 
+        "original-end-charpos": 194, 
+        "original-start-charpos": 101
+    }, 
+    {
+        "obfuscation": "Look , father , dost thou understand that shining star That seems to stand above the town so far ?", 
+        "obfuscation-id": 4, 
+        "original": "\n\n     Look, father, dost thou see that shining star\n     That seems to stand above the town so far?", 
+        "original-end-charpos": 294, 
+        "original-start-charpos": 195
+    }, 
+    {
+        "obfuscation": "'T is like a wondrous blossom on a stem , And understand , it ever shines o'er Bethlehem !", 
+        "obfuscation-id": 5, 
+        "original": "\n     'Tis like a wondrous blossom on a stem,\n     And see, it ever shines o'er Bethlehem!", 
+        "original-end-charpos": 384, 
+        "original-start-charpos": 295
+    }, 
+    {
+        "obfuscation": "A brighter star , I 'm sure I never saw -- And perfect form , without a speck or flaw .", 
+        "obfuscation-id": 6, 
+        "original": "\n\n\n     A brighter star, I'm sure I never saw--\n     And perfect form, without a speck or flaw.", 
+        "original-end-charpos": 479, 
+        "original-start-charpos": 385
+    }, 
+    {
+        "obfuscation": "A stranger star !", 
+        "obfuscation-id": 7, 
+        "original": "\n\n\n     A stranger star!", 
+        "original-end-charpos": 503, 
+        "original-start-charpos": 480
+    }, 
+    {
+        "obfuscation": "It never shone before , It standeth still above that stable door .", 
+        "obfuscation-id": 8, 
+        "original": " It never shone before,\n     It standeth still above that stable door.", 
+        "original-end-charpos": 573, 
+        "original-start-charpos": 504
+    }, 
+    {
+        "obfuscation": "Look ye , I 've found a fiddling lamb new-born .", 
+        "obfuscation-id": 9, 
+        "original": "\n\n     Look ye, I've found a little lamb new-born.", 
+        "original-end-charpos": 623, 
+        "original-start-charpos": 574
+    }, 
+    {
+        "obfuscation": "Poor fiddling beastie !", 
+        "obfuscation-id": 10, 
+        "original": "\n\n     Poor little beastie!", 
+        "original-end-charpos": 650, 
+        "original-start-charpos": 624
+    }, 
+    {
+        "obfuscation": "Wrap him well and warm .", 
+        "obfuscation-id": 11, 
+        "original": " Wrap him well and warm.", 
+        "original-end-charpos": 674, 
+        "original-start-charpos": 651
+    }, 
+    {
+        "obfuscation": "An ill night to be born in , frost and snow , Naught but cold skies above , cold earth below .", 
+        "obfuscation-id": 12, 
+        "original": "\n\n     An ill night to be born in, frost and snow,\n     Naught but cold skies above, cold earth below.", 
+        "original-end-charpos": 776, 
+        "original-start-charpos": 675
+    }, 
+    {
+        "obfuscation": "I marvel any fiddling creature should be born On such a night .", 
+        "obfuscation-id": 13, 
+        "original": "\n     I marvel any little creature should be born\n     On such a night.", 
+        "original-end-charpos": 847, 
+        "original-start-charpos": 777
+    }, 
+    {
+        "obfuscation": "I found it all forlorn , Crying beside its mother in the storm .", 
+        "obfuscation-id": 14, 
+        "original": "\n\n\n     I found it all forlorn,\n     Crying beside its mother in the storm.", 
+        "original-end-charpos": 922, 
+        "original-start-charpos": 848
+    }, 
+    {
+        "obfuscation": "Hark , I thought I heard a sound of mighty wings !", 
+        "obfuscation-id": 15, 
+        "original": "\n\n     Hark, I thought I heard a sound of mighty wings!", 
+        "original-end-charpos": 977, 
+        "original-start-charpos": 923
+    }, 
+    {
+        "obfuscation": "Listen !", 
+        "obfuscation-id": 16, 
+        "original": "\n     Listen!", 
+        "original-end-charpos": 990, 
+        "original-start-charpos": 978
+    }, 
+    {
+        "obfuscation": "Is it the winter sky that sings ?", 
+        "obfuscation-id": 17, 
+        "original": " Is it the winter sky that sings?", 
+        "original-end-charpos": 1023, 
+        "original-start-charpos": 991
+    }, 
+    {
+        "obfuscation": "Nay , gran'ther , I heard naught .", 
+        "obfuscation-id": 18, 
+        "original": "\n\n     Nay, gran'ther, I heard naught.", 
+        "original-end-charpos": 1061, 
+        "original-start-charpos": 1024
+    }, 
+    {
+        "obfuscation": "You 're old and gray And weary with the miles you 've walked today .", 
+        "obfuscation-id": 19, 
+        "original": " You're old and gray\n     And weary with the miles you've walked today.", 
+        "original-end-charpos": 1132, 
+        "original-start-charpos": 1062
+    }, 
+    {
+        "obfuscation": "At noon I met a man who tarried in the shade , He led a mule , and riding it a maid -- A maiden with a face I 'll ne'er forget , A wondrous face , I seem to see it yet Lit with an inward shining , as if God Had set a lighted lamp within her soul .", 
+        "obfuscation-id": 20, 
+        "original": "\n\n\n     At noon I met a man who tarried in the shade,\n     He led a mule, and riding it a maid--\n     A maiden with a face I'll ne'er forget,\n     A wondrous face, I seem to see it yet\n     Lit with an inward shining, as if God\n     Had set a lighted lamp within her soul.", 
+        "original-end-charpos": 1404, 
+        "original-start-charpos": 1133
+    }, 
+    {
+        "obfuscation": "Many have passed all day , but none like these , And no face have I always seen like hers .", 
+        "obfuscation-id": 21, 
+        "original": "\n     Many have passed all day, but none like these,\n     And no face have I ever seen like hers.", 
+        "original-end-charpos": 1501, 
+        "original-start-charpos": 1405
+    }, 
+    {
+        "obfuscation": "Belike the man and maid were strangers here , And come to Bethlehem at the king 's command .", 
+        "obfuscation-id": 22, 
+        "original": "\n\n\n     Belike the man and maid were strangers here,\n     And come to Bethlehem at the king's command.", 
+        "original-end-charpos": 1603, 
+        "original-start-charpos": 1502
+    }, 
+    {
+        "obfuscation": "Methinks I met that very man and maid -- A maiden with such wondrous dove-like eyes , I saw them near this place , all tired and worn , Trudging about the town , seeking an inn .", 
+        "obfuscation-id": 23, 
+        "original": "\n\n\n     Methinks I met that very man and maid--\n     A maiden with such wondrous dove-like eyes,\n     I saw them near this place, all tired and worn,\n     Trudging about the town, seeking an inn.", 
+        "original-end-charpos": 1798, 
+        "original-start-charpos": 1604
+    }, 
+    {
+        "obfuscation": "And did they find one ?", 
+        "obfuscation-id": 24, 
+        "original": "\n\n\n     And did they find one?", 
+        "original-end-charpos": 1828, 
+        "original-start-charpos": 1799
+    }, 
+    {
+        "obfuscation": "Nay , not so !", 
+        "obfuscation-id": 25, 
+        "original": "\n\n\n     Nay, not so!", 
+        "original-end-charpos": 1848, 
+        "original-start-charpos": 1829
+    }, 
+    {
+        "obfuscation": "For every inn was crowded to its doors .", 
+        "obfuscation-id": 26, 
+        "original": "\n\n     For every inn was crowded to its doors.", 
+        "original-end-charpos": 1894, 
+        "original-start-charpos": 1849
+    }, 
+    {
+        "obfuscation": "Hard by Deborah 's inn there is a fiddling barn , All full of cattle , oxen , cooing doves -- I showed it to them , and they went therein .", 
+        "obfuscation-id": 27, 
+        "original": "\n     Hard by Deborah's inn there is a little barn,\n  All full of cattle, oxen, cooing doves--\n     I showed it to them, and they went therein.", 
+        "original-end-charpos": 2037, 
+        "original-start-charpos": 1895
+    }, 
+    {
+        "obfuscation": "Mother , that star !", 
+        "obfuscation-id": 28, 
+        "original": "\n\n\n     Mother, that star!", 
+        "original-end-charpos": 2063, 
+        "original-start-charpos": 2038
+    }, 
+    {
+        "obfuscation": "That wondrous , wondrous light ,", 
+        "obfuscation-id": 29, 
+        "original": " That wondrous, wondrous light,\n\n\n\n\n", 
+        "original-end-charpos": 2099, 
+        "original-start-charpos": 2064
+    }
+]

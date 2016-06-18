@@ -1,0 +1,233 @@
+[
+    {
+        "obfuscation": "\ufeff Why has the degree of alcohol taking increased so much in the Spanish teenagers ?", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Why has the level of alcohol taking increased so much in the Spanish teenagers?", 
+        "original-end-charpos": 80, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Alcohol taking in Spain is on a considerable increase as regards those who are under age in our society .", 
+        "obfuscation-id": 2, 
+        "original": "  \nAlcohol taking in Spain is on a considerable increase as regards those who are under age in our society.", 
+        "original-end-charpos": 187, 
+        "original-start-charpos": 81
+    }, 
+    {
+        "obfuscation": "The present situation has become almost untenable and now the time has come to do something as both the Spanish politics and the media indicate continuously .", 
+        "obfuscation-id": 3, 
+        "original": " \nThe present situation has become almost untenable and now the time has come to do something as both the Spanish government and the media indicate continuously.", 
+        "original-end-charpos": 348, 
+        "original-start-charpos": 188
+    }, 
+    {
+        "obfuscation": "However , this is not a problem originated just a moment ago , but we should find its stems in the basis of our own Spanish society .", 
+        "obfuscation-id": 4, 
+        "original": " \nHowever, this is not a problem originated just a moment ago, but we should find its stems in the basis of our own Spanish society.", 
+        "original-end-charpos": 480, 
+        "original-start-charpos": 349
+    }, 
+    {
+        "obfuscation": "We have not realized yet what was happening very close to us .", 
+        "obfuscation-id": 5, 
+        "original": " \nWe have not realized yet what was happening very close to us.", 
+        "original-end-charpos": 543, 
+        "original-start-charpos": 481
+    }, 
+    {
+        "obfuscation": "nowadays that the level of alcohol taking is without any doubt alarming , it would be reasonable to pick out some possible causes for this problem .", 
+        "obfuscation-id": 6, 
+        "original": " \nNow that the level of alcohol taking is without any doubt alarming, it would be reasonable to pick out some possible causes for this problem.", 
+        "original-end-charpos": 686, 
+        "original-start-charpos": 544
+    }, 
+    {
+        "obfuscation": "The media have suggested several causes and among them , one stands out against the rest : the government , they say , does not see neither pubs nor bars where they go on selling alcohol to the under-aged .", 
+        "obfuscation-id": 7, 
+        "original": "  \t\nThe media have suggested several causes and among them, one stands out against the rest: the government, they say, does not control neither pubs nor bars where they go on selling alcohol to the under-aged.", 
+        "original-end-charpos": 895, 
+        "original-start-charpos": 687
+    }, 
+    {
+        "obfuscation": "The latter truly find it easy to have a drink or two or even to get drunk for the first time in their lives .", 
+        "obfuscation-id": 8, 
+        "original": " \nThe latter really find it easy to have a drink or two or even to get drunk for the first time in their lives.", 
+        "original-end-charpos": 1006, 
+        "original-start-charpos": 896
+    }, 
+    {
+        "obfuscation": "The owners of those places entirely look after their own interests and above all , they look after their economy .", 
+        "obfuscation-id": 9, 
+        "original": " \nThe owners of those places only look after their own interests and above all, they look after their economy.", 
+        "original-end-charpos": 1116, 
+        "original-start-charpos": 1007
+    }, 
+    {
+        "obfuscation": "They would credibly complain that they do not win enough money to pay everything they must pay as they are fully endowed with taxes .", 
+        "obfuscation-id": 10, 
+        "original": " \nThey would probably complain that they do not win enough money to pay everything they must pay as they are fully endowed with taxes.", 
+        "original-end-charpos": 1250, 
+        "original-start-charpos": 1117
+    }, 
+    {
+        "obfuscation": "This is what many journalists in Spain have upheld in their articles .", 
+        "obfuscation-id": 11, 
+        "original": " \nThis is what many journalists in Spain have upheld in their articles.", 
+        "original-end-charpos": 1321, 
+        "original-start-charpos": 1251
+    }, 
+    {
+        "obfuscation": "Another reason that the media in Spain have also revealed as possible and that has been this time corroborated by those children ' s parents is that of the more than probable unconcern the latter experience with regard to their children 's education , habits and manners .", 
+        "obfuscation-id": 12, 
+        "original": "  \t\nAnother reason that the media in Spain have also revealed as possible and that has been this time corroborated by those children' s parents is that of the more than probable unconcern the latter have with regard to their children's education, habits and manners.", 
+        "original-end-charpos": 1587, 
+        "original-start-charpos": 1322
+    }, 
+    {
+        "obfuscation": "Many of the problems originated at home create sealed confusions in the mentality of the affected ones , who really feel demoralized and find a refuge in the end .", 
+        "obfuscation-id": 13, 
+        "original": " \nMany of the problems originated at home create certain confusions in the mentality of the affected ones, who really feel demoralized and find a refuge in the end.", 
+        "original-end-charpos": 1751, 
+        "original-start-charpos": 1588
+    }, 
+    {
+        "obfuscation": "This refuge is obviously alcohol .", 
+        "obfuscation-id": 14, 
+        "original": " \nThis refuge is obviously alcohol.", 
+        "original-end-charpos": 1786, 
+        "original-start-charpos": 1752
+    }, 
+    {
+        "obfuscation": "Those parents do not realize that they have caused the problem beforehand and very often , ironically , they quit from their own blames and even say that they find it almost impossible to get their children under control all the time .", 
+        "obfuscation-id": 15, 
+        "original": " \nThose parents do not realize that they have caused the problem beforehand and very often, ironically, they quit from their own blames and even say that they find it almost impossible to have their children under control all the time.", 
+        "original-end-charpos": 2021, 
+        "original-start-charpos": 1787
+    }, 
+    {
+        "obfuscation": "The reason , they say , is that you can never know what your child is doing outside home and thus , whatever moment you can say : `` He ' s made me ! ''", 
+        "obfuscation-id": 16, 
+        "original": " \nThe reason, they say, is that you can never know what your child is doing outside home and thus, whatever moment you can say: \"He' s done me!\"", 
+        "original-end-charpos": 2165, 
+        "original-start-charpos": 2022
+    }, 
+    {
+        "obfuscation": "Still many sociologists argue that it is about time to raise the conscience of the parents for a greater control of their children .", 
+        "obfuscation-id": 17, 
+        "original": " \nStill many sociologists indicate that it is about time to raise the conscience of the parents for a greater control of their children.", 
+        "original-end-charpos": 2301, 
+        "original-start-charpos": 2166
+    }, 
+    {
+        "obfuscation": "However , the main cause for this increase is , from my point of view , the desire to imitate , the desire to get a new experience ( the first drunkenness ) , because they can see it everywhere and would like to feel as the grown-ups do .", 
+        "obfuscation-id": 18, 
+        "original": "  \t\nHowever, the main cause for this increase is, from my point of view, the desire to imitate, the desire to have a new experience (the first drunkenness), because they can see it everywhere and would like to feel as the grown-ups do.", 
+        "original-end-charpos": 2536, 
+        "original-start-charpos": 2302
+    }, 
+    {
+        "obfuscation": "They want to feel superior to the rest of the people and therefore , not being limited any more .", 
+        "obfuscation-id": 19, 
+        "original": " \nThey want to feel superior to the rest of the people and thus, not being limited any more.", 
+        "original-end-charpos": 2628, 
+        "original-start-charpos": 2537
+    }, 
+    {
+        "obfuscation": "This remarkable desire for freedom is due to : the presence of a company completely based on alcohol , the development of advertising campaigns concerning alcohol and again , the little consideration of the family towards their children .", 
+        "obfuscation-id": 20, 
+        "original": " \nThis remarkable desire for freedom is due to: the presence of a society completely based on alcohol, the development of advertising campaigns concerning alcohol and again, the little consideration of the family towards their children.", 
+        "original-end-charpos": 2864, 
+        "original-start-charpos": 2629
+    }, 
+    {
+        "obfuscation": "beginning , just investigating in the past times of the Spanish society , we can find that it has always been eminently related to alcohol .", 
+        "obfuscation-id": 21, 
+        "original": "  \t\nFirst, just investigating in the past times of the Spanish society, we can find that it has always been eminently related to alcohol.", 
+        "original-end-charpos": 3001, 
+        "original-start-charpos": 2865
+    }, 
+    {
+        "obfuscation": "Spain has always tended to have people who really like to get a good wine or a beer in a pub all nights or even our past banquets were full of wine and some other drinks .", 
+        "obfuscation-id": 22, 
+        "original": " \nSpain has always tended to have people who really like to have a good wine or a beer in a pub all nights or even our past banquets were full of wine and some other drinks.", 
+        "original-end-charpos": 3174, 
+        "original-start-charpos": 3002
+    }, 
+    {
+        "obfuscation": "If we asked our parents what did they usually do when they were young , if they did the like or not , they would probably answer like this : `` Ok , Yes but not so young as it happens now .", 
+        "obfuscation-id": 23, 
+        "original": " \nIf we asked our parents what did they usually do when they were young, if they did the same or not, they would probably answer like this: \"Ok, Yes but not so young as it happens now.", 
+        "original-end-charpos": 3358, 
+        "original-start-charpos": 3175
+    }, 
+    {
+        "obfuscation": "In fact , we were more innocent people . ''", 
+        "obfuscation-id": 24, 
+        "original": " \nIn fact, we were more innocent people.\"", 
+        "original-end-charpos": 3399, 
+        "original-start-charpos": 3359
+    }, 
+    {
+        "obfuscation": "Below this historic assumption , well -known by the tourists and foreigners in Spain , that urge for imitation and superiority is very well hidden in it .", 
+        "obfuscation-id": 25, 
+        "original": " \nBelow this historic assumption, well -known by the tourists and foreigners in Spain, that urge for imitation and superiority is very well hidden in it.", 
+        "original-end-charpos": 3552, 
+        "original-start-charpos": 3400
+    }, 
+    {
+        "obfuscation": "Secondly , the development of advertising campaigns on the TV which include alcohol in their sales , contribute to strengthen this trouble even more .", 
+        "obfuscation-id": 26, 
+        "original": "   \nSecondly, the development of advertising campaigns on the TV which include alcohol in their sales, contribute to strengthen this problem even more.", 
+        "original-end-charpos": 3703, 
+        "original-start-charpos": 3553
+    }, 
+    {
+        "obfuscation": "As many sociologists state , when that child sits on the sofa and watches the ads on the TV , that desire for knowing the taste of what has just been shown on the TV is really created in him .", 
+        "obfuscation-id": 27, 
+        "original": " \nAs many sociologists say, when that child sits on the sofa and watches the ads on the TV, that desire for knowing the taste of what has just been shown on the TV is really created in him.", 
+        "original-end-charpos": 3892, 
+        "original-start-charpos": 3704
+    }, 
+    {
+        "obfuscation": "Perhaps , he has already seen his parents do that before .", 
+        "obfuscation-id": 28, 
+        "original": " \nPerhaps, he has already seen his parents do that before.", 
+        "original-end-charpos": 3950, 
+        "original-start-charpos": 3893
+    }, 
+    {
+        "obfuscation": "As a result of this , everything goes back again to that estimate of the unconcern of the parents who do not know how to give their children a good education and bring it to a successful conclusion .", 
+        "obfuscation-id": 29, 
+        "original": " \nAs a result of this, everything goes back again to that idea of the unconcern of the parents who do not know how to give their children a good education and bring it to a successful conclusion.", 
+        "original-end-charpos": 4145, 
+        "original-start-charpos": 3951
+    }, 
+    {
+        "obfuscation": "A few solutions are of course needed , but nowadays it is not the time to look for them .", 
+        "obfuscation-id": 30, 
+        "original": " \nA few solutions are of course needed, but now it is not the time to look for them.", 
+        "original-end-charpos": 4229, 
+        "original-start-charpos": 4146
+    }, 
+    {
+        "obfuscation": "Maybe some special campaigns too should be made to help those parents !", 
+        "obfuscation-id": 31, 
+        "original": " \nMaybe some special campaigns too should be done to help those parents!", 
+        "original-end-charpos": 4301, 
+        "original-start-charpos": 4230
+    }, 
+    {
+        "obfuscation": "In conclusion , as we have seen , there is an enormous increase in the number of the under-aged people in Spain drinking too much alcohol .", 
+        "obfuscation-id": 32, 
+        "original": "  \t\nIn conclusion, as we have seen, there is an enormous increase in the number of the under-aged people in Spain drinking too much alcohol.", 
+        "original-end-charpos": 4441, 
+        "original-start-charpos": 4302
+    }, 
+    {
+        "obfuscation": "It is a present problem without any sort of solution ahead , but a full study of this causes and , of course , a little bit of common sense will make the rest .", 
+        "obfuscation-id": 33, 
+        "original": " \nIt is a present problem without any sort of solution ahead, but a full study of this causes and, of course, a little bit of common sense will do the rest.\n", 
+        "original-end-charpos": 4598, 
+        "original-start-charpos": 4442
+    }
+]

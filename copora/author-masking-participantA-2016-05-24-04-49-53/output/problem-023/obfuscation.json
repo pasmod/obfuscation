@@ -1,0 +1,359 @@
+[
+    {
+        "obfuscation": "\ufeff Lily Bart- Destroyed by Society Lily Bart is a woman whose primary goals in life are marriage and money .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Lily Bart- Destroyed by Society  Lily Bart is a woman whose primary goals in life are marriage and money.", 
+        "original-end-charpos": 106, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "She has reached the age of 29 and can no longer afford to be choosy , she has to marry for money and not for love .", 
+        "obfuscation-id": 2, 
+        "original": " \nShe has reached the age of 29 and can no longer afford to be choosy, she has to marry for money and not for love.", 
+        "original-end-charpos": 221, 
+        "original-start-charpos": 107
+    }, 
+    {
+        "obfuscation": "In this essay I will discuss the reasons behind her goals and I will also look at why she fails to achieve them .", 
+        "obfuscation-id": 3, 
+        "original": " \nIn this essay I will discuss the reasons behind her goals and I will also look at why she fails to reach them.", 
+        "original-end-charpos": 333, 
+        "original-start-charpos": 222
+    }, 
+    {
+        "obfuscation": "If we want to find explanations of Lily 's behaviour we can begin by looking at the setting .", 
+        "obfuscation-id": 4, 
+        "original": "  \t\nIf we want to find explanations of Lily's behaviour we can start by looking at the setting.", 
+        "original-end-charpos": 428, 
+        "original-start-charpos": 334
+    }, 
+    {
+        "obfuscation": "The House of Mirth is put in and around New York at the beginning of the 20th century and Lily is in many ways a product of this milieu .", 
+        "obfuscation-id": 5, 
+        "original": " \nThe House of Mirth is set in and around New York at the beginning of the 20th century and Lily is in many ways a product of this milieu.", 
+        "original-end-charpos": 566, 
+        "original-start-charpos": 429
+    }, 
+    {
+        "obfuscation": "This was a time when money and prestige were very significant features and when a woman 's role was to be her husband 's most precious jewel .", 
+        "obfuscation-id": 6, 
+        "original": " \nThis was a time when money and prestige were very important features and when a woman's role was to be her husband's most precious jewel.", 
+        "original-end-charpos": 705, 
+        "original-start-charpos": 567
+    }, 
+    {
+        "obfuscation": "Lily has been brought up as an upper-class girl but when she is nineteen her family goes bankrupt and soon after she looses both her parents .", 
+        "obfuscation-id": 7, 
+        "original": " \nLily has been brought up as an upper-class girl but when she is nineteen her family goes bankrupt and soon after she looses both her parents.", 
+        "original-end-charpos": 848, 
+        "original-start-charpos": 706
+    }, 
+    {
+        "obfuscation": "The fact that she has no money of her own and consequently has to depend on allowances from her aunt does not change her way of life , but it does change her prerequisites .", 
+        "obfuscation-id": 8, 
+        "original": " \nThe fact that she has no money of her own and therefore has to depend on allowances from her aunt does not change her way of life, but it does change her prerequisites.", 
+        "original-end-charpos": 1018, 
+        "original-start-charpos": 849
+    }, 
+    {
+        "obfuscation": "In order to continue to be a part of the upper-class company she has to marry for money .", 
+        "obfuscation-id": 9, 
+        "original": " \nIn order to continue to be a part of the upper-class society she has to marry for money.", 
+        "original-end-charpos": 1108, 
+        "original-start-charpos": 1019
+    }, 
+    {
+        "obfuscation": "Her upbringing makes it impossible for her to change her habits and live simpler than she is used to , her mother has thought her that there is something heroic in living as though you are richer than you actually are .", 
+        "obfuscation-id": 10, 
+        "original": " \nHer upbringing makes it impossible for her to change her habits and live simpler than she is used to, her mother has thought her that there is something heroic in living as though you are richer than you actually are.", 
+        "original-end-charpos": 1327, 
+        "original-start-charpos": 1109
+    }, 
+    {
+        "obfuscation": "Lily 's worst fear is to be forced to `` live like a pig '' ( p 30 ) and she would rather marry someone that she does not love than to submit to the fate of the poor : She had been bored all the afternoon by Percy Gryce-the mere thought seemed to waken an echo of his droning voice-but she could not ignore him on the morrow , she had to follow up her success , must submit to more boredom , ... and all on bare chance that he might ultimately decide to make her the honour of boring her for life .", 
+        "obfuscation-id": 11, 
+        "original": " \nLily's worst fear is to be forced to \"live like a pig\" (p 30) and she would rather marry someone that she does not love than to submit to the fate of the poor:   She had been bored all the afternoon by Percy Gryce-the mere thought seemed to waken an echo of his droning voice-but she could not ignore him on the morrow, she had to follow up her success, must submit to more boredom,...and all on bare chance that he might ultimately decide to do her the honour of boring her for life.", 
+        "original-end-charpos": 1813, 
+        "original-start-charpos": 1328
+    }, 
+    {
+        "obfuscation": "It was a hateful fate-but how escape from it ?", 
+        "obfuscation-id": 12, 
+        "original": " \t\nIt was a hateful fate-but how escape from it?", 
+        "original-end-charpos": 1861, 
+        "original-start-charpos": 1814
+    }, 
+    {
+        "obfuscation": "What choice had she ?", 
+        "obfuscation-id": 13, 
+        "original": " \nWhat choice had she?", 
+        "original-end-charpos": 1883, 
+        "original-start-charpos": 1862
+    }, 
+    {
+        "obfuscation": "To be herself or a Gerty Farish ... . No ; she was not made for mean and shabby surroundings , ...", 
+        "obfuscation-id": 14, 
+        "original": " \nTo be herself or a Gerty Farish.... \nNo; she was not made for mean and shabby surroundings,...", 
+        "original-end-charpos": 1979, 
+        "original-start-charpos": 1884
+    }, 
+    {
+        "obfuscation": "Her unharmed being dilated in an atmosphere of luxury ; it was the background she required , the only climate she could breathe in .", 
+        "obfuscation-id": 15, 
+        "original": "\nHer whole being dilated in an atmosphere of luxury; it was the background she required, the only climate she could breathe in.", 
+        "original-end-charpos": 2106, 
+        "original-start-charpos": 1980
+    }, 
+    {
+        "obfuscation": "Lily spends her time amongst upper class people and sees them as an image of what she will become once she is married .", 
+        "obfuscation-id": 16, 
+        "original": "  \t \nLily spends her time amongst upper class people and sees them as an image of what she will become once she is married.", 
+        "original-end-charpos": 2229, 
+        "original-start-charpos": 2107
+    }, 
+    {
+        "obfuscation": "In their company it is important to have money and to show that you are rich through your clothes and your jewellery .", 
+        "obfuscation-id": 17, 
+        "original": " \nIn their society it is important to have money and to show that you are rich through your clothes and your jewellery.", 
+        "original-end-charpos": 2348, 
+        "original-start-charpos": 2230
+    }, 
+    {
+        "obfuscation": "At inaugural Lily longs to be as them but after a while she sees them with new eyes : `` they had symbolized what she was gaining , now they stood for what she was giving up '' ( p 53 ) .", 
+        "obfuscation-id": 18, 
+        "original": " \nAt first Lily longs to be as them but after a while she sees them with new eyes: \"they had symbolized what she was gaining, now they stood for what she was giving up\" (p 53).", 
+        "original-end-charpos": 2524, 
+        "original-start-charpos": 2349
+    }, 
+    {
+        "obfuscation": "Although Lily sometimes feels that she would be better of somewhere else , perhaps in a life with Selden , she is incapable of breaking free , incapable of a life without the luxuries she is used to .", 
+        "obfuscation-id": 19, 
+        "original": " \nAlthough Lily sometimes feels that she would be better of somewhere else, perhaps in a life with Selden, she is incapable of breaking free, incapable of a life without the luxuries she is used to.", 
+        "original-end-charpos": 2722, 
+        "original-start-charpos": 2525
+    }, 
+    {
+        "obfuscation": "She can not escape the life she has been made for .", 
+        "obfuscation-id": 20, 
+        "original": " \nShe cannot escape the life she has been created for.", 
+        "original-end-charpos": 2776, 
+        "original-start-charpos": 2723
+    }, 
+    {
+        "obfuscation": "She has no training to survive in another form of existence : Inherited tendencies had combined with early training to make her the highly specialized product she was : an organism as helpless out of its narrow range as a sea-anemone torn from the rock .", 
+        "obfuscation-id": 21, 
+        "original": " \nShe has no training to survive in another form of existence: \t Inherited tendencies had combined with early training to make her the highly specialized product she was: an organism as helpless out of its narrow range as a sea-anemone torn from the rock.", 
+        "original-end-charpos": 3031, 
+        "original-start-charpos": 2777
+    }, 
+    {
+        "obfuscation": "She had been fashioned to adorn and delight ; to what early end does nature round the rose-leaf and paint the hummingbird 's breast .", 
+        "obfuscation-id": 22, 
+        "original": " \nShe had been fashioned to adorn and delight; to what other end does nature round the rose-leaf and paint the hummingbird's breast.", 
+        "original-end-charpos": 3163, 
+        "original-start-charpos": 3032
+    }, 
+    {
+        "obfuscation": "( p 301 ) However , sometimes Lily is carried away by her emotions and when she does it upsets her plans .", 
+        "obfuscation-id": 23, 
+        "original": " (p 301) \t \tHowever, sometimes Lily is carried away by her emotions and when she does it upsets her plans.", 
+        "original-end-charpos": 3269, 
+        "original-start-charpos": 3164
+    }, 
+    {
+        "obfuscation": "At one instance her emotions leave her to take a walk with Selden instead of going to church with Percy Gryce , and during this walk Selden presents a different kind of life to her , a life with him , with independence instead of money .", 
+        "obfuscation-id": 24, 
+        "original": " \nAt one instance her emotions lead her to take a walk with Selden instead of going to church with Percy Gryce, and during this walk Selden presents a different kind of life to her, a life with him, with independence instead of money.", 
+        "original-end-charpos": 3503, 
+        "original-start-charpos": 3270
+    }, 
+    {
+        "obfuscation": "However , Lily is way to conscious and planning to get her emotions carry her away to such lengths , she still intends to marry Mr Gryce although she has more feelings for Selden .", 
+        "obfuscation-id": 25, 
+        "original": " \nHowever, Lily is way to conscious and planning to let her emotions carry her away to such lengths, she still intends to marry Mr Gryce although she has more feelings for Selden.", 
+        "original-end-charpos": 3682, 
+        "original-start-charpos": 3504
+    }, 
+    {
+        "obfuscation": "However , this incident makes Mr Gryce change his mind about Lily .", 
+        "obfuscation-id": 26, 
+        "original": " \nHowever, this incident makes Mr Gryce change his mind about Lily.", 
+        "original-end-charpos": 3749, 
+        "original-start-charpos": 3683
+    }, 
+    {
+        "obfuscation": "She has unconsciously destroyed her chances of marriage .", 
+        "obfuscation-id": 27, 
+        "original": " \nShe has unconsciously destroyed her chances of marriage.", 
+        "original-end-charpos": 3807, 
+        "original-start-charpos": 3750
+    }, 
+    {
+        "obfuscation": "Lily is tempted by the idea of a life with Selden at several occasions but always realises that `` in the world as it was , such a privilege was likely to cost more than it was worth '' ( p 88 ) .", 
+        "obfuscation-id": 28, 
+        "original": " \nLily is tempted by the thought of a life with Selden at several occasions but always realises that \"in the world as it was, such a privilege was likely to cost more than it was worth\" (p 88).", 
+        "original-end-charpos": 4000, 
+        "original-start-charpos": 3808
+    }, 
+    {
+        "obfuscation": "Lily 's problem is that she is neither controlled by her emotions nor able to completely resist them .", 
+        "obfuscation-id": 29, 
+        "original": " \nLily's problem is that she is neither controlled by her emotions nor able to completely resist them.", 
+        "original-end-charpos": 4102, 
+        "original-start-charpos": 4001
+    }, 
+    {
+        "obfuscation": "She lets herself be carried away by them at the worst potential times and this has more than once destroyed her chances of marriage .", 
+        "obfuscation-id": 30, 
+        "original": " \nShe lets herself be carried away by them at the worst possible times and this has more than once destroyed her chances of marriage.", 
+        "original-end-charpos": 4235, 
+        "original-start-charpos": 4103
+    }, 
+    {
+        "obfuscation": "Maybe she does this because , as Mrs Fisher suggests , `` at heart , she despises the things she 's testing for . ''", 
+        "obfuscation-id": 31, 
+        "original": " \nMaybe she does this because, as Mrs Fisher suggests, \"at heart, she despises the things she's trying for.\"", 
+        "original-end-charpos": 4343, 
+        "original-start-charpos": 4236
+    }, 
+    {
+        "obfuscation": "This is an interesting and potential thought .", 
+        "obfuscation-id": 32, 
+        "original": " \nThis is an interesting and possible thought.", 
+        "original-end-charpos": 4389, 
+        "original-start-charpos": 4344
+    }, 
+    {
+        "obfuscation": "Deep inside Lily wants something else but she does not have the strength to consciously break free so she does it unconsciously , hoping that something better will present itself to her .", 
+        "obfuscation-id": 33, 
+        "original": " \nDeep inside Lily wants something else but she does not have the strength to consciously break free so she does it unconsciously, hoping that something better will present itself to her.", 
+        "original-end-charpos": 4576, 
+        "original-start-charpos": 4390
+    }, 
+    {
+        "obfuscation": "Selden , who represents this other kind of life , works to trigger her emotions and to make her see the company she keeps in another light .", 
+        "obfuscation-id": 34, 
+        "original": "  \t \nSelden, who represents this other kind of life, works to trigger her emotions and to make her see the society she keeps in another light.", 
+        "original-end-charpos": 4718, 
+        "original-start-charpos": 4577
+    }, 
+    {
+        "obfuscation": "He works as a contrast to Percy Gryce and as a window out of her secluded circle .", 
+        "obfuscation-id": 35, 
+        "original": " \nHe works as a contrast to Percy Gryce and as a window out of her secluded circle.", 
+        "original-end-charpos": 4801, 
+        "original-start-charpos": 4719
+    }, 
+    {
+        "obfuscation": "The things that Selden states have a great impact on Lily , but not because she loves him or because of the fact that he is a man but because he strikes a nerve in her .", 
+        "obfuscation-id": 36, 
+        "original": " \nThe things that Selden says have a great impact on Lily, but not because she loves him or because of the fact that he is a man but because he strikes a nerve in her.", 
+        "original-end-charpos": 4968, 
+        "original-start-charpos": 4802
+    }, 
+    {
+        "obfuscation": "Lily is the kind of woman that makes her own decisions ; she is not controlled by men and has never had any potent male role models .", 
+        "obfuscation-id": 37, 
+        "original": " \nLily is the kind of woman that makes her own decisions; she is not controlled by men and has never had any strong male role models.", 
+        "original-end-charpos": 5101, 
+        "original-start-charpos": 4969
+    }, 
+    {
+        "obfuscation": "Her father was very smothered by her mother , in fact all the married men in The House of Mirth seem to be more or less ruled by their wives .", 
+        "obfuscation-id": 38, 
+        "original": " \nHer father was very suppressed by her mother, in fact all the married men in The House of Mirth seem to be more or less ruled by their wives.", 
+        "original-end-charpos": 5244, 
+        "original-start-charpos": 5102
+    }, 
+    {
+        "obfuscation": "In my view , Lily sees men as something necessary , a provider of money and status , but nothing more .", 
+        "obfuscation-id": 39, 
+        "original": " \nIn my view, Lily sees men as something necessary, a provider of money and status, but nothing more.", 
+        "original-end-charpos": 5345, 
+        "original-start-charpos": 5245
+    }, 
+    {
+        "obfuscation": "The alone man that has control over her is Gus Trenor during the period when she owes him money otherwise the men rather seem to be under her control .", 
+        "obfuscation-id": 40, 
+        "original": " \nThe only man that has control over her is Gus Trenor during the period when she owes him money otherwise the men rather seem to be under her control.", 
+        "original-end-charpos": 5496, 
+        "original-start-charpos": 5346
+    }, 
+    {
+        "obfuscation": "However , she lives in a world ruled by men , where women should be beautiful and decorative and this affects everything she is .", 
+        "obfuscation-id": 41, 
+        "original": " \nHowever, she lives in a world ruled by men, where women should be beautiful and decorative and this affects everything she is.", 
+        "original-end-charpos": 5624, 
+        "original-start-charpos": 5497
+    }, 
+    {
+        "obfuscation": "She has been brought up to please men in order to get married because there is no early solution to live respectably .", 
+        "obfuscation-id": 42, 
+        "original": " \nShe has been brought up to please men in order to get married because there is no other solution to live respectably.", 
+        "original-end-charpos": 5743, 
+        "original-start-charpos": 5625
+    }, 
+    {
+        "obfuscation": "Furthermore , the fact that she can not speculate with her own money makes her loose control over her debt to Mr Trenor .", 
+        "obfuscation-id": 43, 
+        "original": " \nFurthermore, the fact that she cannot speculate with her own money makes her loose control over her debt to Mr Trenor.", 
+        "original-end-charpos": 5863, 
+        "original-start-charpos": 5744
+    }, 
+    {
+        "obfuscation": "In my opinion Lily is a woman that controls her own life .", 
+        "obfuscation-id": 44, 
+        "original": " \t\nIn my opinion Lily is a woman that controls her own life.", 
+        "original-end-charpos": 5923, 
+        "original-start-charpos": 5864
+    }, 
+    {
+        "obfuscation": "She is very conscious of what she does and what she wants ; everything she does is part of a bigger plan .", 
+        "obfuscation-id": 45, 
+        "original": " \nShe is very conscious of what she does and what she wants; everything she does is part of a bigger plan.", 
+        "original-end-charpos": 6029, 
+        "original-start-charpos": 5924
+    }, 
+    {
+        "obfuscation": "However , she is what she is because of her upbringing , the time in which she lives and the company which she is part of .", 
+        "obfuscation-id": 46, 
+        "original": " \nHowever, she is what she is because of her upbringing, the time in which she lives and the society which she is part of.", 
+        "original-end-charpos": 6151, 
+        "original-start-charpos": 6030
+    }, 
+    {
+        "obfuscation": "She has been taught that money and beauty are the most significant things in life and that her role in life is to be ornamental .", 
+        "obfuscation-id": 47, 
+        "original": " \nShe has been taught that money and beauty are the most important things in life and that her role in life is to be ornamental.", 
+        "original-end-charpos": 6279, 
+        "original-start-charpos": 6152
+    }, 
+    {
+        "obfuscation": "The trouble is that she , somewhere deep inside , longs for something else , another kind of life .", 
+        "obfuscation-id": 48, 
+        "original": " \nThe problem is that she, somewhere deep inside, longs for something else, another kind of life.", 
+        "original-end-charpos": 6376, 
+        "original-start-charpos": 6280
+    }, 
+    {
+        "obfuscation": "When she looses her self-control and lets her emotions carry her away , even if entirely for a moment , she unconsciously upset her own plans .", 
+        "obfuscation-id": 49, 
+        "original": " \nWhen she looses her self-control and lets her emotions carry her away, even if only for a moment, she unconsciously upset her own plans.", 
+        "original-end-charpos": 6514, 
+        "original-start-charpos": 6377
+    }, 
+    {
+        "obfuscation": "She does it when she takes the walk with Selden , that I have mentioned earlier and when she borrows money from Mr Trenor that is also a decision made on an impulse .", 
+        "obfuscation-id": 50, 
+        "original": " \nShe does it when she takes the walk with Selden, that I have mentioned earlier and when she borrows money from Mr Trenor that is also a decision made on an impulse.", 
+        "original-end-charpos": 6680, 
+        "original-start-charpos": 6515
+    }, 
+    {
+        "obfuscation": "It is those impulsive emotion based decisions that make her fail in reaching her goals and finally destroys her but above all she is a victim of the corrupted company which she is part of .", 
+        "obfuscation-id": 51, 
+        "original": " \nIt is those impulsive emotion based decisions that make her fail in reaching her goals and finally destroys her but above all she is a victim of the corrupted society which she is part of.\n", 
+        "original-end-charpos": 6871, 
+        "original-start-charpos": 6681
+    }
+]

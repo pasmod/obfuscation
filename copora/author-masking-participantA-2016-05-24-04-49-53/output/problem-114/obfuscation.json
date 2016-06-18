@@ -1,0 +1,352 @@
+[
+    {
+        "obfuscation": "\ufeffOrdinarily , one would n't think of the Dreamers ' Inn as a mausoleum any more than one would think of the Golden Goose restaurant as a crypt .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffOrdinarily, one wouldn't think of the Dreamers' Inn as a mausoleum any more than one would think of the Golden Goose restaurant as a crypt.", 
+        "original-end-charpos": 139, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Journeymen who are just passing through Leight , and rooming at the Inn as a matter of convenience , will see nothing amiss .", 
+        "obfuscation-id": 2, 
+        "original": " Journeymen who are just passing through Leight, and rooming at the Inn as a matter of convenience, will see nothing amiss.", 
+        "original-end-charpos": 262, 
+        "original-start-charpos": 140
+    }, 
+    {
+        "obfuscation": "There are a few splintering floorboards here , and a couple of sagging roof beams there , but these things are only natural for a lodging family that 's stood for more than two centuries .", 
+        "obfuscation-id": 3, 
+        "original": " There are a few splintering floorboards here, and a couple of sagging roof beams there, but these things are only natural for a lodging house that's stood for more than two centuries.", 
+        "original-end-charpos": 446, 
+        "original-start-charpos": 263
+    }, 
+    {
+        "obfuscation": "I , however , with my wary eyes and cautious steps , notice more ominous flaws : the dry rot in the walls , for instance , and the stairs that are almost murderously steep .", 
+        "obfuscation-id": 4, 
+        "original": " I, however, with my wary eyes and cautious steps, notice more ominous flaws: the dry rot in the walls, for instance, and the stairs that are almost murderously steep.", 
+        "original-end-charpos": 613, 
+        "original-start-charpos": 447
+    }, 
+    {
+        "obfuscation": "How on Earth does Monsieur Th\u00e8nard keep the Inn exposed despite its decay and stale air ?", 
+        "obfuscation-id": 5, 
+        "original": " How on Earth does Monsieur Th\u00e8nard keep the Inn open despite its decay and stale air?", 
+        "original-end-charpos": 699, 
+        "original-start-charpos": 614
+    }, 
+    {
+        "obfuscation": "Perhaps he himself has had a part in spreading rumors about it , challenging brave visitors to spend the entire night in a haunted hotel .", 
+        "obfuscation-id": 6, 
+        "original": " Perhaps he himself has had a part in spreading rumors about it, challenging brave visitors to spend the entire night in a haunted hotel.", 
+        "original-end-charpos": 836, 
+        "original-start-charpos": 700
+    }, 
+    {
+        "obfuscation": "Then again , maybe it all boils down to the Inn being the about immediate place for a night 's slumber .", 
+        "obfuscation-id": 7, 
+        "original": "\nThen again, maybe it all boils down to the Inn being the most immediate place for a night's slumber.", 
+        "original-end-charpos": 937, 
+        "original-start-charpos": 837
+    }, 
+    {
+        "obfuscation": "When one is tired and hungry , weary from sitting in a carriage or on horseback , then why not stay here ?", 
+        "obfuscation-id": 8, 
+        "original": " When one is tired and hungry, weary from sitting in a carriage or on horseback, then why not stay here?", 
+        "original-end-charpos": 1041, 
+        "original-start-charpos": 938
+    }, 
+    {
+        "obfuscation": "'' Good evening , Mademoiselle Dawson , '' announces an oily part .", 
+        "obfuscation-id": 9, 
+        "original": "\n\"Good evening, Mademoiselle Dawson,\" announces an oily voice.", 
+        "original-end-charpos": 1103, 
+        "original-start-charpos": 1042
+    }, 
+    {
+        "obfuscation": "`` Welcome to the Dreamers ' Inn . ''", 
+        "obfuscation-id": 10, 
+        "original": " \"Welcome to the Dreamers' Inn.\"", 
+        "original-end-charpos": 1135, 
+        "original-start-charpos": 1104
+    }, 
+    {
+        "obfuscation": "My spine stiffens .", 
+        "obfuscation-id": 11, 
+        "original": "\nMy spine stiffens.", 
+        "original-end-charpos": 1154, 
+        "original-start-charpos": 1136
+    }, 
+    {
+        "obfuscation": "If this place is a tomb , then Monsieur Th\u00e8nard is the shifty undertaker who 'd give you your six feet of earth once you had passed , then dig you up if your relatives could n't pay the maintenance fees .", 
+        "obfuscation-id": 12, 
+        "original": " If this place is a tomb, then Monsieur Th\u00e8nard is the shifty undertaker who'd give you your six feet of earth once you had passed, then dig you up if your relatives couldn't pay the maintenance fees.", 
+        "original-end-charpos": 1354, 
+        "original-start-charpos": 1155
+    }, 
+    {
+        "obfuscation": "His smile resembles a scythe 's blade : the one that Death wields , and with which he harvests you .", 
+        "obfuscation-id": 13, 
+        "original": " His smile resembles a scythe's blade: the one that Death wields, and with which he harvests you.", 
+        "original-end-charpos": 1451, 
+        "original-start-charpos": 1355
+    }, 
+    {
+        "obfuscation": "'' Good evening to you besides , Monsieur Th\u00e8nard , '' I tell him as civilly as I can .", 
+        "obfuscation-id": 14, 
+        "original": "\n\"Good evening to you too, Monsieur Th\u00e8nard,\" I tell him as civilly as I can.", 
+        "original-end-charpos": 1528, 
+        "original-start-charpos": 1452
+    }, 
+    {
+        "obfuscation": "`` I 'd like to rent a room , please . ''", 
+        "obfuscation-id": 15, 
+        "original": " \"I'd like to rent a room, please.\"", 
+        "original-end-charpos": 1563, 
+        "original-start-charpos": 1529
+    }, 
+    {
+        "obfuscation": "'' Certainly . ''", 
+        "obfuscation-id": 16, 
+        "original": "\n\"Certainly.\"", 
+        "original-end-charpos": 1576, 
+        "original-start-charpos": 1564
+    }, 
+    {
+        "obfuscation": "He pauses .", 
+        "obfuscation-id": 17, 
+        "original": " He pauses.", 
+        "original-end-charpos": 1587, 
+        "original-start-charpos": 1577
+    }, 
+    {
+        "obfuscation": "`` I am surprised to see you here .", 
+        "obfuscation-id": 18, 
+        "original": " \"I am surprised to see you here.", 
+        "original-end-charpos": 1620, 
+        "original-start-charpos": 1588
+    }, 
+    {
+        "obfuscation": "Can you not stay at your father 's house for free ? ''", 
+        "obfuscation-id": 19, 
+        "original": " Can you not stay at your father's house for free?\"", 
+        "original-end-charpos": 1671, 
+        "original-start-charpos": 1621
+    }, 
+    {
+        "obfuscation": "'' Of course , but I get my reasons .", 
+        "obfuscation-id": 20, 
+        "original": "\n\"Of course, but I have my reasons.", 
+        "original-end-charpos": 1706, 
+        "original-start-charpos": 1672
+    }, 
+    {
+        "obfuscation": "If you must know , I 'm on an errand to quell all the rumors about this hotel .", 
+        "obfuscation-id": 21, 
+        "original": " If you must know, I'm on an errand to quell all the rumors about this hotel.", 
+        "original-end-charpos": 1783, 
+        "original-start-charpos": 1707
+    }, 
+    {
+        "obfuscation": "You and I could both stand to get more revenue coming from it , after all .", 
+        "obfuscation-id": 22, 
+        "original": " You and I could both stand to have more revenue coming from it, after all.", 
+        "original-end-charpos": 1858, 
+        "original-start-charpos": 1784
+    }, 
+    {
+        "obfuscation": "What better way to do that than to put vicious village talk to rest ?", 
+        "obfuscation-id": 23, 
+        "original": " What better way to do that than to put vicious village talk to rest?", 
+        "original-end-charpos": 1927, 
+        "original-start-charpos": 1859
+    }, 
+    {
+        "obfuscation": "You know what the people say : it 's haunted , and not by your ordinary ghosts .", 
+        "obfuscation-id": 24, 
+        "original": " You know what the people say: it's haunted, and not by your ordinary ghosts.", 
+        "original-end-charpos": 2004, 
+        "original-start-charpos": 1928
+    }, 
+    {
+        "obfuscation": "They also claim that certain people , once they lie down to sleep here , never awaken .", 
+        "obfuscation-id": 25, 
+        "original": " They also claim that certain people, once they lie down to sleep here, never awaken.", 
+        "original-end-charpos": 2089, 
+        "original-start-charpos": 2005
+    }, 
+    {
+        "obfuscation": "Pah !", 
+        "obfuscation-id": 26, 
+        "original": " Pah!", 
+        "original-end-charpos": 2094, 
+        "original-start-charpos": 2090
+    }, 
+    {
+        "obfuscation": "If someone wakes up dead , pardon the silly expression , then their heart failed during the night , or they perished from some other natural cause .", 
+        "obfuscation-id": 27, 
+        "original": " If someone wakes up dead, pardon the silly expression, then their heart failed during the night, or they perished from some other natural cause.", 
+        "original-end-charpos": 2239, 
+        "original-start-charpos": 2095
+    }, 
+    {
+        "obfuscation": "No devilry is here , and I 'm away to prove it once and for all . ''", 
+        "obfuscation-id": 28, 
+        "original": " No devilry is here, and I'm out to prove it once and for all.\"", 
+        "original-end-charpos": 2302, 
+        "original-start-charpos": 2240
+    }, 
+    {
+        "obfuscation": "'' Mais oui , '' he says , grinning .", 
+        "obfuscation-id": 29, 
+        "original": "\n\"Mais oui,\" he says, grinning.", 
+        "original-end-charpos": 2333, 
+        "original-start-charpos": 2303
+    }, 
+    {
+        "obfuscation": "`` We two know that , but how are you going to convince the rest of Leight ? ''", 
+        "obfuscation-id": 30, 
+        "original": " \"We two know that, but how are you going to convince the rest of Leight?\"", 
+        "original-end-charpos": 2407, 
+        "original-start-charpos": 2334
+    }, 
+    {
+        "obfuscation": "'' I intend to spend three consecutive nights here , not just one , and come away none the worse for wear .", 
+        "obfuscation-id": 31, 
+        "original": "\n\"I intend to spend three consecutive nights here, not just one, and come out none the worse for wear.", 
+        "original-end-charpos": 2509, 
+        "original-start-charpos": 2408
+    }, 
+    {
+        "obfuscation": "I know that the people here typically do n't listen to a godless spinster .", 
+        "obfuscation-id": 32, 
+        "original": " I know that the people here typically don't listen to a godless spinster.", 
+        "original-end-charpos": 2583, 
+        "original-start-charpos": 2510
+    }, 
+    {
+        "obfuscation": "However , if I tell them that there 's nothing to fear at the Dreamers ' Inn - save a few usual nightmares from sleeping in a strange place - perhaps they will take heed , and state their traveling friends and relatives to pay this establishment a visit . ''", 
+        "obfuscation-id": 33, 
+        "original": " However, if I tell them that there's nothing to fear at the Dreamers' Inn - save a few usual nightmares from sleeping in a strange place - perhaps they will take heed, and tell their traveling friends and relatives to pay this establishment a visit.\"", 
+        "original-end-charpos": 2834, 
+        "original-start-charpos": 2584
+    }, 
+    {
+        "obfuscation": "'' A splendid plan , '' Th\u00e8nard replies .", 
+        "obfuscation-id": 34, 
+        "original": "\n\"A splendid plan,\" Th\u00e8nard replies.", 
+        "original-end-charpos": 2870, 
+        "original-start-charpos": 2835
+    }, 
+    {
+        "obfuscation": "`` I hope it works , and here is the cost of three nights ' lodging . ''", 
+        "obfuscation-id": 35, 
+        "original": " \"I hope it works, and here is the cost of three nights' lodging.\"", 
+        "original-end-charpos": 2936, 
+        "original-start-charpos": 2871
+    }, 
+    {
+        "obfuscation": "When he reveals it , I flinch .", 
+        "obfuscation-id": 36, 
+        "original": " When he reveals it, I wince.", 
+        "original-end-charpos": 2965, 
+        "original-start-charpos": 2937
+    }, 
+    {
+        "obfuscation": "It 's not exorbitant , meaning that I can still afford it , but barely .", 
+        "obfuscation-id": 37, 
+        "original": " It's not exorbitant, meaning that I can still afford it, but barely.", 
+        "original-end-charpos": 3034, 
+        "original-start-charpos": 2966
+    }, 
+    {
+        "obfuscation": "With Theodora receiving her month 's wages yesterday , plus my paying an ample bill of goods from the grocer , I 'll be spent away by the end of my stay .", 
+        "obfuscation-id": 38, 
+        "original": " With Theodora receiving her month's wages yesterday, plus my paying an ample bill of goods from the grocer, I'll be spent out by the end of my stay.", 
+        "original-end-charpos": 3183, 
+        "original-start-charpos": 3035
+    }, 
+    {
+        "obfuscation": "I 'm glad that it 's about the end of October : Hallowe'en will arrive in exactly three days .", 
+        "obfuscation-id": 39, 
+        "original": " I'm glad that it's almost the end of October: Hallowe'en will arrive in exactly three days.", 
+        "original-end-charpos": 3275, 
+        "original-start-charpos": 3184
+    }, 
+    {
+        "obfuscation": "Once it 's November , my monthly pension allowance will be full again , and I can start all all over .", 
+        "obfuscation-id": 40, 
+        "original": " Once it's November, my monthly pension allowance will be full again, and I can start all over.", 
+        "original-end-charpos": 3370, 
+        "original-start-charpos": 3276
+    }, 
+    {
+        "obfuscation": "Still , I feel like a fool .", 
+        "obfuscation-id": 41, 
+        "original": "\nStill, I feel like a fool.", 
+        "original-end-charpos": 3397, 
+        "original-start-charpos": 3371
+    }, 
+    {
+        "obfuscation": "Truly , is there any 'starting all over ' when one keeps going round in the same circle ?", 
+        "obfuscation-id": 42, 
+        "original": " Truly, is there any 'starting over' when one keeps going round in the same circle?", 
+        "original-end-charpos": 3480, 
+        "original-start-charpos": 3398
+    }, 
+    {
+        "obfuscation": "'' Mademoiselle ? ''", 
+        "obfuscation-id": 43, 
+        "original": "\n\"Mademoiselle?\"", 
+        "original-end-charpos": 3496, 
+        "original-start-charpos": 3481
+    }, 
+    {
+        "obfuscation": "Startled out of my reverie , I pay him .", 
+        "obfuscation-id": 44, 
+        "original": " \nStartled out of my reverie, I pay him.", 
+        "original-end-charpos": 3536, 
+        "original-start-charpos": 3497
+    }, 
+    {
+        "obfuscation": "`` Agathe is still serving food in the kitchen , '' Th\u00e8nard tells me , referring to his wizened maid-of-all-work .", 
+        "obfuscation-id": 45, 
+        "original": " \"Agathe is still serving food in the kitchen,\" Th\u00e8nard tells me, referring to his wizened maid-of-all-work.", 
+        "original-end-charpos": 3644, 
+        "original-start-charpos": 3537
+    }, 
+    {
+        "obfuscation": "`` There are n't enough guests for her to have served dinner in the dining room , so I 'm glad you 've come . ''", 
+        "obfuscation-id": 46, 
+        "original": " \"There aren't enough guests for her to have served dinner in the dining room, so I'm glad you've come.\"", 
+        "original-end-charpos": 3748, 
+        "original-start-charpos": 3645
+    }, 
+    {
+        "obfuscation": "All of a sudden , he leans forward and winks at me .", 
+        "obfuscation-id": 47, 
+        "original": " All of a sudden, he leans forward and winks at me.", 
+        "original-end-charpos": 3799, 
+        "original-start-charpos": 3749
+    }, 
+    {
+        "obfuscation": "`` Should you require company upstairs\u2026 '' '' Give me my key , and I 'll be off . ''", 
+        "obfuscation-id": 48, 
+        "original": " \"Should you require company upstairs\u2026\"\n\"Give me my key, and I'll be off.\"", 
+        "original-end-charpos": 3873, 
+        "original-start-charpos": 3800
+    }, 
+    {
+        "obfuscation": "He opens a drawer behind his porter 's desk and hands it all over , smirking .", 
+        "obfuscation-id": 49, 
+        "original": "\nHe opens a drawer behind his porter's desk and hands it over, smirking.", 
+        "original-end-charpos": 3945, 
+        "original-start-charpos": 3874
+    }, 
+    {
+        "obfuscation": "`` Room two , second floor . ''", 
+        "obfuscation-id": 50, 
+        "original": " \"Room two, second floor.\"", 
+        "original-end-charpos": 3971, 
+        "original-start-charpos": 3946
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "obfuscation": "Do n't be alarmed -- it 's not serious .", 
+        "obfuscation-id": 1, 
+        "original": "                        \nDon't be alarmed--it's not serious.", 
+        "original-end-charpos": 59, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "It is arranged that , until it is decided which of us two is the actual King , we are to act as one person .", 
+        "obfuscation-id": 2, 
+        "original": "  It is arranged\n  that, until it is decided which of us two is the actual King, we\n  are to act as one person.", 
+        "original-end-charpos": 170, 
+        "original-start-charpos": 60
+    }, 
+    {
+        "obfuscation": "Exactly .", 
+        "obfuscation-id": 3, 
+        "original": "\n\nExactly.", 
+        "original-end-charpos": 180, 
+        "original-start-charpos": 171
+    }, 
+    {
+        "obfuscation": "Now , although we act as one person , we are , in point of fact , two persons .", 
+        "obfuscation-id": 4, 
+        "original": "\n\nNow, although we act as one person, we are, in point of fact, two persons.", 
+        "original-end-charpos": 256, 
+        "original-start-charpos": 181
+    }, 
+    {
+        "obfuscation": "Ah , I do n't think we can go into that .", 
+        "obfuscation-id": 5, 
+        "original": "\n\nAh, I don't think we can go into that.", 
+        "original-end-charpos": 296, 
+        "original-start-charpos": 257
+    }, 
+    {
+        "obfuscation": "It is a legal fiction , and legal fictions are solemn things .", 
+        "obfuscation-id": 6, 
+        "original": "  It is a\n  legal fiction, and legal fictions are solemn things.", 
+        "original-end-charpos": 360, 
+        "original-start-charpos": 297
+    }, 
+    {
+        "obfuscation": "Situated as we are , we ca n't recognize two independent responsibilities .", 
+        "obfuscation-id": 7, 
+        "original": "  Situated as\n  we are, we can't recognize two independent responsibilities.", 
+        "original-end-charpos": 436, 
+        "original-start-charpos": 361
+    }, 
+    {
+        "obfuscation": "No ; but you can recognize two independent appetites .", 
+        "obfuscation-id": 8, 
+        "original": "\n\n No; but you can recognize two independent appetites.", 
+        "original-end-charpos": 491, 
+        "original-start-charpos": 437
+    }, 
+    {
+        "obfuscation": "It 's all very well to say we act as one person , but when you supply us with entirely one ration between us , I should describe it as a legal fiction carried a little too far .", 
+        "obfuscation-id": 9, 
+        "original": "\n  It's all very well to say we act as one person, but when you\n  supply us with only one ration between us, I should describe it\n  as a legal fiction carried a little too far.", 
+        "original-end-charpos": 667, 
+        "original-start-charpos": 492
+    }, 
+    {
+        "obfuscation": "It 's rather a nice point .", 
+        "obfuscation-id": 10, 
+        "original": "\n\n It's rather a nice point.", 
+        "original-end-charpos": 695, 
+        "original-start-charpos": 668
+    }, 
+    {
+        "obfuscation": "I do n't like to express an opinion off-hand .", 
+        "obfuscation-id": 11, 
+        "original": "  I don't like to express an\n  opinion off-hand.", 
+        "original-end-charpos": 743, 
+        "original-start-charpos": 696
+    }, 
+    {
+        "obfuscation": "Suppose we reserve it for argument before the full Court ?", 
+        "obfuscation-id": 12, 
+        "original": "  Suppose we reserve it for argument before the\n  full Court?", 
+        "original-end-charpos": 804, 
+        "original-start-charpos": 744
+    }, 
+    {
+        "obfuscation": "Yes , but what are we to do in the meantime ?", 
+        "obfuscation-id": 13, 
+        "original": "\n\n Yes, but what are we to do in the meantime?", 
+        "original-end-charpos": 850, 
+        "original-start-charpos": 805
+    }, 
+    {
+        "obfuscation": "We want our tea .", 
+        "obfuscation-id": 14, 
+        "original": "\n\nWe want our tea.", 
+        "original-end-charpos": 868, 
+        "original-start-charpos": 851
+    }, 
+    {
+        "obfuscation": "I think we may make an interim order for double rations on their Majesties entering into the usual undertaking to indemnify in the event of an adverse decision ?", 
+        "obfuscation-id": 15, 
+        "original": "\n\nI think we may make an interim order for double\n  rations on their Majesties entering into the usual undertaking to\n  indemnify in the event of an adverse decision?", 
+        "original-end-charpos": 1034, 
+        "original-start-charpos": 869
+    }, 
+    {
+        "obfuscation": "That , I think , will meet the case .", 
+        "obfuscation-id": 16, 
+        "original": "\n\nThat, I think, will meet the case.", 
+        "original-end-charpos": 1070, 
+        "original-start-charpos": 1035
+    }, 
+    {
+        "obfuscation": "But you must work hard -- stick to it -- nothing like work .", 
+        "obfuscation-id": 17, 
+        "original": "  But you must work\n  hard--stick to it--nothing like work.", 
+        "original-end-charpos": 1129, 
+        "original-start-charpos": 1071
+    }, 
+    {
+        "obfuscation": "Oh , certainly .", 
+        "obfuscation-id": 18, 
+        "original": "\n\nOh, certainly.", 
+        "original-end-charpos": 1145, 
+        "original-start-charpos": 1130
+    }, 
+    {
+        "obfuscation": "We quite understand that a man who holds the magnificent position of King should do something to justify it .", 
+        "obfuscation-id": 19, 
+        "original": "  We quite understand that a man who\n  holds the magnificent position of King should do something to\n  justify it.", 
+        "original-end-charpos": 1259, 
+        "original-start-charpos": 1146
+    }, 
+    {
+        "obfuscation": "We are called `` Your Majesty '' ; we are allowed to buy ourselves magnificent clothes ; our subjects frequently nod to us in the streets ; the sentries always return our salutes ; and we enjoy the inestimable privilege of heading the subscription lists to all the principal charities .", 
+        "obfuscation-id": 20, 
+        "original": "  We are called \"Your Majesty\"; we are allowed to buy\n  ourselves magnificent clothes; our subjects frequently nod to us\n  in the streets; the sentries always return our salutes; and we\n  enjoy the inestimable privilege of heading the subscription lists\n  to all the principal charities.", 
+        "original-end-charpos": 1546, 
+        "original-start-charpos": 1260
+    }, 
+    {
+        "obfuscation": "In return for these advantages the least we can do is to make ourselves useful about the Palace .", 
+        "obfuscation-id": 21, 
+        "original": "  In return for these advantages\n  the least we can do is to make ourselves useful about the Palace.", 
+        "original-end-charpos": 1646, 
+        "original-start-charpos": 1547
+    }, 
+    {
+        "obfuscation": "Rising early in the morning , We proceed to light the fire , Then our Majesty adorning In its workaday attire , We embark without delay On the duties of the day .", 
+        "obfuscation-id": 22, 
+        "original": "\n                   \n\n  Rising early in the morning,\n We proceed to light the fire,\n  Then our Majesty adorning\n       In its workaday attire,\n            We embark without delay\n            On the duties of the day.", 
+        "original-end-charpos": 1862, 
+        "original-start-charpos": 1647
+    }, 
+    {
+        "obfuscation": "First , we polish off some batches Of political despatches , And foreign politicians circumvent ; Then , if business is n't heavy , We may have a Royal levee , Or ratify some Acts of Parliament .", 
+        "obfuscation-id": 23, 
+        "original": "\n\n  First, we polish off some batches\n  Of political despatches,\n       And foreign politicians circumvent;\n  Then, if business isn't heavy,\n  We may hold a Royal levee,\n       Or ratify some Acts of Parliament.", 
+        "original-end-charpos": 2073, 
+        "original-start-charpos": 1863
+    }, 
+    {
+        "obfuscation": "Then we probably review the household troops -- With the usual `` Shalloo humps ! ''", 
+        "obfuscation-id": 24, 
+        "original": "\n       Then we probably review the household troops--\n       With the usual \"Shalloo humps!\"", 
+        "original-end-charpos": 2166, 
+        "original-start-charpos": 2074
+    }, 
+    {
+        "obfuscation": "and `` Shalloo hoops ! ''", 
+        "obfuscation-id": 25, 
+        "original": " and \"Shalloo hoops!\"", 
+        "original-end-charpos": 2187, 
+        "original-start-charpos": 2167
+    }, 
+    {
+        "obfuscation": "Or receive with ceremonial and state An interesting Eastern potentate .", 
+        "obfuscation-id": 26, 
+        "original": "\n       Or receive with ceremonial and state\n  An interesting Eastern potentate.\n       \n", 
+        "original-end-charpos": 2276, 
+        "original-start-charpos": 2188
+    }
+]

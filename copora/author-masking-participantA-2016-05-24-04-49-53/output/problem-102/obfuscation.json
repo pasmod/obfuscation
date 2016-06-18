@@ -1,0 +1,436 @@
+[
+    {
+        "obfuscation": "\ufeff Grants rather of loans to go to university Education is the key to a working society .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Grants instead of loans to go to university  Education is the key to a working society.", 
+        "original-end-charpos": 88, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Unemployment has been and still is a hard problem for a society make deal with .", 
+        "obfuscation-id": 2, 
+        "original": " \nUnemployment has been and still is a hard problem for a society do deal with.", 
+        "original-end-charpos": 167, 
+        "original-start-charpos": 89
+    }, 
+    {
+        "obfuscation": "The state quite often tries to get a better position by encouraging people to get educated .", 
+        "obfuscation-id": 3, 
+        "original": "\nThe state quite often tries to get a better situation by encouraging people to get educated.", 
+        "original-end-charpos": 260, 
+        "original-start-charpos": 168
+    }, 
+    {
+        "obfuscation": "The problem is not constantly the lack of vacant jobs but the lack of well-educated people .", 
+        "obfuscation-id": 4, 
+        "original": " \nThe problem is not always the lack of vacant jobs but the lack of well-educated people.", 
+        "original-end-charpos": 349, 
+        "original-start-charpos": 261
+    }, 
+    {
+        "obfuscation": "How come then that there are however quite few people who choose to go to university after high school ?", 
+        "obfuscation-id": 5, 
+        "original": " \nHow come then that there are still quite few people who choose to go to university after high school?", 
+        "original-end-charpos": 452, 
+        "original-start-charpos": 350
+    }, 
+    {
+        "obfuscation": "One main reason is probably that the system with loans does not attract people to receive higher education .", 
+        "obfuscation-id": 6, 
+        "original": " \t\nOne main reason is probably that the system with loans does not attract people to get higher education.", 
+        "original-end-charpos": 558, 
+        "original-start-charpos": 453
+    }, 
+    {
+        "obfuscation": "In Sweden students normally have to take loans to be able to finance their studies , especially if they are young and go to university directly after finishing high school .", 
+        "obfuscation-id": 7, 
+        "original": " \nIn Sweden students usually have to take loans to be able to finance their studies, especially if they are young and go to university directly after finishing high school.", 
+        "original-end-charpos": 730, 
+        "original-start-charpos": 559
+    }, 
+    {
+        "obfuscation": "As a student you get a minor amount of money from the state , a study grant .", 
+        "obfuscation-id": 8, 
+        "original": " \nAs a student you get a small amount of money from the state, a study grant.", 
+        "original-end-charpos": 807, 
+        "original-start-charpos": 731
+    }, 
+    {
+        "obfuscation": "It is not very much money and certainly not enough to make a life .", 
+        "obfuscation-id": 9, 
+        "original": " \nIt is not very much money and certainly not enough to make a living.", 
+        "original-end-charpos": 877, 
+        "original-start-charpos": 808
+    }, 
+    {
+        "obfuscation": "The students who do not take loans usually either live with their parents or somehow have the time to work while they study and finance their studies in that direction .", 
+        "obfuscation-id": 10, 
+        "original": " \nThe students who do not take loans usually either live with their parents or somehow have the time to work while they study and finance their studies in that way.", 
+        "original-end-charpos": 1041, 
+        "original-start-charpos": 878
+    }, 
+    {
+        "obfuscation": "But combining studies mith work is not very common , as the loan system does not allow you to get an unlimited income during the studies .", 
+        "obfuscation-id": 11, 
+        "original": " \nBut combining studies mith work is not very common, as the loan system does not allow you to have an unlimited income during the studies.", 
+        "original-end-charpos": 1180, 
+        "original-start-charpos": 1042
+    }, 
+    {
+        "obfuscation": "Otherwise the grants will be lowered .", 
+        "obfuscation-id": 12, 
+        "original": " \nOtherwise the grants will be lowered.", 
+        "original-end-charpos": 1219, 
+        "original-start-charpos": 1181
+    }, 
+    {
+        "obfuscation": "It is about the like thing concerning the study loans .", 
+        "obfuscation-id": 13, 
+        "original": " \nIt is about the same thing concerning the study loans.", 
+        "original-end-charpos": 1275, 
+        "original-start-charpos": 1220
+    }, 
+    {
+        "obfuscation": "You will not be able to borrow the entire amount of money if the income has been too high during a year .", 
+        "obfuscation-id": 14, 
+        "original": " \nYou will not be able to borrow the full amount of money if the income has been too high during a year.", 
+        "original-end-charpos": 1379, 
+        "original-start-charpos": 1276
+    }, 
+    {
+        "obfuscation": "That amount was in 1998 about 55 000 crowns .", 
+        "obfuscation-id": 15, 
+        "original": " \nThat amount was in 1998 about 55 000 crowns.", 
+        "original-end-charpos": 1425, 
+        "original-start-charpos": 1380
+    }, 
+    {
+        "obfuscation": "The main trouble with taking a loan to finance the studies is that the present system makes it impossible for many students to ever be able to pay back the loan .", 
+        "obfuscation-id": 16, 
+        "original": " \nThe main problem with taking a loan to finance the studies is that the present system makes it impossible for many students to ever be able to pay back the loan.", 
+        "original-end-charpos": 1588, 
+        "original-start-charpos": 1426
+    }, 
+    {
+        "obfuscation": "You start to pay back your loan about six months after the finished studies .", 
+        "obfuscation-id": 17, 
+        "original": " \nYou start to pay back your loan about six months after the finished studies.", 
+        "original-end-charpos": 1666, 
+        "original-start-charpos": 1589
+    }, 
+    {
+        "obfuscation": "At present you pay four percent of what your income was two years ago when you start to pay back the loan .", 
+        "obfuscation-id": 18, 
+        "original": " \nAt present you pay four percent of what your income was two years ago when you start to pay back the loan.", 
+        "original-end-charpos": 1774, 
+        "original-start-charpos": 1667
+    }, 
+    {
+        "obfuscation": "The trouble is that the rent , which is made up by the government , usually is higher than four percent .", 
+        "obfuscation-id": 19, 
+        "original": " \nThe problem is that the rent, which is made up by the government, usually is higher than four percent.", 
+        "original-end-charpos": 1878, 
+        "original-start-charpos": 1775
+    }, 
+    {
+        "obfuscation": "As a consequence of that your loan grows while pay it off .", 
+        "obfuscation-id": 20, 
+        "original": " \nAs a consequence of that your loan grows while pay it off.", 
+        "original-end-charpos": 1938, 
+        "original-start-charpos": 1879
+    }, 
+    {
+        "obfuscation": "At the age of 65 , the loan will be written off .", 
+        "obfuscation-id": 21, 
+        "original": " \nAt the age of 65, the loan will be written off.", 
+        "original-end-charpos": 1987, 
+        "original-start-charpos": 1939
+    }, 
+    {
+        "obfuscation": "A lot of people presumably prefer to start to work after highschool rather of going to university .", 
+        "obfuscation-id": 22, 
+        "original": "  \t\nA lot of people presumably prefer to start to work after highschool instead of going to university.", 
+        "original-end-charpos": 2090, 
+        "original-start-charpos": 1988
+    }, 
+    {
+        "obfuscation": "The trouble with the loan system is probably one main reason .", 
+        "obfuscation-id": 23, 
+        "original": " \nThe problem with the loan system is probably one main reason.", 
+        "original-end-charpos": 2153, 
+        "original-start-charpos": 2091
+    }, 
+    {
+        "obfuscation": "It is about probable that a lot of people prefer to earn their own money .", 
+        "obfuscation-id": 24, 
+        "original": " \nIt is most probable that a lot of people prefer to earn their own money.", 
+        "original-end-charpos": 2227, 
+        "original-start-charpos": 2154
+    }, 
+    {
+        "obfuscation": "That concerns especially young people who desire to get a place of their own to live end become independent from their parents .", 
+        "obfuscation-id": 25, 
+        "original": " \nThat concerns especially young people who want to get a place of their own to live end become independent from their parents.", 
+        "original-end-charpos": 2354, 
+        "original-start-charpos": 2228
+    }, 
+    {
+        "obfuscation": "A lot of people do not see the point in going to university and become indebted for the rest of their lives .", 
+        "obfuscation-id": 26, 
+        "original": " \nA lot of people do not see the point in going to university and become indebted for the rest of their lives.", 
+        "original-end-charpos": 2464, 
+        "original-start-charpos": 2355
+    }, 
+    {
+        "obfuscation": "Besides they miss their income during the time they study .", 
+        "obfuscation-id": 27, 
+        "original": " \nBesides they miss their income during the time they study.", 
+        "original-end-charpos": 2524, 
+        "original-start-charpos": 2465
+    }, 
+    {
+        "obfuscation": "Certainly , the loan does not have to be paid back in a way that it usually causes people financial troubles .", 
+        "obfuscation-id": 28, 
+        "original": " \nCertainly, the loan does not have to be paid back in a way that it usually causes people financial troubles.", 
+        "original-end-charpos": 2634, 
+        "original-start-charpos": 2525
+    }, 
+    {
+        "obfuscation": "But it must surely be a psychological burden to be indebted and to be aware of that you will probably remain so for the main part of your life .", 
+        "obfuscation-id": 29, 
+        "original": " \nBut it must certainly be a psychological burden to be indebted and to be aware of that you will probably remain so for the main part of your life.", 
+        "original-end-charpos": 2782, 
+        "original-start-charpos": 2635
+    }, 
+    {
+        "obfuscation": "Seeing it from another aspect , you can say that a loan is constantly a loan which has to be paid back .", 
+        "obfuscation-id": 30, 
+        "original": " \nSeeing it from another aspect, you can say that a loan is always a loan which has to be paid back.", 
+        "original-end-charpos": 2882, 
+        "original-start-charpos": 2783
+    }, 
+    {
+        "obfuscation": "It becomes more complicated when there is not only the studyloan that has to be paid back , but also other loans .", 
+        "obfuscation-id": 31, 
+        "original": " \nIt gets more complicated when there is not only the studyloan that has to be paid back, but also other loans.", 
+        "original-end-charpos": 2993, 
+        "original-start-charpos": 2883
+    }, 
+    {
+        "obfuscation": "The most common is that people take loans to buy an apartment or a house , possibly a car , furniture and other things .", 
+        "obfuscation-id": 32, 
+        "original": " \nThe most common is that people take loans to buy an apartment or a house, maybe a car, furniture and other things.", 
+        "original-end-charpos": 3109, 
+        "original-start-charpos": 2994
+    }, 
+    {
+        "obfuscation": "If then there is also a studyloan which has to be paid off , the financial situation can become very unmanageable .", 
+        "obfuscation-id": 33, 
+        "original": " \nIf then there is also a studyloan which has to be paid off, the financial situation can become very difficult.", 
+        "original-end-charpos": 3221, 
+        "original-start-charpos": 3110
+    }, 
+    {
+        "obfuscation": "The loans that are given to be able to study are supposed to make it potential for everyone to study .", 
+        "obfuscation-id": 34, 
+        "original": " \t\nThe loans that are given to be able to study are supposed to make it possible for everyone to study.", 
+        "original-end-charpos": 3324, 
+        "original-start-charpos": 3222
+    }, 
+    {
+        "obfuscation": "But the fact is that a lot of people do not go to university because they simply can not yield it .", 
+        "obfuscation-id": 35, 
+        "original": " \nBut the fact is that a lot of people do not go to university because they simply cannot afford it.", 
+        "original-end-charpos": 3424, 
+        "original-start-charpos": 3325
+    }, 
+    {
+        "obfuscation": "particularly single mothers have problems with that , because they beside themselves also have a child or children to provide for .", 
+        "obfuscation-id": 36, 
+        "original": " \nEspecially single mothers have problems with that, because they beside themselves also have a child or children to provide for.", 
+        "original-end-charpos": 3553, 
+        "original-start-charpos": 3425
+    }, 
+    {
+        "obfuscation": "The fact that no grants or loans are given over the summer quite much causes students more problems .", 
+        "obfuscation-id": 37, 
+        "original": " \nThe fact that no grants or loans are given over the summer quite often causes students more problems.", 
+        "original-end-charpos": 3656, 
+        "original-start-charpos": 3554
+    }, 
+    {
+        "obfuscation": "During the summer vacacion a lot of students have to work to be able to make a life .", 
+        "obfuscation-id": 38, 
+        "original": " \nDuring the summer vacacion a lot of students have to work to be able to make a living.", 
+        "original-end-charpos": 3744, 
+        "original-start-charpos": 3657
+    }, 
+    {
+        "obfuscation": "The loan system makes it hard for people to earn money while studying , because the grants and the loan is reduced after you have earned more than the permitted annual amount .", 
+        "obfuscation-id": 39, 
+        "original": " \nThe loan system makes it hard for people to earn money while studying, because the grants and the loan is reduced after you have earned more than the permitted annual amount.", 
+        "original-end-charpos": 3920, 
+        "original-start-charpos": 3745
+    }, 
+    {
+        "obfuscation": "University students should be given grants , not loans , to finance their studies .", 
+        "obfuscation-id": 40, 
+        "original": " \t\nUniversity students should be given grants, not loans, to finance their studies.", 
+        "original-end-charpos": 4003, 
+        "original-start-charpos": 3921
+    }, 
+    {
+        "obfuscation": "If university students would be given grants and not loans , more people would credibly choose to go to university .", 
+        "obfuscation-id": 41, 
+        "original": " \nIf university students would be given grants and not loans, more people would probably choose to go to university.", 
+        "original-end-charpos": 4119, 
+        "original-start-charpos": 4004
+    }, 
+    {
+        "obfuscation": "Now there are probably those who think that it is not the same thing to study at university as to make .", 
+        "obfuscation-id": 42, 
+        "original": " \nNow there are probably those who think that it is not the same thing to study at university as to work.", 
+        "original-end-charpos": 4224, 
+        "original-start-charpos": 4120
+    }, 
+    {
+        "obfuscation": "It is not , but full time studies actually can be compared with a full time problem .", 
+        "obfuscation-id": 43, 
+        "original": " \nIt is not, but full time studies actually can be compared with a full time job.", 
+        "original-end-charpos": 4305, 
+        "original-start-charpos": 4225
+    }, 
+    {
+        "obfuscation": "The alone difference is that you are able to use your time more freely as a student and that you get occupation in a different kind of way .", 
+        "obfuscation-id": 44, 
+        "original": " \nThe only difference is that you are able to use your time more freely as a student and that you get occupation in a different kind of way.", 
+        "original-end-charpos": 4445, 
+        "original-start-charpos": 4306
+    }, 
+    {
+        "obfuscation": "But there are always tasks which have to be done when you study , and you always get things to do .", 
+        "obfuscation-id": 45, 
+        "original": " \nBut there are always tasks which have to be done when you study, and you always have things to do.", 
+        "original-end-charpos": 4545, 
+        "original-start-charpos": 4446
+    }, 
+    {
+        "obfuscation": "The conditions for making and studying are different , but there are also close points of similarity between them .", 
+        "obfuscation-id": 46, 
+        "original": " \nThe conditions for working and studying are different, but there are also close points of similarity between them.", 
+        "original-end-charpos": 4661, 
+        "original-start-charpos": 4546
+    }, 
+    {
+        "obfuscation": "Why should more people go to university then ?", 
+        "obfuscation-id": 47, 
+        "original": "  \t\nWhy should more people go to university then?", 
+        "original-end-charpos": 4710, 
+        "original-start-charpos": 4662
+    }, 
+    {
+        "obfuscation": "There are many causes .", 
+        "obfuscation-id": 48, 
+        "original": " \nThere are many reasons.", 
+        "original-end-charpos": 4735, 
+        "original-start-charpos": 4711
+    }, 
+    {
+        "obfuscation": "Society is constantly in need for well educated people .", 
+        "obfuscation-id": 49, 
+        "original": " \nSociety is always in need for well educated people.", 
+        "original-end-charpos": 4788, 
+        "original-start-charpos": 4736
+    }, 
+    {
+        "obfuscation": "Education leads to development in the unharmed society .", 
+        "obfuscation-id": 50, 
+        "original": " \nEducation leads to development in the whole society.", 
+        "original-end-charpos": 4842, 
+        "original-start-charpos": 4789
+    }, 
+    {
+        "obfuscation": "If grants rather of loans were introduced , it would probably tempt more people to go to university .", 
+        "obfuscation-id": 51, 
+        "original": " \nIf grants instead of loans were introduced, it would probably tempt more people to go to university.", 
+        "original-end-charpos": 4944, 
+        "original-start-charpos": 4843
+    }, 
+    {
+        "obfuscation": "The attitude to higher education would credibly change .", 
+        "obfuscation-id": 52, 
+        "original": " \nThe attitude to higher education would probably change.", 
+        "original-end-charpos": 5001, 
+        "original-start-charpos": 4945
+    }, 
+    {
+        "obfuscation": "University studies do not always lead to a well-paid problem , but a lot of people do study because it is stimulating for the personal development .", 
+        "obfuscation-id": 53, 
+        "original": " \nUniversity studies do not always lead to a well-paid job, but a lot of people do study because it is stimulating for the personal development.", 
+        "original-end-charpos": 5145, 
+        "original-start-charpos": 5002
+    }, 
+    {
+        "obfuscation": "In the retentive run it would favour everyone .", 
+        "obfuscation-id": 54, 
+        "original": "\nIn the long run it would favour everyone.", 
+        "original-end-charpos": 5187, 
+        "original-start-charpos": 5146
+    }, 
+    {
+        "obfuscation": "If the loans were not a damaging part of university studies university itself would probably be seen as more useful and accessible to everyone .", 
+        "obfuscation-id": 55, 
+        "original": " \nIf the loans were not a negative part of university studies university itself would probably be seen as more useful and accessible to everyone.", 
+        "original-end-charpos": 5332, 
+        "original-start-charpos": 5188
+    }, 
+    {
+        "obfuscation": "The system of today does not function properly anyway .", 
+        "obfuscation-id": 56, 
+        "original": " \nThe system of today does not work properly anyway.", 
+        "original-end-charpos": 5384, 
+        "original-start-charpos": 5333
+    }, 
+    {
+        "obfuscation": "It should be an advantage to go to university and not a disadvantage , financially as well as intellectually .", 
+        "obfuscation-id": 57, 
+        "original": " \nIt should be an advantage to go to university and not a disadvantage, financially as well as intellectually.", 
+        "original-end-charpos": 5494, 
+        "original-start-charpos": 5385
+    }, 
+    {
+        "obfuscation": "I remember that the whole system with the study allowences is in need for a change .", 
+        "obfuscation-id": 58, 
+        "original": " \t\nI think that the whole system with the study allowences is in need for a change.", 
+        "original-end-charpos": 5577, 
+        "original-start-charpos": 5495
+    }, 
+    {
+        "obfuscation": "Politicians constantly emphasize the importance of education , therefor higher education should not leed to debts .", 
+        "obfuscation-id": 59, 
+        "original": " \nPoliticians always emphasize the importance of education, therefor higher education should not leed to debts.", 
+        "original-end-charpos": 5688, 
+        "original-start-charpos": 5578
+    }, 
+    {
+        "obfuscation": "The unemployment would credibly decrease if more people could go to university .", 
+        "obfuscation-id": 60, 
+        "original": " \nThe unemployment would probably decrease if more people could go to university.", 
+        "original-end-charpos": 5769, 
+        "original-start-charpos": 5689
+    }, 
+    {
+        "obfuscation": "It is never improper of society to stake on education .", 
+        "obfuscation-id": 61, 
+        "original": " \nIt is never wrong of society to stake on education.", 
+        "original-end-charpos": 5822, 
+        "original-start-charpos": 5770
+    }, 
+    {
+        "obfuscation": "Education is an investment for the future .", 
+        "obfuscation-id": 62, 
+        "original": " \nEducation is an investment for the future.\n", 
+        "original-end-charpos": 5867, 
+        "original-start-charpos": 5823
+    }
+]

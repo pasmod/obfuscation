@@ -1,0 +1,289 @@
+[
+    {
+        "obfuscation": "\ufeff Evaluation English , my English !", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Evaluation  English, my English!", 
+        "original-end-charpos": 33, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "So nowadays I 'm supposed to wright about my skills in English .", 
+        "obfuscation-id": 2, 
+        "original": " \nSo now I'm supposed to wright about my skills in English.", 
+        "original-end-charpos": 92, 
+        "original-start-charpos": 34
+    }, 
+    {
+        "obfuscation": "One thing I can say is that I wish I was well .", 
+        "obfuscation-id": 3, 
+        "original": " \nOne thing I can say is that I wish I was better.", 
+        "original-end-charpos": 142, 
+        "original-start-charpos": 93
+    }, 
+    {
+        "obfuscation": "It 's not that I 'm terrible at it , but sometimes I precisely ca n't find the right words .", 
+        "obfuscation-id": 4, 
+        "original": " \nIt's not that I'm terrible at it, but sometimes I just can't find the right words.", 
+        "original-end-charpos": 226, 
+        "original-start-charpos": 143
+    }, 
+    {
+        "obfuscation": "I want to be able to use English precisely as easy as I use Swedish .", 
+        "obfuscation-id": 5, 
+        "original": " \nI want to be able to use English just as easy as I use Swedish.", 
+        "original-end-charpos": 291, 
+        "original-start-charpos": 227
+    }, 
+    {
+        "obfuscation": "I think it depends on how much I use it , how much practice I get .", 
+        "obfuscation-id": 6, 
+        "original": " \nI guess it depends on how much I use it, how much practice I get.", 
+        "original-end-charpos": 358, 
+        "original-start-charpos": 292
+    }, 
+    {
+        "obfuscation": "When I was 17 , I went to Hastings in England for four weeks of English studies , and my English has never been good than when I came home to Sweden again .", 
+        "obfuscation-id": 7, 
+        "original": " \nWhen I was 17, I went to Hastings in England for four weeks of English studies, and my English has never been better than when I came home to Sweden again.", 
+        "original-end-charpos": 515, 
+        "original-start-charpos": 359
+    }, 
+    {
+        "obfuscation": "Me and a friend stayed with mr and mrs Lewis and their child Sarah , and mrs Lewis talked uninterruptedly from the moment we arrived .", 
+        "obfuscation-id": 8, 
+        "original": " \nMe and a friend stayed with mr and mrs Lewis and their baby Sarah, and mrs Lewis talked uninterruptedly from the moment we arrived.", 
+        "original-end-charpos": 648, 
+        "original-start-charpos": 516
+    }, 
+    {
+        "obfuscation": "She asked all sorts of questions about everything , but I think that was a good thing , because otherwise I might have been too afraid to speek at all .", 
+        "obfuscation-id": 9, 
+        "original": " \nShe asked all sorts of questions about everything, but I guess that was a good thing, because otherwise I might have been too afraid to speek at all.", 
+        "original-end-charpos": 799, 
+        "original-start-charpos": 649
+    }, 
+    {
+        "obfuscation": "After a week I was n't afraid to speak at all and when it was time to go home , it felt like I was born English .", 
+        "obfuscation-id": 10, 
+        "original": " \nAfter a week I wasn't afraid to speak at all and when it was time to go home, it felt like I was born English.", 
+        "original-end-charpos": 911, 
+        "original-start-charpos": 800
+    }, 
+    {
+        "obfuscation": "Anyway , that was a retentive time ago and I have n't been speaking much English since then .", 
+        "obfuscation-id": 11, 
+        "original": "  \nAnyway, that was a long time ago and I haven't been speaking much English since then.", 
+        "original-end-charpos": 999, 
+        "original-start-charpos": 912
+    }, 
+    {
+        "obfuscation": "This means that I must have it all somewhere in my head .", 
+        "obfuscation-id": 12, 
+        "original": " \nThis means that I must have it all somewhere in my head.", 
+        "original-end-charpos": 1057, 
+        "original-start-charpos": 1000
+    }, 
+    {
+        "obfuscation": "It 's precisely that I do n't know where .", 
+        "obfuscation-id": 13, 
+        "original": " \nIt's just that I don't know where.", 
+        "original-end-charpos": 1093, 
+        "original-start-charpos": 1058
+    }, 
+    {
+        "obfuscation": "Hopefully I will find at least some of it during this semester .", 
+        "obfuscation-id": 14, 
+        "original": " \nHopefully I will find at least some of it during this semester.", 
+        "original-end-charpos": 1158, 
+        "original-start-charpos": 1094
+    }, 
+    {
+        "obfuscation": "Listening This is something I find quite comfortable .", 
+        "obfuscation-id": 15, 
+        "original": "  \nListening This is something I find quite easy.", 
+        "original-end-charpos": 1207, 
+        "original-start-charpos": 1159
+    }, 
+    {
+        "obfuscation": "English is n't at all difficult to understand , unless the one who 's speaking is from Scotland or something .", 
+        "obfuscation-id": 16, 
+        "original": " \nEnglish isn't at all hard to understand, unless the one who's speaking is from Scotland or something.", 
+        "original-end-charpos": 1310, 
+        "original-start-charpos": 1208
+    }, 
+    {
+        "obfuscation": "It makes n't matter if there 's one or two words I do n't understant , because I usually understand the rest of it .", 
+        "obfuscation-id": 17, 
+        "original": " \nIt doesn't matter if there's one or two words I don't understant, because I usually understand the rest of it.", 
+        "original-end-charpos": 1422, 
+        "original-start-charpos": 1311
+    }, 
+    {
+        "obfuscation": "I hear English everywhere around me .", 
+        "obfuscation-id": 18, 
+        "original": " \nI hear English everywhere around me.", 
+        "original-end-charpos": 1460, 
+        "original-start-charpos": 1423
+    }, 
+    {
+        "obfuscation": "I learn it in music , on the television and when I go to the movies .", 
+        "obfuscation-id": 19, 
+        "original": " \nI hear it in music, on the television and when I go to the movies.", 
+        "original-end-charpos": 1528, 
+        "original-start-charpos": 1461
+    }, 
+    {
+        "obfuscation": "I also like listening to recorded books and the ones in Swedish are actually boring , so I go for the English ones .", 
+        "obfuscation-id": 20, 
+        "original": " \nI also like listening to recorded books and the ones in Swedish are really boring, so I go for the English ones.", 
+        "original-end-charpos": 1642, 
+        "original-start-charpos": 1529
+    }, 
+    {
+        "obfuscation": "I think that is good practice .", 
+        "obfuscation-id": 21, 
+        "original": " \nI guess that is good practice.", 
+        "original-end-charpos": 1674, 
+        "original-start-charpos": 1643
+    }, 
+    {
+        "obfuscation": "It 's nice to have lectures in English and find that I actually understand everything the teacher is saying .", 
+        "obfuscation-id": 22, 
+        "original": " \nIt's nice to have lectures in English and find that I actually understand everything the teacher is saying.", 
+        "original-end-charpos": 1783, 
+        "original-start-charpos": 1675
+    }, 
+    {
+        "obfuscation": "Reading y skills in reading are credibly the same as in listening .", 
+        "obfuscation-id": 23, 
+        "original": "  \nReading y skills in reading are probably the same as in listening.", 
+        "original-end-charpos": 1852, 
+        "original-start-charpos": 1784
+    }, 
+    {
+        "obfuscation": "In short I can say that I understand most of what i understand .", 
+        "obfuscation-id": 24, 
+        "original": " \nIn short I can say that I understand most of what i read.", 
+        "original-end-charpos": 1911, 
+        "original-start-charpos": 1853
+    }, 
+    {
+        "obfuscation": "I really like books and if they are written by an English or an American author , I prefer to take them in the original language .", 
+        "obfuscation-id": 25, 
+        "original": " \nI really like books and if they are written by an English or an American author, I prefer to read them in the original language.", 
+        "original-end-charpos": 2041, 
+        "original-start-charpos": 1912
+    }, 
+    {
+        "obfuscation": "Once in a while a word that I do n't recognice pops up , and sometimes I look it up .", 
+        "obfuscation-id": 26, 
+        "original": " \nOnce in a while a word that I don't recognice pops up, and sometimes I look it up.", 
+        "original-end-charpos": 2125, 
+        "original-start-charpos": 2042
+    }, 
+    {
+        "obfuscation": "But if I understand the context , than I almost constantly understand the word without having to look it up .", 
+        "obfuscation-id": 27, 
+        "original": " \nBut if I understand the context, than I almost always understand the word without having to look it up.", 
+        "original-end-charpos": 2230, 
+        "original-start-charpos": 2126
+    }, 
+    {
+        "obfuscation": "I find reading and listening easyer than speaking and writing , and I think that 's because I can take my time and think , and I do n't have to be afraid to do something wrong .", 
+        "obfuscation-id": 28, 
+        "original": " \nI find reading and listening easyer than speaking and writing, and I guess that's because I can take my time and think, and I don't have to be afraid to do something wrong.", 
+        "original-end-charpos": 2404, 
+        "original-start-charpos": 2231
+    }, 
+    {
+        "obfuscation": "Nobody will care if there 's a word or two that I do n't understand in a text or during a lecture , but if I say or wright something incorrect , everybody will notice it .", 
+        "obfuscation-id": 29, 
+        "original": " \nNobody will care if there's a word or two that I don't understand in a text or during a lecture, but if I say or wright something incorrect, everybody will notice it.", 
+        "original-end-charpos": 2572, 
+        "original-start-charpos": 2405
+    }, 
+    {
+        "obfuscation": "Speaking The reason I find it unmanageable to speak English , especially if the one I 'm speaking to is from an English speaking country , is that I 'm afraid to say something wrong that will make me look stupid .", 
+        "obfuscation-id": 30, 
+        "original": "   \nSpeaking The reason I find it difficult to speak English, especially if the one I'm speaking to is from an English speaking country, is that I'm afraid to say something wrong that will make me look stupid.", 
+        "original-end-charpos": 2781, 
+        "original-start-charpos": 2573
+    }, 
+    {
+        "obfuscation": "I have a cousin in Ireland and he told me once that he had almost no English at all in school , and that my English probably was better than his so I guess I do n't experience that much to worry about , but sometimes it 's so hard to find the right words .", 
+        "obfuscation-id": 31, 
+        "original": " \nI have a cousin in Ireland and he told me once that he had almost no English at all in school, and that my English probably was better than his so I guess I don't have that much to worry about, but sometimes it's so hard to find the right words.", 
+        "original-end-charpos": 3028, 
+        "original-start-charpos": 2782
+    }, 
+    {
+        "obfuscation": "If I speak som someone out in a pub or in one of the nations , and if I 've had a beer or two , than my English is great , but in the classroom , I just sound stupid .", 
+        "obfuscation-id": 32, 
+        "original": " \nIf I talk som someone out in a pub or in one of the nations, and if I've had a beer or two, than my English is great, but in the classroom, I just sound stupid.", 
+        "original-end-charpos": 3190, 
+        "original-start-charpos": 3029
+    }, 
+    {
+        "obfuscation": "That 's something I do n't like at all , and I hope all the speaking in school will help me with this .", 
+        "obfuscation-id": 33, 
+        "original": " \nThat's something I don't like at all, and I hope all the speaking in school will help me with this.", 
+        "original-end-charpos": 3291, 
+        "original-start-charpos": 3191
+    }, 
+    {
+        "obfuscation": "Writing Now this is the tricky character .", 
+        "obfuscation-id": 34, 
+        "original": "  \nWriting Now this is the tricky part.", 
+        "original-end-charpos": 3330, 
+        "original-start-charpos": 3292
+    }, 
+    {
+        "obfuscation": "I ca n't remember half of what I learned about Swedish grammar , so how am I supposed to know about transitive verbs , complements and subordinate clauses ?", 
+        "obfuscation-id": 35, 
+        "original": " \nI can't remember half of what I learned about Swedish grammar, so how am I supposed to know about transitive verbs, complements and subordinate clauses?", 
+        "original-end-charpos": 3484, 
+        "original-start-charpos": 3331
+    }, 
+    {
+        "obfuscation": "It 's thus easy to wright in Swedish , but when I do it in English I have to think about everything .", 
+        "obfuscation-id": 36, 
+        "original": " \nIt's so easy to wright in Swedish, but when I do it in English I have to think about everything.", 
+        "original-end-charpos": 3582, 
+        "original-start-charpos": 3485
+    }, 
+    {
+        "obfuscation": "I can think of something I actually want to wright , and then i have to wright it in some other way because I do n't know how to formulate it .", 
+        "obfuscation-id": 37, 
+        "original": " \nI can think of something I really want to wright, and then i have to wright it in some other way because I don't know how to formulate it.", 
+        "original-end-charpos": 3722, 
+        "original-start-charpos": 3583
+    }, 
+    {
+        "obfuscation": "This is actually very frustrating .", 
+        "obfuscation-id": 38, 
+        "original": " \nThis is really very frustrating.", 
+        "original-end-charpos": 3756, 
+        "original-start-charpos": 3723
+    }, 
+    {
+        "obfuscation": "I guess practice is the medicine for this besides .", 
+        "obfuscation-id": 39, 
+        "original": " \nI guess practice is the medicine for this too.", 
+        "original-end-charpos": 3804, 
+        "original-start-charpos": 3757
+    }, 
+    {
+        "obfuscation": "Finally I really like English and want to learn how to use it , without having to think and worry about everything I suppose .", 
+        "obfuscation-id": 40, 
+        "original": "  \nFinally I really like English and want to learn how to use it, without having to think and worry about everything I say.", 
+        "original-end-charpos": 3927, 
+        "original-start-charpos": 3805
+    }, 
+    {
+        "obfuscation": "I think it would be an exaggeration to say that my English is bad , but it could be a lot better , and I hope this semester of English studies will help me on the way .", 
+        "obfuscation-id": 41, 
+        "original": " \nI guess it would be an exaggeration to say that my English is bad, but it could be a lot better, and I hope this semester of English studies will help me on the way.\n", 
+        "original-end-charpos": 4095, 
+        "original-start-charpos": 3928
+    }
+]

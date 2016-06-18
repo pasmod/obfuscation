@@ -1,0 +1,324 @@
+[
+    {
+        "obfuscation": "\ufeffIn the secondary school I hated English lessons .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffIn the secondary school I hated English lessons.", 
+        "original-end-charpos": 48, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "They were constantly the same ; glossary tests , reading a chapter aloud from the book and maybe some grammatics .", 
+        "obfuscation-id": 2, 
+        "original": " \nThey were always the same; glossary tests, reading a chapter aloud from the book and maybe some grammatics.", 
+        "original-end-charpos": 157, 
+        "original-start-charpos": 49
+    }, 
+    {
+        "obfuscation": "Not arduous work actually , but I did n't like it anyway .", 
+        "obfuscation-id": 3, 
+        "original": " \nNot hard work actually, but I didn't like it anyway.", 
+        "original-end-charpos": 211, 
+        "original-start-charpos": 158
+    }, 
+    {
+        "obfuscation": "Sometimes we had to discuss openly in the classroom , and it was that part I did n't wish , almost hated .", 
+        "obfuscation-id": 4, 
+        "original": " \nSometimes we had to discuss openly in the classroom, and it was that part I didn't like, almost hated.", 
+        "original-end-charpos": 315, 
+        "original-start-charpos": 212
+    }, 
+    {
+        "obfuscation": "y teacher in the 7 : th till 9 : th grade had made himself a very comfortable way to get off his teaching lightly .", 
+        "obfuscation-id": 5, 
+        "original": " y teacher in the 7:th till 9:th grade had made himself a very easy way to get off his teaching lightly.", 
+        "original-end-charpos": 419, 
+        "original-start-charpos": 316
+    }, 
+    {
+        "obfuscation": "Mostly he merely let us see some TV-programs in English .", 
+        "obfuscation-id": 6, 
+        "original": " \nMostly he just let us see some TV-programs in English.", 
+        "original-end-charpos": 475, 
+        "original-start-charpos": 420
+    }, 
+    {
+        "obfuscation": "Preferably mister Bean .", 
+        "obfuscation-id": 7, 
+        "original": " \nPreferably Mr Bean.", 
+        "original-end-charpos": 496, 
+        "original-start-charpos": 476
+    }, 
+    {
+        "obfuscation": "possibly we did n't learn to much about grammar and so on , but who cared ?", 
+        "obfuscation-id": 8, 
+        "original": " \nMaybe we didn't learn to much about grammar and so on, but who cared?", 
+        "original-end-charpos": 567, 
+        "original-start-charpos": 497
+    }, 
+    {
+        "obfuscation": "We loved the English lessons , of course .", 
+        "obfuscation-id": 9, 
+        "original": " \nWe loved the English lessons, of course.", 
+        "original-end-charpos": 609, 
+        "original-start-charpos": 568
+    }, 
+    {
+        "obfuscation": "It was n't until secondary school I noticed that my English were n't the better .", 
+        "obfuscation-id": 10, 
+        "original": " \nIt wasn't until secondary school I noticed that my English weren't the best.", 
+        "original-end-charpos": 687, 
+        "original-start-charpos": 610
+    }, 
+    {
+        "obfuscation": "I felt ashamed and made n't wanted to speak or do anything that showed my lack of knowledge .", 
+        "obfuscation-id": 11, 
+        "original": " \nI felt ashamed and didn't wanted to speak or do anything that showed my lack of knowledge.", 
+        "original-end-charpos": 779, 
+        "original-start-charpos": 688
+    }, 
+    {
+        "obfuscation": "All tests turned away bad , and I who had very good grades in almost all of the other subjects found out that I strongly disliked English .", 
+        "obfuscation-id": 12, 
+        "original": " \nAll tests turned out bad, and I who had very good grades in almost all of the other subjects found out that I strongly disliked English.", 
+        "original-end-charpos": 917, 
+        "original-start-charpos": 780
+    }, 
+    {
+        "obfuscation": "If you 're bad at something and make n't like it ( actually just because you 're bad in it , I suppose ) you wo n't improve , no matter how much your English teacher strains you and herself .", 
+        "obfuscation-id": 13, 
+        "original": " \nIf you're bad at something and don't like it (actually just because you're bad in it, I suppose) you won't improve, no matter how much your English teacher strains you and herself.", 
+        "original-end-charpos": 1099, 
+        "original-start-charpos": 918
+    }, 
+    {
+        "obfuscation": "She also taught Swedish , where I was one of the better , so she could n't understand why I was such a disaster in English .", 
+        "obfuscation-id": 14, 
+        "original": " \nShe also taught Swedish, where I was one of the best, so she couldn't understand why I was such a disaster in English.", 
+        "original-end-charpos": 1219, 
+        "original-start-charpos": 1100
+    }, 
+    {
+        "obfuscation": "anyhow , I survived secondary school , consequently avoiding speaking and reading English unless I really had to .", 
+        "obfuscation-id": 15, 
+        "original": " \nAnyway, I survived secondary school, consequently avoiding speaking and reading English unless I really had to.", 
+        "original-end-charpos": 1332, 
+        "original-start-charpos": 1220
+    }, 
+    {
+        "obfuscation": "Right after school I went to study biology at the university .", 
+        "obfuscation-id": 16, 
+        "original": " \nRight after school I went to study biology at the university.", 
+        "original-end-charpos": 1395, 
+        "original-start-charpos": 1333
+    }, 
+    {
+        "obfuscation": "Suddenly every class book was written in English , and there were no way you could shirk .", 
+        "obfuscation-id": 17, 
+        "original": " \nSuddenly every course book was written in English, and there were no way you could shirk.", 
+        "original-end-charpos": 1486, 
+        "original-start-charpos": 1396
+    }, 
+    {
+        "obfuscation": "It was simple : if you did n't understood the English , you would n't understand the class which in turn meant a failed exam .", 
+        "obfuscation-id": 18, 
+        "original": " \nIt was simple: if you didn't understood the English, you wouldn't understand the course which in turn meant a failed exam.", 
+        "original-end-charpos": 1610, 
+        "original-start-charpos": 1487
+    }, 
+    {
+        "obfuscation": "thus I had to deal with my dislike for English .", 
+        "obfuscation-id": 19, 
+        "original": " \nSo I had to deal with my dislike for English.", 
+        "original-end-charpos": 1657, 
+        "original-start-charpos": 1611
+    }, 
+    {
+        "obfuscation": "My inaugural book `` Chemistry '' of a thousand pages ought to be finished within ten weeks .", 
+        "obfuscation-id": 20, 
+        "original": " \nMy first book \"Chemistry\" of a thousand pages ought to be finished within ten weeks.", 
+        "original-end-charpos": 1743, 
+        "original-start-charpos": 1658
+    }, 
+    {
+        "obfuscation": "At inaugural I had to consult my dictionary for every second word , and it took me a very , very long time .", 
+        "obfuscation-id": 21, 
+        "original": " \nAt first I had to consult my dictionary for every second word, and it took me a very, very long time.", 
+        "original-end-charpos": 1846, 
+        "original-start-charpos": 1744
+    }, 
+    {
+        "obfuscation": "After a while I learned that I did n't wanted to understand every single word .", 
+        "obfuscation-id": 22, 
+        "original": " \nAfter a while I learned that I didn't needed to understand every single word.", 
+        "original-end-charpos": 1925, 
+        "original-start-charpos": 1847
+    }, 
+    {
+        "obfuscation": "A few books by and by I found out that the English language was n't that bad after all .", 
+        "obfuscation-id": 23, 
+        "original": " \nA few books later I found out that the English language wasn't that bad after all.", 
+        "original-end-charpos": 2009, 
+        "original-start-charpos": 1926
+    }, 
+    {
+        "obfuscation": "Now , when I 'm in my third year and have a lot of books behind me the reading is n't any large problem any more .", 
+        "obfuscation-id": 24, 
+        "original": " \nNow, when I'm in my third year and have a lot of books behind me the reading isn't any big problem any more.", 
+        "original-end-charpos": 2119, 
+        "original-start-charpos": 2010
+    }, 
+    {
+        "obfuscation": "As I mentioned above , I never liked speaking English , I actually hated it in school .", 
+        "obfuscation-id": 25, 
+        "original": " \nAs I mentioned above, I never liked speaking English, I really hated it in school.", 
+        "original-end-charpos": 2203, 
+        "original-start-charpos": 2120
+    }, 
+    {
+        "obfuscation": "But the university indirectly served me out here too .", 
+        "obfuscation-id": 26, 
+        "original": " \nBut the university indirectly helped me out here too.", 
+        "original-end-charpos": 2258, 
+        "original-start-charpos": 2204
+    }, 
+    {
+        "obfuscation": "I met a couple of exchange-students .", 
+        "obfuscation-id": 27, 
+        "original": " \nI met a couple of exchange-students.", 
+        "original-end-charpos": 2296, 
+        "original-start-charpos": 2259
+    }, 
+    {
+        "obfuscation": "They were even worse in English than I was , but they did n't wish !", 
+        "obfuscation-id": 28, 
+        "original": " \nThey were even worse in English than I was, but they didn't care!", 
+        "original-end-charpos": 2363, 
+        "original-start-charpos": 2297
+    }, 
+    {
+        "obfuscation": "They just carried on talking and if we Swedes did n't understood what they were saying , which happened frequently in the beginning , they merely tried with body language .", 
+        "obfuscation-id": 29, 
+        "original": " \nThey just carried on talking and if we Swedes didn't understood what they were saying, which happened frequently in the beginning, they just tried with body language.", 
+        "original-end-charpos": 2531, 
+        "original-start-charpos": 2364
+    }, 
+    {
+        "obfuscation": "We all had a lot of fun , and at the same time I discovered that they did n't care at all about my bad grammar or if I pronounced something in an incorrect manner .", 
+        "obfuscation-id": 30, 
+        "original": " \nWe all had a lot of fun, and at the same time I discovered that they didn't care at all about my bad grammar or if I pronounced something in an incorrect way.", 
+        "original-end-charpos": 2691, 
+        "original-start-charpos": 2532
+    }, 
+    {
+        "obfuscation": "They understood what I was saying anyway , and was pleased with it .", 
+        "obfuscation-id": 31, 
+        "original": " \nThey understood what I was saying anyway, and was pleased with it.", 
+        "original-end-charpos": 2759, 
+        "original-start-charpos": 2692
+    }, 
+    {
+        "obfuscation": "That , I can tell you , was a relief !", 
+        "obfuscation-id": 32, 
+        "original": " \nThat, I can tell you, was a relief!", 
+        "original-end-charpos": 2796, 
+        "original-start-charpos": 2760
+    }, 
+    {
+        "obfuscation": "The English language now began to interest me .", 
+        "obfuscation-id": 33, 
+        "original": "  \nThe English language now began to interest me.", 
+        "original-end-charpos": 2845, 
+        "original-start-charpos": 2797
+    }, 
+    {
+        "obfuscation": "I 've already discovered that I wanted to improve , but now I actually wanted to learn more and make improvements .", 
+        "obfuscation-id": 34, 
+        "original": " \nI've already discovered that I needed to improve, but now I actually wanted to learn more and make improvements.", 
+        "original-end-charpos": 2959, 
+        "original-start-charpos": 2846
+    }, 
+    {
+        "obfuscation": "The literature on the biology courses served me a lot with the understanding of texts , but they did n't taught grammar or pronunciation .", 
+        "obfuscation-id": 35, 
+        "original": " \nThe literature on the biology courses helped me a lot with the understanding of texts, but they didn't taught grammar or pronunciation.", 
+        "original-end-charpos": 3096, 
+        "original-start-charpos": 2960
+    }, 
+    {
+        "obfuscation": "I decided to take this English class .", 
+        "obfuscation-id": 36, 
+        "original": " \nI decided to take this English course.", 
+        "original-end-charpos": 3136, 
+        "original-start-charpos": 3097
+    }, 
+    {
+        "obfuscation": "Listening is something I have n't prepared since school and I have always thought that I was bad at that too .", 
+        "obfuscation-id": 37, 
+        "original": " \nListening is something I haven't trained since school and I have always thought that I was bad at that too.", 
+        "original-end-charpos": 3245, 
+        "original-start-charpos": 3137
+    }, 
+    {
+        "obfuscation": "But after visiting the first lectures I discovered that I actually - without problems - made understood what the lecturers were talking about .", 
+        "obfuscation-id": 38, 
+        "original": " \nBut after visiting the first lectures I discovered that I actually - without problems - did understood what the lecturers were talking about.", 
+        "original-end-charpos": 3388, 
+        "original-start-charpos": 3246
+    }, 
+    {
+        "obfuscation": "The speaking is however my worst skill .", 
+        "obfuscation-id": 39, 
+        "original": " \nThe speaking is still my worst skill.", 
+        "original-end-charpos": 3427, 
+        "original-start-charpos": 3389
+    }, 
+    {
+        "obfuscation": "I much feel uncomfortable and insecure .", 
+        "obfuscation-id": 40, 
+        "original": " \nI often feel uncomfortable and insecure.", 
+        "original-end-charpos": 3469, 
+        "original-start-charpos": 3428
+    }, 
+    {
+        "obfuscation": "But that 's what I 'm here for , to change it !", 
+        "obfuscation-id": 41, 
+        "original": " \nBut that's what I'm here for, to change it!", 
+        "original-end-charpos": 3514, 
+        "original-start-charpos": 3470
+    }, 
+    {
+        "obfuscation": "I constantly liked writing - in Swedish of course .", 
+        "obfuscation-id": 42, 
+        "original": " \nI always liked writing - in Swedish of course.", 
+        "original-end-charpos": 3562, 
+        "original-start-charpos": 3515
+    }, 
+    {
+        "obfuscation": "It 's so easy in Swedish ; I have a feeling for which sentence that sounds right and which does n't , but in English I do n't get that little voice in my head .", 
+        "obfuscation-id": 43, 
+        "original": " \nIt's so easy in Swedish; I have a feeling for which sentence that sounds right and which doesn't, but in English I don't have that little voice in my head.", 
+        "original-end-charpos": 3719, 
+        "original-start-charpos": 3563
+    }, 
+    {
+        "obfuscation": "I 've always found grammar very boring , and only remembered what I wanted a short while to pass the tests .", 
+        "obfuscation-id": 44, 
+        "original": " \nI've always found grammar very boring, and only remembered what I needed a short while to pass the tests.", 
+        "original-end-charpos": 3826, 
+        "original-start-charpos": 3720
+    }, 
+    {
+        "obfuscation": "That 's one of the things that I now regret .", 
+        "obfuscation-id": 45, 
+        "original": " \nThat's one of the things that I now regret.", 
+        "original-end-charpos": 3871, 
+        "original-start-charpos": 3827
+    }, 
+    {
+        "obfuscation": "however I think it 's a lot of fun to create an essay .", 
+        "obfuscation-id": 46, 
+        "original": " \nStill I think it's a lot of fun to create an essay.\n", 
+        "original-end-charpos": 3925, 
+        "original-start-charpos": 3872
+    }
+]

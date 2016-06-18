@@ -1,0 +1,303 @@
+[
+    {
+        "obfuscation": "Oh, he's coming, he's coming.",
+        "obfuscation-id": 1,
+        "original": "Oh, he's coming, he's coming.",
+        "original-end-charpos": 29,
+        "original-start-charpos": 0
+    },
+    {
+        "obfuscation": "I'm to see Santa Claus!",
+        "obfuscation-id": 2,
+        "original": "I'm going to get to see Santa Claus!",
+        "original-end-charpos": 65,
+        "original-start-charpos": 30
+    },
+    {
+        "obfuscation": "it is not wonderful? Sinn &apos;s",
+        "obfuscation-id": 3,
+        "original": "Is it not wonderful?",
+        "original-end-charpos": 85,
+        "original-start-charpos": 66
+    },
+    {
+        "obfuscation": "I'm him. to",
+        "obfuscation-id": 4,
+        "original": "I'm going to see him.",
+        "original-end-charpos": 106,
+        "original-start-charpos": 86
+    },
+    {
+        "obfuscation": "I look. Let",
+        "obfuscation-id": 5,
+        "original": "Let me look.",
+        "original-end-charpos": 118,
+        "original-start-charpos": 107
+    },
+    {
+        "obfuscation": "these Oh, it's greater and _bigger_ and BIGGER!",
+        "obfuscation-id": 6,
+        "original": "Oh, it's getting bigger and _bigger_ and BIGGER!",
+        "original-end-charpos": 166,
+        "original-start-charpos": 119
+    },
+    {
+        "obfuscation": "Hurray!",
+        "obfuscation-id": 7,
+        "original": "Hurray!",
+        "original-end-charpos": 173,
+        "original-start-charpos": 167
+    },
+    {
+        "obfuscation": "daddy's coming!",
+        "obfuscation-id": 8,
+        "original": "daddy's coming!",
+        "original-end-charpos": 188,
+        "original-start-charpos": 174
+    },
+    {
+        "obfuscation": "daddy's coming!",
+        "obfuscation-id": 9,
+        "original": "daddy's coming!",
+        "original-end-charpos": 203,
+        "original-start-charpos": 189
+    },
+    {
+        "obfuscation": "I can the bells. Now",
+        "obfuscation-id": 10,
+        "original": "Now I can hear the bells.",
+        "original-end-charpos": 228,
+        "original-start-charpos": 204
+    },
+    {
+        "obfuscation": "Oh, it's and future and CLOSER. _closer_",
+        "obfuscation-id": 11,
+        "original": "Oh, it's coming closer and _closer_ and CLOSER.",
+        "original-end-charpos": 275,
+        "original-start-charpos": 229
+    },
+    {
+        "obfuscation": "Look out, it's the boat! .",
+        "obfuscation-id": 12,
+        "original": "Look out, it's going to hit the boat!",
+        "original-end-charpos": 312,
+        "original-start-charpos": 276
+    },
+    {
+        "obfuscation": "He of us. on",
+        "obfuscation-id": 13,
+        "original": "He flew right by us.",
+        "original-end-charpos": 332,
+        "original-start-charpos": 313
+    },
+    {
+        "obfuscation": "he boat. didn't Maybe",
+        "obfuscation-id": 14,
+        "original": "Maybe he didn't see the boat.",
+        "original-end-charpos": 361,
+        "original-start-charpos": 333
+    },
+    {
+        "obfuscation": "it Oh, isn't all. in",
+        "obfuscation-id": 15,
+        "original": "Oh, now he isn't coming at all.",
+        "original-end-charpos": 392,
+        "original-start-charpos": 362
+    },
+    {
+        "obfuscation": "it is. Yes,",
+        "obfuscation-id": 16,
+        "original": "Yes, he is.",
+        "original-end-charpos": 403,
+        "original-start-charpos": 393
+    },
+    {
+        "obfuscation": "in there. He's landed right",
+        "obfuscation-id": 17,
+        "original": "He's landed right over there.",
+        "original-end-charpos": 432,
+        "original-start-charpos": 404
+    },
+    {
+        "obfuscation": "it comes! comes; Here it",
+        "obfuscation-id": 18,
+        "original": "Here he comes; here he comes!",
+        "original-end-charpos": 461,
+        "original-start-charpos": 433
+    },
+    {
+        "obfuscation": "we Santa Claus. are, Here",
+        "obfuscation-id": 19,
+        "original": "Here we are, Santa Claus.",
+        "original-end-charpos": 486,
+        "original-start-charpos": 462
+    },
+    {
+        "obfuscation": "the place. also",
+        "obfuscation-id": 20,
+        "original": "This is the place.",
+        "original-end-charpos": 504,
+        "original-start-charpos": 487
+    },
+    {
+        "obfuscation": "Come in.",
+        "obfuscation-id": 21,
+        "original": "Come in.",
+        "original-end-charpos": 512,
+        "original-start-charpos": 505
+    },
+    {
+        "obfuscation": "frohe Christmas, Santa Claus, merry Christmas!",
+        "obfuscation-id": 22,
+        "original": "Merry Christmas, Santa Claus, merry Christmas!",
+        "original-end-charpos": 558,
+        "original-start-charpos": 513
+    },
+    {
+        "obfuscation": "Hello, there--where you? are",
+        "obfuscation-id": 23,
+        "original": "Hello, there--where are you?",
+        "original-end-charpos": 586,
+        "original-start-charpos": 559
+    },
+    {
+        "obfuscation": "so , I It's dunkel can't a single thing.",
+        "obfuscation-id": 24,
+        "original": "It's so dark I can't see a single thing.",
+        "original-end-charpos": 626,
+        "original-start-charpos": 587
+    },
+    {
+        "obfuscation": "Hello, daddy; merry Christmas.",
+        "obfuscation-id": 25,
+        "original": "Hello, daddy; merry Christmas.",
+        "original-end-charpos": 656,
+        "original-start-charpos": 627
+    },
+    {
+        "obfuscation": "Hello yourself.",
+        "obfuscation-id": 26,
+        "original": "Hello yourself.",
+        "original-end-charpos": 671,
+        "original-start-charpos": 657
+    },
+    {
+        "obfuscation": "to you, too. frohe Christmas",
+        "obfuscation-id": 27,
+        "original": "Merry Christmas to you, too.",
+        "original-end-charpos": 699,
+        "original-start-charpos": 672
+    },
+    {
+        "obfuscation": "for all Are me?",
+        "obfuscation-id": 28,
+        "original": "Are you all ready for me?",
+        "original-end-charpos": 724,
+        "original-start-charpos": 700
+    },
+    {
+        "obfuscation": "all Yes, it's ready.",
+        "obfuscation-id": 29,
+        "original": "Yes, it's all ready.",
+        "original-end-charpos": 744,
+        "original-start-charpos": 725
+    },
+    {
+        "obfuscation": "on Baum wiles for your , for real Christmas tree.",
+        "obfuscation-id": 30,
+        "original": "The magical tree is just waiting for your touch to turn into a real Christmas tree.",
+        "original-end-charpos": 827,
+        "original-start-charpos": 745
+    },
+    {
+        "obfuscation": "there is a real Christmas tree. Oh, we're",
+        "obfuscation-id": 31,
+        "original": "Oh, we're going to have a real Christmas tree.",
+        "original-end-charpos": 873,
+        "original-start-charpos": 828
+    },
+    {
+        "obfuscation": "these young person? Hello, who's",
+        "obfuscation-id": 32,
+        "original": "Hello, who's this young person?",
+        "original-end-charpos": 904,
+        "original-start-charpos": 874
+    },
+    {
+        "obfuscation": "also Anita.",
+        "obfuscation-id": 33,
+        "original": "This is Anita.",
+        "original-end-charpos": 918,
+        "original-start-charpos": 905
+    },
+    {
+        "obfuscation": "and why isn't for it and the other children?",
+        "obfuscation-id": 34,
+        "original": "And why isn't she sound asleep like the rest of the children?",
+        "original-end-charpos": 979,
+        "original-start-charpos": 919
+    },
+    {
+        "obfuscation": "as good She's little girls , I said that it remains expect their with me and you came.",
+        "obfuscation-id": 35,
+        "original": "She's such a good little girl that I told her she could stay up with me and wait until you came.",
+        "original-end-charpos": 1075,
+        "original-start-charpos": 980
+    },
+    {
+        "obfuscation": "Oh, ho; you've means a so my boy, Jack Frost, you? have",
+        "obfuscation-id": 36,
+        "original": "Oh, ho; so you've made a hit with my boy, Jack Frost, have you?",
+        "original-end-charpos": 1138,
+        "original-start-charpos": 1076
+    },
+    {
+        "obfuscation": "if the case, Well, that's imagine , I can you stay.",
+        "obfuscation-id": 37,
+        "original": "Well, if that's the case, I guess you can stay.",
+        "original-end-charpos": 1185,
+        "original-start-charpos": 1139
+    },
+    {
+        "obfuscation": "all children But you, Santa Claus. d",
+        "obfuscation-id": 38,
+        "original": "But all of the children would like to see you, Santa Claus.",
+        "original-end-charpos": 1244,
+        "original-start-charpos": 1186
+    },
+    {
+        "obfuscation": "the candle See, they've loans and the wreath the holly and held in Bethlehem for you. determined",
+        "obfuscation-id": 39,
+        "original": "See, they've prepared the candle and the wreath of holly and the star of Bethlehem all for you.",
+        "original-end-charpos": 1339,
+        "original-start-charpos": 1245
+    },
+    {
+        "obfuscation": "There's Sergius and Tomasso and Hulda and Meeny and Hans and Yakob and Neelda and Ah Goo and Sano San and Mieze and leetla Dutch twins, Klinker and Schwillie Willie Winkum.",
+        "obfuscation-id": 40,
+        "original": "There's Sergius and Tomasso and Hulda and Meeny and Hans and Yakob and Neelda and Ah Goo and Sano San and Mieze and the leetla Dutch twins, Klinker and Schwillie Willie Winkum.",
+        "original-end-charpos": 1515,
+        "original-start-charpos": 1340
+    },
+    {
+        "obfuscation": "all They've awfully good children.",
+        "obfuscation-id": 41,
+        "original": "They've all been awfully good children.",
+        "original-end-charpos": 1554,
+        "original-start-charpos": 1516
+    },
+    {
+        "obfuscation": "and Biddy Mary and Paddy Mike the candle.",
+        "obfuscation-id": 42,
+        "original": "And Biddy Mary and Paddy Mike they brought the candle.",
+        "original-end-charpos": 1608,
+        "original-start-charpos": 1555
+    },
+    {
+        "obfuscation": "They're good, too.",
+        "obfuscation-id": 43,
+        "original": "They're good, too.",
+        "original-end-charpos": 1626,
+        "original-start-charpos": 1609
+    }
+]

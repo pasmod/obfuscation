@@ -1,0 +1,58 @@
+[
+  {
+    "obfuscation": "A Christmas tree; look at former Santa Claus; yet a few nice Christmas presents etc, and stop stop, as myself ca n't attend to so many wishes at once; please Mr. Wishing Man could oh not you tell us what our own selves would better wish for, and have you ever had a great big Christmas tree? ",
+    "obfuscation-id": 1,
+    "original": "A Christmas tree. A look at old Santa Claus. Some nice Christmas presents, etc. Stop, stop. I can't attend to so many wishes at once. Please, Mr. Wishing Man, couldn't you tell us what we'd better wish for? Have you ever had a great, big Christmas tree? ",
+    "original-end-charpos": 255,
+    "original-start-charpos": 0
+  },
+  {
+    "obfuscation": "Oh yeah one lot in times; and have you ever see my old Mr. Santa Claus, oh yes, our own selves see him every year at Christmas; and how would like tto go along me tto Wishing Land, yet oh goody; and that would be ok. Can you take america here; yet oof course myself can. ",
+    "obfuscation-id": 2,
+    "original": "Oh, yes, lots of times. Have you ever seen my old friend, Mr. Santa Claus? Oh, yes. We see him every year at Christmas. How would like to go with me to Wishing Land. Oh, goody! That would be fine. Can you take us there? Of course I can. ",
+    "original-end-charpos": 493,
+    "original-start-charpos": 256
+  },
+  {
+    "obfuscation": "And that 's just what we 'll do; we 'll all oof america go tto the Wishing Land; and first I will call little Dumpling; and dumpling little Dumpling where are you, here myself am Mr. Wishing Man, as i was playing along my little horse and car wagon. ",
+    "obfuscation-id": 3,
+    "original": "And that's just what we'll do. We'll all of us go to the Wishing Land. First, I'll call little Dumpling. Dumpling, little Dumpling, where are you? Here I am, Mr. Wishing Man. I was playing with my little horse and wagon. ",
+    "original-end-charpos": 715,
+    "original-start-charpos": 494
+  },
+  {
+    "obfuscation": "As an illustration, And how do you like being a great big Dumpling; as well not too good, myself 'm always bumping my head against the doors also things; and and my whole toys are so very small I 'm always breaking them, where be your sister, where is small Tootsy, and here Mr. Wishing Man. ",
+    "obfuscation-id": 4,
+    "original": "And how do you like being a great, big Dumpling? Well, not very well. I'm always bumping my head on the doors and things. And all my toys are so very little I'm always breaking them. Where is your sister? Where is little Tootsy? Here, Mr. Wishing Man. ",
+    "original-end-charpos": 968,
+    "original-start-charpos": 716
+  },
+  {
+    "obfuscation": "myself 'm here, me and my small dolly, and well small Tootsy how do you love being a great big Tootsy; myself do n't like it very well; my clothes do n't appear tto fit and myself know myself look awfully fun, do not myself? ",
+    "obfuscation-id": 5,
+    "original": "I'm here. Me and my little dolly. Well, little Tootsy, how do you like being a great, big Tootsy? I don't like it very well. My clothes don't seem to fit, and I know I look awfully funny. Don't I? ",
+    "original-end-charpos": 1166,
+    "original-start-charpos": 969
+  },
+  {
+    "obfuscation": "Afterwards, Everybody laughs at me also it always makes me cry, and where 's small Snookie Ookums, here myself am Mr. Wishing Man, yet here 's 'ittie Snookie Ookums; you look like 'ittie baby elephant Snookie Ookums, yet well are you children satisfied with your wish, not very much. ",
+    "obfuscation-id": 6,
+    "original": "Everybody laughs at me and it always makes me cry. And where is little Snookie Ookums? Here I am, Mr. Wishing Man. Here's 'ittie Snookie Ookums. You look like a 'ittie baby elephant, Snookie Ookums. Well, are you children satisfied with your wish? Not very much. ",
+    "original-end-charpos": 1430,
+    "original-start-charpos": 1167
+  },
+  {
+    "obfuscation": "In brief, our own selves wish we were small once repeatedly, and i tried tto ride my small horsie also I bweaked him all tto pieces; and also myself ca not get that 's sufficient tto eat, my little knife and fork also spoon are too small and when myself eat myself swallow dishes and all. ",
+    "obfuscation-id": 7,
+    "original": "We wish we were little again. I tried to ride my little horsie and I bweaked him all to pieces. And I can't get enough to eat. My little knife and fork and spoon are too little, and when I eat I swallow dishes and all. ",
+    "original-end-charpos": 1650,
+    "original-start-charpos": 1431
+  },
+  {
+    "obfuscation": "And all my clothes are too small for me also I look so funny this everybody laughs at me; also I do not like it at all. ",
+    "obfuscation-id": 8,
+    "original": "And all my clothes are too little for me, and I look so funny that everybody laughs at me. And I don't like it at all. ",
+    "original-end-charpos": 1772,
+    "original-start-charpos": 1651
+  }
+]

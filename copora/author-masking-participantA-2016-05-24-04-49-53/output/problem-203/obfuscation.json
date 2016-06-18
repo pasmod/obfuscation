@@ -1,0 +1,289 @@
+[
+    {
+        "obfuscation": "I am the last person to insult a British sailor , Sir Joseph .", 
+        "obfuscation-id": 1, 
+        "original": "I am the last person to insult a British sailor, Sir Joseph.", 
+        "original-end-charpos": 59, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "You are the last person who did , Captain Corcoran .", 
+        "obfuscation-id": 2, 
+        "original": "\n\nYou are the last person who did, Captain Corcoran.", 
+        "original-end-charpos": 111, 
+        "original-start-charpos": 60
+    }, 
+    {
+        "obfuscation": "Desire that splendid seaman to step forward .", 
+        "obfuscation-id": 3, 
+        "original": " Desire\nthat splendid seaman to step forward.", 
+        "original-end-charpos": 156, 
+        "original-start-charpos": 112
+    }, 
+    {
+        "obfuscation": "No , no , the other splendid seaman .", 
+        "obfuscation-id": 4, 
+        "original": "\n\n                          \nNo, no, the other splendid seaman.", 
+        "original-end-charpos": 219, 
+        "original-start-charpos": 157
+    }, 
+    {
+        "obfuscation": "Ralph Rackstraw , three paces to the front -- march !", 
+        "obfuscation-id": 5, 
+        "original": "\n\nRalph Rackstraw, three paces to the front--march!", 
+        "original-end-charpos": 270, 
+        "original-start-charpos": 220
+    }, 
+    {
+        "obfuscation": "If what ?", 
+        "obfuscation-id": 6, 
+        "original": "\n\nIf what?", 
+        "original-end-charpos": 280, 
+        "original-start-charpos": 271
+    }, 
+    {
+        "obfuscation": "I beg your pardon -- I do n't think I understand you .", 
+        "obfuscation-id": 7, 
+        "original": "\n\nI beg your pardon--I don't think I understand you.", 
+        "original-end-charpos": 332, 
+        "original-start-charpos": 281
+    }, 
+    {
+        "obfuscation": "If you please .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nIf you please.", 
+        "original-end-charpos": 348, 
+        "original-start-charpos": 333
+    }, 
+    {
+        "obfuscation": "Oh , yes , of course .", 
+        "obfuscation-id": 9, 
+        "original": "\n\nOh, yes, of course.", 
+        "original-end-charpos": 369, 
+        "original-start-charpos": 349
+    }, 
+    {
+        "obfuscation": "If you please .", 
+        "obfuscation-id": 10, 
+        "original": " If you please.", 
+        "original-end-charpos": 384, 
+        "original-start-charpos": 370
+    }, 
+    {
+        "obfuscation": "You 're a remarkably fine fellow .", 
+        "obfuscation-id": 11, 
+        "original": "\n\nYou're a remarkably fine fellow.", 
+        "original-end-charpos": 418, 
+        "original-start-charpos": 385
+    }, 
+    {
+        "obfuscation": "Yes , your honour .", 
+        "obfuscation-id": 12, 
+        "original": "\n\n Yes, your honour.", 
+        "original-end-charpos": 438, 
+        "original-start-charpos": 419
+    }, 
+    {
+        "obfuscation": "And a first-rate seaman , I 'll be bound .", 
+        "obfuscation-id": 13, 
+        "original": "\n\nAnd a first-rate seaman, I'll be bound.", 
+        "original-end-charpos": 479, 
+        "original-start-charpos": 439
+    }, 
+    {
+        "obfuscation": "There 's not a smarter topman in the Navy , your honour , though I say it who should n't .", 
+        "obfuscation-id": 14, 
+        "original": "\n\nThere's not a smarter topman in the Navy, your honour, though I\n say it who shouldn't.", 
+        "original-end-charpos": 567, 
+        "original-start-charpos": 480
+    }, 
+    {
+        "obfuscation": "Not at all .", 
+        "obfuscation-id": 15, 
+        "original": "\n\nNot at all.", 
+        "original-end-charpos": 580, 
+        "original-start-charpos": 568
+    }, 
+    {
+        "obfuscation": "Proper self-respect , nothing more .", 
+        "obfuscation-id": 16, 
+        "original": " Proper self-respect, nothing more.", 
+        "original-end-charpos": 615, 
+        "original-start-charpos": 581
+    }, 
+    {
+        "obfuscation": "Can you dance a hornpipe ?", 
+        "obfuscation-id": 17, 
+        "original": " Can you\ndance a hornpipe?", 
+        "original-end-charpos": 641, 
+        "original-start-charpos": 616
+    }, 
+    {
+        "obfuscation": "No , your honour .", 
+        "obfuscation-id": 18, 
+        "original": "\n\nNo, your honour.", 
+        "original-end-charpos": 659, 
+        "original-start-charpos": 642
+    }, 
+    {
+        "obfuscation": "That 's a pity : all sailors should dance hornpipes .", 
+        "obfuscation-id": 19, 
+        "original": "\n\nThat's a pity: all sailors should dance hornpipes.", 
+        "original-end-charpos": 711, 
+        "original-start-charpos": 660
+    }, 
+    {
+        "obfuscation": "I will teach you one this evening , after dinner .", 
+        "obfuscation-id": 20, 
+        "original": " I will\n  teach you one this evening, after dinner.", 
+        "original-end-charpos": 762, 
+        "original-start-charpos": 712
+    }, 
+    {
+        "obfuscation": "Now tell me -- make n't be afraid -- how does your captain treat you , eh ?", 
+        "obfuscation-id": 21, 
+        "original": " Now tell me--don't be\n  afraid-- how does your captain treat you, eh?", 
+        "original-end-charpos": 832, 
+        "original-start-charpos": 763
+    }, 
+    {
+        "obfuscation": "A better captain make n't walk the deck , your honour .", 
+        "obfuscation-id": 22, 
+        "original": "\n\nA better captain don't walk the deck, your honour.", 
+        "original-end-charpos": 884, 
+        "original-start-charpos": 833
+    }, 
+    {
+        "obfuscation": "Aye ; Aye !", 
+        "obfuscation-id": 23, 
+        "original": "\n\nAye; Aye!", 
+        "original-end-charpos": 895, 
+        "original-start-charpos": 885
+    }, 
+    {
+        "obfuscation": "Good .", 
+        "obfuscation-id": 24, 
+        "original": "\n\n Good.", 
+        "original-end-charpos": 903, 
+        "original-start-charpos": 896
+    }, 
+    {
+        "obfuscation": "I like to hear you speak well of your commanding officer ; I daresay he do n't deserve it , but still it does you credit .", 
+        "obfuscation-id": 25, 
+        "original": " I like to hear you speak well of your commanding\n  officer; I daresay he don't deserve it, but still it does you\n  credit.", 
+        "original-end-charpos": 1026, 
+        "original-start-charpos": 904
+    }, 
+    {
+        "obfuscation": "Can you sing ?", 
+        "obfuscation-id": 26, 
+        "original": " Can you sing?", 
+        "original-end-charpos": 1040, 
+        "original-start-charpos": 1027
+    }, 
+    {
+        "obfuscation": "I can hum a small , your honour .", 
+        "obfuscation-id": 27, 
+        "original": "\n\nI can hum a little, your honour.", 
+        "original-end-charpos": 1074, 
+        "original-start-charpos": 1041
+    }, 
+    {
+        "obfuscation": "Then hum this at your leisure .", 
+        "obfuscation-id": 28, 
+        "original": "\n\nThen hum this at your leisure.", 
+        "original-end-charpos": 1106, 
+        "original-start-charpos": 1075
+    }, 
+    {
+        "obfuscation": "It is a song that I have composed for the use of the Royal Navy .", 
+        "obfuscation-id": 29, 
+        "original": " It is a song that I have composed for the use of the Royal Navy.", 
+        "original-end-charpos": 1171, 
+        "original-start-charpos": 1107
+    }, 
+    {
+        "obfuscation": "It is designed to encourage independence of thought and action in the lower branches of the service , and to teach the principle that a British sailor is any man 's equal , excepting mine .", 
+        "obfuscation-id": 30, 
+        "original": " \nIt is designed to encourage independence of thought and action in the\n lower branches of the service, and to teach the principle that a  British sailor\n  is any man's equal, excepting mine.", 
+        "original-end-charpos": 1362, 
+        "original-start-charpos": 1172
+    }, 
+    {
+        "obfuscation": "Now , Captain Corcoran , a word with you in your cabin , on a bid and sentimental subject .", 
+        "obfuscation-id": 31, 
+        "original": " Now, Captain Corcoran, a word with\n  you in your cabin, on a tender and sentimental subject.", 
+        "original-end-charpos": 1455, 
+        "original-start-charpos": 1363
+    }, 
+    {
+        "obfuscation": "Aye , aye , Sir Joseph Boatswain , in commemoration of this joyous occasion , see that extra grog is served out to the ship 's company at seven bells .", 
+        "obfuscation-id": 32, 
+        "original": "\n\nAye, aye,\n\n    Sir Joseph Boatswain, in commemoration of this joyous\n  occasion, see that extra grog is served out to the ship's company\n  at seven bells.", 
+        "original-end-charpos": 1611, 
+        "original-start-charpos": 1456
+    }, 
+    {
+        "obfuscation": "Beg pardon .", 
+        "obfuscation-id": 33, 
+        "original": "\n\nBeg pardon.", 
+        "original-end-charpos": 1624, 
+        "original-start-charpos": 1612
+    }, 
+    {
+        "obfuscation": "If what , your honour ?", 
+        "obfuscation-id": 34, 
+        "original": " If what, your honour?", 
+        "original-end-charpos": 1646, 
+        "original-start-charpos": 1625
+    }, 
+    {
+        "obfuscation": "If what ?", 
+        "obfuscation-id": 35, 
+        "original": "\n\nIf what?", 
+        "original-end-charpos": 1656, 
+        "original-start-charpos": 1647
+    }, 
+    {
+        "obfuscation": "I do n't think I understand you .", 
+        "obfuscation-id": 36, 
+        "original": " I don't think I understand you.", 
+        "original-end-charpos": 1688, 
+        "original-start-charpos": 1657
+    }, 
+    {
+        "obfuscation": "If you please , your honour .", 
+        "obfuscation-id": 37, 
+        "original": "\n\nIf you please, your honour.", 
+        "original-end-charpos": 1717, 
+        "original-start-charpos": 1689
+    }, 
+    {
+        "obfuscation": "What !", 
+        "obfuscation-id": 38, 
+        "original": "\n\nWhat!", 
+        "original-end-charpos": 1724, 
+        "original-start-charpos": 1718
+    }, 
+    {
+        "obfuscation": "The gentleman is quite right .", 
+        "obfuscation-id": 39, 
+        "original": "\n\nThe gentleman is quite right.", 
+        "original-end-charpos": 1755, 
+        "original-start-charpos": 1725
+    }, 
+    {
+        "obfuscation": "If you please .", 
+        "obfuscation-id": 40, 
+        "original": " If you please.", 
+        "original-end-charpos": 1770, 
+        "original-start-charpos": 1756
+    }, 
+    {
+        "obfuscation": "If you please !", 
+        "obfuscation-id": 41, 
+        "original": "\n\n If you please!\n\n\n", 
+        "original-end-charpos": 1790, 
+        "original-start-charpos": 1771
+    }
+]

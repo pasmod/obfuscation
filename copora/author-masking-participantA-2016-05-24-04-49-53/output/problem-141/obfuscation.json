@@ -1,0 +1,394 @@
+[
+    {
+        "obfuscation": "VI .", 
+        "obfuscation-id": 1, 
+        "original": "VI.", 
+        "original-end-charpos": 2, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "The Dunwich horror itself came between Lammas and the equinox in 1928 , and Dr. Armitage was among those who witnessed its monstrous prologue .", 
+        "obfuscation-id": 2, 
+        "original": "\n\nThe Dunwich horror itself came between Lammas and the equinox in 1928, and Dr. Armitage was among those who witnessed its monstrous prologue.", 
+        "original-end-charpos": 145, 
+        "original-start-charpos": 3
+    }, 
+    {
+        "obfuscation": "He had heard , meanwhile , of Whateley\u2019s grotesque trip to Cambridge , and of his delirious efforts to borrow or copy from the Necronomicon at the Widener Library .", 
+        "obfuscation-id": 3, 
+        "original": " He had heard, meanwhile, of Whateley\u2019s grotesque trip to Cambridge, and of his frantic efforts to borrow or copy from the Necronomicon at the Widener Library.", 
+        "original-end-charpos": 304, 
+        "original-start-charpos": 146
+    }, 
+    {
+        "obfuscation": "Those efforts had been in vain , since Armitage had issued warnings of the acute intensity to all librarians having charge of the dreaded volume .", 
+        "obfuscation-id": 4, 
+        "original": " Those efforts had been in vain, since Armitage had issued warnings of the keenest intensity to all librarians having charge of the dreaded volume.", 
+        "original-end-charpos": 451, 
+        "original-start-charpos": 305
+    }, 
+    {
+        "obfuscation": "Wilbur had been shockingly nervous at Cambridge ; anxious for the record , yet almost equally anxious to get home again , as if he feared the results of being away long .", 
+        "obfuscation-id": 5, 
+        "original": " Wilbur had been shockingly nervous at Cambridge; anxious for the book, yet almost equally anxious to get home again, as if he feared the results of being away long.", 
+        "original-end-charpos": 616, 
+        "original-start-charpos": 452
+    }, 
+    {
+        "obfuscation": "Early in August the half-expected outcome developed , and in the minor hours of the 3d Dr. Armitage was awakened suddenly by the wild , fierce cries of the savage watchdog on the college campus .", 
+        "obfuscation-id": 6, 
+        "original": "\n      Early in August the half-expected outcome developed, and in the small hours of the 3d Dr. Armitage was awakened suddenly by the wild, fierce cries of the savage watchdog on the college campus.", 
+        "original-end-charpos": 815, 
+        "original-start-charpos": 617
+    }, 
+    {
+        "obfuscation": "Deep and terrible , the snarling , half-mad growls and barks continued ; always in mounting book , but with hideously significant pauses .", 
+        "obfuscation-id": 7, 
+        "original": " Deep and terrible, the snarling, half-mad growls and barks continued; always in mounting volume, but with hideously significant pauses.", 
+        "original-end-charpos": 951, 
+        "original-start-charpos": 816
+    }, 
+    {
+        "obfuscation": "Then there rang out a scream from a wholly different throat\u2014such a scream as roused half the sleepers of Arkham and haunted their dreams ever afterward\u2014such a scream as could come from no being born of land , or wholly of earth .", 
+        "obfuscation-id": 8, 
+        "original": " Then there rang out a scream from a wholly different throat\u2014such a scream as roused half the sleepers of Arkham and haunted their dreams ever afterward\u2014such a scream as could come from no being born of earth, or wholly of earth.", 
+        "original-end-charpos": 1180, 
+        "original-start-charpos": 952
+    }, 
+    {
+        "obfuscation": "Armitage , hastening into some clothing and rushing across the street and lawn to the college buildings , saw that others were ahead of him ; and heard the echoes of a burglar-alarm however shrilling from the library .", 
+        "obfuscation-id": 9, 
+        "original": "\n      Armitage, hastening into some clothing and rushing across the street and lawn to the college buildings, saw that others were ahead of him; and heard the echoes of a burglar-alarm still shrilling from the library.", 
+        "original-end-charpos": 1399, 
+        "original-start-charpos": 1181
+    }, 
+    {
+        "obfuscation": "An open window proved black and gaping in the moonlight .", 
+        "obfuscation-id": 10, 
+        "original": " An open window shewed black and gaping in the moonlight.", 
+        "original-end-charpos": 1456, 
+        "original-start-charpos": 1400
+    }, 
+    {
+        "obfuscation": "What had come had indeed completed its entrance ; for the barking and the screaming , nowadays fast fading into a mixed low growling and moaning , proceeded unmistakably from within .", 
+        "obfuscation-id": 11, 
+        "original": " What had come had indeed completed its entrance; for the barking and the screaming, now fast fading into a mixed low growling and moaning, proceeded unmistakably from within.", 
+        "original-end-charpos": 1631, 
+        "original-start-charpos": 1457
+    }, 
+    {
+        "obfuscation": "Some instinct warned Armitage that what was taking place was not a thing for unfortified eyes to see , so he brushed back the crowd with authority as he unlocked the vestibule door .", 
+        "obfuscation-id": 12, 
+        "original": " Some instinct warned Armitage that what was taking place was not a thing for unfortified eyes to see, so he brushed back the crowd with authority as he unlocked the vestibule door.", 
+        "original-end-charpos": 1812, 
+        "original-start-charpos": 1632
+    }, 
+    {
+        "obfuscation": "Among the others he saw Professor Warren Rice and Dr. Francis Morgan , men to whom he had told some of his conjectures and misgivings ; and these two he motioned to accompany him inwardly .", 
+        "obfuscation-id": 13, 
+        "original": " Among the others he saw Professor Warren Rice and Dr. Francis Morgan, men to whom he had told some of his conjectures and misgivings; and these two he motioned to accompany him inside.", 
+        "original-end-charpos": 1997, 
+        "original-start-charpos": 1813
+    }, 
+    {
+        "obfuscation": "The inward voices , except for a watchful , droning whine from the dog , had by this time quite subsided ; but Armitage now perceived with a sudden start that a loud chorus of whippoorwills among the shrubbery had commenced a damnably rhythmical piping , as if in unison with the last breaths of a dying man .", 
+        "obfuscation-id": 14, 
+        "original": " The inward sounds, except for a watchful, droning whine from the dog, had by this time quite subsided; but Armitage now perceived with a sudden start that a loud chorus of whippoorwills among the shrubbery had commenced a damnably rhythmical piping, as if in unison with the last breaths of a dying man.", 
+        "original-end-charpos": 2301, 
+        "original-start-charpos": 1998
+    }, 
+    {
+        "obfuscation": "The building was full of a frightful stench which Dr. Armitage knew too well , and the three men raced across the hall to the small genealogical reading-room whence the low whining came .", 
+        "obfuscation-id": 15, 
+        "original": "\n      The building was full of a frightful stench which Dr. Armitage knew too well, and the three men rushed across the hall to the small genealogical reading-room whence the low whining came.", 
+        "original-end-charpos": 2494, 
+        "original-start-charpos": 2302
+    }, 
+    {
+        "obfuscation": "For a second nobody dared to turn on the light , then Armitage summoned up his courage and snapped the switch .", 
+        "obfuscation-id": 16, 
+        "original": " For a second nobody dared to turn on the light, then Armitage summoned up his courage and snapped the switch.", 
+        "original-end-charpos": 2604, 
+        "original-start-charpos": 2495
+    }, 
+    {
+        "obfuscation": "One of the three\u2014it is not certain which\u2014shrieked aloud at what sprawled before them among disordered boards and overturned chairs .", 
+        "obfuscation-id": 17, 
+        "original": " One of the three\u2014it is not certain which\u2014shrieked aloud at what sprawled before them among disordered tables and overturned chairs.", 
+        "original-end-charpos": 2736, 
+        "original-start-charpos": 2605
+    }, 
+    {
+        "obfuscation": "Professor Rice declares that he wholly lost consciousness for an instant , though he did not stumble or fall .", 
+        "obfuscation-id": 18, 
+        "original": " Professor Rice declares that he wholly lost consciousness for an instant, though he did not stumble or fall.", 
+        "original-end-charpos": 2845, 
+        "original-start-charpos": 2737
+    }, 
+    {
+        "obfuscation": "The thing that lay half-bent on its side in a foetid pool of greenish-yellow ichor and tarry stickiness was almost nine feet tall , and the dog had torn away all the clothing and some of the skin .", 
+        "obfuscation-id": 19, 
+        "original": "\n      The thing that lay half-bent on its side in a foetid pool of greenish-yellow ichor and tarry stickiness was almost nine feet tall, and the dog had torn off all the clothing and some of the skin.", 
+        "original-end-charpos": 3046, 
+        "original-start-charpos": 2846
+    }, 
+    {
+        "obfuscation": "It was not quite dead , but twitched silently and spasmodically while its chest heaved in monstrous unison with the brainsick piping of the expectant whippoorwills outside .", 
+        "obfuscation-id": 20, 
+        "original": " It was not quite dead, but twitched silently and spasmodically while its chest heaved in monstrous unison with the mad piping of the expectant whippoorwills outside.", 
+        "original-end-charpos": 3212, 
+        "original-start-charpos": 3047
+    }, 
+    {
+        "obfuscation": "Bits of shoe-leather and fragments of apparel were scattered about the room , and just inside the window an empty canvas sack lay where it had obviously been thrown .", 
+        "obfuscation-id": 21, 
+        "original": " Bits of shoe-leather and fragments of apparel were scattered about the room, and just inside the window an empty canvas sack lay where it had evidently been thrown.", 
+        "original-end-charpos": 3377, 
+        "original-start-charpos": 3213
+    }, 
+    {
+        "obfuscation": "Near the central desk a revolver had fallen , a dented but undischarged cartridge by and by explaining why it had not been fired .", 
+        "obfuscation-id": 22, 
+        "original": " Near the central desk a revolver had fallen, a dented but undischarged cartridge later explaining why it had not been fired.", 
+        "original-end-charpos": 3502, 
+        "original-start-charpos": 3378
+    }, 
+    {
+        "obfuscation": "The matter itself , however , crowded out all other images at the time .", 
+        "obfuscation-id": 23, 
+        "original": " The thing itself, however, crowded out all other images at the time.", 
+        "original-end-charpos": 3571, 
+        "original-start-charpos": 3503
+    }, 
+    {
+        "obfuscation": "It would be trite and not wholly accurate to say that no human pen could describe it , but one may properly say that it could not be vividly visualised by anyone whose ideas of view and contour are too closely bound up with the common life-forms of this planet and of the three known dimensions .", 
+        "obfuscation-id": 24, 
+        "original": " It would be trite and not wholly accurate to say that no human pen could describe it, but one may properly say that it could not be vividly visualised by anyone whose ideas of aspect and contour are too closely bound up with the common life-forms of this planet and of the three known dimensions.", 
+        "original-end-charpos": 3868, 
+        "original-start-charpos": 3572
+    }, 
+    {
+        "obfuscation": "It was partly human , beyond a doubt , with very man-like hands and head , and the goatish , chinless face had the cast of the Whateleys upon it .", 
+        "obfuscation-id": 25, 
+        "original": " It was partly human, beyond a doubt, with very man-like hands and head, and the goatish, chinless face had the stamp of the Whateleys upon it.", 
+        "original-end-charpos": 4011, 
+        "original-start-charpos": 3869
+    }, 
+    {
+        "obfuscation": "But the torso and lower regions of the body were teratologically fabulous , so that only generous clothing could ever have enabled it to walk on earth unchallenged or uneradicated .", 
+        "obfuscation-id": 26, 
+        "original": " But the torso and lower parts of the body were teratologically fabulous, so that only generous clothing could ever have enabled it to walk on earth unchallenged or uneradicated.", 
+        "original-end-charpos": 4189, 
+        "original-start-charpos": 4012
+    }, 
+    {
+        "obfuscation": "Above the waist it was semi-anthropomorphic ; though its chest , where the dog\u2019s rending paws however rested watchfully , had the leathery , reticulated hide of a crocodile or alligator .", 
+        "obfuscation-id": 27, 
+        "original": "\n      Above the waist it was semi-anthropomorphic; though its chest, where the dog\u2019s rending paws still rested watchfully, had the leathery, reticulated hide of a crocodile or alligator.", 
+        "original-end-charpos": 4376, 
+        "original-start-charpos": 4190
+    }, 
+    {
+        "obfuscation": "The back was piebald with yellow and bootleg , and dimly suggested the squamous covering of certain snakes .", 
+        "obfuscation-id": 28, 
+        "original": " The back was piebald with yellow and black, and dimly suggested the squamous covering of certain snakes.", 
+        "original-end-charpos": 4481, 
+        "original-start-charpos": 4377
+    }, 
+    {
+        "obfuscation": "Below the waist , though , it was the bad ; for here all human resemblance left off and sheer phantasy began .", 
+        "obfuscation-id": 29, 
+        "original": " Below the waist, though, it was the worst; for here all human resemblance left off and sheer phantasy began.", 
+        "original-end-charpos": 4590, 
+        "original-start-charpos": 4482
+    }, 
+    {
+        "obfuscation": "The skin was thickly covered with coarse bootleg fur , and from the abdomen a score of long greenish-grey tentacles with red sucking mouths protruded limply .", 
+        "obfuscation-id": 30, 
+        "original": " The skin was thickly covered with coarse black fur, and from the abdomen a score of long greenish-grey tentacles with red sucking mouths protruded limply.", 
+        "original-end-charpos": 4745, 
+        "original-start-charpos": 4591
+    }, 
+    {
+        "obfuscation": "Their arrangement was curious , and seemed to follow the symmetries of some cosmic geometry unknown to earth or the solar system .", 
+        "obfuscation-id": 31, 
+        "original": " Their arrangement was odd, and seemed to follow the symmetries of some cosmic geometry unknown to earth or the solar system.", 
+        "original-end-charpos": 4870, 
+        "original-start-charpos": 4746
+    }, 
+    {
+        "obfuscation": "On each of the hips , deep set in a kind of pinkish , ciliated orbit , was what seemed to be a rudimentary center ; whilst in lieu of a tail there depended a kind of trunk or feeler with purple annular markings , and with many evidences of being an undeveloped mouth or throat .", 
+        "obfuscation-id": 32, 
+        "original": " On each of the hips, deep set in a kind of pinkish, ciliated orbit, was what seemed to be a rudimentary eye; whilst in lieu of a tail there depended a kind of trunk or feeler with purple annular markings, and with many evidences of being an undeveloped mouth or throat.", 
+        "original-end-charpos": 5140, 
+        "original-start-charpos": 4871
+    }, 
+    {
+        "obfuscation": "The limbs , save for their black fur , approximately resembled the hind legs of prehistoric earth\u2019s giant saurians ; and terminated in ridgy-veined pads that were neither hooves nor claws .", 
+        "obfuscation-id": 33, 
+        "original": " The limbs, save for their black fur, roughly resembled the hind legs of prehistoric earth\u2019s giant saurians; and terminated in ridgy-veined pads that were neither hooves nor claws.", 
+        "original-end-charpos": 5320, 
+        "original-start-charpos": 5141
+    }, 
+    {
+        "obfuscation": "When the thing breathed , its tail and tentacles rhythmically changed color , as if from some circulatory cause normal to the non-human side of its ancestry .", 
+        "obfuscation-id": 34, 
+        "original": " When the thing breathed, its tail and tentacles rhythmically changed colour, as if from some circulatory cause normal to the non-human side of its ancestry.", 
+        "original-end-charpos": 5477, 
+        "original-start-charpos": 5321
+    }, 
+    {
+        "obfuscation": "In the tentacles this was discernible as a deepening of the greenish tinge , whilst in the tail it was manifest as a yellowish appearance which alternated with a sickly greyish-white in the spaces between the purple rings .", 
+        "obfuscation-id": 35, 
+        "original": " In the tentacles this was observable as a deepening of the greenish tinge, whilst in the tail it was manifest as a yellowish appearance which alternated with a sickly greyish-white in the spaces between the purple rings.", 
+        "original-end-charpos": 5698, 
+        "original-start-charpos": 5478
+    }, 
+    {
+        "obfuscation": "Of genuine blood there were none ; only the foetid greenish-yellow ichor which trickled along the painted floor beyond the radius of the stickiness , and left a curious discolouration behind it .", 
+        "obfuscation-id": 36, 
+        "original": " Of genuine blood there was none; only the foetid greenish-yellow ichor which trickled along the painted floor beyond the radius of the stickiness, and left a curious discolouration behind it.", 
+        "original-end-charpos": 5890, 
+        "original-start-charpos": 5699
+    }, 
+    {
+        "obfuscation": "As the presence of the three men seemed to rouse the dying thing , it began to mumble without turning or raising its head .", 
+        "obfuscation-id": 37, 
+        "original": "\n      As the presence of the three men seemed to rouse the dying thing, it began to mumble without turning or raising its head.", 
+        "original-end-charpos": 6018, 
+        "original-start-charpos": 5891
+    }, 
+    {
+        "obfuscation": "Dr. Armitage made no written record of its mouthings , but asserts confidently that nothing in English was uttered .", 
+        "obfuscation-id": 38, 
+        "original": " Dr. Armitage made no written record of its mouthings, but asserts confidently that nothing in English was uttered.", 
+        "original-end-charpos": 6133, 
+        "original-start-charpos": 6019
+    }, 
+    {
+        "obfuscation": "At first the syllables defied all correlation with any speech of earth , but toward the last there came some disjointed fragments evidently taken from the Necronomicon , that monstrous blasphemy in pursuit of which the thing had perished .", 
+        "obfuscation-id": 39, 
+        "original": " At first the syllables defied all correlation with any speech of earth, but toward the last there came some disjointed fragments evidently taken from the Necronomicon, that monstrous blasphemy in quest of which the thing had perished.", 
+        "original-end-charpos": 6368, 
+        "original-start-charpos": 6134
+    }, 
+    {
+        "obfuscation": "These fragments , as Armitage recalls them , ran something like \u201cN\u2019gai , n\u2019gha\u2019ghaa , bugg-shoggog , y\u2019hah ; Yog-Sothoth , Yog-Sothoth .", 
+        "obfuscation-id": 40, 
+        "original": " These fragments, as Armitage recalls them, ran something like \u201cN\u2019gai, n\u2019gha\u2019ghaa, bugg-shoggog, y\u2019hah; Yog-Sothoth, Yog-Sothoth.", 
+        "original-end-charpos": 6497, 
+        "original-start-charpos": 6369
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 41, 
+        "original": ".", 
+        "original-end-charpos": 6497, 
+        "original-start-charpos": 6498
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 42, 
+        "original": " .", 
+        "original-end-charpos": 6499, 
+        "original-start-charpos": 6498
+    }, 
+    {
+        "obfuscation": ". .\u201d They trailed off into nothingness as the whippoorwills shrieked in rhythmical crescendoes of unholy anticipation .", 
+        "obfuscation-id": 43, 
+        "original": " . .\u201d They trailed off into nothingness as the whippoorwills shrieked in rhythmical crescendoes of unholy anticipation.", 
+        "original-end-charpos": 6618, 
+        "original-start-charpos": 6500
+    }, 
+    {
+        "obfuscation": "Then came a halt in the gasping , and the dog raised its head in a retentive , lugubrious howl .", 
+        "obfuscation-id": 44, 
+        "original": "\n      Then came a halt in the gasping, and the dog raised its head in a long, lugubrious howl.", 
+        "original-end-charpos": 6713, 
+        "original-start-charpos": 6619
+    }, 
+    {
+        "obfuscation": "A change came over the yellow , goatish side of the prostrate thing , and the great black eyes fell in appallingly .", 
+        "obfuscation-id": 45, 
+        "original": " A change came over the yellow, goatish face of the prostrate thing, and the great black eyes fell in appallingly.", 
+        "original-end-charpos": 6827, 
+        "original-start-charpos": 6714
+    }, 
+    {
+        "obfuscation": "Outside the window the shrilling of the whippoorwills had suddenly ended , and above the murmurs of the gathering crowd there came the sound of a panic-struck whirring and fluttering .", 
+        "obfuscation-id": 46, 
+        "original": " Outside the window the shrilling of the whippoorwills had suddenly ceased, and above the murmurs of the gathering crowd there came the sound of a panic-struck whirring and fluttering.", 
+        "original-end-charpos": 7011, 
+        "original-start-charpos": 6828
+    }, 
+    {
+        "obfuscation": "Against the moon vast clouds of feathery watchers rose and raced from sight , frantic at that which they had tried for prey .", 
+        "obfuscation-id": 47, 
+        "original": " Against the moon vast clouds of feathery watchers rose and raced from sight, frantic at that which they had sought for prey.", 
+        "original-end-charpos": 7136, 
+        "original-start-charpos": 7012
+    }, 
+    {
+        "obfuscation": "All at once the dog started up abruptly , gave a panicky bark , and leaped nervously out of the window by which it had entered .", 
+        "obfuscation-id": 48, 
+        "original": "\n      All at once the dog started up abruptly, gave a frightened bark, and leaped nervously out of the window by which it had entered.", 
+        "original-end-charpos": 7271, 
+        "original-start-charpos": 7137
+    }, 
+    {
+        "obfuscation": "A cry rose from the crowd , and Dr. Armitage shouted to the men outside that no one must be accepted till the police or medical examiner came .", 
+        "obfuscation-id": 49, 
+        "original": " A cry rose from the crowd, and Dr. Armitage shouted to the men outside that no one must be admitted till the police or medical examiner came.", 
+        "original-end-charpos": 7413, 
+        "original-start-charpos": 7272
+    }, 
+    {
+        "obfuscation": "He was thankful that the windows were just too high to permit of peering in , and drew the night curtains carefully down over each one .", 
+        "obfuscation-id": 50, 
+        "original": " He was thankful that the windows were just too high to permit of peering in, and drew the dark curtains carefully down over each one.", 
+        "original-end-charpos": 7547, 
+        "original-start-charpos": 7414
+    }, 
+    {
+        "obfuscation": "By this time two policemen had arrived ; and Dr. Morgan , meeting them in the vestibule , was urging them for their own sakes to postpone entrance to the stench-filled reading-room till the examiner came and the prostrate matter could be covered up .", 
+        "obfuscation-id": 51, 
+        "original": " By this time two policemen had arrived; and Dr. Morgan, meeting them in the vestibule, was urging them for their own sakes to postpone entrance to the stench-filled reading-room till the examiner came and the prostrate thing could be covered up.", 
+        "original-end-charpos": 7793, 
+        "original-start-charpos": 7548
+    }, 
+    {
+        "obfuscation": "Meanwhile fearful changes were taking place on the floor .", 
+        "obfuscation-id": 52, 
+        "original": "\n      Meanwhile frightful changes were taking place on the floor.", 
+        "original-end-charpos": 7859, 
+        "original-start-charpos": 7794
+    }, 
+    {
+        "obfuscation": "One need not describe the kind and rate of shrinkage and disintegration that occurred before the eyes of Dr. Armitage and Professor Rice ; but it is permissible to say that , aside from the external appearance of face and hands , the actually human element in Wilbur Whateley must have been very small .", 
+        "obfuscation-id": 53, 
+        "original": " One need not describe the kind and rate of shrinkage and disintegration that occurred before the eyes of Dr. Armitage and Professor Rice; but it is permissible to say that, aside from the external appearance of face and hands, the really human element in Wilbur Whateley must have been very small.", 
+        "original-end-charpos": 8157, 
+        "original-start-charpos": 7860
+    }, 
+    {
+        "obfuscation": "When the medical examiner came , there were only a sticky whitish mass on the painted boards , and the monstrous odour had nearly disappeared .", 
+        "obfuscation-id": 54, 
+        "original": " When the medical examiner came, there was only a sticky whitish mass on the painted boards, and the monstrous odour had nearly disappeared.", 
+        "original-end-charpos": 8297, 
+        "original-start-charpos": 8158
+    }, 
+    {
+        "obfuscation": "Apparently Whateley had had no skull or bony skeleton ; at least , in any truthful or stable sense .", 
+        "obfuscation-id": 55, 
+        "original": " Apparently Whateley had had no skull or bony skeleton; at least, in any true or stable sense.", 
+        "original-end-charpos": 8391, 
+        "original-start-charpos": 8298
+    }, 
+    {
+        "obfuscation": "He had taken reasonably after his unknown father .", 
+        "obfuscation-id": 56, 
+        "original": " He had taken somewhat after his unknown father.\n", 
+        "original-end-charpos": 8440, 
+        "original-start-charpos": 8392
+    }
+]

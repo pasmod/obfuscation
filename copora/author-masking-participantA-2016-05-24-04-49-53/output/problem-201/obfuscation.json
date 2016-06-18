@@ -1,0 +1,198 @@
+[
+    {
+        "obfuscation": "Of course I 'm certain .", 
+        "obfuscation-id": 1, 
+        "original": " Of course I'm sure.", 
+        "original-end-charpos": 19, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "It was awful big .", 
+        "obfuscation-id": 2, 
+        "original": " It was awful big.", 
+        "original-end-charpos": 37, 
+        "original-start-charpos": 20
+    }, 
+    {
+        "obfuscation": "The biggest fish I ever saw .", 
+        "obfuscation-id": 3, 
+        "original": " The biggest fish I ever\nsaw.", 
+        "original-end-charpos": 66, 
+        "original-start-charpos": 38
+    }, 
+    {
+        "obfuscation": "Even in Russia we do not have such big fish as whales .", 
+        "obfuscation-id": 4, 
+        "original": " Even in Russia we do not have such big fish as whales.", 
+        "original-end-charpos": 121, 
+        "original-start-charpos": 67
+    }, 
+    {
+        "obfuscation": "Paddy Mike saw it , besides .", 
+        "obfuscation-id": 5, 
+        "original": " Paddy Mike\nsaw it, too.", 
+        "original-end-charpos": 145, 
+        "original-start-charpos": 122
+    }, 
+    {
+        "obfuscation": "Sure and I did .", 
+        "obfuscation-id": 6, 
+        "original": "\n\nSure and I did.", 
+        "original-end-charpos": 162, 
+        "original-start-charpos": 146
+    }, 
+    {
+        "obfuscation": "And me two eyes nearly fell out of me lead with lookin ' at it , it was that wonderful .", 
+        "obfuscation-id": 7, 
+        "original": " And me two eyes nearly fell out of me head\nwith lookin' at it, it was that wonderful.", 
+        "original-end-charpos": 248, 
+        "original-start-charpos": 163
+    }, 
+    {
+        "obfuscation": "He shot a big stream of water right up out of his mind , he did , and then he dived down in the ocean again , and we did n't see him any more at all , at all .", 
+        "obfuscation-id": 8, 
+        "original": " He shot a big stream of\nwater right up out of his head, he did, and then he dived down in the\nocean again, and we didn't see him any more at all, at all.", 
+        "original-end-charpos": 402, 
+        "original-start-charpos": 249
+    }, 
+    {
+        "obfuscation": "There !", 
+        "obfuscation-id": 9, 
+        "original": "\n\n There!", 
+        "original-end-charpos": 411, 
+        "original-start-charpos": 403
+    }, 
+    {
+        "obfuscation": "nowadays if you get to see the great big whale , that 's almost as good as having old Saint Nicholas come , ain't it ?", 
+        "obfuscation-id": 10, 
+        "original": " Now if you get to see the great big\nwhale, that's almost as good as having old Saint Nicholas come, ain't\nit?", 
+        "original-end-charpos": 521, 
+        "original-start-charpos": 412
+    }, 
+    {
+        "obfuscation": "Whales ca n't bring you no Christmas presents , can they , Klinker ?", 
+        "obfuscation-id": 11, 
+        "original": "\n\nWhales can't bring you no Christmas presents, can they,\nKlinker?", 
+        "original-end-charpos": 587, 
+        "original-start-charpos": 522
+    }, 
+    {
+        "obfuscation": "Und whales you can see any time .", 
+        "obfuscation-id": 12, 
+        "original": "\n\nUnd whales you can see any time.", 
+        "original-end-charpos": 621, 
+        "original-start-charpos": 588
+    }, 
+    {
+        "obfuscation": "I 'd rather have Saint Nicholas , would n't I , Schwillie Willie Winkum ?", 
+        "obfuscation-id": 13, 
+        "original": " I'd rather have Saint\nNicholas, wouldn't I, Schwillie Willie Winkum?", 
+        "original-end-charpos": 690, 
+        "original-start-charpos": 622
+    }, 
+    {
+        "obfuscation": "Who is this Saint Nicholas they are looking for , Hulda ?", 
+        "obfuscation-id": 14, 
+        "original": "\n\nWho is this Saint Nicholas they are looking for, Hulda?", 
+        "original-end-charpos": 747, 
+        "original-start-charpos": 691
+    }, 
+    {
+        "obfuscation": "Why , make n't you know who he is yet ?", 
+        "obfuscation-id": 15, 
+        "original": "\n\nWhy, don't you know who he is yet?", 
+        "original-end-charpos": 783, 
+        "original-start-charpos": 748
+    }, 
+    {
+        "obfuscation": "He 's the best old man that ever was .", 
+        "obfuscation-id": 16, 
+        "original": " He's the best\nold man that ever was.", 
+        "original-end-charpos": 820, 
+        "original-start-charpos": 784
+    }, 
+    {
+        "obfuscation": "Und he comes the night before Christmas und visits all the little children in Holland .", 
+        "obfuscation-id": 17, 
+        "original": " Und he comes the night before Christmas und\nvisits all the little children in Holland.", 
+        "original-end-charpos": 907, 
+        "original-start-charpos": 821
+    }, 
+    {
+        "obfuscation": "Und in Germany , besides .", 
+        "obfuscation-id": 18, 
+        "original": "\n\nUnd in Germany, too.", 
+        "original-end-charpos": 929, 
+        "original-start-charpos": 908
+    }, 
+    {
+        "obfuscation": "Und if they 're good they get candy und oranges und toys und things , make n't they , Schwillie Willie Winkum ?", 
+        "obfuscation-id": 19, 
+        "original": "\n\n Und if they're good they get candy und oranges und toys und\nthings, don't they, Schwillie Willie Winkum?", 
+        "original-end-charpos": 1036, 
+        "original-start-charpos": 930
+    }, 
+    {
+        "obfuscation": "Und if they 're bad , they get a good big birch stick .", 
+        "obfuscation-id": 20, 
+        "original": "\n\nUnd if they're bad, they get a good big birch stick.", 
+        "original-end-charpos": 1090, 
+        "original-start-charpos": 1037
+    }, 
+    {
+        "obfuscation": "But I ai n't been bad .", 
+        "obfuscation-id": 21, 
+        "original": " But I\nain't been bad.", 
+        "original-end-charpos": 1112, 
+        "original-start-charpos": 1091
+    }, 
+    {
+        "obfuscation": "I 've been awfully good , is n't I , Klinker ?", 
+        "obfuscation-id": 22, 
+        "original": " I've been awfully good, isn't I, Klinker?", 
+        "original-end-charpos": 1154, 
+        "original-start-charpos": 1113
+    }, 
+    {
+        "obfuscation": "Sure .", 
+        "obfuscation-id": 23, 
+        "original": "\n\nSure.", 
+        "original-end-charpos": 1161, 
+        "original-start-charpos": 1155
+    }, 
+    {
+        "obfuscation": "Und me also .", 
+        "obfuscation-id": 24, 
+        "original": " Und me also.", 
+        "original-end-charpos": 1174, 
+        "original-start-charpos": 1162
+    }, 
+    {
+        "obfuscation": "On Christmas Eve in Holland all the children march around the streets , following one who carries a big silver star .", 
+        "obfuscation-id": 25, 
+        "original": "\n\nOn Christmas Eve in Holland all the children\nmarch around the streets, following one who carries a big silver star.", 
+        "original-end-charpos": 1291, 
+        "original-start-charpos": 1175
+    }, 
+    {
+        "obfuscation": "And the people who meet us give us money and gifts to help the inadequate .", 
+        "obfuscation-id": 26, 
+        "original": "\nAnd the people who meet us give us money and gifts to help the poor.", 
+        "original-end-charpos": 1360, 
+        "original-start-charpos": 1292
+    }, 
+    {
+        "obfuscation": "Oh , Christmas time is just grand in Holland !", 
+        "obfuscation-id": 27, 
+        "original": "\nOh, Christmas time is just grand in Holland!", 
+        "original-end-charpos": 1405, 
+        "original-start-charpos": 1361
+    }, 
+    {
+        "obfuscation": "Und we set out our leedle wooden shoes und old Saint Nicholas fills 'em with candy .", 
+        "obfuscation-id": 28, 
+        "original": "\n\nUnd we set out our leedle wooden shoes und old Saint Nicholas\nfills 'em with candy.\n\n\n", 
+        "original-end-charpos": 1493, 
+        "original-start-charpos": 1406
+    }
+]

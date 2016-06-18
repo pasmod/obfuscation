@@ -1,0 +1,261 @@
+[
+    {
+        "obfuscation": "I ain't. No--of",
+        "obfuscation-id": 1,
+        "original": "No--of course I ain't.",
+        "original-end-charpos": 22,
+        "original-start-charpos": 0
+    },
+    {
+        "obfuscation": "Well, I'll you. say",
+        "obfuscation-id": 2,
+        "original": "Well, I'll tell you.",
+        "original-end-charpos": 42,
+        "original-start-charpos": 23
+    },
+    {
+        "obfuscation": "a governess, see? I'm",
+        "obfuscation-id": 3,
+        "original": "I'm a governess, see?",
+        "original-end-charpos": 63,
+        "original-start-charpos": 43
+    },
+    {
+        "obfuscation": "I for people in family and their things. kids",
+        "obfuscation-id": 4,
+        "original": "I take care of kids for people and learn them things.",
+        "original-end-charpos": 116,
+        "original-start-charpos": 64
+    },
+    {
+        "obfuscation": "A governess, it? is",
+        "obfuscation-id": 5,
+        "original": "A governess, is it?",
+        "original-end-charpos": 135,
+        "original-start-charpos": 117
+    },
+    {
+        "obfuscation": "we must fact surely. smart,",
+        "obfuscation-id": 6,
+        "original": "You must be smart, surely.",
+        "original-end-charpos": 161,
+        "original-start-charpos": 136
+    },
+    {
+        "obfuscation": "not me. But let's speak",
+        "obfuscation-id": 7,
+        "original": "But let's not talk about me.",
+        "original-end-charpos": 189,
+        "original-start-charpos": 162
+    },
+    {
+        "obfuscation": "I promised Tell wreck, that you would.",
+        "obfuscation-id": 8,
+        "original": "Tell me about the wreck, like you promised me you would.",
+        "original-end-charpos": 245,
+        "original-start-charpos": 190
+    },
+    {
+        "obfuscation": "these way, Miss. 'Twas",
+        "obfuscation-id": 9,
+        "original": "'Twas this way, Miss.",
+        "original-end-charpos": 266,
+        "original-start-charpos": 246
+    },
+    {
+        "obfuscation": "we has Two weeks , in the divil's own storm, and wan sprang up to a delicate subject for'ard. Indiskretion responsible",
+        "obfuscation-id": 10,
+        "original": "Two weeks out we ran into the divil's own storm, and she sprang wan hell of a leak up for'ard.",
+        "original-end-charpos": 360,
+        "original-start-charpos": 267
+    },
+    {
+        "obfuscation": "the skipper Boston hope before being a coup by ten days , I her, but with other existing the only the first, worse.",
+        "obfuscation-id": 11,
+        "original": "The skipper was hoping to make Boston before another blow would finish her, but ten days back we met up with another storm the like of the first, only worse.",
+        "original-end-charpos": 517,
+        "original-start-charpos": 361
+    },
+    {
+        "obfuscation": "we you Fur days in the stern. green raking in their giving",
+        "obfuscation-id": 12,
+        "original": "Four days we was in it with green seas raking over her from bow to stern.",
+        "original-end-charpos": 590,
+        "original-start-charpos": 518
+    },
+    {
+        "obfuscation": "a terrible time, That God us. help",
+        "obfuscation-id": 13,
+        "original": "That was a terrible time, God help us.",
+        "original-end-charpos": 628,
+        "original-start-charpos": 591
+    },
+    {
+        "obfuscation": "and if 'twasn't for me and my great strength, I'm you--and go it's God's truth--there'd mutiny over the stokehole.",
+        "obfuscation-id": 14,
+        "original": "And if 'twasn't for me and my great strength, I'm telling you--and it's God's truth--there'd been mutiny itself in the stokehole.",
+        "original-end-charpos": 757,
+        "original-start-charpos": 629
+    },
+    {
+        "obfuscation": "to me 'Twas it, , with a kick wan and a another, identical , and they are not a damn care for people there marked a new direction , but no more, my right fear but more than they'd itself. sea",
+        "obfuscation-id": 15,
+        "original": "'Twas me held them to it, with a kick to wan and a clout to another, and they not caring a damn for the engineers any more, but fearing a clout of my right arm more than they'd fear the sea itself.",
+        "original-end-charpos": 954,
+        "original-start-charpos": 758
+    },
+    {
+        "obfuscation": "they did hard work, didn't you?",
+        "obfuscation-id": 16,
+        "original": "You did some hard work, didn't you?",
+        "original-end-charpos": 989,
+        "original-start-charpos": 955
+    },
+    {
+        "obfuscation": "I that!",
+        "obfuscation-id": 17,
+        "original": "I did that!",
+        "original-end-charpos": 1000,
+        "original-start-charpos": 990
+    },
+    {
+        "obfuscation": "for a divil remain I'm , if they the low that's up. give",
+        "obfuscation-id": 18,
+        "original": "I'm a divil for sticking it out when them that's weak give up.",
+        "original-end-charpos": 1062,
+        "original-start-charpos": 1001
+    },
+    {
+        "obfuscation": "it has well But anyone!",
+        "obfuscation-id": 19,
+        "original": "But much good it did anyone!",
+        "original-end-charpos": 1090,
+        "original-start-charpos": 1063
+    },
+    {
+        "obfuscation": "a mad, 'Twas fightin' scramble in recent seconds for himself. with every man",
+        "obfuscation-id": 20,
+        "original": "'Twas a mad, fightin' scramble in the last seconds with each man for himself.",
+        "original-end-charpos": 1167,
+        "original-start-charpos": 1091
+    },
+    {
+        "obfuscation": "as I disremember about, , but the four was in wan , must sit high raised on a little too vague , I divil and he has been a boat or the men in the sea.",
+        "obfuscation-id": 21,
+        "original": "I disremember how it come about, but there was the four of us in wan boat and when we was raised high on a great wave I took a look about and divil a sight there was of ship or men on top of the sea.",
+        "original-end-charpos": 1366,
+        "original-start-charpos": 1168
+    },
+    {
+        "obfuscation": "all other was drowned? also",
+        "obfuscation-id": 22,
+        "original": "Then all the others was drowned?",
+        "original-end-charpos": 1398,
+        "original-start-charpos": 1367
+    },
+    {
+        "obfuscation": "BURKE--They was, surely.",
+        "obfuscation-id": 23,
+        "original": "BURKE--They was, surely.",
+        "original-end-charpos": 1422,
+        "original-start-charpos": 1399
+    },
+    {
+        "obfuscation": "what terrible end!",
+        "obfuscation-id": 24,
+        "original": "What a terrible end!",
+        "original-end-charpos": 1442,
+        "original-start-charpos": 1423
+    },
+    {
+        "obfuscation": "A terrible the end of what they live land, maybe. swabs on",
+        "obfuscation-id": 25,
+        "original": "A terrible end for the like of them swabs does live on land, maybe.",
+        "original-end-charpos": 1509,
+        "original-start-charpos": 1443
+    },
+    {
+        "obfuscation": "for we learn seas, But is a good end, I'm you--quick clane. say .",
+        "obfuscation-id": 26,
+        "original": "But for the like of us does be roaming the seas, a good end, I'm telling you--quick and clane.",
+        "original-end-charpos": 1603,
+        "original-start-charpos": 1510
+    },
+    {
+        "obfuscation": "Yes, clean.",
+        "obfuscation-id": 27,
+        "original": "Yes, clean.",
+        "original-end-charpos": 1614,
+        "original-start-charpos": 1604
+    },
+    {
+        "obfuscation": "the word for--all That's yust of it--the feel. leaves me",
+        "obfuscation-id": 28,
+        "original": "That's yust the word for--all of it--the way it makes me feel.",
+        "original-end-charpos": 1676,
+        "original-start-charpos": 1615
+    },
+    {
+        "obfuscation": "the sea, mean? you",
+        "obfuscation-id": 29,
+        "original": "The sea, you mean?",
+        "original-end-charpos": 1694,
+        "original-start-charpos": 1677
+    },
+    {
+        "obfuscation": "consider also I'm in your blood, too.",
+        "obfuscation-id": 30,
+        "original": "I'm thinking you have a bit of it in your blood, too.",
+        "original-end-charpos": 1747,
+        "original-start-charpos": 1695
+    },
+    {
+        "obfuscation": "few people expressed Your Old wasn't barge rat--begging your pardon--all its life, by reducing import him.",
+        "obfuscation-id": 31,
+        "original": "Your Old Man wasn't only a barge rat--begging your pardon--all his life, by the cut of him.",
+        "original-end-charpos": 1838,
+        "original-start-charpos": 1748
+    },
+    {
+        "obfuscation": "he was bo'sun No, sailing ships to years. on",
+        "obfuscation-id": 32,
+        "original": "No, he was bo'sun on sailing ships for years.",
+        "original-end-charpos": 1883,
+        "original-start-charpos": 1839
+    },
+    {
+        "obfuscation": "and all men both sides of the family are as he says. Sea remembers, it",
+        "obfuscation-id": 33,
+        "original": "And all the men on both sides of the family have gone to sea as far back as he remembers, he says.",
+        "original-end-charpos": 1981,
+        "original-start-charpos": 1884
+    },
+    {
+        "obfuscation": "women married All sailors, too.",
+        "obfuscation-id": 34,
+        "original": "All the women have married sailors, too.",
+        "original-end-charpos": 2021,
+        "original-start-charpos": 1982
+    },
+    {
+        "obfuscation": "Did they, now?",
+        "obfuscation-id": 35,
+        "original": "Did they, now?",
+        "original-end-charpos": 2035,
+        "original-start-charpos": 2022
+    },
+    {
+        "obfuscation": "in them. They had",
+        "obfuscation-id": 36,
+        "original": "They had spirit in them.",
+        "original-end-charpos": 2059,
+        "original-start-charpos": 2036
+    },
+    {
+        "obfuscation": "only the sea It's you'd find rale with guts for men is with fine, wed high-tempered of girls yourself. the",
+        "obfuscation-id": 37,
+        "original": "It's only on the sea you'd find rale men with guts is fit to wed with fine, high-tempered girls the like of yourself.",
+        "original-end-charpos": 2176,
+        "original-start-charpos": 2060
+    }
+]

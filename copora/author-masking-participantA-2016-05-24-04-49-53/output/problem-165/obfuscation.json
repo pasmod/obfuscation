@@ -1,0 +1,205 @@
+[
+    {
+        "obfuscation": "Lads like you , eh ?", 
+        "obfuscation-id": 1, 
+        "original": "Lads like you, eh?", 
+        "original-end-charpos": 17, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Ye take the words out oxygen ' my mouth .", 
+        "obfuscation-id": 2, 
+        "original": "\n\nYe take the words out o' my mouth.", 
+        "original-end-charpos": 53, 
+        "original-start-charpos": 18
+    }, 
+    {
+        "obfuscation": "I 'm the proper lad for you , if it 's meself make be saying it .", 
+        "obfuscation-id": 3, 
+        "original": " I'm the proper\nlad for you, if it's meself do be saying it.", 
+        "original-end-charpos": 113, 
+        "original-start-charpos": 54
+    }, 
+    {
+        "obfuscation": "Whisht , nowadays , me daisy !", 
+        "obfuscation-id": 4, 
+        "original": " Whisht, now, me daisy!", 
+        "original-end-charpos": 136, 
+        "original-start-charpos": 114
+    }, 
+    {
+        "obfuscation": "Himself 's in the cabin .", 
+        "obfuscation-id": 5, 
+        "original": " Himself's in the\ncabin.", 
+        "original-end-charpos": 160, 
+        "original-start-charpos": 137
+    }, 
+    {
+        "obfuscation": "It 's wan of your kisses I 'm needing to take the tiredness from me bones .", 
+        "obfuscation-id": 6, 
+        "original": " It's wan of your kisses I'm needing to take the tiredness from\nme bones.", 
+        "original-end-charpos": 233, 
+        "original-start-charpos": 161
+    }, 
+    {
+        "obfuscation": "Wan kiss , nowadays !", 
+        "obfuscation-id": 7, 
+        "original": " Wan kiss, now!", 
+        "original-end-charpos": 248, 
+        "original-start-charpos": 234
+    }, 
+    {
+        "obfuscation": "Leggo of me , you big mut !", 
+        "obfuscation-id": 8, 
+        "original": " \n\nLeggo of me, you big mut!", 
+        "original-end-charpos": 276, 
+        "original-start-charpos": 249
+    }, 
+    {
+        "obfuscation": "God stiffen it !", 
+        "obfuscation-id": 9, 
+        "original": " \n\nGod stiffen it!", 
+        "original-end-charpos": 294, 
+        "original-start-charpos": 277
+    }, 
+    {
+        "obfuscation": "You 're coming to all right , eh ?", 
+        "obfuscation-id": 10, 
+        "original": " \n\nYou're coming to all right, eh?", 
+        "original-end-charpos": 328, 
+        "original-start-charpos": 295
+    }, 
+    {
+        "obfuscation": "Gee , I was scared for a moment I 'd killed you .", 
+        "obfuscation-id": 11, 
+        "original": " Gee, I was scared\nfor a moment I'd killed you.", 
+        "original-end-charpos": 375, 
+        "original-start-charpos": 329
+    }, 
+    {
+        "obfuscation": "Killed , is it ?", 
+        "obfuscation-id": 12, 
+        "original": "\n\nKilled, is it?", 
+        "original-end-charpos": 391, 
+        "original-start-charpos": 376
+    }, 
+    {
+        "obfuscation": "It 'd take more than a bit of a blow to crack my thick skull .", 
+        "obfuscation-id": 13, 
+        "original": " It'd take more than a bit of a blow to crack my thick\nskull.", 
+        "original-end-charpos": 452, 
+        "original-start-charpos": 392
+    }, 
+    {
+        "obfuscation": "But , glory be , it 's a power of strength is in them two fine arms of yours .", 
+        "obfuscation-id": 14, 
+        "original": " But,\nglory be, it's a power of strength is in them two fine arms of yours.", 
+        "original-end-charpos": 527, 
+        "original-start-charpos": 453
+    }, 
+    {
+        "obfuscation": "There 's not a man in the world can say the same as you , that he seen Mat Burke lying at his feet and him dead to the world .", 
+        "obfuscation-id": 15, 
+        "original": "\nThere's not a man in the world can say the same as you, that he seen\nMat Burke lying at his feet and him dead to the world.", 
+        "original-end-charpos": 651, 
+        "original-start-charpos": 528
+    }, 
+    {
+        "obfuscation": "Forget it .", 
+        "obfuscation-id": 16, 
+        "original": "\n\nForget it.", 
+        "original-end-charpos": 663, 
+        "original-start-charpos": 652
+    }, 
+    {
+        "obfuscation": "I 'm sorry it happened , see ?", 
+        "obfuscation-id": 17, 
+        "original": " I'm sorry it happened, see?", 
+        "original-end-charpos": 691, 
+        "original-start-charpos": 664
+    }, 
+    {
+        "obfuscation": "Only you had no right to be getting fresh with me .", 
+        "obfuscation-id": 18, 
+        "original": "\nOnly you had no right\nto be getting fresh with me.", 
+        "original-end-charpos": 742, 
+        "original-start-charpos": 692
+    }, 
+    {
+        "obfuscation": "Listen , now , and make n't go getting any more wrong notions .", 
+        "obfuscation-id": 19, 
+        "original": " Listen, now, and don't go getting any more\nwrong notions.", 
+        "original-end-charpos": 800, 
+        "original-start-charpos": 743
+    }, 
+    {
+        "obfuscation": "I 'm on this barge because I 'm making a trip with my father .", 
+        "obfuscation-id": 20, 
+        "original": " I'm on this barge because I'm making a trip with my\nfather.", 
+        "original-end-charpos": 860, 
+        "original-start-charpos": 801
+    }, 
+    {
+        "obfuscation": "The captain 's my father .", 
+        "obfuscation-id": 21, 
+        "original": " The captain's my father.", 
+        "original-end-charpos": 885, 
+        "original-start-charpos": 861
+    }, 
+    {
+        "obfuscation": "Now you know .", 
+        "obfuscation-id": 22, 
+        "original": " Now you know.", 
+        "original-end-charpos": 899, 
+        "original-start-charpos": 886
+    }, 
+    {
+        "obfuscation": "The old square -- the old Swede , I mean ?", 
+        "obfuscation-id": 23, 
+        "original": "\n\nThe old square--the old Swede, I mean?", 
+        "original-end-charpos": 939, 
+        "original-start-charpos": 900
+    }, 
+    {
+        "obfuscation": "Yes .", 
+        "obfuscation-id": 24, 
+        "original": "\n\nYes.", 
+        "original-end-charpos": 945, 
+        "original-start-charpos": 940
+    }, 
+    {
+        "obfuscation": "Sure I might have known it , if I were n't a bloody fool from birth .", 
+        "obfuscation-id": 25, 
+        "original": "\n\nSure I might have known it, if I\nwasn't a bloody fool from birth.", 
+        "original-end-charpos": 1012, 
+        "original-start-charpos": 946
+    }, 
+    {
+        "obfuscation": "Where else 'd you get that fine yellow hair is like a golden crown on your head .", 
+        "obfuscation-id": 26, 
+        "original": " Where else'd you get that fine yellow\nhair is like a golden crown on your head.", 
+        "original-end-charpos": 1092, 
+        "original-start-charpos": 1013
+    }, 
+    {
+        "obfuscation": "Say , nothing stops you , does it ?", 
+        "obfuscation-id": 27, 
+        "original": "\n\nSay, nothing stops you, does it?", 
+        "original-end-charpos": 1126, 
+        "original-start-charpos": 1093
+    }, 
+    {
+        "obfuscation": "[ Then attempting a severe tone again . ]", 
+        "obfuscation-id": 28, 
+        "original": " [Then\nattempting a severe tone again.]", 
+        "original-end-charpos": 1165, 
+        "original-start-charpos": 1127
+    }, 
+    {
+        "obfuscation": "But do n't you think you ought to be apologizing for what you said and made yust a minute ago , instead of trying to kid me with that mush ?", 
+        "obfuscation-id": 29, 
+        "original": " But don't you think you ought to be\napologizing for what you said and done yust a minute ago, instead of\ntrying to kid me with that mush?", 
+        "original-end-charpos": 1303, 
+        "original-start-charpos": 1166
+    }
+]

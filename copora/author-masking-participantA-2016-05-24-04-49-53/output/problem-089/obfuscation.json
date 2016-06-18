@@ -1,0 +1,296 @@
+[
+    {
+        "obfuscation": "\ufeff Legalisation of narcotics or not ?", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Legalisation of narcotics or not?", 
+        "original-end-charpos": 34, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "The matter of whether to legalise narcotics or not has been lively discussed for many years .", 
+        "obfuscation-id": 2, 
+        "original": "  \nThe matter of whether to legalise narcotics or not has been lively discussed for many years.", 
+        "original-end-charpos": 129, 
+        "original-start-charpos": 35
+    }, 
+    {
+        "obfuscation": "Despite that fact , it is however a current subject of importance not to be ignored , especially due to the lately increasing use of narcotics by the teenagers , as a `` weekend-ecstasy '' .", 
+        "obfuscation-id": 3, 
+        "original": " \nDespite that fact, it is still a current subject of importance not to be ignored, especially due to the lately increasing use of narcotics by the teenagers, as a \"weekend-ecstasy\".", 
+        "original-end-charpos": 311, 
+        "original-start-charpos": 130
+    }, 
+    {
+        "obfuscation": "This is a preferably complex topic to discuss , why I have chosen three main subjects to concentrate on : Would the curiosity decrease and lead to less use of narcotics , if the drugs where legalised ?", 
+        "obfuscation-id": 4, 
+        "original": " \nThis is a rather complex topic to discuss, why I have chosen three main subjects to concentrate on:   Would the curiosity decrease and lead to less use of narcotics, if the drugs where legalised?", 
+        "original-end-charpos": 508, 
+        "original-start-charpos": 312
+    }, 
+    {
+        "obfuscation": "Is it up to every single individual to make their own decision whether to use drugs or not - while no one else would have to suffer ?", 
+        "obfuscation-id": 5, 
+        "original": "   \nIs it up to every single individual to make their own decision whether to use drugs or not - while no one else would have to suffer?", 
+        "original-end-charpos": 644, 
+        "original-start-charpos": 509
+    }, 
+    {
+        "obfuscation": "The society already has huge costs referring to the use of alcohol , thus why would alcohol be legal if narcotics are not ?", 
+        "obfuscation-id": 6, 
+        "original": "   \nThe society already has huge costs referring to the use of alcohol, so why would alcohol be legal if narcotics are not?", 
+        "original-end-charpos": 767, 
+        "original-start-charpos": 645
+    }, 
+    {
+        "obfuscation": "Personally , I find myself to be quite curious .", 
+        "obfuscation-id": 7, 
+        "original": "  \nPersonally, I find myself to be quite curious.", 
+        "original-end-charpos": 816, 
+        "original-start-charpos": 768
+    }, 
+    {
+        "obfuscation": "I also want to make my own decisions as an individual .", 
+        "obfuscation-id": 8, 
+        "original": " \nI also want to make my own decisions as an individual.", 
+        "original-end-charpos": 872, 
+        "original-start-charpos": 817
+    }, 
+    {
+        "obfuscation": "But however I am very determined that the legalisation of narcotics would lead to a terrible and unnecessary decay of the Swedish society .", 
+        "obfuscation-id": 9, 
+        "original": " \nBut still I am very determined that the legalisation of narcotics would lead to a terrible and unnecessary decay of the Swedish society.", 
+        "original-end-charpos": 1010, 
+        "original-start-charpos": 873
+    }, 
+    {
+        "obfuscation": "Even if I where curious enough to test narcotics , I do not believe I would be less curious if it were legal .", 
+        "obfuscation-id": 10, 
+        "original": "  \nEven if I where curious enough to test narcotics, I do not believe I would be less curious if it was legal.", 
+        "original-end-charpos": 1120, 
+        "original-start-charpos": 1011
+    }, 
+    {
+        "obfuscation": "On the contrary I think the legalisation would increase my possibility of trying narcotics , because it would be a lot easier to get hold of it .", 
+        "obfuscation-id": 11, 
+        "original": " \nOn the contrary I think the legalisation would increase my possibility of trying narcotics, because it would be much easier to get hold of it.", 
+        "original-end-charpos": 1264, 
+        "original-start-charpos": 1121
+    }, 
+    {
+        "obfuscation": "It would probably be considerably cheaper to .", 
+        "obfuscation-id": 12, 
+        "original": " \nIt would probably be considerably cheaper to.", 
+        "original-end-charpos": 1311, 
+        "original-start-charpos": 1265
+    }, 
+    {
+        "obfuscation": "A legalisation would actually bring the message that `` narcotics can not be that bad - after all , it is accepted '' , which would make even more people have a liberal view of narcotics .", 
+        "obfuscation-id": 13, 
+        "original": " \nA legalisation would actually bring the message that \"narcotics can not be that bad - after all, it is accepted\", which would make even more people have a liberal view of narcotics.", 
+        "original-end-charpos": 1494, 
+        "original-start-charpos": 1312
+    }, 
+    {
+        "obfuscation": "I am certain that would definitely lead to an increase of the use of it , according to many psychological studies .", 
+        "obfuscation-id": 14, 
+        "original": " \nI am sure that would definitely lead to an increase of the use of it, according to many psychological studies.", 
+        "original-end-charpos": 1606, 
+        "original-start-charpos": 1495
+    }, 
+    {
+        "obfuscation": "From another psychological point of view , it seems to be rather important that you , as an individual , find that you have the possibility to make your own decision how to live your life .", 
+        "obfuscation-id": 15, 
+        "original": "  \nFrom another psychological point of view, it seems to be rather important that you, as an individual, feel that you have the possibility to make your own decision how to live your life.", 
+        "original-end-charpos": 1794, 
+        "original-start-charpos": 1607
+    }, 
+    {
+        "obfuscation": "I agree , as long as your actions do not have a negative effect on other people .", 
+        "obfuscation-id": 16, 
+        "original": " \nI agree, as long as your actions do not have a negative effect on other people.", 
+        "original-end-charpos": 1875, 
+        "original-start-charpos": 1795
+    }, 
+    {
+        "obfuscation": "But this is precisely the point that makes the argument that `` every individual has the right to make their own choice whether to take narcotics or not '' is not a durable argument why narcotics should be legal .", 
+        "obfuscation-id": 17, 
+        "original": " \nBut this is just the point that makes the argument that \"every individual has the right to make their own choice whether to take narcotics or not\" is not a durable argument why narcotics should be legal.", 
+        "original-end-charpos": 2080, 
+        "original-start-charpos": 1876
+    }, 
+    {
+        "obfuscation": "People might think that using drugs is really `` up to them '' , no one else has to suffer .", 
+        "obfuscation-id": 18, 
+        "original": " \nPeople might think that using drugs is really \"up to them\", no one else has to suffer.", 
+        "original-end-charpos": 2168, 
+        "original-start-charpos": 2081
+    }, 
+    {
+        "obfuscation": "But that is certainly not true .", 
+        "obfuscation-id": 19, 
+        "original": " \nBut that is certainly not true.", 
+        "original-end-charpos": 2201, 
+        "original-start-charpos": 2169
+    }, 
+    {
+        "obfuscation": "The whole society suffers of many effects that could easily be referred to drugs .", 
+        "obfuscation-id": 20, 
+        "original": " \nThe whole society suffers of many effects that could easily be referred to drugs.", 
+        "original-end-charpos": 2284, 
+        "original-start-charpos": 2202
+    }, 
+    {
+        "obfuscation": "A considerable part of the criminality and health-care-costs and the costs of treating the lately escalating number of adolescent people who need psychological help due to the use of the preferably new , and among youths very popular drug , ecstasy are just a few examples of the negative effects .", 
+        "obfuscation-id": 21, 
+        "original": " \nA considerable part of the criminality and health-care-costs and the costs of treating the lately escalating number of adolescent people who need psychological help due to the use of the rather new, and among youths very popular drug, ecstasy are just a few examples of the negative effects.", 
+        "original-end-charpos": 2577, 
+        "original-start-charpos": 2285
+    }, 
+    {
+        "obfuscation": "The worst effect of how the use of narcotics effects people in the user 's surrounding is the social one , I think .", 
+        "obfuscation-id": 22, 
+        "original": "  \nThe worst effect of how the use of narcotics effects people in the user's surrounding is the social one, I think.", 
+        "original-end-charpos": 2693, 
+        "original-start-charpos": 2578
+    }, 
+    {
+        "obfuscation": "My best friend 's brother has been using narcotics of unlike kind since he was about 13 ( he is 36 today ) .", 
+        "obfuscation-id": 23, 
+        "original": " \nMy best friend's brother has been using narcotics of different kind since he was about 13 (he is 36 today).", 
+        "original-end-charpos": 2802, 
+        "original-start-charpos": 2694
+    }, 
+    {
+        "obfuscation": "He will never become a mature , responsible adult , even if he would succeed in getting rid of his addiction to drugs ( one of the effects of hashish is that it stops the psychological development if used during the adolescent ) .", 
+        "obfuscation-id": 24, 
+        "original": " \nHe will never become a mature, responsible adult, even if he would succeed in getting rid of his addiction to drugs (one of the effects of hashish is that it stops the psychological development if used during the adolescent).", 
+        "original-end-charpos": 3029, 
+        "original-start-charpos": 2803
+    }, 
+    {
+        "obfuscation": "His use of drugs has effected his whole family 's life in many tragic ways , and it however does .", 
+        "obfuscation-id": 25, 
+        "original": " \nHis use of drugs has effected his whole family's life in many tragic ways, and it still does.", 
+        "original-end-charpos": 3124, 
+        "original-start-charpos": 3030
+    }, 
+    {
+        "obfuscation": "Unluckily , the argument that every single person must have the possibility to make their own choice , advocating for legalisation of narcotics , is often considered to be one of the most attractive to the youths during their process to become free and independent individuals .", 
+        "obfuscation-id": 26, 
+        "original": "  \nUnluckily, the argument that every single person must have the possibility to make their own choice, advocating for legalisation of narcotics, is often considered to be one of the most attractive to the youths during their process to become free and independent individuals.", 
+        "original-end-charpos": 3401, 
+        "original-start-charpos": 3125
+    }, 
+    {
+        "obfuscation": "One of the common replies to such an argument as I have mentioned above , is that alcohol also is one of the main reasons to this kind of problems .", 
+        "obfuscation-id": 27, 
+        "original": "  \nOne of the common replies to such an argument as I have mentioned above, is that alcohol also is one of the main reasons to this kind of problems.", 
+        "original-end-charpos": 3550, 
+        "original-start-charpos": 3402
+    }, 
+    {
+        "obfuscation": "'' So , if alcohol is legal , why should not narcotics be '' , the advocates of the legalisation of narcotics would say .", 
+        "obfuscation-id": 28, 
+        "original": " \n\"So, if alcohol is legal, why should not narcotics be\", the advocates of the legalisation of narcotics would say.", 
+        "original-end-charpos": 3665, 
+        "original-start-charpos": 3551
+    }, 
+    {
+        "obfuscation": "But , making one terrible mistake does not entitle us to make another one .", 
+        "obfuscation-id": 29, 
+        "original": " \nBut, making one terrible mistake does not entitle us to make another one.", 
+        "original-end-charpos": 3740, 
+        "original-start-charpos": 3666
+    }, 
+    {
+        "obfuscation": "It is true that we do already have a lot of trouble in our society due to alcohol , which is sad enough .", 
+        "obfuscation-id": 30, 
+        "original": " \nIt is true that we do already have a lot of trouble in our society due to alcohol, which is sad enough.", 
+        "original-end-charpos": 3845, 
+        "original-start-charpos": 3741
+    }, 
+    {
+        "obfuscation": "But I do not believe in making alcohol illegal , though , because the use of it has such deep traditional roots in our history and I think this tradition with , for example , the ceremony to drink a toast to someone on a special occasion , would therefore be extremely unmanageable to change .", 
+        "obfuscation-id": 31, 
+        "original": " \nBut I do not believe in making alcohol illegal, though, because the use of it has such deep traditional roots in our history and I think this tradition with, for example, the ceremony to drink a toast to someone on a special occasion, would therefore be extremely difficult to change.", 
+        "original-end-charpos": 4131, 
+        "original-start-charpos": 3846
+    }, 
+    {
+        "obfuscation": "Another point is that the decomposition of alcohol is a lot faster than that of marijuana for instance .", 
+        "obfuscation-id": 32, 
+        "original": "  \nAnother point is that the decomposition of alcohol is much faster than that of marijuana for instance.", 
+        "original-end-charpos": 4236, 
+        "original-start-charpos": 4132
+    }, 
+    {
+        "obfuscation": "Marijuana may remain in the body up to about 30 days .", 
+        "obfuscation-id": 33, 
+        "original": " \nMarijuana may remain in the body up to about 30 days.", 
+        "original-end-charpos": 4291, 
+        "original-start-charpos": 4237
+    }, 
+    {
+        "obfuscation": "That would make it impossible to most people to actually use narcotics even in the weekends , if they are not going to be intoxicated during their time at work .", 
+        "obfuscation-id": 34, 
+        "original": " \nThat would make it impossible to most people to actually use narcotics even in the weekends, if they are not going to be intoxicated during their time at work.", 
+        "original-end-charpos": 4452, 
+        "original-start-charpos": 4292
+    }, 
+    {
+        "obfuscation": "If you drink alcohol in a Saturday evening , you can be pretty certain to be free from it in the Monday morning .", 
+        "obfuscation-id": 35, 
+        "original": " \nIf you drink alcohol in a Saturday evening, you can be pretty sure to be free from it in the Monday morning.", 
+        "original-end-charpos": 4562, 
+        "original-start-charpos": 4453
+    }, 
+    {
+        "obfuscation": "But if you smoke a joint of marijuana , you will never know if you are going to get `` flashbacks '' any time in the following 30 days or not .", 
+        "obfuscation-id": 36, 
+        "original": " \nBut if you smoke a joint of marijuana, you will never know if you are going to have \"flashbacks\" any time in the following 30 days or not.", 
+        "original-end-charpos": 4702, 
+        "original-start-charpos": 4563
+    }, 
+    {
+        "obfuscation": "I do not think that even advocates for the legalisation of narcotics would like to be operated by a doctor intoxicated by marijuana , ecstasy or any other drug .", 
+        "obfuscation-id": 37, 
+        "original": " \nI do not think that even advocates for the legalisation of narcotics would like to be operated by a doctor intoxicated by marijuana, ecstasy or any other drug.", 
+        "original-end-charpos": 4863, 
+        "original-start-charpos": 4703
+    }, 
+    {
+        "obfuscation": "As I mentioned above , the whole society suffers already in many unlike ways due to drugs of different kinds .", 
+        "obfuscation-id": 38, 
+        "original": "   \nAs I mentioned above, the whole society suffers already in many different ways due to drugs of different kinds.", 
+        "original-end-charpos": 4978, 
+        "original-start-charpos": 4864
+    }, 
+    {
+        "obfuscation": "Legalisation of narcotics would make that suffering even worse , because it would increase the use of narcotics .", 
+        "obfuscation-id": 39, 
+        "original": " \nLegalisation of narcotics would make that suffering even worse, because it would increase the use of narcotics.", 
+        "original-end-charpos": 5091, 
+        "original-start-charpos": 4979
+    }, 
+    {
+        "obfuscation": "It is also certainly not true that the drug-users do not effect any other people .", 
+        "obfuscation-id": 40, 
+        "original": " \nIt is also certainly not true that the drug-users do not effect any other people.", 
+        "original-end-charpos": 5174, 
+        "original-start-charpos": 5092
+    }, 
+    {
+        "obfuscation": "The argument that narcotics ought to be legal because alcohol is legal can not be taken as a durable argument either .", 
+        "obfuscation-id": 41, 
+        "original": " \nThe argument that narcotics ought to be legal because alcohol is legal can not be taken as a durable argument either.", 
+        "original-end-charpos": 5293, 
+        "original-start-charpos": 5175
+    }, 
+    {
+        "obfuscation": "If we wish a society where most people are given the possibility to grow up in harmony and become empathetic and responsible adults who cares about other people , we have to make certain that narcotics will never be legalised here in Sweden .", 
+        "obfuscation-id": 42, 
+        "original": " \nIf we wish a society where most people are given the possibility to grow up in harmony and become empathetic and responsible adults who cares about other people, we have to make sure that narcotics will never be legalised here in Sweden.\n", 
+        "original-end-charpos": 5533, 
+        "original-start-charpos": 5294
+    }
+]

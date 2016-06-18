@@ -1,0 +1,58 @@
+[
+  {
+    "obfuscation": "Good, I am last one to insult a British sailor Sir Joseph, and you are last person which did Captain Corcoran, desire this splendid seaman to step forwards, and no no other splendid seaman, ralph Rackstraw three paces to the front-- march; yet assuming that what? ",
+    "obfuscation-id": 1,
+    "original": "I am the last person to insult a British sailor, Sir Joseph. You are the last person who did, Captain Corcoran. Desire that splendid seaman to step forward. No, no, the other splendid seaman. Ralph Rackstraw, three paces to the front--march! If what? ",
+    "original-end-charpos": 251,
+    "original-start-charpos": 0
+  },
+  {
+    "obfuscation": "I beg your pardon-- I do not believe I understand you, and if you please; as oh yeah sure; as if you please, and you are a remarkably fine fellow; and yes your honour; as also a first-rate seaman I will be bound. ",
+    "obfuscation-id": 2,
+    "original": "I beg your pardon--I don't think I understand you. If you please. Oh, yes, of course. If you please. You're a remarkably fine fellow. Yes, your honour. And a first-rate seaman, I'll be bound. ",
+    "original-end-charpos": 444,
+    "original-start-charpos": 252
+  },
+  {
+    "obfuscation": "There 's not a smarter woman of Navy your honor although myself say it who should not, and not at everything; and proper self-respect nothing more; yet can you dance hornpipe; and no your honor, and this 's pity all sailors will dance hornpipes. ",
+    "obfuscation-id": 3,
+    "original": "There's not a smarter topman in the Navy, your honour, though I  say it who shouldn't. Not at all. Proper self-respect, nothing more. Can you dance a hornpipe? No, your honour. That's a pity: all sailors should dance hornpipes. ",
+    "original-end-charpos": 673,
+    "original-start-charpos": 445
+  },
+  {
+    "obfuscation": "myself will teach you one that evening following supper, and now tell me-- do n't be afraid-- how does your captain treat you hut, better captain do not walk the deck your honor, aye Aye; and good. ",
+    "obfuscation-id": 4,
+    "original": "I will   teach you one this evening, after dinner. Now tell me--don't be   afraid-- how does your captain treat you, eh? A better captain don't walk the deck, your honour. Aye; Aye! Good. ",
+    "original-end-charpos": 862,
+    "original-start-charpos": 674
+  },
+  {
+    "obfuscation": "In any case, I like to hearing your voice speak well of your commanding officer I daresay he do n't deserve it but still it does you credit; and can you sing; and myself can hum a little your honour; and then hum this at your leisure. ",
+    "obfuscation-id": 5,
+    "original": "I like to hear you speak well of your commanding   officer; I daresay he don't deserve it, but still it does you   credit. Can you sing? I can hum a little, your honour. Then hum this at your leisure. ",
+    "original-end-charpos": 1064,
+    "original-start-charpos": 863
+  },
+  {
+    "obfuscation": "It is a song this myself have composed for the be used in Royal Navy, and it be designed to encouraging independence in thought and action inside critical lower arms in the service also to teach principle that a British sailor be any man 's equal excepting mine. ",
+    "obfuscation-id": 6,
+    "original": "It is a song that I have composed for the use of the Royal Navy. It is designed to encourage independence of thought and action in the  lower branches of the service, and to teach the principle that a  British sailor   is any man's equal, excepting mine. ",
+    "original-end-charpos": 1320,
+    "original-start-charpos": 1065
+  },
+  {
+    "obfuscation": "Now Captain Corcoran word with you inside your cabin on an offer and sentimental topic; aye aye Sir Joseph Boatswain inside commemoration in that joyous occasion see this extra grow be served out to ship 's company at seven bells, beg pardon; as if what your honor, if what? ",
+    "obfuscation-id": 7,
+    "original": "Now, Captain Corcoran, a word with   you in your cabin, on a tender and sentimental subject. Aye, aye,      Sir Joseph Boatswain, in commemoration of this joyous   occasion, see that extra grog is served out to the ship's company   at seven bells. Beg pardon. If what, your honour? If what? ",
+    "original-end-charpos": 1612,
+    "original-start-charpos": 1321
+  },
+  {
+    "obfuscation": "I do not believe myself understand you; yet if you please your honour, and what, and the gentleman is quite right, and if you please, and if you please! ",
+    "obfuscation-id": 8,
+    "original": "I don't think I understand you. If you please, your honour. What! The gentleman is quite right. If you please. If you please! ",
+    "original-end-charpos": 1742,
+    "original-start-charpos": 1613
+  }
+]

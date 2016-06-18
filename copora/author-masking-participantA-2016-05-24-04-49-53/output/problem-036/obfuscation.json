@@ -1,0 +1,289 @@
+[
+    {
+        "obfuscation": "\ufeffy foremost actual contact with the English language was in third grade in compulsory school .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffy first actual contact with the English language was in third grade in compulsory school.", 
+        "original-end-charpos": 89, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "I remember I was actually looking forward to it .", 
+        "obfuscation-id": 2, 
+        "original": " \nI remember I was really looking forward to it.", 
+        "original-end-charpos": 137, 
+        "original-start-charpos": 90
+    }, 
+    {
+        "obfuscation": "I was going to determine how to speak and read in a foreign language .", 
+        "obfuscation-id": 3, 
+        "original": " \nI was going to learn how to speak and read in a foreign language.", 
+        "original-end-charpos": 204, 
+        "original-start-charpos": 138
+    }, 
+    {
+        "obfuscation": "It felt like it made me turn up a little bit !", 
+        "obfuscation-id": 4, 
+        "original": " \nIt felt like it made me grow up a little bit!", 
+        "original-end-charpos": 251, 
+        "original-start-charpos": 205
+    }, 
+    {
+        "obfuscation": "I do n't remember how many English lessons we had a week at that time but I remember that a teacher came to our small school only for those occasions .", 
+        "obfuscation-id": 5, 
+        "original": " \nI don't remember how many English lessons we had a week at that time but I remember that a teacher came to our little school only for those occasions.", 
+        "original-end-charpos": 403, 
+        "original-start-charpos": 252
+    }, 
+    {
+        "obfuscation": "I suppose my ordinary teacher was n't certificated for it or just did n't want to teach English .", 
+        "obfuscation-id": 6, 
+        "original": " \nI suppose my ordinary teacher wasn't certificated for it or simply didn't want to teach English.", 
+        "original-end-charpos": 501, 
+        "original-start-charpos": 404
+    }, 
+    {
+        "obfuscation": "Well , I wished learning some English words and I liked the English lessons for the rest of compulsory school as well .", 
+        "obfuscation-id": 7, 
+        "original": " \nWell, I liked learning some English words and I liked the English lessons for the rest of compulsory school as well.", 
+        "original-end-charpos": 619, 
+        "original-start-charpos": 502
+    }, 
+    {
+        "obfuscation": "And it was pretty cool to be able to speak some when being abroad , in Greece for example .", 
+        "obfuscation-id": 8, 
+        "original": " \nAnd it was pretty cool to be able to speak some when being abroad, in Greece for example.", 
+        "original-end-charpos": 710, 
+        "original-start-charpos": 620
+    }, 
+    {
+        "obfuscation": "At senior high school though , I made of some reason lose my interest for English .", 
+        "obfuscation-id": 9, 
+        "original": " \t \nAt senior high school though, I did of some reason lose my interest for English.", 
+        "original-end-charpos": 794, 
+        "original-start-charpos": 711
+    }, 
+    {
+        "obfuscation": "I found it like everyone in my class was doing much better than me .", 
+        "obfuscation-id": 10, 
+        "original": " \nI felt it like everyone in my class was doing much better than me.", 
+        "original-end-charpos": 862, 
+        "original-start-charpos": 795
+    }, 
+    {
+        "obfuscation": "Many of my friends had been to England or the United States taking language courses during some weeks in the summer .", 
+        "obfuscation-id": 11, 
+        "original": " \nMany of my friends had been to England or the United States taking language courses during some weeks in the summer.", 
+        "original-end-charpos": 980, 
+        "original-start-charpos": 863
+    }, 
+    {
+        "obfuscation": "nowadays when looking back at that time I do n't think I actually was much worse than the others , perhaps instead bad self-confidence was the reason why I was n't so active on the English lessons .", 
+        "obfuscation-id": 12, 
+        "original": " \nNow when looking back at that time I don't think I actually was much worse than the others, perhaps instead bad self-confidence was the reason why I wasn't so active on the English lessons.", 
+        "original-end-charpos": 1171, 
+        "original-start-charpos": 981
+    }, 
+    {
+        "obfuscation": "Of course I did make the exercises in the books , read what we were supposed to read and answer the questions I got .", 
+        "obfuscation-id": 13, 
+        "original": " \nOf course I did do the exercises in the books, read what we were supposed to read and answer the questions I got.", 
+        "original-end-charpos": 1286, 
+        "original-start-charpos": 1172
+    }, 
+    {
+        "obfuscation": "But I did n't throw myself into discussions though , and speeches in front of the class were n't exactly 'my cup of tea ' .", 
+        "obfuscation-id": 14, 
+        "original": " \nBut I didn't throw myself into discussions though, and speeches in front of the class weren't exactly 'my cup of tea'.", 
+        "original-end-charpos": 1406, 
+        "original-start-charpos": 1287
+    }, 
+    {
+        "obfuscation": "One year after senior high school , I got to know about a one semester English class in Portslade near Brighton in Great Britain .", 
+        "obfuscation-id": 15, 
+        "original": "  \t \nOne year after senior high school, I got to know about a one semester English course in Portslade near Brighton in Great Britain.", 
+        "original-end-charpos": 1540, 
+        "original-start-charpos": 1407
+    }, 
+    {
+        "obfuscation": "It is a course you apply for through Visings Folk High School in Sweden .", 
+        "obfuscation-id": 16, 
+        "original": " \nIt is a course you apply for through Visings Folk High School in Sweden.", 
+        "original-end-charpos": 1614, 
+        "original-start-charpos": 1541
+    }, 
+    {
+        "obfuscation": "There are only Swedish students on the path but all teachers and staffs are Englishmen/women .", 
+        "obfuscation-id": 17, 
+        "original": " \nThere are only Swedish students on the course but all teachers and staffs are Englishmen/women.", 
+        "original-end-charpos": 1711, 
+        "original-start-charpos": 1615
+    }, 
+    {
+        "obfuscation": "And your accommodation during the course is with an English class .", 
+        "obfuscation-id": 18, 
+        "original": " \nAnd your accommodation during the course is with an English family.", 
+        "original-end-charpos": 1780, 
+        "original-start-charpos": 1712
+    }, 
+    {
+        "obfuscation": "I went there hoping to improve my English and also to become a glimpse of British society and culture .", 
+        "obfuscation-id": 19, 
+        "original": " \nI went there hoping to improve my English and also to get a glimpse of British society and culture.", 
+        "original-end-charpos": 1881, 
+        "original-start-charpos": 1781
+    }, 
+    {
+        "obfuscation": "This was accordingly the inaugural time I was really forced to speak English .", 
+        "obfuscation-id": 20, 
+        "original": " \nThis was accordingly the first time I was really forced to speak English.", 
+        "original-end-charpos": 1956, 
+        "original-start-charpos": 1882
+    }, 
+    {
+        "obfuscation": "I was surprised how comfortable it was to get into the language .", 
+        "obfuscation-id": 21, 
+        "original": " \nI was surprised how easy it was to get into the language.", 
+        "original-end-charpos": 2015, 
+        "original-start-charpos": 1957
+    }, 
+    {
+        "obfuscation": "I surely made lots of grammatically mistakes but that was n't so important at that moment .", 
+        "obfuscation-id": 22, 
+        "original": " \nI surely did lots of grammatically mistakes but that wasn't so important at that moment.", 
+        "original-end-charpos": 2105, 
+        "original-start-charpos": 2016
+    }, 
+    {
+        "obfuscation": "The independent thing was that I actually dared to speak and put my trust in that people understood me .", 
+        "obfuscation-id": 23, 
+        "original": " \nThe main thing was that I actually dared to speak and put my trust in that people understood me.", 
+        "original-end-charpos": 2203, 
+        "original-start-charpos": 2106
+    }, 
+    {
+        "obfuscation": "I think the better way of learning a language , is to stay in a country where that language is spoken , for a while .", 
+        "obfuscation-id": 24, 
+        "original": " \nI think the best way of learning a language, is to stay in a country where that language is spoken, for a while.", 
+        "original-end-charpos": 2317, 
+        "original-start-charpos": 2204
+    }, 
+    {
+        "obfuscation": "Of course we studied grammar , wrote essays and so on the path , but I think I learn most just by listening , speaking and constantly being `` surrounded by English '' , written and spoken .", 
+        "obfuscation-id": 25, 
+        "original": " \nOf course we studied grammar, wrote essays and so on the course, but I think I learn most just by listening, speaking and constantly being \"surrounded by English\", written and spoken.", 
+        "original-end-charpos": 2502, 
+        "original-start-charpos": 2318
+    }, 
+    {
+        "obfuscation": "Now , when going to study English again ( and this time on a more advanced degree ) , I feel a bit unused to it because I have n't practised it for a while .", 
+        "obfuscation-id": 26, 
+        "original": " \t \nNow, when going to study English again (and this time on a more advanced level), I feel a bit unused to it because I haven't practised it for a while.", 
+        "original-end-charpos": 2656, 
+        "original-start-charpos": 2503
+    }, 
+    {
+        "obfuscation": "But I think , or at least hope , it will be quite comfortable to get into it again , at least the listening part .", 
+        "obfuscation-id": 27, 
+        "original": " \nBut I think, or at least hope, it will be quite easy to get into it again, at least the listening part.", 
+        "original-end-charpos": 2761, 
+        "original-start-charpos": 2657
+    }, 
+    {
+        "obfuscation": "I remember that is the easiest thing , unless the speaker has got some , for me unknown , dialect or anything .", 
+        "obfuscation-id": 28, 
+        "original": " \nI think that is the easiest thing, unless the speaker has got some, for me unknown, dialect or anything.", 
+        "original-end-charpos": 2867, 
+        "original-start-charpos": 2762
+    }, 
+    {
+        "obfuscation": "When it comes to reading I think it depends very much of what you are reading , whether it is unmanageable or not .", 
+        "obfuscation-id": 29, 
+        "original": " \nWhen it comes to reading I think it depends very much of what you are reading, whether it is difficult or not.", 
+        "original-end-charpos": 2979, 
+        "original-start-charpos": 2868
+    }, 
+    {
+        "obfuscation": "When reading an English-written novel , I may not understand exactly all of the words , but I can get the floor on the whole anyway .", 
+        "obfuscation-id": 30, 
+        "original": " \nWhen reading an English-written novel, I may not understand exactly all of the words, but I can get the story on the whole anyway.", 
+        "original-end-charpos": 3111, 
+        "original-start-charpos": 2980
+    }, 
+    {
+        "obfuscation": "If reading specialist literature , though , it might be a bit more difficult , due to the fact that there may be lots of words that I normally make n't get into contact with .", 
+        "obfuscation-id": 31, 
+        "original": " \nIf reading specialist literature, though, it might be a bit more difficult, due to the fact that there may be lots of words that I normally don't get into contact with.", 
+        "original-end-charpos": 3281, 
+        "original-start-charpos": 3112
+    }, 
+    {
+        "obfuscation": "According to speaking , as I mentioned before , I think it 's a question of self-reliance for me .", 
+        "obfuscation-id": 32, 
+        "original": " \nAccording to speaking, as I mentioned before, I think it's a question of self-reliance for me.", 
+        "original-end-charpos": 3377, 
+        "original-start-charpos": 3282
+    }, 
+    {
+        "obfuscation": "When I was in England I think I improved my speaking ability a lot , at least to use the language in casual speech .", 
+        "obfuscation-id": 33, 
+        "original": " \nWhen I was in England I think I improved my speaking ability a lot, at least to use the language in everyday speech.", 
+        "original-end-charpos": 3495, 
+        "original-start-charpos": 3378
+    }, 
+    {
+        "obfuscation": "I hope I will get into the language like that again now and also enlarge my vocabulary ( in writing as well , of course ) .", 
+        "obfuscation-id": 34, 
+        "original": " \nI hope I will get into the language like that again now and also enlarge my vocabulary (in writing as well, of course).", 
+        "original-end-charpos": 3616, 
+        "original-start-charpos": 3496
+    }, 
+    {
+        "obfuscation": "What I also would like to develop more is my pronunciation .", 
+        "obfuscation-id": 35, 
+        "original": " \nWhat I also would like to develop more is my pronunciation.", 
+        "original-end-charpos": 3677, 
+        "original-start-charpos": 3617
+    }, 
+    {
+        "obfuscation": "At this moment I think there is sometimes besides much a mix of Swedish- , American- , and British English in my language .", 
+        "obfuscation-id": 36, 
+        "original": " \nAt this moment I think there is sometimes too much a mix of Swedish-, American-, and British English in my language.", 
+        "original-end-charpos": 3795, 
+        "original-start-charpos": 3678
+    }, 
+    {
+        "obfuscation": "My ambition is to get a consistently British pronunciation and fluency in my speaking .", 
+        "obfuscation-id": 37, 
+        "original": " \nMy dream is to get a consistently British pronunciation and fluency in my speaking.", 
+        "original-end-charpos": 3880, 
+        "original-start-charpos": 3796
+    }, 
+    {
+        "obfuscation": "( I think I have a retentive way to get there , though ! )", 
+        "obfuscation-id": 38, 
+        "original": " \n(I think I have a long way to get there, though!)", 
+        "original-end-charpos": 3931, 
+        "original-start-charpos": 3881
+    }, 
+    {
+        "obfuscation": "Concerning myself , I think , writing in English is the about difficult part .", 
+        "obfuscation-id": 39, 
+        "original": " \nConcerning myself, I think, writing in English is the most difficult part.", 
+        "original-end-charpos": 4007, 
+        "original-start-charpos": 3932
+    }, 
+    {
+        "obfuscation": "Maybe not spelling words right , but handling with the grammar right , knowing what expression or word burst where , and getting a clear structure in my composition , are , among other , things that I have to practise more .", 
+        "obfuscation-id": 40, 
+        "original": " \nMaybe not spelling words right, but handling with the grammar right, knowing what expression or word fit where, and getting a clear structure in my composition, are, among other, things that I have to practise more.", 
+        "original-end-charpos": 4224, 
+        "original-start-charpos": 4008
+    }, 
+    {
+        "obfuscation": "That 's common for all of the four skills that I 've noted - I have to practise a lot !", 
+        "obfuscation-id": 41, 
+        "original": " \nThat's common for all of the four skills that I've mentioned - I have to practise a lot!\n", 
+        "original-end-charpos": 4315, 
+        "original-start-charpos": 4225
+    }
+]

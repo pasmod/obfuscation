@@ -1,0 +1,366 @@
+[
+    {
+        "obfuscation": "\ufeffConsider a periodic digital signal ten [ n ] , n=0,1,2 , ... , N-1 , where N is the number of sample values in each period .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffConsider a periodic digital signal x[n], n=0,1,2,...,N-1, where N is the number of sample values in each period.", 
+        "original-end-charpos": 112, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "From Euler\u2019s complex exponential equation : for each frequency k , equivalent .", 
+        "obfuscation-id": 2, 
+        "original": " From\r\nEuler\u2019s complex exponential equation:\r\nfor each frequency k, Eq.", 
+        "original-end-charpos": 183, 
+        "original-start-charpos": 113
+    }, 
+    {
+        "obfuscation": "( 4.1 ) contains 2 sinusoidal affairs in real and imaginary parts , respectively , with p/2 difference in phase .", 
+        "obfuscation-id": 3, 
+        "original": " (4.1) contains 2 sinusoidal functions in real and imaginary parts, respectively, with p/2 difference\r\nin phase.", 
+        "original-end-charpos": 295, 
+        "original-start-charpos": 184
+    }, 
+    {
+        "obfuscation": "The frequencies of the affairs are k=0,1,2 , ... , N-1 .", 
+        "obfuscation-id": 4, 
+        "original": " The frequencies of the functions are k=0,1,2,...,N-1.", 
+        "original-end-charpos": 349, 
+        "original-start-charpos": 296
+    }, 
+    {
+        "obfuscation": "The fundamental sinusoidal function is when the frequency k=1 .", 
+        "obfuscation-id": 5, 
+        "original": " The fundamental sinusoidal function is when the frequency\r\nk=1.", 
+        "original-end-charpos": 413, 
+        "original-start-charpos": 350
+    }, 
+    {
+        "obfuscation": "The other higher sinusoidal affairs are called harmonics .", 
+        "obfuscation-id": 6, 
+        "original": " The other higher sinusoidal functions are called harmonics.", 
+        "original-end-charpos": 473, 
+        "original-start-charpos": 414
+    }, 
+    {
+        "obfuscation": "The coefficients of Fourier Series for a digital signal can be calculated by where k a is kth spectral coefficient , indicating the strength of the kth harmonic function .", 
+        "obfuscation-id": 7, 
+        "original": " The coefficients of Fourier Series for a digital signal can\r\nbe calculated by\r\nwhere k a is kth spectral coefficient, indicating the strength of the kth harmonic function.", 
+        "original-end-charpos": 645, 
+        "original-start-charpos": 474
+    }, 
+    {
+        "obfuscation": "The original digital signal ten [ n ] can be represented by its constituent harmonics as the form of discrete Fourier series : The following Figure 4.1 illustrates how many complex multiplications are required in calculating those coefficients k a and from k a to obtaining x [ n ] .", 
+        "obfuscation-id": 8, 
+        "original": " The original digital signal x[n]\r\ncan be represented by its constituent harmonics as the form of discrete Fourier series:\r\nThe following Figure 4.1 illustrates how many complex multiplications are required in calculating those coefficients k a\r\nand from k a to obtaining x[n].", 
+        "original-end-charpos": 922, 
+        "original-start-charpos": 646
+    }, 
+    {
+        "obfuscation": "It is basically N 2 in each occasion .", 
+        "obfuscation-id": 9, 
+        "original": " It is basically N 2 in each occasion.", 
+        "original-end-charpos": 960, 
+        "original-start-charpos": 923
+    }, 
+    {
+        "obfuscation": "Example 4.1 A periodic signal ten [ n ] = [ 0 2 4 6 ] has the period N=4 , its coefficients of Fourier series can be calculated by the formula Figure 4.2 illustrates one period of the signal and its spectral coefficients .", 
+        "obfuscation-id": 10, 
+        "original": "\r\nExample 4.1 A periodic signal x[n] = [0 2 4 6] has the period N=4, its coefficients of Fourier series can be calculated\r\nby the formula\r\nFigure 4.2 illustrates one period of the signal and its spectral coefficients.", 
+        "original-end-charpos": 1177, 
+        "original-start-charpos": 961
+    }, 
+    {
+        "obfuscation": "Example 4.2 A sine wave k=4 and N=64 , the sine wave and its Fourier spectrum are shown in the following name 4.3 .", 
+        "obfuscation-id": 11, 
+        "original": "\r\nExample 4.2 A sine wave\r\nk=4 and N=64, the sine wave and its Fourier spectrum are shown\r\nin the following Figure 4.3.", 
+        "original-end-charpos": 1296, 
+        "original-start-charpos": 1178
+    }, 
+    {
+        "obfuscation": "It can be seen that the individual sine wave gives a single spectral line at frequencies of 4 hz and 64-4=60 hz , or The Fourier series introduced in previous section is only applicable to periodic signals .", 
+        "obfuscation-id": 12, 
+        "original": " It can be seen that the single sine wave gives a single spectral line at frequencies of 4 hz and\r\n64-4=60 hz, or\r\nThe Fourier series introduced in previous section is only applicable to periodic signals.", 
+        "original-end-charpos": 1500, 
+        "original-start-charpos": 1297
+    }, 
+    {
+        "obfuscation": "In general cases , the signal is not periodic , and the Fourier series formula equivalent .", 
+        "obfuscation-id": 13, 
+        "original": " In general cases, the signal is\r\nnot periodic, and the Fourier series formula Eq.", 
+        "original-end-charpos": 1582, 
+        "original-start-charpos": 1501
+    }, 
+    {
+        "obfuscation": "( 4.2 ) is not applicable .", 
+        "obfuscation-id": 14, 
+        "original": " (4.2) is not applicable.", 
+        "original-end-charpos": 1607, 
+        "original-start-charpos": 1583
+    }, 
+    {
+        "obfuscation": "consequently , a Fourier Transform for non-periodic signals must be introduced .", 
+        "obfuscation-id": 15, 
+        "original": " Therefore, a Fourier Transform for non-periodic\r\nsignals must be introduced.", 
+        "original-end-charpos": 1684, 
+        "original-start-charpos": 1608
+    }, 
+    {
+        "obfuscation": "Let frequency ( rad/sample ) changes continuously between 0 and 2p .", 
+        "obfuscation-id": 16, 
+        "original": "\r\nLet frequency (rad/sample) changes continuously between 0 and 2p.", 
+        "original-end-charpos": 1751, 
+        "original-start-charpos": 1685
+    }, 
+    {
+        "obfuscation": "This can be achieved by assuming N is big enough and the fundamental frequency is very small .", 
+        "obfuscation-id": 17, 
+        "original": " This can be achieved by assuming N is\r\nbig enough and the fundamental frequency is very small.", 
+        "original-end-charpos": 1846, 
+        "original-start-charpos": 1752
+    }, 
+    {
+        "obfuscation": "Define a Fourier transform as where X ( W ) is the Fourier spectrum , which is a continuous function , therefore , usual round brackets are used .", 
+        "obfuscation-id": 18, 
+        "original": " Define a Fourier transform as\r\nwhere X (W) is the Fourier spectrum, which is a continuous function, therefore, usual round brackets are used.", 
+        "original-end-charpos": 1988, 
+        "original-start-charpos": 1847
+    }, 
+    {
+        "obfuscation": "It is also a periodic function with a period of 2p as sinusoidal affairs are multiplied in the transform .", 
+        "obfuscation-id": 19, 
+        "original": " It is also\r\na periodic function with a period of 2p as sinusoidal functions are multiplied in the transform.", 
+        "original-end-charpos": 2097, 
+        "original-start-charpos": 1989
+    }, 
+    {
+        "obfuscation": "Assuming N is big and using equivalent .", 
+        "obfuscation-id": 20, 
+        "original": "\r\nAssuming N is big and using Eq.", 
+        "original-end-charpos": 2130, 
+        "original-start-charpos": 2098
+    }, 
+    {
+        "obfuscation": "( 4.3 ) , the inverse Fourier transform can be defined : Consider digital LTI systems , take Fourier transform for the remark , impulse response and output : where H ( W ) is known as the frequency response , which describes the gain of a system at different frequencies and can be obtained by taking Fourier transform to the impulse response .", 
+        "obfuscation-id": 21, 
+        "original": "(4.3), the inverse Fourier transform can be defined:\r\nConsider digital LTI systems, take Fourier transform for the input, impulse response and output:\r\nwhere H(W) is known as the frequency response, which describes the gain of a system at different frequencies and can\r\nbe obtained by taking Fourier transform to the impulse response.", 
+        "original-end-charpos": 2464, 
+        "original-start-charpos": 2131
+    }, 
+    {
+        "obfuscation": "The input-output relationship in the time and frequency domains , and the time-frequency relationships of the three quantities are shown in Figure 4.4 .", 
+        "obfuscation-id": 22, 
+        "original": " The input-output relationship in the time and frequency\r\ndomains, and the time-frequency relationships of the three quantities are shown in Figure 4.4.", 
+        "original-end-charpos": 2616, 
+        "original-start-charpos": 2465
+    }, 
+    {
+        "obfuscation": "Using the convolution property of the Fourier transform , for the input-output relationship apply the Fourier transform on both sides , it can be obtained The frequency response can be obtained from the transforms of stimulation and output : Find the frequency response and sketch its magnitude and phase over the range 0 < W < p .", 
+        "obfuscation-id": 23, 
+        "original": "\r\nUsing the convolution property of the Fourier transform, for the input-output relationship\r\napply the Fourier transform on both sides, it can be obtained\r\nThe frequency response can be obtained from the transforms of input and output:\r\nFind the frequency response and sketch its magnitude and phase over the range 0<W<p.", 
+        "original-end-charpos": 2938, 
+        "original-start-charpos": 2617
+    }, 
+    {
+        "obfuscation": "Solution : Re-arrange the difference equation as Let ten [ n ] be a signal discretized with a sampling rate of fs Hz , we are about to find the position of peak for a complex harmonic component with frequency in the frequency \u03a9 ( rad/sample ) domain .", 
+        "obfuscation-id": 24, 
+        "original": "\r\nSolution: Re-arrange the difference equation as\r\nLet x[n] be a signal discretized with a sampling rate of fs Hz, we are about to find the position of peak for a complex\r\nharmonic component with frequency in the frequency \u03a9 (rad/sample) domain.", 
+        "original-end-charpos": 3183, 
+        "original-start-charpos": 2939
+    }, 
+    {
+        "obfuscation": "Its Fourier transform is given by In the previous chapters , time sphere and frequency domain analysis have been introduced .", 
+        "obfuscation-id": 25, 
+        "original": " Its Fourier\r\ntransform is given by\r\nIn the previous chapters, time domain and frequency domain analysis have been introduced.", 
+        "original-end-charpos": 3309, 
+        "original-start-charpos": 3184
+    }, 
+    {
+        "obfuscation": "In each of those domains unlike insights of digital signals are revealed .", 
+        "obfuscation-id": 26, 
+        "original": " In each of those domains\r\ndifferent insights of digital signals are revealed.", 
+        "original-end-charpos": 3387, 
+        "original-start-charpos": 3310
+    }, 
+    {
+        "obfuscation": "It is useful to introduce another world : the z domain .", 
+        "obfuscation-id": 27, 
+        "original": " It is useful to introduce another domain: the z domain.", 
+        "original-end-charpos": 3443, 
+        "original-start-charpos": 3388
+    }, 
+    {
+        "obfuscation": "A digital time signal can be transferred into z world by the z-transform .", 
+        "obfuscation-id": 28, 
+        "original": " A digital time\r\nsignal can be transferred into z domain by the z-transform.", 
+        "original-end-charpos": 3519, 
+        "original-start-charpos": 3444
+    }, 
+    {
+        "obfuscation": "The z-transform is defined as where z is a complex variable .", 
+        "obfuscation-id": 29, 
+        "original": " The z-transform is defined as\r\nwhere z is a complex variable.", 
+        "original-end-charpos": 3581, 
+        "original-start-charpos": 3520
+    }, 
+    {
+        "obfuscation": "The transform defined by equivalent .", 
+        "obfuscation-id": 30, 
+        "original": " The transform defined by Eq.", 
+        "original-end-charpos": 3610, 
+        "original-start-charpos": 3582
+    }, 
+    {
+        "obfuscation": "( 5.1 ) is a unilateral transform as defined on one side of the axis 0 \u2264 n < \u221e .", 
+        "obfuscation-id": 31, 
+        "original": " (5.1) is a unilateral transform as defined on one side of the\r\naxis 0 \u2264 n < \u221e.", 
+        "original-end-charpos": 3689, 
+        "original-start-charpos": 3611
+    }, 
+    {
+        "obfuscation": "In the transform , each sample ten [ n ] is multiplied by the complex variable z \u2212n , i.e .", 
+        "obfuscation-id": 32, 
+        "original": " In the transform, each sample x[n] is multiplied by the complex variable z \u2212n , i.e.", 
+        "original-end-charpos": 3774, 
+        "original-start-charpos": 3690
+    }, 
+    {
+        "obfuscation": "There is advantage in this unilateral transform definition as it can avoid numerical inconvenience .", 
+        "obfuscation-id": 33, 
+        "original": "\r\nThere is advantage in this unilateral transform definition as it can avoid mathematical inconvenience.", 
+        "original-end-charpos": 3878, 
+        "original-start-charpos": 3775
+    }, 
+    {
+        "obfuscation": "One can shift the signal of interest to obtain a required origin in its analysis , thus usually causing no trouble in lotions .", 
+        "obfuscation-id": 34, 
+        "original": " One can shift the\r\nsignal of interest to obtain a required origin in its analysis, thus usually causing no trouble in applications.", 
+        "original-end-charpos": 4010, 
+        "original-start-charpos": 3879
+    }, 
+    {
+        "obfuscation": "The inverse z-transform can be found by It involves contour integration , and further discussion is beyond the scope of this basic content .", 
+        "obfuscation-id": 35, 
+        "original": "\r\nThe inverse z-transform can be found by\r\nIt involves contour integration, and further discussion is beyond the scope of this basic content.", 
+        "original-end-charpos": 4151, 
+        "original-start-charpos": 4011
+    }, 
+    {
+        "obfuscation": "However , an alternative approach is available using partial fractions together with z-transform formulas of basic affairs .", 
+        "obfuscation-id": 36, 
+        "original": " However, an alternative\r\napproach is available using partial fractions together with z-transform formulas of basic functions.", 
+        "original-end-charpos": 4277, 
+        "original-start-charpos": 4152
+    }, 
+    {
+        "obfuscation": "Table 5.1 lists the basic properties of the z transform and Table 5.2 lists some basic z- transform pairs .", 
+        "obfuscation-id": 37, 
+        "original": " Table 5.1 lists the basic\r\nproperties of the z transform and Table 5.2 lists some basic z- transform pairs.", 
+        "original-end-charpos": 4385, 
+        "original-start-charpos": 4278
+    }, 
+    {
+        "obfuscation": "Example 5.1 Find the z transform for a signal and reconstruct a signal from its z-transform .", 
+        "obfuscation-id": 38, 
+        "original": "\r\nExample 5.1 Find the z transform for a signal and reconstruct a signal from its z-transform.", 
+        "original-end-charpos": 4479, 
+        "original-start-charpos": 4386
+    }, 
+    {
+        "obfuscation": "Let z = exp ( jW ) , i.e .", 
+        "obfuscation-id": 39, 
+        "original": "\r\nLet z = exp( jW) , i.e.", 
+        "original-end-charpos": 4504, 
+        "original-start-charpos": 4480
+    }, 
+    {
+        "obfuscation": "the complex varying z is only allowed on the unit circle , the z-transform becomes a unilateral Fourier transform Obviously , apart from on the unit circle , the complex operator z can be specified into other curves or region , if necessary .", 
+        "obfuscation-id": 40, 
+        "original": " the complex variable z is only allowed on the unit circle, the z-transform becomes a unilateral\r\nFourier transform\r\nObviously, apart from on the unit circle, the complex operator z can be specified into other curves or region, if necessary.", 
+        "original-end-charpos": 4745, 
+        "original-start-charpos": 4505
+    }, 
+    {
+        "obfuscation": "Later , it will be shown the unit circle is significant boundary on the z-domain .", 
+        "obfuscation-id": 41, 
+        "original": "\r\nLater, it will be shown the unit circle is important boundary on the z-domain.", 
+        "original-end-charpos": 4825, 
+        "original-start-charpos": 4746
+    }, 
+    {
+        "obfuscation": "Multiplying by z implies a time advance and dividing by z , or multiplying by z \u22121 , is to cause a time delay .", 
+        "obfuscation-id": 42, 
+        "original": "\r\nMultiplying by z implies a time advance and dividing by z, or multiplying by z \u22121 , is to cause a time delay.", 
+        "original-end-charpos": 4936, 
+        "original-start-charpos": 4826
+    }, 
+    {
+        "obfuscation": "For the unit impulse , The transfer function describes the input-output relationship , or the transmissibility between stimulation and output , in the z-domain .", 
+        "obfuscation-id": 43, 
+        "original": " For the unit\r\nimpulse,\r\nThe transfer function describes the input-output relationship, or the transmissibility between input and output, in the\r\nz-domain.", 
+        "original-end-charpos": 5091, 
+        "original-start-charpos": 4937
+    }, 
+    {
+        "obfuscation": "Applying the z-transform to the output of a system , the relationship between the z-transforms of stimulation and output can be found : i.e. , the transfer function can be obtained from the z-transforms of input and output .", 
+        "obfuscation-id": 44, 
+        "original": " Applying the z-transform to the output of a system, the relationship between the z-transforms of input and\r\noutput can be found:\r\ni.e., the transfer function can be obtained from the z-transforms of input and output.", 
+        "original-end-charpos": 5308, 
+        "original-start-charpos": 5092
+    }, 
+    {
+        "obfuscation": "Alternatively , the transfer function H ( z ) can be obtained by applying z-transform directly to the impulse reaction h [ n ] .", 
+        "obfuscation-id": 45, 
+        "original": "\r\nAlternatively, the transfer function H(z) can be obtained by applying z-transform directly to the impulse response h[n]\r\n.", 
+        "original-end-charpos": 5432, 
+        "original-start-charpos": 5309
+    }, 
+    {
+        "obfuscation": "The relationships of input ( ten [ n ] and X ( z ) ) , output ( y [ n ] and Y ( z ) ) and system function ( h [ n ] and H ( z ) ) in the time and z domains are depicted in Figure 5.2 .", 
+        "obfuscation-id": 46, 
+        "original": " The relationships of input ( x[n] and X (z) ), output ( y[n] and Y(z) ) and system function ( h[n] and H(z) ) in\r\nthe time and z domains are depicted in Figure 5.2.", 
+        "original-end-charpos": 5597, 
+        "original-start-charpos": 5433
+    }, 
+    {
+        "obfuscation": "Instead of using equivalent .", 
+        "obfuscation-id": 47, 
+        "original": "\r\nInstead of using Eq.", 
+        "original-end-charpos": 5619, 
+        "original-start-charpos": 5598
+    }, 
+    {
+        "obfuscation": "( 5.2 ) , the inverse z-transform can be made through partial fractions .", 
+        "obfuscation-id": 48, 
+        "original": "(5.2), the inverse z-transform can be made through partial fractions.", 
+        "original-end-charpos": 5688, 
+        "original-start-charpos": 5620
+    }, 
+    {
+        "obfuscation": "The following are cases .", 
+        "obfuscation-id": 49, 
+        "original": " The following are examples.", 
+        "original-end-charpos": 5716, 
+        "original-start-charpos": 5689
+    }, 
+    {
+        "obfuscation": "Example 5.2 A signal has a z-transform find the corresponding original signal ten [ n ] .", 
+        "obfuscation-id": 50, 
+        "original": "\r\nExample 5.2 A signal has a z-transform\r\nfind the corresponding original signal x[n].", 
+        "original-end-charpos": 5802, 
+        "original-start-charpos": 5717
+    }, 
+    {
+        "obfuscation": "The z-transform can be represented by partial fractions as There is an alternative way of finding the coefficients for the partial fractions .", 
+        "obfuscation-id": 51, 
+        "original": "\r\nThe z-transform can be represented by partial fractions as\r\nThere is an alternative way of finding the coefficients for the partial fractions.", 
+        "original-end-charpos": 5946, 
+        "original-start-charpos": 5803
+    }, 
+    {
+        "obfuscation": "For the above example , poles and zeros For the z-transform of a digital signal or a transfer function of an LTI system , generally it can be expressed as factorised shape for both the", 
+        "obfuscation-id": 52, 
+        "original": " For the above example,\r\npoles and zeros\r\nFor the z-transform of a digital signal or a transfer function of an LTI system, generally it can be expressed as factorised\r\nform for both the", 
+        "original-end-charpos": 6131, 
+        "original-start-charpos": 5947
+    }
+]

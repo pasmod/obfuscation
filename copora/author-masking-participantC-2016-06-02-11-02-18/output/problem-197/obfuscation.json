@@ -1,0 +1,51 @@
+[
+  {
+    "obfuscation": "assuming that 'e keeps quiet myself wo not; as but myself 'm not accountable-- not always I tell you straight-- not since I have been through that, and nor p'raps he is not; like as not; as it takes the lynch pins out I say to you; and god 'elp us, and ah! ",
+    "obfuscation-id": 1,
+    "original": "If 'e keeps quiet, I won't. But I'm not accountable--not always, I tell you straight--not since I've been through that. Nor p'raps he isn't. Like as not. It takes the lynch pins out, I tell you. God 'elp us! Ah! ",
+    "original-end-charpos": 212,
+    "original-start-charpos": 0
+  },
+  {
+    "obfuscation": "We said this a little bit too often; and what our own serves want our own serves take now there 's nobody else to give it us and there 's no fear 'll stop us we seen the bottom of things; and p'raps he 'll say this too, and then it will be 'im or me. ",
+    "obfuscation-id": 2,
+    "original": "We said that a bit too often. What we want we take, now; there's no one else to give it us, and there's no fear'll stop us; we seen the bottom of things. P'raps he'll say that too. Then it'll be 'im or me. ",
+    "original-end-charpos": 419,
+    "original-start-charpos": 213
+  },
+  {
+    "obfuscation": "I 'm frightened No Daisy do n't, as river 's handy; yet one plus or least; and 'E she n't 'arm you neither me either; yet [ He takes out a knife. ] oh do n't; and give it to me Jim, and no fear, yet she not 'ave no necessity for it like as not. ",
+    "obfuscation-id": 3,
+    "original": "I'm frightened:  No, Daisy, no! The river's handy. One more or less. 'E shan't 'arm you; nor me neither. [He takes out a knife.] Oh, no! Give it to me, Jim! No fear! Shan't 'ave no need for it like as not. ",
+    "original-end-charpos": 626,
+    "original-start-charpos": 420
+  },
+  {
+    "obfuscation": "All right little Daisy you ca not be expected to see things like what we 're doing, yet what 's life anyway, and myself 've seen thousand lives taken of \u2212 5 minutes, and i have seen dead men on wires like flies on flypaper. ",
+    "obfuscation-id": 4,
+    "original": "All right, little Daisy; you can't be expected to see things like what we do. What's life, anyway? I've seen a thousand lives taken in five minutes. I've seen dead men on the wires like flies on a flypaper. ",
+    "original-end-charpos": 834,
+    "original-start-charpos": 627
+  },
+  {
+    "obfuscation": "myself 've been as good as dead myself hundred time, yet myself have killed dozen men; and it 's nothing '; and he 's secure if 'e do not get my blood up, assuming that he does nobody 's safe not 'im nor anybody else not even you, i 'm speaking ' sober. ",
+    "obfuscation-id": 5,
+    "original": "I've been as good as dead meself a hundred times. I've killed a dozen men. It's nothin'. He's safe, if 'e don't get my blood up. If he does, nobody's safe; not 'im, nor anybody else; not even you. I'm speakin' sober. ",
+    "original-end-charpos": 1052,
+    "original-start-charpos": 835
+  },
+  {
+    "obfuscation": "Jim you wo not go fighting ' inside soil with the birds all calling '; this be dependent on 'im; and i 'm not looking ' for it, daisy I love you; myself like your hair, and myself like your eye, myself love you; and and myself love you Jim. ",
+    "obfuscation-id": 6,
+    "original": "Jim, you won't go fightin' in the sun, with the birds all callin'? That depends on 'im. I'm not lookin' for it. Daisy, I love you. I love your hair. I love your eyes. I love you. And I love you, Jim. ",
+    "original-end-charpos": 1253,
+    "original-start-charpos": 1053
+  },
+  {
+    "obfuscation": "myself do not want nothing ' more than you of all world, amen to this my dear; and kiss me close!`` I will be right here to-night Where the fields are snowy white Banjos ringing parties sing All the world seems bright.'' it 's him! ",
+    "obfuscation-id": 7,
+    "original": "I don't want nothin' more than you in all the world. Amen to that, my dear. Kiss me close! \"I'll be right there to-night,     Where the fields are snowy white;     Banjos ringing, darkies singing,     All the world seems bright.\" It's him! ",
+    "original-end-charpos": 1495,
+    "original-start-charpos": 1254
+  }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "obfuscation": "Sure , he has .", 
+        "obfuscation-id": 1, 
+        "original": "Sure, he has.", 
+        "original-end-charpos": 12, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Who do you think takes care of the reindeer , and who waters the doll-tree and picks the dolls ?", 
+        "obfuscation-id": 2, 
+        "original": " Who do you think takes care of the reindeer,\nand who waters the doll-tree and picks the dolls?", 
+        "original-end-charpos": 107, 
+        "original-start-charpos": 13
+    }, 
+    {
+        "obfuscation": "Picks the dolls ?", 
+        "obfuscation-id": 3, 
+        "original": "\n\nPicks the dolls?", 
+        "original-end-charpos": 125, 
+        "original-start-charpos": 108
+    }, 
+    {
+        "obfuscation": "make the dolls grow on trees ?", 
+        "obfuscation-id": 4, 
+        "original": " Do the dolls grow on trees?", 
+        "original-end-charpos": 153, 
+        "original-start-charpos": 126
+    }, 
+    {
+        "obfuscation": "Yes , indeed , right next door to the taffy cottage , down Chocolate Lane .", 
+        "obfuscation-id": 5, 
+        "original": "\n\nYes, indeed, right next door to the taffy cottage, down\nChocolate Lane.", 
+        "original-end-charpos": 226, 
+        "original-start-charpos": 154
+    }, 
+    {
+        "obfuscation": "I take care of the marble bushes and the popgun trees .", 
+        "obfuscation-id": 6, 
+        "original": " I take care of the marble bushes and the popgun trees.", 
+        "original-end-charpos": 281, 
+        "original-start-charpos": 227
+    }, 
+    {
+        "obfuscation": "You just ought to see our wonderful gardens .", 
+        "obfuscation-id": 7, 
+        "original": "\nYou just ought to see our wonderful gardens.", 
+        "original-end-charpos": 326, 
+        "original-start-charpos": 282
+    }, 
+    {
+        "obfuscation": "Oh , I 'd love to see them .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nOh, I'd love to see them.", 
+        "original-end-charpos": 353, 
+        "original-start-charpos": 327
+    }, 
+    {
+        "obfuscation": "We 've got a Teddy-bear garden , and a tool garden , and a furniture garden , and a game garden , and a candy garden , though most of the candy comes from mines .", 
+        "obfuscation-id": 9, 
+        "original": "\n\nWe've got a Teddy-bear garden, and a tool garden, and a\n\nfurniture garden, and a game garden, and a candy garden, though most\nof the candy comes from mines.", 
+        "original-end-charpos": 511, 
+        "original-start-charpos": 354
+    }, 
+    {
+        "obfuscation": "The mines ?", 
+        "obfuscation-id": 10, 
+        "original": "\n\nThe mines?", 
+        "original-end-charpos": 523, 
+        "original-start-charpos": 512
+    }, 
+    {
+        "obfuscation": "Sure .", 
+        "obfuscation-id": 11, 
+        "original": "\n\nSure.", 
+        "original-end-charpos": 530, 
+        "original-start-charpos": 524
+    }, 
+    {
+        "obfuscation": "We dig away just the kind we want .", 
+        "obfuscation-id": 12, 
+        "original": " We dig out just the kind we want.", 
+        "original-end-charpos": 564, 
+        "original-start-charpos": 531
+    }, 
+    {
+        "obfuscation": "We have caramel mines , and vanilla mines and mines full of chocolate almonds , and rivers of fig paste and strawberry ice cream soda .", 
+        "obfuscation-id": 13, 
+        "original": " We have caramel\nmines, and vanilla mines and mines full of chocolate almonds, and\nrivers of fig paste and strawberry ice cream soda.", 
+        "original-end-charpos": 697, 
+        "original-start-charpos": 565
+    }, 
+    {
+        "obfuscation": "They flow right through the picture-book garden .", 
+        "obfuscation-id": 14, 
+        "original": " They flow right\nthrough the picture-book garden.", 
+        "original-end-charpos": 746, 
+        "original-start-charpos": 698
+    }, 
+    {
+        "obfuscation": "Oh , it must be the most wonderful place in the whole world .", 
+        "obfuscation-id": 15, 
+        "original": "\n\nOh, it must be the most wonderful place in the whole world.", 
+        "original-end-charpos": 807, 
+        "original-start-charpos": 747
+    }, 
+    {
+        "obfuscation": "And I help take care of it .", 
+        "obfuscation-id": 16, 
+        "original": "\n\nAnd I help take care of it.", 
+        "original-end-charpos": 836, 
+        "original-start-charpos": 808
+    }, 
+    {
+        "obfuscation": "I have fourteen fiddling brothers , and we 're all twins .", 
+        "obfuscation-id": 17, 
+        "original": " I have fourteen little\nbrothers, and we're all twins.", 
+        "original-end-charpos": 890, 
+        "original-start-charpos": 837
+    }, 
+    {
+        "obfuscation": "And have you a mother , besides ?", 
+        "obfuscation-id": 18, 
+        "original": "\n\nAnd have you a mother, too?", 
+        "original-end-charpos": 919, 
+        "original-start-charpos": 891
+    }, 
+    {
+        "obfuscation": "Has Santa Claus a nice-a , fine-a wife ?", 
+        "obfuscation-id": 19, 
+        "original": " Has Santa Claus a nice-a, fine-a\nwife?", 
+        "original-end-charpos": 958, 
+        "original-start-charpos": 920
+    }, 
+    {
+        "obfuscation": "Of course he 's got a wife .", 
+        "obfuscation-id": 20, 
+        "original": "\n\nOf course he's got a wife.", 
+        "original-end-charpos": 986, 
+        "original-start-charpos": 959
+    }, 
+    {
+        "obfuscation": "Have n't you always heard of my mother .", 
+        "obfuscation-id": 21, 
+        "original": " Haven't you ever\nheard of my mother.", 
+        "original-end-charpos": 1023, 
+        "original-start-charpos": 987
+    }, 
+    {
+        "obfuscation": "Her name is Mary .", 
+        "obfuscation-id": 22, 
+        "original": " Her name is Mary.", 
+        "original-end-charpos": 1041, 
+        "original-start-charpos": 1024
+    }, 
+    {
+        "obfuscation": "Mary ?", 
+        "obfuscation-id": 23, 
+        "original": "\n\nMary?", 
+        "original-end-charpos": 1048, 
+        "original-start-charpos": 1042
+    }, 
+    {
+        "obfuscation": "Mary what ?", 
+        "obfuscation-id": 24, 
+        "original": " Mary what?", 
+        "original-end-charpos": 1059, 
+        "original-start-charpos": 1049
+    }, 
+    {
+        "obfuscation": "Why , Merry Mary Christmas , of course .", 
+        "obfuscation-id": 25, 
+        "original": "\n\nWhy, Merry Mary Christmas, of course.", 
+        "original-end-charpos": 1098, 
+        "original-start-charpos": 1060
+    }, 
+    {
+        "obfuscation": "I thought everyone knew that .", 
+        "obfuscation-id": 26, 
+        "original": " I thought everyone\nknew that.", 
+        "original-end-charpos": 1128, 
+        "original-start-charpos": 1099
+    }, 
+    {
+        "obfuscation": "And does she go round the world with Santa Claus on the night before Christmas ?", 
+        "obfuscation-id": 27, 
+        "original": "\n\n And does she go round the world with Santa Claus on the night\nbefore Christmas?", 
+        "original-end-charpos": 1210, 
+        "original-start-charpos": 1129
+    }, 
+    {
+        "obfuscation": "Oh , no , she 's besides busy for that .", 
+        "obfuscation-id": 28, 
+        "original": "\n\nOh, no, she's too busy for that.", 
+        "original-end-charpos": 1244, 
+        "original-start-charpos": 1211
+    }, 
+    {
+        "obfuscation": "She stays at home and takes care of the gardens .", 
+        "obfuscation-id": 29, 
+        "original": " She stays at home and\ntakes care of the gardens.", 
+        "original-end-charpos": 1293, 
+        "original-start-charpos": 1245
+    }, 
+    {
+        "obfuscation": "But what are you doing here on the ship ?", 
+        "obfuscation-id": 30, 
+        "original": "\n\n But what are you doing here on the ship?", 
+        "original-end-charpos": 1336, 
+        "original-start-charpos": 1294
+    }, 
+    {
+        "obfuscation": "I should think you'd be with your father .", 
+        "obfuscation-id": 31, 
+        "original": " I should think you'd\nbe with your father.", 
+        "original-end-charpos": 1378, 
+        "original-start-charpos": 1337
+    }, 
+    {
+        "obfuscation": "Ah , that is a secret .", 
+        "obfuscation-id": 32, 
+        "original": "\n\nAh, that is a secret.", 
+        "original-end-charpos": 1401, 
+        "original-start-charpos": 1379
+    }, 
+    {
+        "obfuscation": "You must n't tell anyone .", 
+        "obfuscation-id": 33, 
+        "original": " You mustn't tell anyone.", 
+        "original-end-charpos": 1426, 
+        "original-start-charpos": 1402
+    }, 
+    {
+        "obfuscation": "How can I tell anyone when I do n't know myself .", 
+        "obfuscation-id": 34, 
+        "original": "\n\nHow can I tell anyone when I don't know myself.", 
+        "original-end-charpos": 1475, 
+        "original-start-charpos": 1427
+    }, 
+    {
+        "obfuscation": "Well , maybe I 'll tell you .", 
+        "obfuscation-id": 35, 
+        "original": "\n\nWell, maybe I'll tell you.\n\n\n", 
+        "original-end-charpos": 1506, 
+        "original-start-charpos": 1476
+    }
+]

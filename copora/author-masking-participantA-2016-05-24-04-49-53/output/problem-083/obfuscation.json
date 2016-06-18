@@ -1,0 +1,317 @@
+[
+    {
+        "obfuscation": "\ufeff Why spoil a full mother to make an ordinary grammarian ?", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Why spoil a good mother to make an ordinary grammarian?", 
+        "original-end-charpos": 56, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Until the middle of the nineteenth century female education in Britain generally took place at home .", 
+        "obfuscation-id": 2, 
+        "original": "  \nUntil the middle of the nineteenth century female education in Britain generally took place at home.", 
+        "original-end-charpos": 159, 
+        "original-start-charpos": 57
+    }, 
+    {
+        "obfuscation": "While the sons of a family mostly were sent aside to school to receive costly education , girls were basically taught social skills in the home by the mother of the family or a governess or in some cases in local church schools .", 
+        "obfuscation-id": 3, 
+        "original": " \nWhile the sons of a family mostly were sent away to school to receive costly education, girls were basically taught social skills in the home by the mother of the family or a governess or in some cases in local church schools.", 
+        "original-end-charpos": 387, 
+        "original-start-charpos": 160
+    }, 
+    {
+        "obfuscation": "Anyhow , it was quite an informal education .", 
+        "obfuscation-id": 4, 
+        "original": " \nAnyhow, it was quite an informal education.", 
+        "original-end-charpos": 432, 
+        "original-start-charpos": 388
+    }, 
+    {
+        "obfuscation": "During the concluding decades , though , an opinion had emerged among reform-friendly people that girls and women should be given formal education more or less equivalent to that of boys and men .", 
+        "obfuscation-id": 5, 
+        "original": " \nDuring the last decades, though, an opinion had emerged among reform-friendly people that girls and women should be given formal education more or less equivalent to that of boys and men.", 
+        "original-end-charpos": 621, 
+        "original-start-charpos": 433
+    }, 
+    {
+        "obfuscation": "Soon enough , this was potential owing to the new forms of secondary schools that were founded in the 1840s .", 
+        "obfuscation-id": 6, 
+        "original": " \nSoon enough, this was possible owing to the new forms of secondary schools that were founded in the 1840s.", 
+        "original-end-charpos": 729, 
+        "original-start-charpos": 622
+    }, 
+    {
+        "obfuscation": "This began other processes as well , such as a debate on whether women should be granted admission to universities and colleges or not .", 
+        "obfuscation-id": 7, 
+        "original": " \nThis started other processes as well, such as a debate on whether women should be granted admission to universities and colleges or not.", 
+        "original-end-charpos": 867, 
+        "original-start-charpos": 730
+    }, 
+    {
+        "obfuscation": "consequently , these reforms and suggestions to reforms provoked lots of discussions and many voices were raised over the subject formal female education .", 
+        "obfuscation-id": 8, 
+        "original": " \nAccordingly, these reforms and suggestions to reforms provoked lots of discussions and many voices were raised over the subject formal female education.", 
+        "original-end-charpos": 1021, 
+        "original-start-charpos": 868
+    }, 
+    {
+        "obfuscation": "My aim here is to give you an overall picture of the unlike opinions on this matter .", 
+        "obfuscation-id": 9, 
+        "original": " \nMy aim here is to give you an overall picture of the different opinions on this matter.", 
+        "original-end-charpos": 1110, 
+        "original-start-charpos": 1022
+    }, 
+    {
+        "obfuscation": "One group generally positive to formal education for girls and women were established middle class families .", 
+        "obfuscation-id": 10, 
+        "original": " \nOne group generally positive to formal education for girls and women was established middle class families.", 
+        "original-end-charpos": 1219, 
+        "original-start-charpos": 1111
+    }, 
+    {
+        "obfuscation": "This because they could teach their daughters necessary social skills at home and also thought that the girls would want proper education to be able to become suitable wives and mothers capable of teaching their children good morals .", 
+        "obfuscation-id": 11, 
+        "original": " \nThis because they could teach their daughters necessary social skills at home and also thought that the girls would need proper education to be able to become suitable wives and mothers capable of teaching their children good morals.", 
+        "original-end-charpos": 1454, 
+        "original-start-charpos": 1220
+    }, 
+    {
+        "obfuscation": "This social group also felt the threat of the newly rich trying to join them on the social ladder , - they felt that they had to protect their social superiority .", 
+        "obfuscation-id": 12, 
+        "original": " \nThis social group also felt the threat of the newly rich trying to join them on the social ladder, - they felt that they had to protect their social superiority.", 
+        "original-end-charpos": 1617, 
+        "original-start-charpos": 1455
+    }, 
+    {
+        "obfuscation": "To be able to ensure this superiority , they needed excellent governesses to prepare their children , and particularly sons , for school .", 
+        "obfuscation-id": 13, 
+        "original": " \nTo be able to ensure this superiority, they needed excellent governesses to prepare their children, and especially sons, for school.", 
+        "original-end-charpos": 1751, 
+        "original-start-charpos": 1618
+    }, 
+    {
+        "obfuscation": "This demand resulted in the founding of a college for educating governesses , and once this was established it was evident that also women teachers needed further education , and that the whole system for girls schooling were insufficient .", 
+        "obfuscation-id": 14, 
+        "original": " \nThis demand resulted in the founding of a college for educating governesses, and once this was established it was evident that also women teachers needed further education, and that the whole system for girls schooling was insufficient.", 
+        "original-end-charpos": 1989, 
+        "original-start-charpos": 1752
+    }, 
+    {
+        "obfuscation": "Another category arguing strongly for formal female education was that of feminists and early reformers .", 
+        "obfuscation-id": 15, 
+        "original": " \nAnother category arguing strongly for formal female education was that of feminists and other reformers.", 
+        "original-end-charpos": 2095, 
+        "original-start-charpos": 1990
+    }, 
+    {
+        "obfuscation": "They claimed that the superficial education given was completely useless .", 
+        "obfuscation-id": 16, 
+        "original": " \nThey claimed that the superficial education given was completely useless.", 
+        "original-end-charpos": 2170, 
+        "original-start-charpos": 2096
+    }, 
+    {
+        "obfuscation": "Women should have the right to the like standards of education as men .", 
+        "obfuscation-id": 17, 
+        "original": " \nWomen should have the right to the same standards of education as men.", 
+        "original-end-charpos": 2242, 
+        "original-start-charpos": 2171
+    }, 
+    {
+        "obfuscation": "Society would benefit from educated women as well as it benefited from educated men .", 
+        "obfuscation-id": 18, 
+        "original": " \nSociety would benefit from educated women as well as it benefited from educated men.", 
+        "original-end-charpos": 2328, 
+        "original-start-charpos": 2243
+    }, 
+    {
+        "obfuscation": "Another degree they made was that an educated woman would be able to support herself if she never married .", 
+        "obfuscation-id": 19, 
+        "original": " \nAnother point they made was that an educated woman would be able to support herself if she never married.", 
+        "original-end-charpos": 2435, 
+        "original-start-charpos": 2329
+    }, 
+    {
+        "obfuscation": "Even though these two groups had strong arguments and actually managed to grow female education , the greatest number of arguments represents the opinion against female education .", 
+        "obfuscation-id": 20, 
+        "original": " \nEven though these two groups had strong arguments and actually managed to develop female education, the greatest number of arguments represents the opinion against female education.", 
+        "original-end-charpos": 2618, 
+        "original-start-charpos": 2436
+    }, 
+    {
+        "obfuscation": "To begin with , there were those who used this ethical argument that a woman 's set in life is to exist for the sake of others .", 
+        "obfuscation-id": 21, 
+        "original": " \nTo begin with, there were those who used this ethical argument that a woman's lot in life is to exist for the sake of others.", 
+        "original-end-charpos": 2745, 
+        "original-start-charpos": 2619
+    }, 
+    {
+        "obfuscation": "Her aim should be to be the embodiment of unselfishness .", 
+        "obfuscation-id": 22, 
+        "original": " \nHer aim should be to be the embodiment of unselfishness.", 
+        "original-end-charpos": 2803, 
+        "original-start-charpos": 2746
+    }, 
+    {
+        "obfuscation": "Furthermore it was considered that education should `` prepare the individual whom it influences , for filling her appointed station in the best possible manner '' ( Ellis , p.1 ) In other words , Ellis considered it completely futile to send girls to school to determine things they never would find use for later in life .", 
+        "obfuscation-id": 23, 
+        "original": " \nFurthermore it was considered that education should \"prepare the individual whom it influences, for filling her appointed station in the best possible manner\" (Ellis, p.1) In other words, Ellis considered it completely futile to send girls to school to learn things they never would find use for later in life.", 
+        "original-end-charpos": 3115, 
+        "original-start-charpos": 2804
+    }, 
+    {
+        "obfuscation": "She goes on explaining that in school we learn to compete and be selfish , while in actual life ( in the 19th century ) qualities like that were hardly desired in women .", 
+        "obfuscation-id": 24, 
+        "original": " \nShe goes on explaining that in school we learn to compete and be selfish, while in real life (in the 19th century) qualities like that were hardly desired in women.", 
+        "original-end-charpos": 3281, 
+        "original-start-charpos": 3116
+    }, 
+    {
+        "obfuscation": "Also when it comes to the achieving of social skills she gives a long explanation why the home is preferable to the school : `` In cultivating a taste for what is refined and beautiful , in the acquisition of general knowledge , as well as in that of easy and agreeable manners ( ... ) it is impossible to imagine a young girl more advantageously situated than in a well-regulated home , and surrounded by an amiable and well-informed family ( ... ) ( Ellis p.6 ) Among all those ideas opposing that women undertake the same higher education as men there were the common belief that men and women had different , innate , intellectual qualities , and that women simply were not meant to interfere with politics or other things that demanded constructive thinking .", 
+        "obfuscation-id": 25, 
+        "original": " \nAlso when it comes to the achieving of social skills she gives a long explanation why the home is preferable to the school: \"In cultivating a taste for what is refined and beautiful, in the acquisition of general knowledge, as well as in that of easy and agreeable manners (...) it is impossible to imagine a young girl more advantageously situated than in a well-regulated home, and surrounded by an amiable and well-informed family (...) \n(Ellis p.6) Among all those ideas opposing that women undertake the same higher education as men there was the common belief that men and women had different, innate, intellectual qualities, and that women simply were not meant to interfere with politics or other things that demanded constructive thinking.", 
+        "original-end-charpos": 4031, 
+        "original-start-charpos": 3282
+    }, 
+    {
+        "obfuscation": "Both men and women supported this belief , we can tell from this quotation from a woman : `` There is a natural inferiority of judgment in women - of the intellect ( ... ) we are under your feet , because we can not stand upon our own . ''", 
+        "obfuscation-id": 26, 
+        "original": " \nBoth men and women supported this belief, we can tell from this quotation from a woman: \"There is a natural inferiority of mind in women - of the intellect (...) we are under your feet, because we cannot stand upon our own.\"", 
+        "original-end-charpos": 4257, 
+        "original-start-charpos": 4032
+    }, 
+    {
+        "obfuscation": "( Burstyn p.15 ) It was also considered that women wholly lacked creative powers .", 
+        "obfuscation-id": 27, 
+        "original": " \n(Burstyn p.15) It was also considered that women totally lacked creative powers.", 
+        "original-end-charpos": 4339, 
+        "original-start-charpos": 4258
+    }, 
+    {
+        "obfuscation": "This was tested , they thought , since there were no great female artists like Shakespeare or Mozart .", 
+        "obfuscation-id": 28, 
+        "original": " \nThis was proved, they thought, since there were no great female artists like Shakespeare or Mozart.", 
+        "original-end-charpos": 4440, 
+        "original-start-charpos": 4340
+    }, 
+    {
+        "obfuscation": "Because of this , it was very rare that women got the chance to receive higher education .", 
+        "obfuscation-id": 29, 
+        "original": " \nBecause of this, it was very rare that women got the chance to receive higher education.", 
+        "original-end-charpos": 4530, 
+        "original-start-charpos": 4441
+    }, 
+    {
+        "obfuscation": "People reasoned that since women still were not capable of making any creative work , why waste money on educating them ?", 
+        "obfuscation-id": 30, 
+        "original": " \nPeople reasoned that since women still were not capable of doing any creative work, why waste money on educating them?", 
+        "original-end-charpos": 4650, 
+        "original-start-charpos": 4531
+    }, 
+    {
+        "obfuscation": "Something else holding this idea was contemporary anatomical studies , or perhaps even more the conclusions anthropologists drew from them , that intelligence was in proportion to the size and weight of the brain .", 
+        "obfuscation-id": 31, 
+        "original": " \nSomething else supporting this idea was contemporary anatomical studies, or perhaps even more the conclusions anthropologists drew from them, that intelligence was in proportion to the size and weight of the brain.", 
+        "original-end-charpos": 4866, 
+        "original-start-charpos": 4651
+    }, 
+    {
+        "obfuscation": "This was obvious since children have smaller brains and undoubtedly are less intelligent .", 
+        "obfuscation-id": 32, 
+        "original": " \nThis was obvious since children have smaller brains and undoubtedly are less intelligent.", 
+        "original-end-charpos": 4957, 
+        "original-start-charpos": 4867
+    }, 
+    {
+        "obfuscation": "As we all know , men 's brains are larger and heavier than women 's and so it was `` proved '' that women were less mentally developed than men .", 
+        "obfuscation-id": 33, 
+        "original": " \nAs we all know, men's brains are larger and heavier than women's and so it was \"proved\" that women were less mentally developed than men.", 
+        "original-end-charpos": 5096, 
+        "original-start-charpos": 4958
+    }, 
+    {
+        "obfuscation": "By this argument they wanted to show that woman should not undertake the like education as men , because she did not have the capacity to do it .", 
+        "obfuscation-id": 34, 
+        "original": " \nBy this argument they wanted to show that woman should not undertake the same education as men, because she did not have the capacity to do it.", 
+        "original-end-charpos": 5241, 
+        "original-start-charpos": 5097
+    }, 
+    {
+        "obfuscation": "oreover , there were arguments opposing higher female education based on the concern for what medical consequences it would lead to for the woman .", 
+        "obfuscation-id": 35, 
+        "original": "  oreover, there were arguments opposing higher female education based on the fear for what medical consequences it would lead to for the woman.", 
+        "original-end-charpos": 5385, 
+        "original-start-charpos": 5242
+    }, 
+    {
+        "obfuscation": "It was said that `` The logical , philosophical , scientific woman is not the ordinary type ; she frequently - we say it with all delicacy , and yet truthfully - departs from it in her forcible as well as in her mental characteristics . ''", 
+        "obfuscation-id": 36, 
+        "original": " \nIt was said that \"The logical, philosophical, scientific woman is not the ordinary type; she frequently - we say it with all delicacy, and yet truthfully - departs from it in her physical as well as in her mental characteristics.\"", 
+        "original-end-charpos": 5617, 
+        "original-start-charpos": 5386
+    }, 
+    {
+        "obfuscation": "( Burstyn p.17 ) Note the reading on physical disabilities .", 
+        "obfuscation-id": 37, 
+        "original": " \n(Burstyn p.17) Note the indication on physical disabilities.", 
+        "original-end-charpos": 5679, 
+        "original-start-charpos": 5618
+    }, 
+    {
+        "obfuscation": "This was a cosmopolitan understanding these days , that when women exhausted their brains , it had a negative effect on her health , and in fact , this could also make her infertile .", 
+        "obfuscation-id": 38, 
+        "original": " \nThis was a general understanding these days, that when women exhausted their brains, it had a negative effect on her health, and in fact, this could also make her infertile.", 
+        "original-end-charpos": 5854, 
+        "original-start-charpos": 5680
+    }, 
+    {
+        "obfuscation": "There was of course no way this could be scientifically tested , but that fact was effectively disguised by the prudishness of this time , the Victorian era .", 
+        "obfuscation-id": 39, 
+        "original": " \nThere was of course no way this could be scientifically proved, but that fact was effectively disguised by the prudishness of this time, the Victorian era.", 
+        "original-end-charpos": 6011, 
+        "original-start-charpos": 5855
+    }, 
+    {
+        "obfuscation": "It was not a subject suitable to discuss openly , and therefore it was supposed to be understood and accepted without further inquiries .", 
+        "obfuscation-id": 40, 
+        "original": " \nIt was not a topic suitable to discuss openly, and therefore it was supposed to be understood and accepted without further inquiries.", 
+        "original-end-charpos": 6146, 
+        "original-start-charpos": 6012
+    }, 
+    {
+        "obfuscation": "Beneath all these arguments presented , there is one main , underlying thesis , namely that leaving women formal education would result in a change of the ideal of womanhood that existed during this time .", 
+        "obfuscation-id": 41, 
+        "original": " \nBeneath all these arguments presented, there is one main, underlying thesis, namely that allowing women formal education would result in a change of the ideal of womanhood that existed during this time.", 
+        "original-end-charpos": 6350, 
+        "original-start-charpos": 6147
+    }, 
+    {
+        "obfuscation": "This ethical argument is very basic , declaring that according to lifelike laws women and men had different premises , and women were supposed to have a moral and spiritual influence which would be destroyed by an education equivalent to men 's .", 
+        "obfuscation-id": 42, 
+        "original": " \nThis ethical argument is very basic, declaring that according to natural laws women and men had different premises, and women were supposed to have a moral and spiritual influence which would be destroyed by an education equivalent to men's.", 
+        "original-end-charpos": 6593, 
+        "original-start-charpos": 6351
+    }, 
+    {
+        "obfuscation": "In conclusion , looking at these different views on the establishment of formal female education , it is evident that those fighting for it had a huge opinion against themselves .", 
+        "obfuscation-id": 43, 
+        "original": "  \nIn conclusion, looking at these different aspects on the establishment of formal female education, it is evident that those fighting for it had a huge opinion against themselves.", 
+        "original-end-charpos": 6774, 
+        "original-start-charpos": 6594
+    }, 
+    {
+        "obfuscation": "The arguments against female education were in many cases the reflections of this era , believing in the female role as the one of a family angel , with social and moral skills as the most cherished attributes .", 
+        "obfuscation-id": 44, 
+        "original": " \nThe arguments against female education were in many cases the reflections of this era, believing in the female role as the one of a house angel, with social and moral skills as the most cherished attributes.", 
+        "original-end-charpos": 6983, 
+        "original-start-charpos": 6775
+    }, 
+    {
+        "obfuscation": "However , those working for female education gained ground , a lot owing to the tendency of middle class class to educate their daughters .", 
+        "obfuscation-id": 45, 
+        "original": " \nHowever, those working for female education gained ground, a lot owing to the tendency of middle class families to educate their daughters.\n", 
+        "original-end-charpos": 7125, 
+        "original-start-charpos": 6984
+    }
+]

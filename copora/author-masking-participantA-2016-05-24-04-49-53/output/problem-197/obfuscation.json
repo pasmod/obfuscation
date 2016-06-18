@@ -1,0 +1,303 @@
+[
+    {
+        "obfuscation": "If 'e keeps quiet , I wo n't .", 
+        "obfuscation-id": 1, 
+        "original": "If 'e keeps quiet, I won't.", 
+        "original-end-charpos": 26, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "But I 'm not accountable -- not always , I tell you straight -- not since I 've been through that .", 
+        "obfuscation-id": 2, 
+        "original": "  But I'm not accountable--not\nalways, I tell you straight--not since I've been through that.", 
+        "original-end-charpos": 119, 
+        "original-start-charpos": 27
+    }, 
+    {
+        "obfuscation": "Nor p'raps he is n't .", 
+        "obfuscation-id": 3, 
+        "original": "\n\n Nor p'raps he isn't.", 
+        "original-end-charpos": 142, 
+        "original-start-charpos": 120
+    }, 
+    {
+        "obfuscation": "Like as not .", 
+        "obfuscation-id": 4, 
+        "original": "\n\nLike as not.", 
+        "original-end-charpos": 156, 
+        "original-start-charpos": 143
+    }, 
+    {
+        "obfuscation": "It takes the lynch pins away , I tell you .", 
+        "obfuscation-id": 5, 
+        "original": "  It takes the lynch pins out, I tell you.", 
+        "original-end-charpos": 198, 
+        "original-start-charpos": 157
+    }, 
+    {
+        "obfuscation": "God 'elp us !", 
+        "obfuscation-id": 6, 
+        "original": "\n\nGod 'elp us!", 
+        "original-end-charpos": 212, 
+        "original-start-charpos": 199
+    }, 
+    {
+        "obfuscation": "Ah !", 
+        "obfuscation-id": 7, 
+        "original": "\n\nAh!", 
+        "original-end-charpos": 217, 
+        "original-start-charpos": 213
+    }, 
+    {
+        "obfuscation": "We said that a bit too often .", 
+        "obfuscation-id": 8, 
+        "original": "  We said that a bit too often.", 
+        "original-end-charpos": 248, 
+        "original-start-charpos": 218
+    }, 
+    {
+        "obfuscation": "What we want we assume , now ; there 's no one else to give it us , and there 's no fear 'll stop us ; we seen the bottom of things .", 
+        "obfuscation-id": 9, 
+        "original": "  What we want\nwe take, now; there's no one else to give it us, and there's no\nfear'll stop us; we seen the bottom of things.", 
+        "original-end-charpos": 373, 
+        "original-start-charpos": 249
+    }, 
+    {
+        "obfuscation": "P'raps he 'll say that too .", 
+        "obfuscation-id": 10, 
+        "original": "\n\nP'raps he'll say that too.", 
+        "original-end-charpos": 401, 
+        "original-start-charpos": 374
+    }, 
+    {
+        "obfuscation": "Then it 'll be 'im or me .", 
+        "obfuscation-id": 11, 
+        "original": "\n\nThen it'll be 'im or me.", 
+        "original-end-charpos": 427, 
+        "original-start-charpos": 402
+    }, 
+    {
+        "obfuscation": "I 'm frightened : No , Daisy , no !", 
+        "obfuscation-id": 12, 
+        "original": "\n\n I'm frightened:\n\nNo, Daisy, no!", 
+        "original-end-charpos": 461, 
+        "original-start-charpos": 428
+    }, 
+    {
+        "obfuscation": "The river 's handy .", 
+        "obfuscation-id": 13, 
+        "original": "  The river's handy.", 
+        "original-end-charpos": 481, 
+        "original-start-charpos": 462
+    }, 
+    {
+        "obfuscation": "One more or less .", 
+        "obfuscation-id": 14, 
+        "original": "  One more or\nless.", 
+        "original-end-charpos": 500, 
+        "original-start-charpos": 482
+    }, 
+    {
+        "obfuscation": "'E sha n't 'arm you ; nor me neither .", 
+        "obfuscation-id": 15, 
+        "original": "  'E shan't 'arm you; nor me neither.", 
+        "original-end-charpos": 537, 
+        "original-start-charpos": 501
+    }, 
+    {
+        "obfuscation": "[ He takes away a knife . ]", 
+        "obfuscation-id": 16, 
+        "original": "  [He takes out a knife.]", 
+        "original-end-charpos": 562, 
+        "original-start-charpos": 538
+    }, 
+    {
+        "obfuscation": "Oh , no !", 
+        "obfuscation-id": 17, 
+        "original": "\n\n Oh, no!", 
+        "original-end-charpos": 572, 
+        "original-start-charpos": 563
+    }, 
+    {
+        "obfuscation": "Give it to me , Jim !", 
+        "obfuscation-id": 18, 
+        "original": "  Give it to me, Jim!", 
+        "original-end-charpos": 593, 
+        "original-start-charpos": 573
+    }, 
+    {
+        "obfuscation": "No fear !", 
+        "obfuscation-id": 19, 
+        "original": "\n\nNo fear!", 
+        "original-end-charpos": 603, 
+        "original-start-charpos": 594
+    }, 
+    {
+        "obfuscation": "Sha n't 'ave no need for it like as not .", 
+        "obfuscation-id": 20, 
+        "original": " Shan't 'ave no need\nfor it like as not.", 
+        "original-end-charpos": 643, 
+        "original-start-charpos": 604
+    }, 
+    {
+        "obfuscation": "All right , fiddling Daisy ; you ca n't be expected to see things like what we do .", 
+        "obfuscation-id": 21, 
+        "original": "  All right, little Daisy; you can't be expected\nto see things like what we do.", 
+        "original-end-charpos": 722, 
+        "original-start-charpos": 644
+    }, 
+    {
+        "obfuscation": "What 's life , anyway ?", 
+        "obfuscation-id": 22, 
+        "original": "  What's life, anyway?", 
+        "original-end-charpos": 744, 
+        "original-start-charpos": 723
+    }, 
+    {
+        "obfuscation": "I 've seen a thousand lives taken in five minutes .", 
+        "obfuscation-id": 23, 
+        "original": "  I've seen a\nthousand lives taken in five minutes.", 
+        "original-end-charpos": 795, 
+        "original-start-charpos": 745
+    }, 
+    {
+        "obfuscation": "I 've seen dead men on the wires like flies on a flypaper .", 
+        "obfuscation-id": 24, 
+        "original": "  I've seen dead men on the\nwires like flies on a flypaper.", 
+        "original-end-charpos": 854, 
+        "original-start-charpos": 796
+    }, 
+    {
+        "obfuscation": "I 've been as full as dead meself a hundred times .", 
+        "obfuscation-id": 25, 
+        "original": "  I've been as good as dead meself a\nhundred times.", 
+        "original-end-charpos": 905, 
+        "original-start-charpos": 855
+    }, 
+    {
+        "obfuscation": "I 've killed a dozen men .", 
+        "obfuscation-id": 26, 
+        "original": "  I've killed a dozen men.", 
+        "original-end-charpos": 931, 
+        "original-start-charpos": 906
+    }, 
+    {
+        "obfuscation": "It 's nothin ' .", 
+        "obfuscation-id": 27, 
+        "original": "  It's nothin'.", 
+        "original-end-charpos": 946, 
+        "original-start-charpos": 932
+    }, 
+    {
+        "obfuscation": "He 's safe , if 'e make n't get my blood up .", 
+        "obfuscation-id": 28, 
+        "original": "  He's safe,\nif 'e don't get my blood up.", 
+        "original-end-charpos": 987, 
+        "original-start-charpos": 947
+    }, 
+    {
+        "obfuscation": "If he does , nobody 's dependable ; not 'im , nor anybody else ; not even you .", 
+        "obfuscation-id": 29, 
+        "original": "  If he does, nobody's safe; not 'im, nor\nanybody else; not even you.", 
+        "original-end-charpos": 1056, 
+        "original-start-charpos": 988
+    }, 
+    {
+        "obfuscation": "I 'm speakin ' sober .", 
+        "obfuscation-id": 30, 
+        "original": "  I'm speakin' sober.", 
+        "original-end-charpos": 1077, 
+        "original-start-charpos": 1057
+    }, 
+    {
+        "obfuscation": "Jim , you wo n't become fightin ' in the sun , with the birds all callin ' ?", 
+        "obfuscation-id": 31, 
+        "original": "\n\nJim, you won't go fightin' in the sun, with the birds all callin'?", 
+        "original-end-charpos": 1145, 
+        "original-start-charpos": 1078
+    }, 
+    {
+        "obfuscation": "That depends on 'im .", 
+        "obfuscation-id": 32, 
+        "original": "\n\nThat depends on 'im.", 
+        "original-end-charpos": 1167, 
+        "original-start-charpos": 1146
+    }, 
+    {
+        "obfuscation": "I 'm not lookin ' for it .", 
+        "obfuscation-id": 33, 
+        "original": "  I'm not lookin' for it.", 
+        "original-end-charpos": 1192, 
+        "original-start-charpos": 1168
+    }, 
+    {
+        "obfuscation": "Daisy , I love you .", 
+        "obfuscation-id": 34, 
+        "original": "  Daisy, I\nlove you.", 
+        "original-end-charpos": 1212, 
+        "original-start-charpos": 1193
+    }, 
+    {
+        "obfuscation": "I love your hair .", 
+        "obfuscation-id": 35, 
+        "original": "  I love your hair.", 
+        "original-end-charpos": 1231, 
+        "original-start-charpos": 1213
+    }, 
+    {
+        "obfuscation": "I love your eyes .", 
+        "obfuscation-id": 36, 
+        "original": "  I love your eyes.", 
+        "original-end-charpos": 1250, 
+        "original-start-charpos": 1232
+    }, 
+    {
+        "obfuscation": "I love you .", 
+        "obfuscation-id": 37, 
+        "original": "  I love you.", 
+        "original-end-charpos": 1263, 
+        "original-start-charpos": 1251
+    }, 
+    {
+        "obfuscation": "And I love you , Jim .", 
+        "obfuscation-id": 38, 
+        "original": "\n\nAnd I love you, Jim.", 
+        "original-end-charpos": 1285, 
+        "original-start-charpos": 1264
+    }, 
+    {
+        "obfuscation": "I do n't want nothin ' more than you in all the world .", 
+        "obfuscation-id": 39, 
+        "original": "  I don't want nothin' more than you\nin all the world.", 
+        "original-end-charpos": 1339, 
+        "original-start-charpos": 1286
+    }, 
+    {
+        "obfuscation": "Amen to that , my dear .", 
+        "obfuscation-id": 40, 
+        "original": "\n\nAmen to that, my dear.", 
+        "original-end-charpos": 1363, 
+        "original-start-charpos": 1340
+    }, 
+    {
+        "obfuscation": "Kiss me close !", 
+        "obfuscation-id": 41, 
+        "original": "  Kiss me close!", 
+        "original-end-charpos": 1379, 
+        "original-start-charpos": 1364
+    }, 
+    {
+        "obfuscation": "`` I 'll be properly there to-night , Where the fields are snowy white ; Banjos ringing , darkies singing , All the world seems bright . ''", 
+        "obfuscation-id": 42, 
+        "original": "\n\n   \"I'll be right there to-night,\n    Where the fields are snowy white;\n    Banjos ringing, darkies singing,\n    All the world seems bright.\"", 
+        "original-end-charpos": 1522, 
+        "original-start-charpos": 1380
+    }, 
+    {
+        "obfuscation": "It 's him !", 
+        "obfuscation-id": 43, 
+        "original": "\n\nIt's him!\n", 
+        "original-end-charpos": 1534, 
+        "original-start-charpos": 1523
+    }
+]

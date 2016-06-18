@@ -1,0 +1,415 @@
+[
+    {
+        "obfuscation": "I say; what's the matter?",
+        "obfuscation-id": 1,
+        "original": "I say; what's the matter?",
+        "original-end-charpos": 25,
+        "original-start-charpos": 0
+    },
+    {
+        "obfuscation": "as I raised did , we deplore you.",
+        "obfuscation-id": 2,
+        "original": "You were crying when I spoke to you.",
+        "original-end-charpos": 61,
+        "original-start-charpos": 26
+    },
+    {
+        "obfuscation": "Oh!",
+        "obfuscation-id": 3,
+        "original": "Oh!",
+        "original-end-charpos": 64,
+        "original-start-charpos": 62
+    },
+    {
+        "obfuscation": "nothing.",
+        "obfuscation-id": 4,
+        "original": "nothing.",
+        "original-end-charpos": 72,
+        "original-start-charpos": 65
+    },
+    {
+        "obfuscation": "grand evening-that's all.",
+        "obfuscation-id": 5,
+        "original": "The beautiful evening-that's all.",
+        "original-end-charpos": 105,
+        "original-start-charpos": 73
+    },
+    {
+        "obfuscation": "Cheer up!",
+        "obfuscation-id": 6,
+        "original": "Cheer up!",
+        "original-end-charpos": 114,
+        "original-start-charpos": 106
+    },
+    {
+        "obfuscation": "Cheer up!",
+        "obfuscation-id": 7,
+        "original": "Cheer up!",
+        "original-end-charpos": 123,
+        "original-start-charpos": 115
+    },
+    {
+        "obfuscation": "as me. lonelee, not",
+        "obfuscation-id": 8,
+        "original": "You are not lonelee, like me.",
+        "original-end-charpos": 152,
+        "original-start-charpos": 124
+    },
+    {
+        "obfuscation": "as I have you say, in this?",
+        "obfuscation-id": 9,
+        "original": "I say, how did you how did you get into this?",
+        "original-end-charpos": 197,
+        "original-start-charpos": 153
+    },
+    {
+        "obfuscation": "it Isn't awfully aussichtslose type life?",
+        "obfuscation-id": 10,
+        "original": "Isn't it an awfully hopeless sort of life?",
+        "original-end-charpos": 239,
+        "original-start-charpos": 198
+    },
+    {
+        "obfuscation": "it ees. Yees,",
+        "obfuscation-id": 11,
+        "original": "Yees, it ees.",
+        "original-end-charpos": 252,
+        "original-start-charpos": 240
+    },
+    {
+        "obfuscation": "haf wounded? has been done",
+        "obfuscation-id": 12,
+        "original": "You haf been wounded?",
+        "original-end-charpos": 273,
+        "original-start-charpos": 253
+    },
+    {
+        "obfuscation": "this Just to-day.",
+        "obfuscation-id": 13,
+        "original": "Just out of hospital to-day.",
+        "original-end-charpos": 301,
+        "original-start-charpos": 274
+    },
+    {
+        "obfuscation": "the appalling war--all misery , because the war.",
+        "obfuscation-id": 14,
+        "original": "The horrible war--all the misery is because of the war.",
+        "original-end-charpos": 356,
+        "original-start-charpos": 302
+    },
+    {
+        "obfuscation": "it will be represented end? ?",
+        "obfuscation-id": 15,
+        "original": "When will it end?",
+        "original-end-charpos": 373,
+        "original-start-charpos": 357
+    },
+    {
+        "obfuscation": "what I say, nationality you? are",
+        "obfuscation-id": 16,
+        "original": "I say, what nationality are you?",
+        "original-end-charpos": 405,
+        "original-start-charpos": 374
+    },
+    {
+        "obfuscation": "Rooshian.",
+        "obfuscation-id": 17,
+        "original": "Rooshian.",
+        "original-end-charpos": 414,
+        "original-start-charpos": 406
+    },
+    {
+        "obfuscation": "Really!",
+        "obfuscation-id": 18,
+        "original": "Really!",
+        "original-end-charpos": 421,
+        "original-start-charpos": 415
+    },
+    {
+        "obfuscation": "I do with girl. Russian",
+        "obfuscation-id": 19,
+        "original": "I never met a Russian girl.",
+        "original-end-charpos": 448,
+        "original-start-charpos": 422
+    },
+    {
+        "obfuscation": "I say, , it is as serious as they out?",
+        "obfuscation-id": 20,
+        "original": "I say, is it as bad as they make out?",
+        "original-end-charpos": 485,
+        "original-start-charpos": 449
+    },
+    {
+        "obfuscation": "if I as that I never misery haf ni-ice you; haf had, though.",
+        "obfuscation-id": 21,
+        "original": "Not when I haf anyone as ni-ice as you; I never haf had, though.",
+        "original-end-charpos": 549,
+        "original-start-charpos": 486
+    },
+    {
+        "obfuscation": "because I fact sad, other , because I am not gay.",
+        "obfuscation-id": 22,
+        "original": "You stopped because I was sad, others stop because I am gay.",
+        "original-end-charpos": 609,
+        "original-start-charpos": 550
+    },
+    {
+        "obfuscation": "I am not happy to men in all.",
+        "obfuscation-id": 23,
+        "original": "I am not fond of men at all.",
+        "original-end-charpos": 637,
+        "original-start-charpos": 610
+    },
+    {
+        "obfuscation": "do you believe you do not represented know--you them. happily ?",
+        "obfuscation-id": 24,
+        "original": "When you know--you are not fond of them.",
+        "original-end-charpos": 677,
+        "original-start-charpos": 638
+    },
+    {
+        "obfuscation": "you know you Well, little best, you? to do .",
+        "obfuscation-id": 25,
+        "original": "Well, you hardly know them at their best, do you?",
+        "original-end-charpos": 726,
+        "original-start-charpos": 678
+    },
+    {
+        "obfuscation": "they must be done in trenches.",
+        "obfuscation-id": 26,
+        "original": "You should see them in the trenches.",
+        "original-end-charpos": 762,
+        "original-start-charpos": 727
+    },
+    {
+        "obfuscation": "By George!",
+        "obfuscation-id": 27,
+        "original": "By George!",
+        "original-end-charpos": 772,
+        "original-start-charpos": 763
+    },
+    {
+        "obfuscation": "only men, They're splendid--officers and blessed soul.",
+        "obfuscation-id": 28,
+        "original": "They're simply splendid--officers and men, every blessed soul.",
+        "original-end-charpos": 834,
+        "original-start-charpos": 773
+    },
+    {
+        "obfuscation": "never There's it--just not long ago a little jolly self-sacrifice; it's perfectly amazing. fine",
+        "obfuscation-id": 29,
+        "original": "There's never been anything like it--just one long bit of jolly fine self-sacrifice; it's perfectly amazing.",
+        "original-end-charpos": 942,
+        "original-start-charpos": 835
+    },
+    {
+        "obfuscation": "I expect you are not the last on that.",
+        "obfuscation-id": 30,
+        "original": "I expect you are not the last at that.",
+        "original-end-charpos": 980,
+        "original-start-charpos": 943
+    },
+    {
+        "obfuscation": "what you in their haf indeed yourself, think. I",
+        "obfuscation-id": 31,
+        "original": "You see in them what you haf in yourself, I think.",
+        "original-end-charpos": 1030,
+        "original-start-charpos": 981
+    },
+    {
+        "obfuscation": "Oh, not quite out! bit; you're",
+        "obfuscation-id": 32,
+        "original": "Oh, not a bit; you're quite out!",
+        "original-end-charpos": 1062,
+        "original-start-charpos": 1031
+    },
+    {
+        "obfuscation": "I can ensure that if we attacks wounded wasn't , where I was one Mann in my regiment wasn't , a hero. absolute",
+        "obfuscation-id": 33,
+        "original": "I assure you when we made the attack where I got wounded there wasn't a single man in my regiment who wasn't an absolute hero.",
+        "original-end-charpos": 1188,
+        "original-start-charpos": 1063
+    },
+    {
+        "obfuscation": "it the possibility for in--never themselves--it ripping. pure and simple",
+        "obfuscation-id": 34,
+        "original": "The way they went in--never thinking of themselves--it was simply ripping.",
+        "original-end-charpos": 1262,
+        "original-start-charpos": 1189
+    },
+    {
+        "obfuscation": "the same too, Laut perhaps, with--the enemy.",
+        "obfuscation-id": 35,
+        "original": "It is the same too, perhaps, with--the enemy.",
+        "original-end-charpos": 1307,
+        "original-start-charpos": 1263
+    },
+    {
+        "obfuscation": "Oh, yes!",
+        "obfuscation-id": 36,
+        "original": "Oh, yes!",
+        "original-end-charpos": 1315,
+        "original-start-charpos": 1308
+    },
+    {
+        "obfuscation": "I know that that.",
+        "obfuscation-id": 37,
+        "original": "I know that.",
+        "original-end-charpos": 1327,
+        "original-start-charpos": 1316
+    },
+    {
+        "obfuscation": "Ah!",
+        "obfuscation-id": 38,
+        "original": "Ah!",
+        "original-end-charpos": 1330,
+        "original-start-charpos": 1328
+    },
+    {
+        "obfuscation": "fact man. not mean",
+        "obfuscation-id": 39,
+        "original": "You are not a mean man.",
+        "original-end-charpos": 1353,
+        "original-start-charpos": 1331
+    },
+    {
+        "obfuscation": "I believe that men! Like",
+        "obfuscation-id": 40,
+        "original": "How I hate mean men!",
+        "original-end-charpos": 1373,
+        "original-start-charpos": 1354
+    },
+    {
+        "obfuscation": "Oh!",
+        "obfuscation-id": 41,
+        "original": "Oh!",
+        "original-end-charpos": 1376,
+        "original-start-charpos": 1374
+    },
+    {
+        "obfuscation": "not only they're really--they don't understand.",
+        "obfuscation-id": 42,
+        "original": "they're not mean really--they simply don't understand.",
+        "original-end-charpos": 1430,
+        "original-start-charpos": 1377
+    },
+    {
+        "obfuscation": "Oh!",
+        "obfuscation-id": 43,
+        "original": "Oh!",
+        "original-end-charpos": 1433,
+        "original-start-charpos": 1431
+    },
+    {
+        "obfuscation": "a good babee fact aren't babee--a you?",
+        "obfuscation-id": 44,
+        "original": "You are a babee--a good babee aren't you?",
+        "original-end-charpos": 1474,
+        "original-start-charpos": 1434
+    },
+    {
+        "obfuscation": "I li-ke But it.",
+        "obfuscation-id": 45,
+        "original": "But I li-ke you for it.",
+        "original-end-charpos": 1497,
+        "original-start-charpos": 1475
+    },
+    {
+        "obfuscation": "both is a ni-ice man.",
+        "obfuscation-id": 46,
+        "original": "It is so good to find a ni-ice man.",
+        "original-end-charpos": 1532,
+        "original-start-charpos": 1498
+    },
+    {
+        "obfuscation": "About lonely? .",
+        "obfuscation-id": 47,
+        "original": "About being lonely?",
+        "original-end-charpos": 1551,
+        "original-start-charpos": 1533
+    },
+    {
+        "obfuscation": "you any Haven't friends? Russian",
+        "obfuscation-id": 48,
+        "original": "Haven't you any Russian friends?",
+        "original-end-charpos": 1583,
+        "original-start-charpos": 1552
+    },
+    {
+        "obfuscation": "Rooshian?",
+        "obfuscation-id": 49,
+        "original": "Rooshian?",
+        "original-end-charpos": 1592,
+        "original-start-charpos": 1584
+    },
+    {
+        "obfuscation": "no .",
+        "obfuscation-id": 50,
+        "original": "No.",
+        "original-end-charpos": 1595,
+        "original-start-charpos": 1593
+    },
+    {
+        "obfuscation": "the city has beeg.",
+        "obfuscation-id": 51,
+        "original": "The town is so beeg.",
+        "original-end-charpos": 1615,
+        "original-start-charpos": 1596
+    },
+    {
+        "obfuscation": "Were in narrowly has , before you me?",
+        "obfuscation-id": 52,
+        "original": "Were you at the concert before you spoke to me?",
+        "original-end-charpos": 1662,
+        "original-start-charpos": 1616
+    },
+    {
+        "obfuscation": "Yes.",
+        "obfuscation-id": 53,
+        "original": "Yes.",
+        "original-end-charpos": 1666,
+        "original-start-charpos": 1663
+    },
+    {
+        "obfuscation": "I too.",
+        "obfuscation-id": 54,
+        "original": "I too.",
+        "original-end-charpos": 1672,
+        "original-start-charpos": 1667
+    },
+    {
+        "obfuscation": "I lofe music.",
+        "obfuscation-id": 55,
+        "original": "I lofe music.",
+        "original-end-charpos": 1685,
+        "original-start-charpos": 1673
+    },
+    {
+        "obfuscation": "probably do. all Russians",
+        "obfuscation-id": 56,
+        "original": "I suppose all Russians do.",
+        "original-end-charpos": 1711,
+        "original-start-charpos": 1686
+    },
+    {
+        "obfuscation": "this is always when I money. haf",
+        "obfuscation-id": 57,
+        "original": "I go there always when I haf the money.",
+        "original-end-charpos": 1750,
+        "original-start-charpos": 1712
+    },
+    {
+        "obfuscation": "What!",
+        "obfuscation-id": 58,
+        "original": "What!",
+        "original-end-charpos": 1755,
+        "original-start-charpos": 1751
+    },
+    {
+        "obfuscation": "as you on the ambitious Are rocks as that?",
+        "obfuscation-id": 59,
+        "original": "Are you as badly on the rocks as that?",
+        "original-end-charpos": 1793,
+        "original-start-charpos": 1756
+    }
+]

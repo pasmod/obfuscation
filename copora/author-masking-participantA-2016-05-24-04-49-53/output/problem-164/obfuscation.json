@@ -1,0 +1,226 @@
+[
+    {
+        "obfuscation": "That 's because they did n't know them .", 
+        "obfuscation-id": 1, 
+        "original": "That's because they didn't know them.", 
+        "original-end-charpos": 36, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "They didn't expect you at the party .", 
+        "obfuscation-id": 2, 
+        "original": " They didn't\nexpect you at the party.", 
+        "original-end-charpos": 73, 
+        "original-start-charpos": 37
+    }, 
+    {
+        "obfuscation": "It was a surprise party , maw .", 
+        "obfuscation-id": 3, 
+        "original": "\n\nIt was a surprise party, maw.", 
+        "original-end-charpos": 104, 
+        "original-start-charpos": 74
+    }, 
+    {
+        "obfuscation": "How was it a surprise party , Mary Ann ?", 
+        "obfuscation-id": 4, 
+        "original": "\n\nHow was it a surprise party, Mary Ann?", 
+        "original-end-charpos": 144, 
+        "original-start-charpos": 105
+    }, 
+    {
+        "obfuscation": "They all looked surprised when we came in .", 
+        "obfuscation-id": 5, 
+        "original": "\n\nThey all looked surprised when we came in.", 
+        "original-end-charpos": 188, 
+        "original-start-charpos": 145
+    }, 
+    {
+        "obfuscation": "When I saw they were n't going to call out our names , I precisely rose up in me seat and took the whole nine of 'em by the hand and marched right up to Santa Claus .", 
+        "obfuscation-id": 6, 
+        "original": "\n\nWhen I saw they weren't going to call out our names, I just rose\nup in me seat and took the whole nine of 'em by the hand and marched\nright up to Santa Claus.", 
+        "original-end-charpos": 348, 
+        "original-start-charpos": 189
+    }, 
+    {
+        "obfuscation": "He looked real surprised at the bunch of us .", 
+        "obfuscation-id": 7, 
+        "original": " He looked real surprised at the bunch of us.", 
+        "original-end-charpos": 393, 
+        "original-start-charpos": 349
+    }, 
+    {
+        "obfuscation": "I should think he would .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nI should think he would.", 
+        "original-end-charpos": 419, 
+        "original-start-charpos": 394
+    }, 
+    {
+        "obfuscation": "'' And who are you ? ''", 
+        "obfuscation-id": 9, 
+        "original": "\n\n\"And who are you?\"", 
+        "original-end-charpos": 439, 
+        "original-start-charpos": 420
+    }, 
+    {
+        "obfuscation": "says he .", 
+        "obfuscation-id": 10, 
+        "original": " says he.", 
+        "original-end-charpos": 448, 
+        "original-start-charpos": 440
+    }, 
+    {
+        "obfuscation": "`` We 're the ten little Mulligans from Mulligan Alley in Shantytown , '' says I , as cool as an icicle .", 
+        "obfuscation-id": 11, 
+        "original": " \"We're the ten little Mulligans from\nMulligan Alley in Shantytown,\" says I, as cool as an icicle.", 
+        "original-end-charpos": 546, 
+        "original-start-charpos": 449
+    }, 
+    {
+        "obfuscation": "`` And we 're ready for our presents , if it 's all the same to you , '' says I. I thought they were going to fire us out , but what did he do but dive way down in the bottom of the sack and give every last one of us a present ?", 
+        "obfuscation-id": 12, 
+        "original": " \"And\nwe're ready for our presents, if it's all the same to you,\" says I. I\nthought they was going to fire us out, but what did he do but dive way\ndown in the bottom of the sack and give every last one of us a present?", 
+        "original-end-charpos": 764, 
+        "original-start-charpos": 547
+    }, 
+    {
+        "obfuscation": "And then he gave us bags of candy and oranges and apples and peanuts and popcorn and a candy cane , and then they had a show and Bridget Honora spoke a piece , she did .", 
+        "obfuscation-id": 13, 
+        "original": "\n\nAnd then he gave us bags of candy and oranges and apples and\npeanuts and popcorn and a candy cane, and then they had a show and\nBridget Honora spoke a piece, she did.", 
+        "original-end-charpos": 932, 
+        "original-start-charpos": 765
+    }, 
+    {
+        "obfuscation": "How did ye happen to spake a piece , Bridget Honora ?", 
+        "obfuscation-id": 14, 
+        "original": "\n\nHow did ye happen to spake a piece, Bridget Honora?", 
+        "original-end-charpos": 985, 
+        "original-start-charpos": 933
+    }, 
+    {
+        "obfuscation": "I precisely stood up and told 'em I knowed one .", 
+        "obfuscation-id": 15, 
+        "original": "\n\nI just stood up and told 'em I knowed one.", 
+        "original-end-charpos": 1029, 
+        "original-start-charpos": 986
+    }, 
+    {
+        "obfuscation": "There ain't nuthin ' bashful about me .", 
+        "obfuscation-id": 16, 
+        "original": " There ain't\nnuthin' bashful about me.", 
+        "original-end-charpos": 1067, 
+        "original-start-charpos": 1030
+    }, 
+    {
+        "obfuscation": "And I kind o ' thought we ought to do something to help pay fer the good things they gave us .", 
+        "obfuscation-id": 17, 
+        "original": " And I kind o' thought we ought to do\nsomething to help pay fer the good things they gave us.", 
+        "original-end-charpos": 1160, 
+        "original-start-charpos": 1068
+    }, 
+    {
+        "obfuscation": "That 's me good little Bridget Honora .", 
+        "obfuscation-id": 18, 
+        "original": "\n\nThat's me good little Bridget Honora.", 
+        "original-end-charpos": 1199, 
+        "original-start-charpos": 1161
+    }, 
+    {
+        "obfuscation": "Oh , wee !", 
+        "obfuscation-id": 19, 
+        "original": "\n\nOh, wee!", 
+        "original-end-charpos": 1209, 
+        "original-start-charpos": 1200
+    }, 
+    {
+        "obfuscation": "Lookee there !", 
+        "obfuscation-id": 20, 
+        "original": " Lookee there!", 
+        "original-end-charpos": 1223, 
+        "original-start-charpos": 1210
+    }, 
+    {
+        "obfuscation": "Where 'd she come from ?", 
+        "obfuscation-id": 21, 
+        "original": " Where'd she come from?", 
+        "original-end-charpos": 1246, 
+        "original-start-charpos": 1224
+    }, 
+    {
+        "obfuscation": "Santa Claus was after being here while you were away and he left it for you .", 
+        "obfuscation-id": 22, 
+        "original": "\n\nSanta Claus was after being here while you were away and\nhe left it for you.", 
+        "original-end-charpos": 1324, 
+        "original-start-charpos": 1247
+    }, 
+    {
+        "obfuscation": "Is it all for me ?", 
+        "obfuscation-id": 23, 
+        "original": "\n\nIs it all for me?", 
+        "original-end-charpos": 1343, 
+        "original-start-charpos": 1325
+    }, 
+    {
+        "obfuscation": "It 's the Mulligan dolly .", 
+        "obfuscation-id": 24, 
+        "original": "\n\nIt's the Mulligan dolly.", 
+        "original-end-charpos": 1369, 
+        "original-start-charpos": 1344
+    }, 
+    {
+        "obfuscation": "It 's fer all ten of yeez .", 
+        "obfuscation-id": 25, 
+        "original": " It's fer all ten of yeez.", 
+        "original-end-charpos": 1395, 
+        "original-start-charpos": 1370
+    }, 
+    {
+        "obfuscation": "She can get my share .", 
+        "obfuscation-id": 26, 
+        "original": "\n\nShe can have my share.", 
+        "original-end-charpos": 1419, 
+        "original-start-charpos": 1396
+    }, 
+    {
+        "obfuscation": "I do n't want no dolls .", 
+        "obfuscation-id": 27, 
+        "original": " I don't want no dolls.", 
+        "original-end-charpos": 1442, 
+        "original-start-charpos": 1420
+    }, 
+    {
+        "obfuscation": "Oh , look at the efulunt .", 
+        "obfuscation-id": 28, 
+        "original": "\n\nOh, look at the efulunt.", 
+        "original-end-charpos": 1468, 
+        "original-start-charpos": 1443
+    }, 
+    {
+        "obfuscation": "Look at the efulunt .", 
+        "obfuscation-id": 29, 
+        "original": " Look at the efulunt.", 
+        "original-end-charpos": 1489, 
+        "original-start-charpos": 1469
+    }, 
+    {
+        "obfuscation": "That is Mumbo Jumbo Mulligan from the sunny shores of Africa , way down in Louisiana .", 
+        "obfuscation-id": 30, 
+        "original": "\n\nThat is Mumbo Jumbo Mulligan from the sunny shores of\nAfrica, way down in Louisiana.", 
+        "original-end-charpos": 1575, 
+        "original-start-charpos": 1490
+    }, 
+    {
+        "obfuscation": "Who 's he fur ?", 
+        "obfuscation-id": 31, 
+        "original": "\n\nWho's he fur?", 
+        "original-end-charpos": 1590, 
+        "original-start-charpos": 1576
+    }, 
+    {
+        "obfuscation": "Who 's he fur ?", 
+        "obfuscation-id": 32, 
+        "original": " Who's he fur?\n", 
+        "original-end-charpos": 1605, 
+        "original-start-charpos": 1591
+    }
+]
