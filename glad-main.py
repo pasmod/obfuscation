@@ -246,7 +246,7 @@ def __get_language_from_dir(dirname):
     elif dirname.startswith('GR'):  # Greek
         return 'GR'
 
-    return None
+    return 'EN'
 
 
 def load_truth_dict(path):
