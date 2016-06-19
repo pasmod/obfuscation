@@ -27,8 +27,8 @@ def write_obfuscation(problem):
         problem: problem containing the obfuscation.json file
     """
     obfuscation = reconstruct(problem)
-    f = open('obfuscation.txt', 'w')
-    f.write(obfuscation)
+    f = open(problem + '/unknown.txt', 'w')
+    f.write(obfuscation.encode('utf-8'))
     f.close()
 
 def write_obfuscations(path):
@@ -39,5 +39,5 @@ def write_obfuscations(path):
     """
     for _, dirs, _ in os.walk(path):
         for dir in dirs:
-            problam_path = os.path.join(path, dir)
-            write_obfuscation(problam_path)
+            problem_path = os.path.join(path, dir)
+            write_obfuscation(problem_path)
