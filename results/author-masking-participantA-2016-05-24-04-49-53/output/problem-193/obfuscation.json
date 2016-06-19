@@ -1,0 +1,450 @@
+[
+    {
+        "obfuscation": "`` The Orpheus legend is the -- erbium -- apotheosis of animism .", 
+        "obfuscation-id": 1, 
+        "original": "\"The Orpheus legend is the--\ner--apotheosis of animism.", 
+        "original-end-charpos": 54, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Can we accept -- -- '' Fine !", 
+        "obfuscation-id": 2, 
+        "original": "  Can we accept----\"\n\nFine!", 
+        "original-end-charpos": 81, 
+        "original-start-charpos": 55
+    }, 
+    {
+        "obfuscation": "Fine !", 
+        "obfuscation-id": 3, 
+        "original": "Fine!", 
+        "original-end-charpos": 81, 
+        "original-start-charpos": 82
+    }, 
+    {
+        "obfuscation": "Fine ! Take up the curtain .", 
+        "obfuscation-id": 4, 
+        "original": "  Fine!\n\nTake up the curtain.", 
+        "original-end-charpos": 110, 
+        "original-start-charpos": 82
+    }, 
+    {
+        "obfuscation": "mister Foreson ?", 
+        "obfuscation-id": 5, 
+        "original": "  Mr Foreson?", 
+        "original-end-charpos": 123, 
+        "original-start-charpos": 111
+    }, 
+    {
+        "obfuscation": "Sir ?", 
+        "obfuscation-id": 6, 
+        "original": "\n\nSir?", 
+        "original-end-charpos": 129, 
+        "original-start-charpos": 124
+    }, 
+    {
+        "obfuscation": "Everybody on .", 
+        "obfuscation-id": 7, 
+        "original": "\n\nEverybody on.", 
+        "original-end-charpos": 144, 
+        "original-start-charpos": 130
+    }, 
+    {
+        "obfuscation": "Give us some light .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nGive us some light.", 
+        "original-end-charpos": 165, 
+        "original-start-charpos": 145
+    }, 
+    {
+        "obfuscation": "Electrics !", 
+        "obfuscation-id": 9, 
+        "original": "\n\nElectrics!", 
+        "original-end-charpos": 177, 
+        "original-start-charpos": 166
+    }, 
+    {
+        "obfuscation": "Turn up your floats !", 
+        "obfuscation-id": 10, 
+        "original": "  Turn up your floats!", 
+        "original-end-charpos": 199, 
+        "original-start-charpos": 178
+    }, 
+    {
+        "obfuscation": "I 'd wish to meet Miss Hellgrove .", 
+        "obfuscation-id": 11, 
+        "original": "\n\nI'd like to meet Miss Hellgrove.", 
+        "original-end-charpos": 233, 
+        "original-start-charpos": 200
+    }, 
+    {
+        "obfuscation": "Miss Hellgrove , I want to say I thought that fine -- fine .", 
+        "obfuscation-id": 12, 
+        "original": " Miss Hellgrove, I want to say I\nthought that fine--fine.", 
+        "original-end-charpos": 290, 
+        "original-start-charpos": 234
+    }, 
+    {
+        "obfuscation": "Fine .", 
+        "obfuscation-id": 13, 
+        "original": "  Fine.", 
+        "original-end-charpos": 297, 
+        "original-start-charpos": 291
+    }, 
+    {
+        "obfuscation": "It quite got my soft spots .", 
+        "obfuscation-id": 14, 
+        "original": "  It quite got\nmy soft spots.", 
+        "original-end-charpos": 326, 
+        "original-start-charpos": 298
+    }, 
+    {
+        "obfuscation": "Emotional .", 
+        "obfuscation-id": 15, 
+        "original": "  Emotional.", 
+        "original-end-charpos": 338, 
+        "original-start-charpos": 327
+    }, 
+    {
+        "obfuscation": "Fine !", 
+        "obfuscation-id": 16, 
+        "original": "  Fine!", 
+        "original-end-charpos": 345, 
+        "original-start-charpos": 339
+    }, 
+    {
+        "obfuscation": "Oh !", 
+        "obfuscation-id": 17, 
+        "original": "\n\nOh!", 
+        "original-end-charpos": 350, 
+        "original-start-charpos": 346
+    }, 
+    {
+        "obfuscation": "mister Frust ; it means so much to me .", 
+        "obfuscation-id": 18, 
+        "original": "  Mr Frust; it means so much to me.", 
+        "original-end-charpos": 385, 
+        "original-start-charpos": 351
+    }, 
+    {
+        "obfuscation": "Thank you !", 
+        "obfuscation-id": 19, 
+        "original": "  Thank you!", 
+        "original-end-charpos": 397, 
+        "original-start-charpos": 386
+    }, 
+    {
+        "obfuscation": "Er -- fine !", 
+        "obfuscation-id": 20, 
+        "original": "\n\nEr--fine!", 
+        "original-end-charpos": 408, 
+        "original-start-charpos": 398
+    }, 
+    {
+        "obfuscation": "Where 's mister Flatway ?", 
+        "obfuscation-id": 21, 
+        "original": " Where's Mr Flatway?", 
+        "original-end-charpos": 428, 
+        "original-start-charpos": 409
+    }, 
+    {
+        "obfuscation": "Fleetway .", 
+        "obfuscation-id": 22, 
+        "original": "\n\nFleetway.", 
+        "original-end-charpos": 439, 
+        "original-start-charpos": 429
+    }, 
+    {
+        "obfuscation": "mister Fleetway , I want to say I thought your Orphoos very remarkable .", 
+        "obfuscation-id": 23, 
+        "original": "\n\nMr Fleetway, I want to say I thought your Orphoos very\nremarkable.", 
+        "original-end-charpos": 507, 
+        "original-start-charpos": 440
+    }, 
+    {
+        "obfuscation": "Fine .", 
+        "obfuscation-id": 24, 
+        "original": "  Fine.", 
+        "original-end-charpos": 514, 
+        "original-start-charpos": 508
+    }, 
+    {
+        "obfuscation": "Thank you , sir , indeed -- so glad you liked it .", 
+        "obfuscation-id": 25, 
+        "original": "\n\nThank you, sir, indeed--so glad you liked it.", 
+        "original-end-charpos": 561, 
+        "original-start-charpos": 515
+    }, 
+    {
+        "obfuscation": "There was n't much to it , but what there was was fine .", 
+        "obfuscation-id": 26, 
+        "original": "\n\n There wasn't much to it, but what there was was fine.", 
+        "original-end-charpos": 617, 
+        "original-start-charpos": 562
+    }, 
+    {
+        "obfuscation": "mister Toone .", 
+        "obfuscation-id": 27, 
+        "original": "  Mr Toone.", 
+        "original-end-charpos": 628, 
+        "original-start-charpos": 618
+    }, 
+    {
+        "obfuscation": "mister Toone , I was very pleased with your Professor -- quite a character-study .", 
+        "obfuscation-id": 28, 
+        "original": "\n\nMr Toone, I was very pleased with your Professor--quite a\ncharacter-study.", 
+        "original-end-charpos": 704, 
+        "original-start-charpos": 629
+    }, 
+    {
+        "obfuscation": "Yes , sir !", 
+        "obfuscation-id": 29, 
+        "original": " Yes, sir!", 
+        "original-end-charpos": 714, 
+        "original-start-charpos": 705
+    }, 
+    {
+        "obfuscation": "I thought it fine .", 
+        "obfuscation-id": 30, 
+        "original": "  I thought it fine.", 
+        "original-end-charpos": 734, 
+        "original-start-charpos": 715
+    }, 
+    {
+        "obfuscation": "Who plays the goat ?", 
+        "obfuscation-id": 31, 
+        "original": " Who plays the goat?", 
+        "original-end-charpos": 754, 
+        "original-start-charpos": 735
+    }, 
+    {
+        "obfuscation": "I play the faun , mister Frost .", 
+        "obfuscation-id": 32, 
+        "original": "\n\nI play the faun, Mr Frost.", 
+        "original-end-charpos": 782, 
+        "original-start-charpos": 755
+    }, 
+    {
+        "obfuscation": "Miss Maude 'Opkins .", 
+        "obfuscation-id": 33, 
+        "original": "\n\nMiss Maude 'Opkins.", 
+        "original-end-charpos": 803, 
+        "original-start-charpos": 783
+    }, 
+    {
+        "obfuscation": "Miss Hopkins , I guess your fawn was fine .", 
+        "obfuscation-id": 34, 
+        "original": "\n\nMiss Hopkins, I guess your fawn was fine.", 
+        "original-end-charpos": 846, 
+        "original-start-charpos": 804
+    }, 
+    {
+        "obfuscation": "Oh !", 
+        "obfuscation-id": 35, 
+        "original": "\n\nOh!", 
+        "original-end-charpos": 851, 
+        "original-start-charpos": 847
+    }, 
+    {
+        "obfuscation": "Thank you , mister Frost .", 
+        "obfuscation-id": 36, 
+        "original": " Thank you, Mr Frost.", 
+        "original-end-charpos": 872, 
+        "original-start-charpos": 852
+    }, 
+    {
+        "obfuscation": "How nice of you to say so .", 
+        "obfuscation-id": 37, 
+        "original": "  How nice of you to say so.", 
+        "original-end-charpos": 900, 
+        "original-start-charpos": 873
+    }, 
+    {
+        "obfuscation": "I do so enjoy playing him .", 
+        "obfuscation-id": 38, 
+        "original": "  I\ndo so enjoy playing him.", 
+        "original-end-charpos": 928, 
+        "original-start-charpos": 901
+    }, 
+    {
+        "obfuscation": "mister Foreson , I thought the way you fixed that tree was very cunning ; I certainly did .", 
+        "obfuscation-id": 39, 
+        "original": "\n\nMr Foreson, I thought the way you fixed that tree was very cunning; I certainly did.", 
+        "original-end-charpos": 1014, 
+        "original-start-charpos": 929
+    }, 
+    {
+        "obfuscation": "Got a match ?", 
+        "obfuscation-id": 40, 
+        "original": "  Got a match?", 
+        "original-end-charpos": 1028, 
+        "original-start-charpos": 1015
+    }, 
+    {
+        "obfuscation": "Oh !", 
+        "obfuscation-id": 41, 
+        "original": "\n\nOh!", 
+        "original-end-charpos": 1033, 
+        "original-start-charpos": 1029
+    }, 
+    {
+        "obfuscation": "mister Vane -- do you think ?", 
+        "obfuscation-id": 42, 
+        "original": "  Mr Vane--do you think?", 
+        "original-end-charpos": 1057, 
+        "original-start-charpos": 1034
+    }, 
+    {
+        "obfuscation": "He seemed quite -- Oh !", 
+        "obfuscation-id": 43, 
+        "original": "  He seemed quite--Oh!", 
+        "original-end-charpos": 1079, 
+        "original-start-charpos": 1058
+    }, 
+    {
+        "obfuscation": "mister Vane If only -- -- Yes , yes .", 
+        "obfuscation-id": 44, 
+        "original": "  Mr Vane If only----\n\nYes, yes.", 
+        "original-end-charpos": 1111, 
+        "original-start-charpos": 1080
+    }, 
+    {
+        "obfuscation": "All right -- you were splendid .", 
+        "obfuscation-id": 45, 
+        "original": "  All right--you were splendid.", 
+        "original-end-charpos": 1142, 
+        "original-start-charpos": 1112
+    }, 
+    {
+        "obfuscation": "He liked it .", 
+        "obfuscation-id": 46, 
+        "original": "\nHe liked it.", 
+        "original-end-charpos": 1155, 
+        "original-start-charpos": 1143
+    }, 
+    {
+        "obfuscation": "He quite -- -- How wonderful Oh , mister Vane , thank you !", 
+        "obfuscation-id": 47, 
+        "original": "  He quite----\n\nHow wonderful Oh, Mr Vane, thank you!", 
+        "original-end-charpos": 1208, 
+        "original-start-charpos": 1156
+    }, 
+    {
+        "obfuscation": "That lighting 's precisely right now , Miller .", 
+        "obfuscation-id": 48, 
+        "original": "\n\nThat lighting's just right now, Miller.", 
+        "original-end-charpos": 1249, 
+        "original-start-charpos": 1209
+    }, 
+    {
+        "obfuscation": "Got it marked carefully ?", 
+        "obfuscation-id": 49, 
+        "original": "  Got it marked carefully?", 
+        "original-end-charpos": 1275, 
+        "original-start-charpos": 1250
+    }, 
+    {
+        "obfuscation": "Yes , mister Vane .", 
+        "obfuscation-id": 50, 
+        "original": "\n\nYes, Mr Vane.", 
+        "original-end-charpos": 1290, 
+        "original-start-charpos": 1276
+    }, 
+    {
+        "obfuscation": "Good .", 
+        "obfuscation-id": 51, 
+        "original": "\n\nGood.", 
+        "original-end-charpos": 1297, 
+        "original-start-charpos": 1291
+    }, 
+    {
+        "obfuscation": "Well , sir ?", 
+        "obfuscation-id": 52, 
+        "original": " Well, sir?", 
+        "original-end-charpos": 1308, 
+        "original-start-charpos": 1298
+    }, 
+    {
+        "obfuscation": "So glad -- -- mister Vane , we got little Miggs on contract ?", 
+        "obfuscation-id": 53, 
+        "original": "  So glad----\n\nMr Vane, we got little Miggs on contract?", 
+        "original-end-charpos": 1364, 
+        "original-start-charpos": 1309
+    }, 
+    {
+        "obfuscation": "Yes .", 
+        "obfuscation-id": 54, 
+        "original": "\n\nYes.", 
+        "original-end-charpos": 1370, 
+        "original-start-charpos": 1365
+    }, 
+    {
+        "obfuscation": "Well , I liked that little pocket piece fine .", 
+        "obfuscation-id": 55, 
+        "original": "\n\nWell, I liked that little pocket piece fine.", 
+        "original-end-charpos": 1416, 
+        "original-start-charpos": 1371
+    }, 
+    {
+        "obfuscation": "But I 'm blamed if I know what it 's all about .", 
+        "obfuscation-id": 56, 
+        "original": "  But I'm blamed\nif I know what it's all about.", 
+        "original-end-charpos": 1463, 
+        "original-start-charpos": 1417
+    }, 
+    {
+        "obfuscation": "Why !", 
+        "obfuscation-id": 57, 
+        "original": "\n\nWhy!", 
+        "original-end-charpos": 1469, 
+        "original-start-charpos": 1464
+    }, 
+    {
+        "obfuscation": "Of course it 's a little allegory .", 
+        "obfuscation-id": 58, 
+        "original": "  Of course it's a little allegory.", 
+        "original-end-charpos": 1504, 
+        "original-start-charpos": 1470
+    }, 
+    {
+        "obfuscation": "The tragedy of civilization -- all real feeling for Beauty and Nature kept away , or pent up even in the cultured .", 
+        "obfuscation-id": 59, 
+        "original": "\nThe tragedy of civilization--all real feeling for Beauty and Nature\nkept out, or pent up even in the cultured.", 
+        "original-end-charpos": 1615, 
+        "original-start-charpos": 1505
+    }, 
+    {
+        "obfuscation": "Ye-ep .", 
+        "obfuscation-id": 60, 
+        "original": "\n\nYe-ep.", 
+        "original-end-charpos": 1623, 
+        "original-start-charpos": 1616
+    }, 
+    {
+        "obfuscation": "Little Miggs 'd be fine in `` Pop goes the Weasel . ''", 
+        "obfuscation-id": 61, 
+        "original": " Little Miggs'd be fine in \"Pop goes the Weasel.\"", 
+        "original-end-charpos": 1672, 
+        "original-start-charpos": 1624
+    }, 
+    {
+        "obfuscation": "Yes , he 'd be all correct , but -- -- Get him on the 'phone , and put it into rehearsal right now .", 
+        "obfuscation-id": 62, 
+        "original": "\n\nYes, he'd be all right, but----\n\nGet him on the 'phone, and put it into rehearsal right now.", 
+        "original-end-charpos": 1766, 
+        "original-start-charpos": 1673
+    }, 
+    {
+        "obfuscation": "What !", 
+        "obfuscation-id": 63, 
+        "original": "\n\nWhat!", 
+        "original-end-charpos": 1773, 
+        "original-start-charpos": 1767
+    }, 
+    {
+        "obfuscation": "But this piece -- I -- I -- -- !", 
+        "obfuscation-id": 64, 
+        "original": "  But this piece--I--I----!\n", 
+        "original-end-charpos": 1801, 
+        "original-start-charpos": 1774
+    }
+]

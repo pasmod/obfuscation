@@ -1,0 +1,233 @@
+[
+    {
+        "obfuscation": "\ufeff Swedish education in danger In Sweden the Teachers ' Educational Committee ( LUK ) has proposed a reform of the Swedish teacher 's education programs and the Swedish parliament is soon to decide the future of Swedish school .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Swedish education in danger  In Sweden the Teachers' Educational Committee (LUK) has proposed a reform of the Swedish teacher's education programs and the Swedish parliament is soon to decide the future of Swedish school.", 
+        "original-end-charpos": 222, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "The reform contains quiet drastic changes and has been intensively debated in Swedish media .", 
+        "obfuscation-id": 2, 
+        "original": " \nThe reform contains quiet drastic changes and has been intensively debated in Swedish media.", 
+        "original-end-charpos": 316, 
+        "original-start-charpos": 223
+    }, 
+    {
+        "obfuscation": "One of the bigger changes is that less time will be spent on subject reports , an reduction from 120 academic points to only 40 possibly 60 academic points .", 
+        "obfuscation-id": 3, 
+        "original": " \nOne of the bigger changes is that less time will be spent on subject studies, an reduction from 120 academic points to only 40 possibly 60 academic points.", 
+        "original-end-charpos": 473, 
+        "original-start-charpos": 317
+    }, 
+    {
+        "obfuscation": "In Dagens Nyheter Arne Hellden , lecturer at Linkeping University , gives the reader the main features of the reform and strongly argues against it .", 
+        "obfuscation-id": 4, 
+        "original": " \nIn Dagens Nyheter Arne Hellden, lecturer at Linkeping University, gives the reader the main features of the reform and strongly argues against it.", 
+        "original-end-charpos": 621, 
+        "original-start-charpos": 474
+    }, 
+    {
+        "obfuscation": "Unfortunately the picture of what LUK 's reform consist of does not become very clear when Hellden is trying to explain the reform 's main features .", 
+        "obfuscation-id": 5, 
+        "original": " \nUnfortunately the picture of what LUK's reform consist of does not get very clear when Hellden is trying to explain the reform's main features.", 
+        "original-end-charpos": 766, 
+        "original-start-charpos": 622
+    }, 
+    {
+        "obfuscation": "However I will as well as Hellden , and in support of his article , argue against LUK 's proposal by explaining the absurdity of the reform and by arguing for the importance of having the present amount of subject reports .", 
+        "obfuscation-id": 6, 
+        "original": " \nHowever I will as well as Hellden, and in support of his article, argue against LUK's proposal by explaining the absurdity of the reform and by arguing for the importance of having the present amount of subject studies.", 
+        "original-end-charpos": 987, 
+        "original-start-charpos": 767
+    }, 
+    {
+        "obfuscation": "LUK 's reform looks just like a desperate attempt to reduce the increasing number of failing students .", 
+        "obfuscation-id": 7, 
+        "original": "  \nLUK's reform seems just like a desperate attempt to reduce the increasing number of failing students.", 
+        "original-end-charpos": 1091, 
+        "original-start-charpos": 988
+    }, 
+    {
+        "obfuscation": "Many alternations have been made in Swedish education during the concluding few years .", 
+        "obfuscation-id": 8, 
+        "original": " \nMany alternations have been made in Swedish education during the last few years.", 
+        "original-end-charpos": 1173, 
+        "original-start-charpos": 1092
+    }, 
+    {
+        "obfuscation": "The change that credibly has been most controversial and most troublesome is the alternation of the Swedish grade system at the senior level of the nine-year compulsory school and at upper secondary school .", 
+        "obfuscation-id": 9, 
+        "original": " \nThe change that probably has been most controversial and most troublesome is the alternation of the Swedish grade system at the senior level of the nine-year compulsory school and at upper secondary school.", 
+        "original-end-charpos": 1381, 
+        "original-start-charpos": 1174
+    }, 
+    {
+        "obfuscation": "Earlier students could receive grades from one through five , where five was the highest and one the lowest .", 
+        "obfuscation-id": 10, 
+        "original": " \nEarlier pupils could receive grades from one through five, where five was the highest and one the lowest.", 
+        "original-end-charpos": 1488, 
+        "original-start-charpos": 1382
+    }, 
+    {
+        "obfuscation": "In 1994 the grade scale was transferred to grades failed , passed , passed with distinction , and passed with much distinction .", 
+        "obfuscation-id": 11, 
+        "original": " \nIn 1994 the grade scale was changed to grades failed, passed, passed with distinction, and passed with much distinction.", 
+        "original-end-charpos": 1610, 
+        "original-start-charpos": 1489
+    }, 
+    {
+        "obfuscation": "Before the change the requirements for qualifying for upper secondary school was based entirely on the average grade , but then when the grading system changed it was also required to pass the subjects ; Swedish , Mathematics , and English .", 
+        "obfuscation-id": 12, 
+        "original": " \nBefore the change the requirements for qualifying for upper secondary school was based only on the average grade, but then when the grading system changed it was also required to pass the subjects; Swedish, Mathematics, and English.", 
+        "original-end-charpos": 1844, 
+        "original-start-charpos": 1611
+    }, 
+    {
+        "obfuscation": "The consequence was that many students failed one of the required subjects and could not move on to upper secondary .", 
+        "obfuscation-id": 13, 
+        "original": " \nThe consequence was that many pupils failed one of the required subjects and could not move on to upper secondary.", 
+        "original-end-charpos": 1960, 
+        "original-start-charpos": 1845
+    }, 
+    {
+        "obfuscation": "The situation has unfortunately grown bad and politicians are desperately looking for solutions .", 
+        "obfuscation-id": 14, 
+        "original": " \nThe situation has unfortunately grown worse and politicians are desperately looking for solutions.", 
+        "original-end-charpos": 2060, 
+        "original-start-charpos": 1961
+    }, 
+    {
+        "obfuscation": "If believing great changes in education will solve the problem of failing students , this reform of teachers ' education proposed by LUK could definitely be a solution to the problem .", 
+        "obfuscation-id": 15, 
+        "original": " \nIf believing great changes in education will solve the problem of failing pupils, this reform of teachers' education proposed by LUK could definitely be a solution to the problem.", 
+        "original-end-charpos": 2241, 
+        "original-start-charpos": 2061
+    }, 
+    {
+        "obfuscation": "However , I do not believe that reducing subject studies will solve any trouble , only create more .", 
+        "obfuscation-id": 16, 
+        "original": " \nHowever, I do not believe that reducing subject studies will solve any problem, only create more.", 
+        "original-end-charpos": 2340, 
+        "original-start-charpos": 2242
+    }, 
+    {
+        "obfuscation": "Those responsible for the reform do obviously not gain the importance of subject knowledge .", 
+        "obfuscation-id": 17, 
+        "original": " \nThose responsible for the reform do obviously not realise the importance of subject knowledge.", 
+        "original-end-charpos": 2436, 
+        "original-start-charpos": 2341
+    }, 
+    {
+        "obfuscation": "According to Hellden the expert pedagogues that have determined LUK are more interested in educating student teachers how knowledge is formed and organised rather than letting them acquire knowledge .", 
+        "obfuscation-id": 18, 
+        "original": " \nAccording to Hellden the expert pedagogues that have influenced LUK are more interested in educating student teachers how knowledge is formed and organised rather than letting them acquire knowledge.", 
+        "original-end-charpos": 2637, 
+        "original-start-charpos": 2437
+    }, 
+    {
+        "obfuscation": "This is presumably an attempt to add more pedagogic to teachers ' education programs , which certainly is of great importance .", 
+        "obfuscation-id": 19, 
+        "original": " \nThis is presumably an attempt to add more pedagogic to teachers' education programs, which certainly is of great importance.", 
+        "original-end-charpos": 2763, 
+        "original-start-charpos": 2638
+    }, 
+    {
+        "obfuscation": "However , I believe that the present teachers ' education programs include enough of pedagogic .", 
+        "obfuscation-id": 20, 
+        "original": " \nHowever, I believe that the present teachers' education programs include enough of pedagogic.", 
+        "original-end-charpos": 2858, 
+        "original-start-charpos": 2764
+    }, 
+    {
+        "obfuscation": "There is definitely no need for such a pedagogic form earlier mentioned , which looks more like mumbo jumbo than a serious suggestion .", 
+        "obfuscation-id": 21, 
+        "original": " \nThere is definitely no need for such a pedagogic form earlier mentioned, which seems more like mumbo jumbo than a serious suggestion.", 
+        "original-end-charpos": 2993, 
+        "original-start-charpos": 2859
+    }, 
+    {
+        "obfuscation": "In school children learn basic knowledge for future studies at college and University .", 
+        "obfuscation-id": 22, 
+        "original": " \nIn school children learn basic knowledge for future studies at college and University.", 
+        "original-end-charpos": 3081, 
+        "original-start-charpos": 2994
+    }, 
+    {
+        "obfuscation": "This basic knowledge is based on simple facts and uncomplicated structure , and does not require knowledge of how knowledge is formed and organised when teaching it .", 
+        "obfuscation-id": 23, 
+        "original": " \nThis basic knowledge is based on simple facts and uncomplicated structure, and does not require knowledge of how knowledge is formed and organised when teaching it.", 
+        "original-end-charpos": 3247, 
+        "original-start-charpos": 3082
+    }, 
+    {
+        "obfuscation": "What is considerable , however , is that teachers acknowledge their subjects .", 
+        "obfuscation-id": 24, 
+        "original": " \nWhat is considerable, however, is that teachers know their subjects.", 
+        "original-end-charpos": 3317, 
+        "original-start-charpos": 3248
+    }, 
+    {
+        "obfuscation": "If reducing subject reports to less than half of what the present teacher 's education programs have , teachers might lose their authority as being an academically learned teacher .", 
+        "obfuscation-id": 25, 
+        "original": "  \nIf reducing subject studies to less than half of what the present teacher's education programs have, teachers might lose their authority as being an academically learned teacher.", 
+        "original-end-charpos": 3498, 
+        "original-start-charpos": 3318
+    }, 
+    {
+        "obfuscation": "Pupils or their parents may question teachers ' ability to teach if they do not have enough subject knowledge .", 
+        "obfuscation-id": 26, 
+        "original": " \nPupils or their parents may question teachers' ability to teach if they do not have enough subject knowledge.", 
+        "original-end-charpos": 3609, 
+        "original-start-charpos": 3499
+    }, 
+    {
+        "obfuscation": "Having authority is an essential part of being a teacher .", 
+        "obfuscation-id": 27, 
+        "original": " \nHaving authority is an essential part of being a teacher.", 
+        "original-end-charpos": 3668, 
+        "original-start-charpos": 3610
+    }, 
+    {
+        "obfuscation": "Teachers must feel their students respect them and that they can share their knowledge and play an important role in their pupils ' learning .", 
+        "obfuscation-id": 28, 
+        "original": " \nTeachers must feel their pupils respect them and that they can share their knowledge and play an important role in their pupils' learning.", 
+        "original-end-charpos": 3808, 
+        "original-start-charpos": 3669
+    }, 
+    {
+        "obfuscation": "Teachers of today has a base of subject knowledge , they know their subjects and find secure about teaching .", 
+        "obfuscation-id": 29, 
+        "original": " \nTeachers of today has a base of subject knowledge, they know their subjects and feel secure about teaching.", 
+        "original-end-charpos": 3917, 
+        "original-start-charpos": 3809
+    }, 
+    {
+        "obfuscation": "However , the future teacher function seems very worrying if LUK 's reform is approved in the Swedish parliament .", 
+        "obfuscation-id": 30, 
+        "original": " \nHowever, the future teacher role seems very worrying if LUK's reform is approved in the Swedish parliament.", 
+        "original-end-charpos": 4026, 
+        "original-start-charpos": 3918
+    }, 
+    {
+        "obfuscation": "Teacher will not longer be teaching their students , but guiding them through the world of knowledge as experts in how knowledge is formed and organised .", 
+        "obfuscation-id": 31, 
+        "original": " \nTeacher will not longer be teaching their pupils, but guiding them through the world of knowledge as experts in how knowledge is formed and organised.", 
+        "original-end-charpos": 4178, 
+        "original-start-charpos": 4027
+    }, 
+    {
+        "obfuscation": "Some politicians might think LUK 's reform of teachers ' education programs will solve the problem of failing pupils and other problems they earlier caused .", 
+        "obfuscation-id": 32, 
+        "original": " \nSome politicians might believe LUK's reform of teachers' education programs will solve the problem of failing pupils and other problems they earlier caused.", 
+        "original-end-charpos": 4336, 
+        "original-start-charpos": 4179
+    }, 
+    {
+        "obfuscation": "However , hopefully most politicians will gain the absurdity of this suggestion .", 
+        "obfuscation-id": 33, 
+        "original": " \nHowever, hopefully most politicians will realise the absurdity of this suggestion.\n", 
+        "original-end-charpos": 4421, 
+        "original-start-charpos": 4337
+    }
+]

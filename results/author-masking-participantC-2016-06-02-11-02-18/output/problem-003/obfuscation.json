@@ -1,0 +1,184 @@
+[
+  {
+    "obfuscation": "\ufeffWhen working with data from files and databases it be often convenient to process big portions inside data inside one lump, for instance an entire customer document inside a customer file; a good tool for this is structure concept. ",
+    "obfuscation-id": 1,
+    "original": "\ufeffWhen working with data from files and databases it is often convenient to process big portions of data in one lump, for instance an entire customer record in a customer file. A good tool for this is the structure concept. ",
+    "original-end-charpos": 223,
+    "original-start-charpos": 0
+  },
+  {
+    "obfuscation": "In this situation, structure 's a collection of data that inside some way has an intermediary relation; in connection along structures our own selves will be using pointers and a mark to indicate a direction or relation arithmetics that we learnt in previous chapter; and structures are, a pre-state tto classes within object oriented programming. ",
+    "obfuscation-id": 2,
+    "original": "A structure is a set of data that in some way has an intermediary relation. In connection with structures we will be using pointers and pointer arithmetics that we learnt in the previous chapter. Structures are a pre-state to classes within object oriented programming. ",
+    "original-end-charpos": 494,
+    "original-start-charpos": 224
+  },
+  {
+    "obfuscation": "Therefore, present chapter is a bridge tto the next stage of your programmer education, object oriented programming; inside the present chapter our own selves will learn how to define structures, handle public information stored in structures, work, along arrays oof structures and files, inside connection along structures. ",
+    "obfuscation-id": 3,
+    "original": "Therefore, this chapter is a bridge to the next step of your programmer education, object oriented programming. In this chapter we will learn how to define structures, handle information stored in structures, work with arrays of structures and files in connection with structures. ",
+    "original-end-charpos": 776,
+    "original-start-charpos": 495
+  },
+  {
+    "obfuscation": "our own selves will also learning how tto use pointers to structures, how to sent structures to, a function also storing structures in dynamic memory, think oof customer record in customer file that contains name, social skill, telephone, email, discount profile, terms of delivery, terms oof payment also so forth. ",
+    "obfuscation-id": 4,
+    "original": "We will also learn how to use pointers to structures, how to sent structures to a function and store structures in the dynamic memory. Think of a customer record in a customer file that contains name, address, telephone, email, discount profile, terms of delivery, terms of payment and so forth. ",
+    "original-end-charpos": 1073,
+    "original-start-charpos": 777
+  },
+  {
+    "obfuscation": "But, All this public information be stored for each customer inside the client file, yet when reading, transformation and save from ruin, destruction, or harm this public information to a file or databases it is convenient tto be able to handle all data for client in, a uniform way. ",
+    "obfuscation-id": 5,
+    "original": "All this information is stored for each customer in the customer file. When reading, processing and saving this information to a file or database it is convenient to be able to handle all data for a customer in a uniform way. ",
+    "original-end-charpos": 1300,
+    "original-start-charpos": 1074
+  },
+  {
+    "obfuscation": "It be then gathered into a structure, which provides better organisation of the program code, structure 's like template for all information per client; structure behaves oof the code like data type such as int, double or char. ",
+    "obfuscation-id": 6,
+    "original": "It is then gathered into a structure, which provides better organization of the program code. A structure is like a template for all information per customer. A structure behaves in the code like a data type such as int, double or char. ",
+    "original-end-charpos": 1538,
+    "original-start-charpos": 1301
+  },
+  {
+    "obfuscation": "You reporting variable in the structure type defined, and inside structure variable you can then store all information for a given customer, and you can also creating matrix inside structure items, where every topic, at the matrix 's structure with all information per customer. ",
+    "obfuscation-id": 7,
+    "original": "You declare a variable of the structure type defined. In the structure variable you can then store all information for a particular customer. You can also create an array of structure items, where each item of the array is a structure with all information per customer. ",
+    "original-end-charpos": 1809,
+    "original-start-charpos": 1539
+  },
+  {
+    "obfuscation": "Indeed, array will thus contain all information for all clients, as first our own selves will learn tto define structure template, i.e; as specify the form oof the structure, the structure members and data type of each member of structure. ",
+    "obfuscation-id": 8,
+    "original": "The array will thus contain all information for all customers. First we will learn to define a structure template, i.e. specify the shape of the structure, the structure members and the data type of each member of the structure. ",
+    "original-end-charpos": 2039,
+    "original-start-charpos": 1810
+  },
+  {
+    "obfuscation": "Suppose we want tto working with product file along: \u2022 Product name \u2022 Product id \u2022 Price \u2022 Quantity in stock \u2022 Supplier This means that every product, in the file will contain these five members. ",
+    "obfuscation-id": 9,
+    "original": "Suppose we want to work with a product file with:  \u2022 Product name  \u2022 Product id  \u2022 Price  \u2022 Quantity in stock  \u2022 Supplier  This means that each product in the file will contain these five members. ",
+    "original-end-charpos": 2237,
+    "original-start-charpos": 2040
+  },
+  {
+    "obfuscation": "Here 's code for definition of the structure: First there 's keyword struct, also then behalf oof structure or description of data ( Prod); and within curly brackets you then enumerate members of the structure, where each member be declared oof usual way oof state emphatically and authoritatively variables. ",
+    "obfuscation-id": 10,
+    "original": "Here is the code for definition of the structure: First there is the keyword struct, and then the name of the structure or data type (Prod). Within curly brackets you then enumerate the members of the structure, where each member is declared in the usual way of declaring variables. ",
+    "original-end-charpos": 2521,
+    "original-start-charpos": 2238
+  },
+  {
+    "obfuscation": "Each member be have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical with semicolon, as after the last right curly bracket there must also be semicolon, structure above shows that the various members can be inside different data types ( char, int, double) and also arrays, like cName. ",
+    "obfuscation-id": 11,
+    "original": "Each member is ended with a semicolon. After the last right curly bracket there must also be a semicolon. The structure above shows that the different members can be of different data types (char, int, double) and also arrays like cName. ",
+    "original-end-charpos": 2760,
+    "original-start-charpos": 2522
+  },
+  {
+    "obfuscation": "You can also have other structures as composition in the structure, if applicable, names inside the structure and membership are inside a queue or route along which something travels or moves arbitrarily selected, but they should in some way correspond to the act of using; and to declare structure variable, i.e. ",
+    "obfuscation-id": 12,
+    "original": "You can also have other structures as members of the structure, if applicable. The names of the structure and members are of course arbitrarily selected, but they should in some way correspond to their usage. To declare a structure variable, i.e. ",
+    "original-end-charpos": 3008,
+    "original-start-charpos": 2761
+  },
+  {
+    "obfuscation": "a variable in data type Prod, you write: Here our own selves reporting a variable prodOne which is in the Prod type, you can also initiate it with values already inside the declaration: Within curly brackets we enumerate values, for structure members inside correct sequence, separated; by commas. ",
+    "obfuscation-id": 13,
+    "original": "a variable of the data type Prod, you write: Here we declare a variable prodOne which is of the Prod type. You can also initiate it with values already in the declaration: Within curly brackets we enumerate values for the structure members in the correct sequence, separated by commas. ",
+    "original-end-charpos": 3295,
+    "original-start-charpos": 3009
+  },
+  {
+    "obfuscation": "The data types in values must correspond to the definition given inside the members. ",
+    "obfuscation-id": 14,
+    "original": "The data types of the values must correspond to the definition of the members. ",
+    "original-end-charpos": 3375,
+    "original-start-charpos": 3296
+  },
+  {
+    "obfuscation": "Concurrently, When updating, copy down as is or of other means salary the value oof a structure member, you use after way oof coding: You write behalf oof structure variable, followed by a period andthe behalf of member oof question. ",
+    "obfuscation-id": 15,
+    "original": "When updating, copying or in other ways processing the value of a structure member, you use the following way of coding: You write the name of the structure variable, followed by a period and the name of the member in question. ",
+    "original-end-charpos": 3604,
+    "original-start-charpos": 3376
+  },
+  {
+    "obfuscation": "Here quantity in stock will be set tto Two hundred Fifty One for \u2018Oliv Oil\u2019 product; and or: This requires that cString be string array whose contents are copied tto cSupp member, our own selves will now create an entire programme through structures. ",
+    "obfuscation-id": 16,
+    "original": "Here the quantity in stock will be set to 251 for the \u2018Oliv Oil\u2019 product. Or: This requires that cString is a string array whose content is copied to the cSupp member. We will now create an entire program using structures. ",
+    "original-end-charpos": 3828,
+    "original-start-charpos": 3605
+  },
+  {
+    "obfuscation": "our own selves will creating a product structure according to the above a representative form or pattern, and two structure variables with product information; and one, in them should be initiated directly; inside the declaration, and the other 's supposed to be supplied along public information from user. ",
+    "obfuscation-id": 17,
+    "original": "We will create a product structure according to the previous example and two structure variables with product information. One of them should be initiated directly in the declaration and the other is supposed to be supplied with information from the user. ",
+    "original-end-charpos": 4085,
+    "original-start-charpos": 3829
+  },
+  {
+    "obfuscation": "Anyway, Finally the program should print a table in products; yet we start with JSP graph: logic be straightforward, as most hard to control task is tto handle structure, in the correct way. ",
+    "obfuscation-id": 18,
+    "original": "Finally the program should print a table of the products. We start with a JSP graph: The logic is simple. The most difficult task is to handle the structure in the correct way. ",
+    "original-end-charpos": 4263,
+    "original-start-charpos": 4086
+  },
+  {
+    "obfuscation": "Here be the code: definition oof the structure be before main (), which makes it valid for the entire program, also inside functions, and you can also defining structure inside main (), but then it be just valid of main () and not oof other functions. ",
+    "obfuscation-id": 19,
+    "original": "Here is the code: The definition of the structure is before main(), which makes it valid for the entire program, also inside functions. You can also define the structure inside main(), but then it is only valid in main() and not in other functions. ",
+    "original-end-charpos": 4513,
+    "original-start-charpos": 4264
+  },
+  {
+    "obfuscation": "The first structure variable prodOne is initiated, with values directly, inside statement, then there are issue in heading texts and the act of something new inside values tto the structure composition in the second structure variable; note that we use full stop, between structure variables and member. ",
+    "obfuscation-id": 20,
+    "original": "The first structure variable prodOne is initiated with values directly in the declaration. Then there are a number of heading texts and entry of values to the structure members of the second structure variable. Note that we use a period between the structure variable and member. ",
+    "original-end-charpos": 4794,
+    "original-start-charpos": 4514
+  },
+  {
+    "obfuscation": "On the whole, output is done, by means; of the bill in a \\t, and you might need; to accomodate the length; of entered texts tto make public information be printed in correct. ",
+    "obfuscation-id": 21,
+    "original": "The output is done by means of tabs \\t. You might need to accommodate the length of the entered texts to make the information be printed in the correct column. ",
+    "original-end-charpos": 4955,
+    "original-start-charpos": 4795
+  },
+  {
+    "obfuscation": "our own selves could have done that more flexible by means, of the text formatting functions from chapter One, but our own selves are using rough method for simplicity\u2019s sake; and disadvantage with previous program be that we needed structure variable ( prodOne, prodTwo), for each product. ",
+    "obfuscation-id": 22,
+    "original": "We could have done that more flexible by means of the text formatting functions from chapter 1, but we used a rough method for simplicity\u2019s sake. A disadvantage with the previous program is that we needed a separate structure variable (prodOne, prodTwo) for each product. ",
+    "original-end-charpos": 5228,
+    "original-start-charpos": 4956
+  },
+  {
+    "obfuscation": "A more convenient solution be tto use matrix, with structure variables allowing the use in a loop tto process structure variables in a uniform way. ",
+    "obfuscation-id": 23,
+    "original": "A more convenient solution is to use an array with structure variables allowing the use of a loop to process the structure variables in a uniform way. ",
+    "original-end-charpos": 5380,
+    "original-start-charpos": 5229
+  },
+  {
+    "obfuscation": "Below our own selves declare structure array sProds in the guy Prod along three items: our own selves have allocated memory space for 3 products,, but we have not yet assigned values tto structure members. ",
+    "obfuscation-id": 24,
+    "original": "Below we declare a structure array sProds of the type Prod with three items: We have allocated memory space for three products, but we have not yet assigned values to the structure members. ",
+    "original-end-charpos": 5571,
+    "original-start-charpos": 5381
+  },
+  {
+    "obfuscation": "That could be made directly at declaration: Note that values for each structure variable are surrounded by curly square brackets, and that values are enumerated oof the normal manner within each pair oof curly brackets. ",
+    "obfuscation-id": 25,
+    "original": "That could be made directly at the declaration: Note that the values for each structure variable are surrounded by curly brackets, and that the values are enumerated in the usual way within each pair of curly brackets. ",
+    "original-end-charpos": 5791,
+    "original-start-charpos": 5572
+  },
+  {
+    "obfuscation": "All three pair inside brackets are surrounded by an extra pair; inside curly brackets delimiting initiation list inside values; yet after last bracket there must be, a semicolon, if you want tto let user enter values, this is preferably done in a loop: ",
+    "obfuscation-id": 26,
+    "original": "All three pair of brackets are surrounded by an extra pair of curly brackets delimiting the initiation list of values. After the last bracket there must be a semicolon. If you want to let the user enter values, this is preferably done in a loop: ",
+    "original-end-charpos": 6038,
+    "original-start-charpos": 5792
+  }
+]

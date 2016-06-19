@@ -1,0 +1,282 @@
+[
+    {
+        "obfuscation": "It 's a wonder you would n't stop this machine grinding itself to bits , Mr. Murray .", 
+        "obfuscation-id": 1, 
+        "original": "It's a wonder you wouldn't stop this machine grinding\nitself to bits, Mr. Murray.", 
+        "original-end-charpos": 80, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "I was hoping the darn thing would bust .", 
+        "obfuscation-id": 2, 
+        "original": "\n\n I was hoping the darn thing would bust.", 
+        "original-end-charpos": 122, 
+        "original-start-charpos": 81
+    }, 
+    {
+        "obfuscation": "It keeps you from speaking to me .", 
+        "obfuscation-id": 3, 
+        "original": " It keeps you from\ntalking to me.", 
+        "original-end-charpos": 155, 
+        "original-start-charpos": 123
+    }, 
+    {
+        "obfuscation": "That 's the real music .", 
+        "obfuscation-id": 4, 
+        "original": " That's the real music.", 
+        "original-end-charpos": 178, 
+        "original-start-charpos": 156
+    }, 
+    {
+        "obfuscation": "It 's easy to see you 've become Irish in you .", 
+        "obfuscation-id": 5, 
+        "original": "\n\n It's easy to see you've got Irish in you.", 
+        "original-end-charpos": 222, 
+        "original-start-charpos": 179
+    }, 
+    {
+        "obfuscation": "Do you know what I think ?", 
+        "obfuscation-id": 6, 
+        "original": " Do you know what I think?", 
+        "original-end-charpos": 248, 
+        "original-start-charpos": 223
+    }, 
+    {
+        "obfuscation": "I think you 're a natural born kidder .", 
+        "obfuscation-id": 7, 
+        "original": " I think you're a\nnatural born kidder.", 
+        "original-end-charpos": 286, 
+        "original-start-charpos": 249
+    }, 
+    {
+        "obfuscation": "All newspaper reporters are like that , I 've heard .", 
+        "obfuscation-id": 8, 
+        "original": " All newspaper reporters are like that, I've heard.", 
+        "original-end-charpos": 337, 
+        "original-start-charpos": 287
+    }, 
+    {
+        "obfuscation": "You wrong me terribly .", 
+        "obfuscation-id": 9, 
+        "original": "\n\nYou wrong me terribly.", 
+        "original-end-charpos": 361, 
+        "original-start-charpos": 338
+    }, 
+    {
+        "obfuscation": "And it isn't charitable to remind me of my job .", 
+        "obfuscation-id": 10, 
+        "original": " And it isn't\ncharitable to remind me of my job.", 
+        "original-end-charpos": 409, 
+        "original-start-charpos": 362
+    }, 
+    {
+        "obfuscation": "I hoped to forget all about it up here .", 
+        "obfuscation-id": 11, 
+        "original": " I hoped to forget all about it up\nhere.", 
+        "original-end-charpos": 449, 
+        "original-start-charpos": 410
+    }, 
+    {
+        "obfuscation": "I think it 's great to be able to write .", 
+        "obfuscation-id": 12, 
+        "original": "\n\nI think it's great to be able to write.", 
+        "original-end-charpos": 490, 
+        "original-start-charpos": 450
+    }, 
+    {
+        "obfuscation": "I wish I could .", 
+        "obfuscation-id": 13, 
+        "original": " I\nwish I could.", 
+        "original-end-charpos": 506, 
+        "original-start-charpos": 491
+    }, 
+    {
+        "obfuscation": "You ought to be proud of it .", 
+        "obfuscation-id": 14, 
+        "original": " You ought to be proud of it.", 
+        "original-end-charpos": 535, 
+        "original-start-charpos": 507
+    }, 
+    {
+        "obfuscation": "I 'm not .", 
+        "obfuscation-id": 15, 
+        "original": "\n\nI'm not.", 
+        "original-end-charpos": 545, 
+        "original-start-charpos": 536
+    }, 
+    {
+        "obfuscation": "You ca n't call it writing -- not what I did -- small town material .", 
+        "obfuscation-id": 16, 
+        "original": " You can't call it writing--not what I\ndid--small town stuff.", 
+        "original-end-charpos": 606, 
+        "original-start-charpos": 546
+    }, 
+    {
+        "obfuscation": "But I wanted to ask you something .", 
+        "obfuscation-id": 17, 
+        "original": " But I wanted to ask\nyou something.", 
+        "original-end-charpos": 641, 
+        "original-start-charpos": 607
+    }, 
+    {
+        "obfuscation": "Do you know when I 'm to be moved away to the huts ?", 
+        "obfuscation-id": 18, 
+        "original": " Do you know when I'm to be moved away to the huts?", 
+        "original-end-charpos": 692, 
+        "original-start-charpos": 642
+    }, 
+    {
+        "obfuscation": "In a few days , I guess .", 
+        "obfuscation-id": 19, 
+        "original": "\n\nIn a few days, I guess.", 
+        "original-end-charpos": 717, 
+        "original-start-charpos": 693
+    }, 
+    {
+        "obfuscation": "make n't be impatient .", 
+        "obfuscation-id": 20, 
+        "original": " Don't be impatient.", 
+        "original-end-charpos": 737, 
+        "original-start-charpos": 718
+    }, 
+    {
+        "obfuscation": "What 's the matter ?", 
+        "obfuscation-id": 21, 
+        "original": " What's the matter?", 
+        "original-end-charpos": 756, 
+        "original-start-charpos": 738
+    }, 
+    {
+        "obfuscation": "Don't you like us here at the Sanatorium ?", 
+        "obfuscation-id": 22, 
+        "original": " Don't\nyou like us here at the Sanatorium?", 
+        "original-end-charpos": 798, 
+        "original-start-charpos": 757
+    }, 
+    {
+        "obfuscation": "Oh -- you -- yes !", 
+        "obfuscation-id": 23, 
+        "original": "\n\nOh--you--yes!", 
+        "original-end-charpos": 813, 
+        "original-start-charpos": 799
+    }, 
+    {
+        "obfuscation": "I do n't care for the atmosphere , though .", 
+        "obfuscation-id": 24, 
+        "original": "  I don't care for\nthe atmosphere, though.", 
+        "original-end-charpos": 855, 
+        "original-start-charpos": 814
+    }, 
+    {
+        "obfuscation": "All those people in bed out there on the porch seem thus sick .", 
+        "obfuscation-id": 25, 
+        "original": " All those people in bed out there on the\nporch seem so sick.", 
+        "original-end-charpos": 916, 
+        "original-start-charpos": 856
+    }, 
+    {
+        "obfuscation": "It 's depressing .", 
+        "obfuscation-id": 26, 
+        "original": " It's depressing.", 
+        "original-end-charpos": 933, 
+        "original-start-charpos": 917
+    }, 
+    {
+        "obfuscation": "I ca n't do anything for them -- and -- it makes me feel thus helpless .", 
+        "obfuscation-id": 27, 
+        "original": " I can't do anything for\nthem--and--it makes me feel so helpless.", 
+        "original-end-charpos": 998, 
+        "original-start-charpos": 934
+    }, 
+    {
+        "obfuscation": "Well , it 's the rules , you know .", 
+        "obfuscation-id": 28, 
+        "original": "\n\n Well, it's the rules, you know.", 
+        "original-end-charpos": 1032, 
+        "original-start-charpos": 999
+    }, 
+    {
+        "obfuscation": "All the patients have to come here first until Doctor Stanton finds away whether they 're well enough to be sent out to the huts and cottages .", 
+        "obfuscation-id": 29, 
+        "original": " All the patients have to\ncome here first until Doctor Stanton finds out whether they're well\nenough to be sent out to the huts and cottages.", 
+        "original-end-charpos": 1173, 
+        "original-start-charpos": 1033
+    }, 
+    {
+        "obfuscation": "And remember you 're a patient just like the ones in bed out there -- even if you are up and about .", 
+        "obfuscation-id": 30, 
+        "original": " And remember you're a\npatient just like the ones in bed out there--even if you are up and\nabout.", 
+        "original-end-charpos": 1270, 
+        "original-start-charpos": 1174
+    }, 
+    {
+        "obfuscation": "I know it .", 
+        "obfuscation-id": 31, 
+        "original": "\n\nI know it.", 
+        "original-end-charpos": 1282, 
+        "original-start-charpos": 1271
+    }, 
+    {
+        "obfuscation": "But I do n't find as I were -- really sick like them .", 
+        "obfuscation-id": 32, 
+        "original": " But I don't feel as I were--really sick like them.", 
+        "original-end-charpos": 1333, 
+        "original-start-charpos": 1283
+    }, 
+    {
+        "obfuscation": "None of them do , either .", 
+        "obfuscation-id": 33, 
+        "original": "\n\nNone of them do, either.", 
+        "original-end-charpos": 1359, 
+        "original-start-charpos": 1334
+    }, 
+    {
+        "obfuscation": "Yes , I suppose it's that pipe dream that keeps us all going , eh ?", 
+        "obfuscation-id": 34, 
+        "original": "\n\n Yes, I suppose it's\nthat pipe dream that keeps us all going, eh?", 
+        "original-end-charpos": 1426, 
+        "original-start-charpos": 1360
+    }, 
+    {
+        "obfuscation": "Well , you ought to be thankful .", 
+        "obfuscation-id": 35, 
+        "original": "\n\nWell, you ought to be thankful.", 
+        "original-end-charpos": 1459, 
+        "original-start-charpos": 1427
+    }, 
+    {
+        "obfuscation": "You 're very lucky , if you knew it .", 
+        "obfuscation-id": 36, 
+        "original": " You're very lucky, if you\nknew it.", 
+        "original-end-charpos": 1494, 
+        "original-start-charpos": 1460
+    }, 
+    {
+        "obfuscation": "Shall I tell you a secret ?", 
+        "obfuscation-id": 37, 
+        "original": " Shall I tell you a secret?", 
+        "original-end-charpos": 1521, 
+        "original-start-charpos": 1495
+    }, 
+    {
+        "obfuscation": "I 've seen your chart and _you've_ no cause to worry .", 
+        "obfuscation-id": 38, 
+        "original": " I've seen\nyour chart and _you've_ no cause to worry.", 
+        "original-end-charpos": 1574, 
+        "original-start-charpos": 1522
+    }, 
+    {
+        "obfuscation": "Doctor Stanton joked about it .", 
+        "obfuscation-id": 39, 
+        "original": " Doctor Stanton joked about\nit.", 
+        "original-end-charpos": 1605, 
+        "original-start-charpos": 1575
+    }, 
+    {
+        "obfuscation": "He said you were too uninteresting -- there was thus little the matter with you .", 
+        "obfuscation-id": 40, 
+        "original": " He said you were too uninteresting--there was so little the matter\nwith you.\n\n\n\n\n\n\n\n\n\n", 
+        "original-end-charpos": 1692, 
+        "original-start-charpos": 1606
+    }
+]

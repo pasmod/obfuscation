@@ -1,0 +1,723 @@
+[
+    {
+        "obfuscation": "\ufeffRodrigo [ possessed ] - `` The flies are their own lords , and ours as well . ''", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffRodrigo [possessed] - \"The flies are their own lords, and ours as well.\"", 
+        "original-end-charpos": 72, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Benevento Chieti Bordighera - Massa di Requiem per Shuggay Colonel Reginald Barnes wiped his sweating brow and cursed the infernal swamp .", 
+        "obfuscation-id": 2, 
+        "original": "\nBenevento Chieti Bordighera - Massa di Requiem per Shuggay\nColonel Reginald Barnes wiped his sweating brow and cursed the infernal swamp.", 
+        "original-end-charpos": 210, 
+        "original-start-charpos": 73
+    }, 
+    {
+        "obfuscation": "He double cursed the countless insects that seemed to make up the entire population of this sodden sin .", 
+        "obfuscation-id": 3, 
+        "original": " He double cursed the countless insects that seemed to make up the entire population of this sodden hell.", 
+        "original-end-charpos": 315, 
+        "original-start-charpos": 211
+    }, 
+    {
+        "obfuscation": "He turned and motioned his men to halt .", 
+        "obfuscation-id": 4, 
+        "original": " He turned and motioned his men to halt.", 
+        "original-end-charpos": 355, 
+        "original-start-charpos": 316
+    }, 
+    {
+        "obfuscation": "They were a hearty group , but the hardships of the swamp were bearing down on them .", 
+        "obfuscation-id": 5, 
+        "original": " They were a hearty group, but the hardships of the swamp were bearing down on them.", 
+        "original-end-charpos": 439, 
+        "original-start-charpos": 356
+    }, 
+    {
+        "obfuscation": "All were tired , their muscles aching , and most experienced open sores which the wretched little vermin were viciously exploiting .", 
+        "obfuscation-id": 6, 
+        "original": " All were tired, their muscles aching, and most had open sores which the wretched little vermin were viciously exploiting.", 
+        "original-end-charpos": 561, 
+        "original-start-charpos": 440
+    }, 
+    {
+        "obfuscation": "Private Sands was buried a few miles back , victim of some malignant strain of malaria that ignored quinine and killed within hours .", 
+        "obfuscation-id": 7, 
+        "original": "\nPrivate Sands was buried a few miles back, victim of some malignant strain of malaria that ignored quinine and killed within hours.", 
+        "original-end-charpos": 693, 
+        "original-start-charpos": 562
+    }, 
+    {
+        "obfuscation": "The colonel wondered for a moment about the natives ' warnings .", 
+        "obfuscation-id": 8, 
+        "original": " The colonel wondered for a moment about the natives' warnings.", 
+        "original-end-charpos": 756, 
+        "original-start-charpos": 694
+    }, 
+    {
+        "obfuscation": "The natives had cautioned them to avoid this swamp , and the blacks feared this place so much that their normally loyal bearers had fled like rabbits rather than enter the lair of 'the insect idol ' .", 
+        "obfuscation-id": 9, 
+        "original": " The natives had cautioned them to avoid this swamp, and the blacks feared this place so much that their normally loyal bearers had fled like rabbits rather than enter the lair of 'the insect god'.", 
+        "original-end-charpos": 953, 
+        "original-start-charpos": 757
+    }, 
+    {
+        "obfuscation": "As far as Barnes ' pidgin could make away , the natives believed that a giant insect lived within the swamp , ruling all its lesser kin .", 
+        "obfuscation-id": 10, 
+        "original": " As far as Barnes' pidgin could make out, the natives believed that a giant insect lived within the swamp, ruling all its lesser kin.", 
+        "original-end-charpos": 1086, 
+        "original-start-charpos": 954
+    }, 
+    {
+        "obfuscation": "To add even greater spice to the tale , it was something of a Typhoid Mary , a many-legged Horseman of Pestilence .", 
+        "obfuscation-id": 11, 
+        "original": " To add even greater spice to the tale, it was something of a Typhoid Mary, a many-legged Horseman of Pestilence.", 
+        "original-end-charpos": 1199, 
+        "original-start-charpos": 1087
+    }, 
+    {
+        "obfuscation": "Rubbish , to be sure , but this swamp was undeniably unhealthy , as poor Private Sands had taught .", 
+        "obfuscation-id": 12, 
+        "original": " Rubbish, to be sure, but this swamp was undeniably unhealthy, as poor Private Sands had learned.", 
+        "original-end-charpos": 1296, 
+        "original-start-charpos": 1200
+    }, 
+    {
+        "obfuscation": "however , this was part of The King 's realm , and as such it was to be charted and explored .", 
+        "obfuscation-id": 13, 
+        "original": "\nStill, this was part of The King's realm, and as such it was to be charted and explored.", 
+        "original-end-charpos": 1385, 
+        "original-start-charpos": 1297
+    }, 
+    {
+        "obfuscation": "Any natives , ( and he personally doubted even the hardiest of the Africans could survive in this God-forsaken place ) , introduced to the Enlightenment that came with British colonization .", 
+        "obfuscation-id": 14, 
+        "original": " Any natives, (and he personally doubted even the hardiest of the Africans could survive in this God-forsaken place), introduced to the Enlightenment that came with British colonization.", 
+        "original-end-charpos": 1571, 
+        "original-start-charpos": 1386
+    }, 
+    {
+        "obfuscation": "They were suffering for God , King and Country .", 
+        "obfuscation-id": 15, 
+        "original": "\nThey were suffering for God, King and Country.", 
+        "original-end-charpos": 1618, 
+        "original-start-charpos": 1572
+    }, 
+    {
+        "obfuscation": "That made n't make it any less painful .", 
+        "obfuscation-id": 16, 
+        "original": "\nThat didn't make it any less painful.", 
+        "original-end-charpos": 1656, 
+        "original-start-charpos": 1619
+    }, 
+    {
+        "obfuscation": "worlds were entering his domain .", 
+        "obfuscation-id": 17, 
+        "original": "\nHumans were entering his domain.", 
+        "original-end-charpos": 1689, 
+        "original-start-charpos": 1657
+    }, 
+    {
+        "obfuscation": "Not the natives , they knew of Him .", 
+        "obfuscation-id": 18, 
+        "original": " Not the natives, they knew of Him.", 
+        "original-end-charpos": 1724, 
+        "original-start-charpos": 1690
+    }, 
+    {
+        "obfuscation": "They had the wisdom to avoid Him .", 
+        "obfuscation-id": 19, 
+        "original": " They had the wisdom to avoid Him.", 
+        "original-end-charpos": 1758, 
+        "original-start-charpos": 1725
+    }, 
+    {
+        "obfuscation": "Not so with these animals .", 
+        "obfuscation-id": 20, 
+        "original": " Not so with these creatures.", 
+        "original-end-charpos": 1787, 
+        "original-start-charpos": 1759
+    }, 
+    {
+        "obfuscation": "They were explorers and soldiers , enforcing the will of their deadly King in behalf of their flickering shadow of an empire .", 
+        "obfuscation-id": 21, 
+        "original": " They were explorers and soldiers, enforcing the will of their mortal King in behalf of their flickering shadow of an empire.", 
+        "original-end-charpos": 1912, 
+        "original-start-charpos": 1788
+    }, 
+    {
+        "obfuscation": "They were determined to come .", 
+        "obfuscation-id": 22, 
+        "original": " They were determined to come.", 
+        "original-end-charpos": 1942, 
+        "original-start-charpos": 1913
+    }, 
+    {
+        "obfuscation": "To claim this land for their empire of dust .", 
+        "obfuscation-id": 23, 
+        "original": " To claim this land for their empire of dust.", 
+        "original-end-charpos": 1987, 
+        "original-start-charpos": 1943
+    }, 
+    {
+        "obfuscation": "But this was His empire .", 
+        "obfuscation-id": 24, 
+        "original": "\nBut this was His empire.", 
+        "original-end-charpos": 2012, 
+        "original-start-charpos": 1988
+    }, 
+    {
+        "obfuscation": "His land .", 
+        "obfuscation-id": 25, 
+        "original": " His land.", 
+        "original-end-charpos": 2022, 
+        "original-start-charpos": 2013
+    }, 
+    {
+        "obfuscation": "He had been driven from His world , from Shaggai .", 
+        "obfuscation-id": 26, 
+        "original": " He had been driven from His world, from Shaggai.", 
+        "original-end-charpos": 2071, 
+        "original-start-charpos": 2023
+    }, 
+    {
+        "obfuscation": "The Harbinger and The Worm That Gnaws In The Night had driven Him from His home .", 
+        "obfuscation-id": 27, 
+        "original": " The Harbinger and The Worm That Gnaws In The Night had driven Him from His home.", 
+        "original-end-charpos": 2152, 
+        "original-start-charpos": 2072
+    }, 
+    {
+        "obfuscation": "He had searched for centuries to find sanctuary .", 
+        "obfuscation-id": 28, 
+        "original": " He had searched for centuries to find sanctuary.", 
+        "original-end-charpos": 2201, 
+        "original-start-charpos": 2153
+    }, 
+    {
+        "obfuscation": "He would not give up His new home in the face of world .", 
+        "obfuscation-id": 29, 
+        "original": " He would not give up His new home in the face of humanity.", 
+        "original-end-charpos": 2260, 
+        "original-start-charpos": 2202
+    }, 
+    {
+        "obfuscation": "Baoht Z'uqqa-Mogg stirred sluggishly , pulling His huge bulk from the slime and mire .", 
+        "obfuscation-id": 30, 
+        "original": "\nBaoht Z'uqqa-Mogg stirred sluggishly, pulling His vast bulk from the slime and mire.", 
+        "original-end-charpos": 2345, 
+        "original-start-charpos": 2261
+    }, 
+    {
+        "obfuscation": "He shook the muck from His six wings .", 
+        "obfuscation-id": 31, 
+        "original": " He shook the muck from His six wings.", 
+        "original-end-charpos": 2383, 
+        "original-start-charpos": 2346
+    }, 
+    {
+        "obfuscation": "Many-faceted eyes surveyed the area .", 
+        "obfuscation-id": 32, 
+        "original": " Many-faceted eyes surveyed the area.", 
+        "original-end-charpos": 2420, 
+        "original-start-charpos": 2384
+    }, 
+    {
+        "obfuscation": "The humans had wandered far too close to his lair .", 
+        "obfuscation-id": 33, 
+        "original": " The humans had wandered far too close to his lair.", 
+        "original-end-charpos": 2471, 
+        "original-start-charpos": 2421
+    }, 
+    {
+        "obfuscation": "He bore no malice toward men , but He could not allow His realm to be infested by the violent ape-things .", 
+        "obfuscation-id": 34, 
+        "original": " He bore no malice toward men, but He could not allow His realm to be infested by the violent ape-things.", 
+        "original-end-charpos": 2576, 
+        "original-start-charpos": 2472
+    }, 
+    {
+        "obfuscation": "Such were His power that little could live in His presence .", 
+        "obfuscation-id": 35, 
+        "original": "\nSuch was His power that little could live in His presence.", 
+        "original-end-charpos": 2635, 
+        "original-start-charpos": 2577
+    }, 
+    {
+        "obfuscation": "One had already perished , the swarms had infected them all .", 
+        "obfuscation-id": 36, 
+        "original": " One had already perished, the swarms had infected them all.", 
+        "original-end-charpos": 2695, 
+        "original-start-charpos": 2636
+    }, 
+    {
+        "obfuscation": "In the unlikely event any of them lived long enough to reach early humans they would set off a plague .", 
+        "obfuscation-id": 37, 
+        "original": " In the unlikely event any of them lived long enough to reach other humans they would set off a plague.", 
+        "original-end-charpos": 2798, 
+        "original-start-charpos": 2696
+    }, 
+    {
+        "obfuscation": "Such weak animals , these humans .", 
+        "obfuscation-id": 38, 
+        "original": " Such weak creatures, these humans.", 
+        "original-end-charpos": 2833, 
+        "original-start-charpos": 2799
+    }, 
+    {
+        "obfuscation": "It was an act of mercy , actually .", 
+        "obfuscation-id": 39, 
+        "original": "\nIt was an act of mercy, really.", 
+        "original-end-charpos": 2865, 
+        "original-start-charpos": 2834
+    }, 
+    {
+        "obfuscation": "The swarms were intense , mosquitoes , tsetse flies and insects even the about knowledgeable of the men could not identify vied for a taste of their blood .", 
+        "obfuscation-id": 40, 
+        "original": "\nThe swarms were intense, mosquitoes, tsetse flies and insects even the most knowledgeable of the men could not identify vied for a taste of their blood.", 
+        "original-end-charpos": 3018, 
+        "original-start-charpos": 2866
+    }, 
+    {
+        "obfuscation": "One could scantily see his hands in front of his face for the blood-thirsty little horrors .", 
+        "obfuscation-id": 41, 
+        "original": " One could barely see his hands in front of his face for the blood-thirsty little horrors.", 
+        "original-end-charpos": 3108, 
+        "original-start-charpos": 3019
+    }, 
+    {
+        "obfuscation": "however they pressed on , through baking heat and boiling humidity .", 
+        "obfuscation-id": 42, 
+        "original": " Still they pressed on, through baking heat and boiling humidity.", 
+        "original-end-charpos": 3173, 
+        "original-start-charpos": 3109
+    }, 
+    {
+        "obfuscation": "Barnes could almost believe that some great insect god ruled this dark , dismal boil on the side of the earth .", 
+        "obfuscation-id": 43, 
+        "original": " Barnes could almost believe that some great insect god ruled this dark, dismal boil on the face of the earth.", 
+        "original-end-charpos": 3283, 
+        "original-start-charpos": 3174
+    }, 
+    {
+        "obfuscation": "He sincerely hoped that the His Majesty would let the Germans have this sweltering hellhole .", 
+        "obfuscation-id": 44, 
+        "original": " He sincerely hoped that the His Majesty would let the Germans have this sweltering hellhole.", 
+        "original-end-charpos": 3376, 
+        "original-start-charpos": 3284
+    }, 
+    {
+        "obfuscation": "'' Sir , '' Private Carter pointed away , `` The swarms .", 
+        "obfuscation-id": 45, 
+        "original": "\n\"Sir,\" Private Carter pointed out, \"The swarms.", 
+        "original-end-charpos": 3424, 
+        "original-start-charpos": 3377
+    }, 
+    {
+        "obfuscation": "There 's nothin ' else , sir .", 
+        "obfuscation-id": 46, 
+        "original": " There's nothin' else, sir.", 
+        "original-end-charpos": 3451, 
+        "original-start-charpos": 3425
+    }, 
+    {
+        "obfuscation": "I mean , no animals .", 
+        "obfuscation-id": 47, 
+        "original": " I mean, no animals.", 
+        "original-end-charpos": 3471, 
+        "original-start-charpos": 3452
+    }, 
+    {
+        "obfuscation": "No birds .", 
+        "obfuscation-id": 48, 
+        "original": " No birds.", 
+        "original-end-charpos": 3481, 
+        "original-start-charpos": 3472
+    }, 
+    {
+        "obfuscation": "Just insects . ''", 
+        "obfuscation-id": 49, 
+        "original": " Just insects.\"", 
+        "original-end-charpos": 3496, 
+        "original-start-charpos": 3482
+    }, 
+    {
+        "obfuscation": "'' They 're precisely hiding , private .", 
+        "obfuscation-id": 50, 
+        "original": "\n\"They're just hiding, private.", 
+        "original-end-charpos": 3527, 
+        "original-start-charpos": 3497
+    }, 
+    {
+        "obfuscation": "I 've seen a few snakes and lizards about .", 
+        "obfuscation-id": 51, 
+        "original": " I've seen a few snakes and lizards about.", 
+        "original-end-charpos": 3569, 
+        "original-start-charpos": 3528
+    }, 
+    {
+        "obfuscation": "Animals have a lifelike fear of man .", 
+        "obfuscation-id": 52, 
+        "original": " Animals have a natural fear of man.", 
+        "original-end-charpos": 3605, 
+        "original-start-charpos": 3570
+    }, 
+    {
+        "obfuscation": "Nothing to bother about . ''", 
+        "obfuscation-id": 53, 
+        "original": " Nothing to bother about.\"", 
+        "original-end-charpos": 3631, 
+        "original-start-charpos": 3606
+    }, 
+    {
+        "obfuscation": "In truth , Barnes himself wondered about the lack of wildlife .", 
+        "obfuscation-id": 54, 
+        "original": " In truth, Barnes himself wondered about the lack of wildlife.", 
+        "original-end-charpos": 3693, 
+        "original-start-charpos": 3632
+    }, 
+    {
+        "obfuscation": "It was true that animals , even large ones , would hide from a company of men , but the absence of birds of any kind was disturbing .", 
+        "obfuscation-id": 55, 
+        "original": " It was true that animals, even large ones, would hide from a company of men, but the absence of birds of any kind was disturbing.", 
+        "original-end-charpos": 3823, 
+        "original-start-charpos": 3694
+    }, 
+    {
+        "obfuscation": "Even in the Sahara , he 'd understood birds .", 
+        "obfuscation-id": 56, 
+        "original": " Even in the Sahara, he'd seen birds.", 
+        "original-end-charpos": 3860, 
+        "original-start-charpos": 3824
+    }, 
+    {
+        "obfuscation": "A swamp in the heart of Africa should be positively teeming with them .", 
+        "obfuscation-id": 57, 
+        "original": " A swamp in the heart of Africa should be positively teeming with them.", 
+        "original-end-charpos": 3931, 
+        "original-start-charpos": 3861
+    }, 
+    {
+        "obfuscation": "His hands went over his Rigby .", 
+        "obfuscation-id": 58, 
+        "original": " His hands went over his Rigby.", 
+        "original-end-charpos": 3962, 
+        "original-start-charpos": 3932
+    }, 
+    {
+        "obfuscation": "He 'd taken down a charging bull elephant in Malaya with that gun .", 
+        "obfuscation-id": 59, 
+        "original": " He'd taken down a charging bull elephant in Malaya with that gun.", 
+        "original-end-charpos": 4028, 
+        "original-start-charpos": 3963
+    }, 
+    {
+        "obfuscation": "He slid in a cartridge .", 
+        "obfuscation-id": 60, 
+        "original": "\nHe slid in a cartridge.", 
+        "original-end-charpos": 4052, 
+        "original-start-charpos": 4029
+    }, 
+    {
+        "obfuscation": "He wondered for a moment if he were ill , thinking of using a Rigby on a swarm of infernal insects .", 
+        "obfuscation-id": 61, 
+        "original": "\nHe wondered for a moment if he were ill, thinking of using a Rigby on a swarm of infernal insects.", 
+        "original-end-charpos": 4151, 
+        "original-start-charpos": 4053
+    }, 
+    {
+        "obfuscation": "A horrible smell filled the thick atmosphere , an overpowering reek of swamp stench and death .", 
+        "obfuscation-id": 62, 
+        "original": "\nA horrible smell filled the thick air, an overpowering reek of swamp stench and death.", 
+        "original-end-charpos": 4238, 
+        "original-start-charpos": 4152
+    }, 
+    {
+        "obfuscation": "The men turned as one as something thundered through the thick trees and muck toward them .", 
+        "obfuscation-id": 63, 
+        "original": " The men turned as one as something thundered through the thick trees and muck toward them.", 
+        "original-end-charpos": 4329, 
+        "original-start-charpos": 4239
+    }, 
+    {
+        "obfuscation": "What came crashing through the brush was no earthly insect .", 
+        "obfuscation-id": 64, 
+        "original": "\nWhat came crashing through the brush was no earthly insect.", 
+        "original-end-charpos": 4389, 
+        "original-start-charpos": 4330
+    }, 
+    {
+        "obfuscation": "Over six metres of horror reared up before them .", 
+        "obfuscation-id": 65, 
+        "original": " Over six metres of horror reared up before them.", 
+        "original-end-charpos": 4438, 
+        "original-start-charpos": 4390
+    }, 
+    {
+        "obfuscation": "It was a titanic perversion of a scorpion .", 
+        "obfuscation-id": 66, 
+        "original": " It was a titanic perversion of a scorpion.", 
+        "original-end-charpos": 4481, 
+        "original-start-charpos": 4439
+    }, 
+    {
+        "obfuscation": "The head was vaguely suggestive of a walnut , albeit covered with gleaming chicken eyes and twitching antennae .", 
+        "obfuscation-id": 67, 
+        "original": " The head was vaguely suggestive of a walnut, albeit covered with gleaming yellow eyes and twitching antennae.", 
+        "original-end-charpos": 4591, 
+        "original-start-charpos": 4482
+    }, 
+    {
+        "obfuscation": "chicken bile dripped from sharp mandibles , hissing as it hit the soggy ground .", 
+        "obfuscation-id": 68, 
+        "original": " Yellow bile dripped from sharp mandibles, hissing as it hit the soggy ground.", 
+        "original-end-charpos": 4669, 
+        "original-start-charpos": 4592
+    }, 
+    {
+        "obfuscation": "Its greenish-black body was slurred and armored , dripping ichor , wet mud and maggots .", 
+        "obfuscation-id": 69, 
+        "original": " Its greenish-black body was thick and armored, dripping ichor, wet mud and maggots.", 
+        "original-end-charpos": 4753, 
+        "original-start-charpos": 4670
+    }, 
+    {
+        "obfuscation": "Three sets of tattered , membranous wings and ten spindly , clawed legs sprouted from its thorax .", 
+        "obfuscation-id": 70, 
+        "original": " Three sets of tattered, membranous wings and ten spindly, clawed legs sprouted from its thorax.", 
+        "original-end-charpos": 4849, 
+        "original-start-charpos": 4754
+    }, 
+    {
+        "obfuscation": "It had the massive pincers and thick , segmented tail of a scorpion .", 
+        "obfuscation-id": 71, 
+        "original": " It had the massive pincers and thick, segmented tail of a scorpion.", 
+        "original-end-charpos": 4917, 
+        "original-start-charpos": 4850
+    }, 
+    {
+        "obfuscation": "More of the yellow venom dripped from the animal 's metre long stinger .", 
+        "obfuscation-id": 72, 
+        "original": " More of the yellow venom dripped from the creature's metre long stinger.", 
+        "original-end-charpos": 4990, 
+        "original-start-charpos": 4918
+    }, 
+    {
+        "obfuscation": "Disgusting vermin crawled across its foul body , surrounded it in slurred clouds and seemed to pour from the segments between its exoskeleton .", 
+        "obfuscation-id": 73, 
+        "original": " Disgusting vermin crawled across its foul body, surrounded it in thick clouds and seemed to pour from the segments between its exoskeleton.", 
+        "original-end-charpos": 5130, 
+        "original-start-charpos": 4991
+    }, 
+    {
+        "obfuscation": "'' It 's Beelzebub himself ! ''", 
+        "obfuscation-id": 74, 
+        "original": "\n\"It's Beelzebub himself!\"", 
+        "original-end-charpos": 5156, 
+        "original-start-charpos": 5131
+    }, 
+    {
+        "obfuscation": "Someone shouted .", 
+        "obfuscation-id": 75, 
+        "original": " Someone shouted.", 
+        "original-end-charpos": 5173, 
+        "original-start-charpos": 5157
+    }, 
+    {
+        "obfuscation": "From the look of the thing , Barnes were inclined to agree .", 
+        "obfuscation-id": 76, 
+        "original": " From the look of the thing, Barnes was inclined to agree.", 
+        "original-end-charpos": 5231, 
+        "original-start-charpos": 5174
+    }, 
+    {
+        "obfuscation": "He raised his rifle , The Lord of The Flies , eh ?", 
+        "obfuscation-id": 77, 
+        "original": "\nHe raised his rifle, The Lord of The Flies, eh?", 
+        "original-end-charpos": 5279, 
+        "original-start-charpos": 5232
+    }, 
+    {
+        "obfuscation": "Lets see how he holds up against the might of The British Empire !", 
+        "obfuscation-id": 78, 
+        "original": " Lets see how he holds up against the might of The British Empire!", 
+        "original-end-charpos": 5345, 
+        "original-start-charpos": 5280
+    }, 
+    {
+        "obfuscation": "No order was needed .", 
+        "obfuscation-id": 79, 
+        "original": "\nNo order was needed.", 
+        "original-end-charpos": 5366, 
+        "original-start-charpos": 5346
+    }, 
+    {
+        "obfuscation": "Barnes let loose with his Rigby as the men began to fire .", 
+        "obfuscation-id": 80, 
+        "original": " Barnes let loose with his Rigby as the men began to fire.", 
+        "original-end-charpos": 5424, 
+        "original-start-charpos": 5367
+    }, 
+    {
+        "obfuscation": "The .450 Nitro Express hit the beast square in the head , eliciting little more than an angry hiss .", 
+        "obfuscation-id": 81, 
+        "original": " The .450 Nitro Express struck the beast square in the head, eliciting little more than an angry hiss.", 
+        "original-end-charpos": 5526, 
+        "original-start-charpos": 5425
+    }, 
+    {
+        "obfuscation": "A shot meant for taking down rhinoceros and elephants scantily seemed to sting the abomination .", 
+        "obfuscation-id": 82, 
+        "original": " A shot meant for taking down rhinoceros and elephants barely seemed to sting the abomination.", 
+        "original-end-charpos": 5620, 
+        "original-start-charpos": 5527
+    }, 
+    {
+        "obfuscation": "The swarm were upon them before he could reload .", 
+        "obfuscation-id": 83, 
+        "original": " The swarm was upon them before he could reload.", 
+        "original-end-charpos": 5668, 
+        "original-start-charpos": 5621
+    }, 
+    {
+        "obfuscation": "The Rigby fell from his hands as Barnes fell to his knees , then collapsed into the mud .", 
+        "obfuscation-id": 84, 
+        "original": " The Rigby fell from his hands as Barnes fell to his knees, then collapsed into the mud.", 
+        "original-end-charpos": 5756, 
+        "original-start-charpos": 5669
+    }, 
+    {
+        "obfuscation": "The screams of his men were almost drowned away by the insidious buzzing and overwhelming sensation of weakness that swept through his form .", 
+        "obfuscation-id": 85, 
+        "original": " The screams of his men were almost drowned out by the insidious buzzing and overwhelming sensation of weakness that swept through his form.", 
+        "original-end-charpos": 5896, 
+        "original-start-charpos": 5757
+    }, 
+    {
+        "obfuscation": "Wormwood .", 
+        "obfuscation-id": 86, 
+        "original": " Wormwood.", 
+        "original-end-charpos": 5906, 
+        "original-start-charpos": 5897
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 87, 
+        "original": ".", 
+        "original-end-charpos": 5906, 
+        "original-start-charpos": 5907
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 88, 
+        "original": " .", 
+        "original-end-charpos": 5908, 
+        "original-start-charpos": 5907
+    }, 
+    {
+        "obfuscation": ". He thought as the world grew black about him .", 
+        "obfuscation-id": 89, 
+        "original": " . He thought as the world grew dark about him.", 
+        "original-end-charpos": 5955, 
+        "original-start-charpos": 5909
+    }, 
+    {
+        "obfuscation": "A slender trickle of yellow ichor flowed from the injured eye .", 
+        "obfuscation-id": 90, 
+        "original": "\nA thin trickle of yellow ichor flowed from the injured eye.", 
+        "original-end-charpos": 6015, 
+        "original-start-charpos": 5956
+    }, 
+    {
+        "obfuscation": "It suffered , but the wound was already healing .", 
+        "obfuscation-id": 91, 
+        "original": " It hurt, but the wound was already healing.", 
+        "original-end-charpos": 6059, 
+        "original-start-charpos": 6016
+    }, 
+    {
+        "obfuscation": "Baoht Z'uqqa-Mogg picked up the weapon in His correct claw , examined it .", 
+        "obfuscation-id": 92, 
+        "original": " Baoht Z'uqqa-Mogg picked up the weapon in His right claw, examined it.", 
+        "original-end-charpos": 6130, 
+        "original-start-charpos": 6060
+    }, 
+    {
+        "obfuscation": "It was a crude device , but it had drawn blood .", 
+        "obfuscation-id": 93, 
+        "original": " It was a crude device, but it had drawn blood.", 
+        "original-end-charpos": 6177, 
+        "original-start-charpos": 6131
+    }, 
+    {
+        "obfuscation": "The humans were growing stronger .", 
+        "obfuscation-id": 94, 
+        "original": " The humans were growing stronger.", 
+        "original-end-charpos": 6211, 
+        "original-start-charpos": 6178
+    }, 
+    {
+        "obfuscation": "Smarter , in their own primitive way .", 
+        "obfuscation-id": 95, 
+        "original": " Smarter, in their own primitive way.", 
+        "original-end-charpos": 6248, 
+        "original-start-charpos": 6212
+    }, 
+    {
+        "obfuscation": "And bolder .", 
+        "obfuscation-id": 96, 
+        "original": " And bolder.", 
+        "original-end-charpos": 6260, 
+        "original-start-charpos": 6249
+    }, 
+    {
+        "obfuscation": "The day might come when He would have to fight them in numbers to protect His land .", 
+        "obfuscation-id": 97, 
+        "original": " The day might come when He would have to fight them in numbers to protect His land.", 
+        "original-end-charpos": 6344, 
+        "original-start-charpos": 6261
+    }, 
+    {
+        "obfuscation": "He snapped the weapon in two with His claw and project it into the mud .", 
+        "obfuscation-id": 98, 
+        "original": " He snapped the weapon in two with His claw and cast it into the mud.", 
+        "original-end-charpos": 6413, 
+        "original-start-charpos": 6345
+    }, 
+    {
+        "obfuscation": "He looked over the dying men , prying from their feeble , fevered brains the identity of this 'Beelzebub ' they took Him for .", 
+        "obfuscation-id": 99, 
+        "original": " He looked over the dying men, prying from their feeble, fevered brains the identity of this 'Beelzebub' they took Him for.", 
+        "original-end-charpos": 6536, 
+        "original-start-charpos": 6414
+    }, 
+    {
+        "obfuscation": "It was an unfair comparison in His eyes , but understandable given their limited intellects .", 
+        "obfuscation-id": 100, 
+        "original": " It was an unfair comparison in His eyes, but understandable given their limited intellects.", 
+        "original-end-charpos": 6628, 
+        "original-start-charpos": 6537
+    }, 
+    {
+        "obfuscation": "He quickly slew them all , sparing them the agony of slow death by infection .", 
+        "obfuscation-id": 101, 
+        "original": " He quickly slew them all, sparing them the agony of slow death by infection.", 
+        "original-end-charpos": 6705, 
+        "original-start-charpos": 6629
+    }, 
+    {
+        "obfuscation": "The wound was completely healed as The Bringer of Pestilence nestled once more into the comfortable muck and mire of the swamp .", 
+        "obfuscation-id": 102, 
+        "original": "\nThe wound was completely healed as The Bringer of Pestilence nestled once more into the comfortable muck and mire of the swamp.", 
+        "original-end-charpos": 6833, 
+        "original-start-charpos": 6706
+    }, 
+    {
+        "obfuscation": "His home was secure , for nowadays .", 
+        "obfuscation-id": 103, 
+        "original": " His home was secure, for now.\n", 
+        "original-end-charpos": 6864, 
+        "original-start-charpos": 6834
+    }
+]

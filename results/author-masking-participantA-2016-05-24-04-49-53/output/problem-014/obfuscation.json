@@ -1,0 +1,534 @@
+[
+    {
+        "obfuscation": "\ufeff Would a Spelling Reform of the English Language constitute an Improvement ?", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Would a Spelling Reform of the English Language be an Improvement?", 
+        "original-end-charpos": 67, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "It is entirely in recent years that linguists have grasped what considerable differences there are between our two channels of language .", 
+        "obfuscation-id": 2, 
+        "original": "  \nIt is only in recent years that linguists have grasped what considerable differences there are between our two channels of language.", 
+        "original-end-charpos": 202, 
+        "original-start-charpos": 68
+    }, 
+    {
+        "obfuscation": "To a bombastic extent their improved knowledge has been promoted by the tape-recorder ( Milroy & Milroy , 1985 ) .", 
+        "obfuscation-id": 3, 
+        "original": " \nTo a large extent their improved knowledge has been promoted by the tape-recorder (Milroy & Milroy, 1985).", 
+        "original-end-charpos": 310, 
+        "original-start-charpos": 203
+    }, 
+    {
+        "obfuscation": "To give some cases of differences that may cause confusion we still , as is well known , preserve letters in our spelling that represent sounds which long ago ceased to be pronounced , such as -p in the word receipt .", 
+        "obfuscation-id": 4, 
+        "original": " \nTo give some examples of differences that may cause confusion we still, as is well known, preserve letters in our spelling that represent sounds which long ago ceased to be pronounced, such as -p in the word receipt.", 
+        "original-end-charpos": 528, 
+        "original-start-charpos": 311
+    }, 
+    {
+        "obfuscation": "Distinctions are commonly made in spelling where there is no longer a distinction in pronounciation .", 
+        "obfuscation-id": 5, 
+        "original": " \nDistinctions are commonly made in spelling where there is no longer a distinction in pronounciation.", 
+        "original-end-charpos": 630, 
+        "original-start-charpos": 529
+    }, 
+    {
+        "obfuscation": "The pairs sea/see and meat/meet are entirely two out of many of the same kind .", 
+        "obfuscation-id": 6, 
+        "original": " \nThe pairs sea/see and meat/meet are only two out of many of the same kind.", 
+        "original-end-charpos": 706, 
+        "original-start-charpos": 631
+    }, 
+    {
+        "obfuscation": "On the opposite side we have become distinctions that have emerged in speech without any trace of it to be seen in writing .", 
+        "obfuscation-id": 7, 
+        "original": " \nOn the opposite side we have got distinctions that have emerged in speech without any trace of it to be seen in writing.", 
+        "original-end-charpos": 828, 
+        "original-start-charpos": 707
+    }, 
+    {
+        "obfuscation": "Think for example of the spelling -ng in singer and finger .", 
+        "obfuscation-id": 8, 
+        "original": " \nThink for example of the spelling -ng in singer and finger.", 
+        "original-end-charpos": 889, 
+        "original-start-charpos": 829
+    }, 
+    {
+        "obfuscation": "It is the exact like .", 
+        "obfuscation-id": 9, 
+        "original": " \nIt is the exact same.", 
+        "original-end-charpos": 912, 
+        "original-start-charpos": 890
+    }, 
+    {
+        "obfuscation": "When it comes to diphthongs we can much see them represented by a single letter , such as -i in mice .", 
+        "obfuscation-id": 10, 
+        "original": " \nWhen it comes to diphthongs we can often see them represented by a single letter, such as -i in mice.", 
+        "original-end-charpos": 1015, 
+        "original-start-charpos": 913
+    }, 
+    {
+        "obfuscation": "Conversely , modern phonemes that are definitely arrant vowels can sometimes be represented by so called digraphs .", 
+        "obfuscation-id": 11, 
+        "original": " \nConversely, modern phonemes that are definitely pure vowels can sometimes be represented by so called digraphs.", 
+        "original-end-charpos": 1128, 
+        "original-start-charpos": 1016
+    }, 
+    {
+        "obfuscation": "An example of a digraph would be the -au of writer ( Barber , 1993 ) .", 
+        "obfuscation-id": 12, 
+        "original": " \nAn example of a digraph would be the -au of author (Barber, 1993).", 
+        "original-end-charpos": 1196, 
+        "original-start-charpos": 1129
+    }, 
+    {
+        "obfuscation": "As we have seen then there is a bang-up number of inconsistencies to be found in the English spelling system and one result of those inconsistencies is the prevalence of so called spelling-pronounciations .", 
+        "obfuscation-id": 13, 
+        "original": "   \nAs we have seen then there is a great number of inconsistencies to be found in the English spelling system and one result of those inconsistencies is the prevalence of so called spelling-pronounciations.", 
+        "original-end-charpos": 1403, 
+        "original-start-charpos": 1197
+    }, 
+    {
+        "obfuscation": "These arise when a word is given a fresh pronounciation through the influence of its spelling ( ibid ) .", 
+        "obfuscation-id": 14, 
+        "original": " \nThese arise when a word is given a new pronounciation through the influence of its spelling (ibid).", 
+        "original-end-charpos": 1504, 
+        "original-start-charpos": 1404
+    }, 
+    {
+        "obfuscation": "One example of this is the preferably common re-introduction of -t in often .", 
+        "obfuscation-id": 15, 
+        "original": " \nOne example of this is the rather common re-introduction of -t in often.", 
+        "original-end-charpos": 1578, 
+        "original-start-charpos": 1505
+    }, 
+    {
+        "obfuscation": "According to Barber ( 1993:202 ) spelling-pronounciations are peculiarly likely to appear when `` universal education and the wide dissemination of books and newspapers introduce people to words in printed form which they have never heard pronounced in their home environment '' .", 
+        "obfuscation-id": 16, 
+        "original": " \nAccording to Barber (1993:202) spelling-pronounciations are particularly likely to appear when \"universal education and the wide dissemination of books and newspapers introduce people to words in printed form which they have never heard pronounced in their home environment\".", 
+        "original-end-charpos": 1855, 
+        "original-start-charpos": 1579
+    }, 
+    {
+        "obfuscation": "In other words it is quite likely that foreigners will pronounce words in the 'wrong ' direction , whereas natives on the other hand are more likely to have difficulties when in comes to spelling , since there are so many inconsistencies in it .", 
+        "obfuscation-id": 17, 
+        "original": " \nIn other words it is quite likely that foreigners will pronounce words in the 'wrong' way, whereas natives on the other hand are more likely to have difficulties when in comes to spelling, since there are so many inconsistencies in it.", 
+        "original-end-charpos": 2092, 
+        "original-start-charpos": 1856
+    }, 
+    {
+        "obfuscation": "The latter group of people are continuously exposed to the 'correct ' means of pronouncing words .", 
+        "obfuscation-id": 18, 
+        "original": " \nThe latter group of people are continuously exposed to the 'correct' ways of pronouncing words.", 
+        "original-end-charpos": 2189, 
+        "original-start-charpos": 2093
+    }, 
+    {
+        "obfuscation": "Due to all the likely difficulties there are then , it has sometimes been suggested that a spelling reform of the English language would be an improvement .", 
+        "obfuscation-id": 19, 
+        "original": "   \nDue to all the potential difficulties there are then, it has sometimes been suggested that a spelling reform of the English language would be an improvement.", 
+        "original-end-charpos": 2350, 
+        "original-start-charpos": 2190
+    }, 
+    {
+        "obfuscation": "In this essay my intention is consequently to discuss whether such a reform is preferable or not and why .", 
+        "obfuscation-id": 20, 
+        "original": " \nIn this essay my intention is therefore to discuss whether such a reform is preferable or not and why.", 
+        "original-end-charpos": 2454, 
+        "original-start-charpos": 2351
+    }, 
+    {
+        "obfuscation": "I will put forward arguments both in favour of and against a spelling reform , even though the latter ones are going to dominate .", 
+        "obfuscation-id": 21, 
+        "original": " \nI will put forward arguments both in favour of and against a spelling reform, even though the latter ones are going to dominate.", 
+        "original-end-charpos": 2584, 
+        "original-start-charpos": 2455
+    }, 
+    {
+        "obfuscation": "I find it important to reflect upon implications of actions taken in either management .", 
+        "obfuscation-id": 22, 
+        "original": " \nI find it important to reflect upon implications of actions taken in either direction.", 
+        "original-end-charpos": 2672, 
+        "original-start-charpos": 2585
+    }, 
+    {
+        "obfuscation": "What happens in the short term as well as in the long term position if we decide not to change the spelling system ?", 
+        "obfuscation-id": 23, 
+        "original": " \nWhat happens in the short term as well as in the long term perspective if we decide not to change the spelling system?", 
+        "original-end-charpos": 2792, 
+        "original-start-charpos": 2673
+    }, 
+    {
+        "obfuscation": "What happens if we do ?", 
+        "obfuscation-id": 24, 
+        "original": " \nWhat happens if we do?", 
+        "original-end-charpos": 2816, 
+        "original-start-charpos": 2793
+    }, 
+    {
+        "obfuscation": "Before I proceed to a discussion I will , in the following paragraph , give you the reader a brief historical background .", 
+        "obfuscation-id": 25, 
+        "original": " \nBefore I proceed to a discussion I will, in the following paragraph, give you the reader a brief historical background.", 
+        "original-end-charpos": 2937, 
+        "original-start-charpos": 2817
+    }, 
+    {
+        "obfuscation": "Hopefully that will make matters more interesting and easy to follow .", 
+        "obfuscation-id": 26, 
+        "original": " \nHopefully that will make things more interesting and easy to follow.", 
+        "original-end-charpos": 3007, 
+        "original-start-charpos": 2938
+    }, 
+    {
+        "obfuscation": "Today , in the twentieth century , spelling is almost absolutely invariant .", 
+        "obfuscation-id": 27, 
+        "original": "  \nToday, in the twentieth century, spelling is almost absolutely invariant.", 
+        "original-end-charpos": 3083, 
+        "original-start-charpos": 3008
+    }, 
+    {
+        "obfuscation": "Earlier on though , in both Middle and Early Modern English , a limited number of alternatives were satisfactory .", 
+        "obfuscation-id": 28, 
+        "original": " \nEarlier on though, in both Middle and Early Modern English, a limited number of alternatives were acceptable.", 
+        "original-end-charpos": 3194, 
+        "original-start-charpos": 3084
+    }, 
+    {
+        "obfuscation": "Informal spelling was actually fairly common as late as in the eighteenth century and rather surprisingly different spellings could be seen even within the study of each writer ( Barber , 1993 ) .", 
+        "obfuscation-id": 29, 
+        "original": " \nInformal spelling was actually fairly common as late as in the eighteenth century and rather surprisingly different spellings could be seen even within the work of each writer (Barber, 1993).", 
+        "original-end-charpos": 3387, 
+        "original-start-charpos": 3195
+    }, 
+    {
+        "obfuscation": "Milroy and Milroy ( 1985 ) both stresses the fact that the idea of an absolutely fixed spelling system is recent .", 
+        "obfuscation-id": 30, 
+        "original": " \nMilroy and Milroy (1985) both stresses the fact that the idea of an absolutely fixed spelling system is recent.", 
+        "original-end-charpos": 3500, 
+        "original-start-charpos": 3388
+    }, 
+    {
+        "obfuscation": "They state that particular spellings of words nowadays are regarded as uniquely satisfactory and that other possible spellings are being rejected as 'errors ' .", 
+        "obfuscation-id": 31, 
+        "original": " \nThey state that particular spellings of words nowadays are regarded as uniquely acceptable and that other possible spellings are being rejected as 'errors'.", 
+        "original-end-charpos": 3658, 
+        "original-start-charpos": 3501
+    }, 
+    {
+        "obfuscation": "It is significant , they mean , to bear in mind that the accepted forms are arbitrary and fixed by convention .", 
+        "obfuscation-id": 32, 
+        "original": " \nIt is important, they mean, to bear in mind that the accepted forms are arbitrary and fixed by convention.", 
+        "original-end-charpos": 3766, 
+        "original-start-charpos": 3659
+    }, 
+    {
+        "obfuscation": "No spellings are in themselves more legitimate than others .", 
+        "obfuscation-id": 33, 
+        "original": " \nNo spellings are in themselves more logical than others.", 
+        "original-end-charpos": 3824, 
+        "original-start-charpos": 3767
+    }, 
+    {
+        "obfuscation": "According to Barber ( 1993 ) a ruled language is one in which satisfactory usage is explicitly laid down .", 
+        "obfuscation-id": 34, 
+        "original": " \nAccording to Barber (1993) a ruled language is one in which acceptable usage is explicitly laid down.", 
+        "original-end-charpos": 3927, 
+        "original-start-charpos": 3825
+    }, 
+    {
+        "obfuscation": "He describes in detail how sealed linguists in the past used to believe that rules and regulations would prevent the language from changing .", 
+        "obfuscation-id": 35, 
+        "original": " \nHe describes in detail how certain linguists in the past used to believe that rules and regulations would prevent the language from changing.", 
+        "original-end-charpos": 4070, 
+        "original-start-charpos": 3928
+    }, 
+    {
+        "obfuscation": "However , as is generally known today , every language that is being used is in a perpetual state of change .", 
+        "obfuscation-id": 36, 
+        "original": " \nHowever, as is generally known today, every language that is being used is in a perpetual state of change.", 
+        "original-end-charpos": 4178, 
+        "original-start-charpos": 4071
+    }, 
+    {
+        "obfuscation": "In comparison with pronounciation spelling is here , naturally , the about uniform level of language usage ( Milroy & Milroy , 1985 ) .", 
+        "obfuscation-id": 37, 
+        "original": " \nIn comparison with pronounciation spelling is here, naturally, the most uniform level of language usage (Milroy & Milroy, 1985).", 
+        "original-end-charpos": 4308, 
+        "original-start-charpos": 4179
+    }, 
+    {
+        "obfuscation": "Since , then , the above discussed perpetual motion of the English pronounciation has led to a vast quantity of inconsistencies in our writing , it is getting increasingly difficult for people to aquire proficiency in spelling .", 
+        "obfuscation-id": 38, 
+        "original": "   \nSince, then, the above discussed perpetual motion of the English pronounciation has led to a vast quantity of inconsistencies in our writing, it is getting increasingly hard for people to aquire proficiency in spelling.", 
+        "original-end-charpos": 4531, 
+        "original-start-charpos": 4309
+    }, 
+    {
+        "obfuscation": "This should be taken seriously in a society where bang-up emphasis is placed on literacy .", 
+        "obfuscation-id": 39, 
+        "original": " \nThis should be taken seriously in a society where great emphasis is placed on literacy.", 
+        "original-end-charpos": 4620, 
+        "original-start-charpos": 4532
+    }, 
+    {
+        "obfuscation": "It is regarded as highly significant today being able to spell correctly .", 
+        "obfuscation-id": 40, 
+        "original": " \nIt is regarded as highly important today being able to spell correctly.", 
+        "original-end-charpos": 4693, 
+        "original-start-charpos": 4621
+    }, 
+    {
+        "obfuscation": "Looking upon this aspect in isolation a spelling reform of the English language could be motivated .", 
+        "obfuscation-id": 41, 
+        "original": " \nLooking upon this aspect in isolation a spelling reform of the English language could be motivated.", 
+        "original-end-charpos": 4794, 
+        "original-start-charpos": 4694
+    }, 
+    {
+        "obfuscation": "As previously established there is , however , nothing that can prevent pronounciation from continuously changing and consequently you should ask yourself whether it would actually be that much of an improvement .", 
+        "obfuscation-id": 42, 
+        "original": " \nAs previously established there is, however, nothing that can prevent pronounciation from continuously changing and accordingly you should ask yourself whether it would actually be that much of an improvement.", 
+        "original-end-charpos": 5005, 
+        "original-start-charpos": 4795
+    }, 
+    {
+        "obfuscation": "In one way it might be full for us in the future to recognise radical changes in pronounciation , since writing would make much more sense that way .", 
+        "obfuscation-id": 43, 
+        "original": "   \nIn one way it might be good for us in the future to recognise radical changes in pronounciation, since writing would make much more sense that way.", 
+        "original-end-charpos": 5156, 
+        "original-start-charpos": 5006
+    }, 
+    {
+        "obfuscation": "As long as the present spelling system works out fairly well a reform would , however , in my opinion , constitute a disservice rather than anything else .", 
+        "obfuscation-id": 44, 
+        "original": " \nAs long as the present spelling system works out fairly well a reform would, however, in my opinion, be a disservice rather than anything else.", 
+        "original-end-charpos": 5301, 
+        "original-start-charpos": 5157
+    }, 
+    {
+        "obfuscation": "As Milroy and Milroy ( 1985 ) a lot importantly point out our access to history is mainly through writing .", 
+        "obfuscation-id": 45, 
+        "original": " \nAs Milroy and Milroy (1985) much importantly point out our access to history is mainly through writing.", 
+        "original-end-charpos": 5406, 
+        "original-start-charpos": 5302
+    }, 
+    {
+        "obfuscation": "In order for messages to be transmitted over time and distance in a clean and unambiguous manner it is essential that the spelling system is as uniform as possible .", 
+        "obfuscation-id": 46, 
+        "original": " \nIn order for messages to be transmitted over time and distance in a clear and unambiguous manner it is essential that the spelling system is as uniform as possible.", 
+        "original-end-charpos": 5572, 
+        "original-start-charpos": 5407
+    }, 
+    {
+        "obfuscation": "In early words it is dangerous , in the long run , to obstruct interpretation of preserved documents , books and so on .", 
+        "obfuscation-id": 47, 
+        "original": " \nIn other words it is dangerous, in the long run, to obstruct interpretation of preserved documents, books and so on.", 
+        "original-end-charpos": 5690, 
+        "original-start-charpos": 5573
+    }, 
+    {
+        "obfuscation": "We have got to look after our cultural inheritance .", 
+        "obfuscation-id": 48, 
+        "original": " \nWe have got to look after our cultural inheritance.", 
+        "original-end-charpos": 5743, 
+        "original-start-charpos": 5691
+    }, 
+    {
+        "obfuscation": "There are some practical problems as well with a spelling reform that should be taken into consideration .", 
+        "obfuscation-id": 49, 
+        "original": "   \nThere are some practical problems as well with a spelling reform that should be taken into consideration.", 
+        "original-end-charpos": 5852, 
+        "original-start-charpos": 5744
+    }, 
+    {
+        "obfuscation": "First of all people from unlike generations would almost certainly have formed different opinions about the new rules .", 
+        "obfuscation-id": 50, 
+        "original": " \nFirst of all people from different generations would almost certainly have formed different opinions about the new rules.", 
+        "original-end-charpos": 5975, 
+        "original-start-charpos": 5853
+    }, 
+    {
+        "obfuscation": "For quite a long period of time we would very likely see a mixture of different kinds of spelling , which is all rather dry since it would make spelling even more difficult .", 
+        "obfuscation-id": 51, 
+        "original": " \nFor quite a long period of time we would very likely see a mixture of different kinds of spelling, which is all rather ironic since it would make spelling even more difficult.", 
+        "original-end-charpos": 6152, 
+        "original-start-charpos": 5976
+    }, 
+    {
+        "obfuscation": "The result could probably be compared with the non-standardised spelling systems of the past , which I have previously accounted for .", 
+        "obfuscation-id": 52, 
+        "original": " \nThe result could probably be compared with the non-standardised spelling systems of the past, which I have previously accounted for.", 
+        "original-end-charpos": 6286, 
+        "original-start-charpos": 6153
+    }, 
+    {
+        "obfuscation": "Assuming that the younger generation would be more likely to welcome the new organization , it would also be more difficult for them in the future to interpret and use old books , articles and documents .", 
+        "obfuscation-id": 53, 
+        "original": " \nAssuming that the younger generation would be more likely to welcome the new system, it would also be more difficult for them in the future to interpret and use old books, articles and documents.", 
+        "original-end-charpos": 6483, 
+        "original-start-charpos": 6287
+    }, 
+    {
+        "obfuscation": "To assume that discussion one step further it could also create unnecessary gaps between different groups of society , which I think is highly impreferable .", 
+        "obfuscation-id": 54, 
+        "original": " \nTo take that discussion one step further it could also create unnecessary gaps between different groups of society, which I think is highly impreferable.", 
+        "original-end-charpos": 6638, 
+        "original-start-charpos": 6484
+    }, 
+    {
+        "obfuscation": "Barber ( 1993 ) describes how the many differences in pronounciation that we have can be explained by both geographical , social and situational factors .", 
+        "obfuscation-id": 55, 
+        "original": "   \nBarber (1993) describes how the many differences in pronounciation that we have can be explained by both geographical, social and situational factors.", 
+        "original-end-charpos": 6792, 
+        "original-start-charpos": 6639
+    }, 
+    {
+        "obfuscation": "Taking this into account it would be preferably difficult to decide on exactly what changes that would be made in the event of a spelling reform .", 
+        "obfuscation-id": 56, 
+        "original": " \nTaking this into account it would be rather difficult to decide on exactly what changes that would be made in the event of a spelling reform.", 
+        "original-end-charpos": 6935, 
+        "original-start-charpos": 6793
+    }, 
+    {
+        "obfuscation": "Who is to have the authority to make decisions about what particular pronounciations that are to be recognised in writing ?", 
+        "obfuscation-id": 57, 
+        "original": " \nWho is to have the authority to make decisions about what particular pronounciations that are to be recognised in writing?", 
+        "original-end-charpos": 7059, 
+        "original-start-charpos": 6936
+    }, 
+    {
+        "obfuscation": "How is it potential to arrive at a conclusion about what is 'correct ' without being subjective ?", 
+        "obfuscation-id": 58, 
+        "original": " \nHow is it possible to arrive at a conclusion about what is 'correct' without being subjective?", 
+        "original-end-charpos": 7155, 
+        "original-start-charpos": 7060
+    }, 
+    {
+        "obfuscation": "What we would witness would be a recognition of the pronounciations used by a preferably large , but selected , group of society .", 
+        "obfuscation-id": 59, 
+        "original": " \nWhat we would witness would be a recognition of the pronounciations used by a rather large, but selected, group of society.", 
+        "original-end-charpos": 7280, 
+        "original-start-charpos": 7156
+    }, 
+    {
+        "obfuscation": "This could be compared with the fact that Standard English in the late Middle Ages were the language of a small minority .", 
+        "obfuscation-id": 60, 
+        "original": " \nThis could be compared with the fact that Standard English in the late Middle Ages was the language of a small minority.", 
+        "original-end-charpos": 7402, 
+        "original-start-charpos": 7281
+    }, 
+    {
+        "obfuscation": "The higher the socio-economic level of the speakers , the nearer their speech was probable to be to Standard English ( Barber , 1993 ) .", 
+        "obfuscation-id": 61, 
+        "original": " \nThe higher the socio-economic level of the speakers, the nearer their speech was likely to be to Standard English (Barber, 1993).", 
+        "original-end-charpos": 7533, 
+        "original-start-charpos": 7403
+    }, 
+    {
+        "obfuscation": "It is from that period that we have inherited the prescriptive attitudes towards language , that today ought to be regarded as highly influential ( ibid ) .", 
+        "obfuscation-id": 62, 
+        "original": " \nIt is from that period that we have inherited the prescriptive attitudes towards language, that today ought to be regarded as highly influential (ibid).", 
+        "original-end-charpos": 7687, 
+        "original-start-charpos": 7534
+    }, 
+    {
+        "obfuscation": "The problem should not be exaggerated , since many changes in pronounciation are widely spread , but should not be neglected either .", 
+        "obfuscation-id": 63, 
+        "original": " \nThe problem should not be exaggerated, since many changes in pronounciation are widely spread, but should not be neglected either.", 
+        "original-end-charpos": 7819, 
+        "original-start-charpos": 7688
+    }, 
+    {
+        "obfuscation": "People 's use of any language is highly complex .", 
+        "obfuscation-id": 64, 
+        "original": " \nPeople's use of any language is highly complex.", 
+        "original-end-charpos": 7868, 
+        "original-start-charpos": 7820
+    }, 
+    {
+        "obfuscation": "It is much stated that the English language is highly conservative , but there seem to be a lot of good reasons why .", 
+        "obfuscation-id": 65, 
+        "original": "   \nIt is often stated that the English language is highly conservative, but there seem to be a lot of good reasons why.", 
+        "original-end-charpos": 7988, 
+        "original-start-charpos": 7869
+    }, 
+    {
+        "obfuscation": "If we sum up what I have discussed in this essay there are obviously more problems than there are benefits with the suggested spelling reform , thus for everyone 's sake , let us stay conservative .", 
+        "obfuscation-id": 66, 
+        "original": " \nIf we sum up what I have discussed in this essay there are obviously more problems than there are benefits with the suggested spelling reform, so for everyone's sake, let us stay conservative.", 
+        "original-end-charpos": 8182, 
+        "original-start-charpos": 7989
+    }, 
+    {
+        "obfuscation": "References Barber , Charles .", 
+        "obfuscation-id": 67, 
+        "original": "  \nReferences  Barber, Charles.", 
+        "original-end-charpos": 8213, 
+        "original-start-charpos": 8183
+    }, 
+    {
+        "obfuscation": "1993 .", 
+        "obfuscation-id": 68, 
+        "original": " \n1993.", 
+        "original-end-charpos": 8220, 
+        "original-start-charpos": 8214
+    }, 
+    {
+        "obfuscation": "The English Language .", 
+        "obfuscation-id": 69, 
+        "original": " \nThe English Language.", 
+        "original-end-charpos": 8243, 
+        "original-start-charpos": 8221
+    }, 
+    {
+        "obfuscation": "A Historical Introduction .", 
+        "obfuscation-id": 70, 
+        "original": " \nA Historical Introduction.", 
+        "original-end-charpos": 8271, 
+        "original-start-charpos": 8244
+    }, 
+    {
+        "obfuscation": "Cambridge : Cambridge University Press .", 
+        "obfuscation-id": 71, 
+        "original": " \nCambridge: Cambridge University Press.", 
+        "original-end-charpos": 8311, 
+        "original-start-charpos": 8272
+    }, 
+    {
+        "obfuscation": "ilroy , James and Milroy , Lesley .", 
+        "obfuscation-id": 72, 
+        "original": "   ilroy, James and Milroy, Lesley.", 
+        "original-end-charpos": 8346, 
+        "original-start-charpos": 8312
+    }, 
+    {
+        "obfuscation": "1985 .", 
+        "obfuscation-id": 73, 
+        "original": " \n1985.", 
+        "original-end-charpos": 8353, 
+        "original-start-charpos": 8347
+    }, 
+    {
+        "obfuscation": "Authority in Language .", 
+        "obfuscation-id": 74, 
+        "original": " \nAuthority in Language.", 
+        "original-end-charpos": 8377, 
+        "original-start-charpos": 8354
+    }, 
+    {
+        "obfuscation": "Investigating Language Prescription and Standardisation .", 
+        "obfuscation-id": 75, 
+        "original": " \nInvestigating Language Prescription and Standardisation.", 
+        "original-end-charpos": 8435, 
+        "original-start-charpos": 8378
+    }, 
+    {
+        "obfuscation": "London and New York : Routledge .", 
+        "obfuscation-id": 76, 
+        "original": " \nLondon and New York: Routledge.\n", 
+        "original-end-charpos": 8469, 
+        "original-start-charpos": 8436
+    }
+]

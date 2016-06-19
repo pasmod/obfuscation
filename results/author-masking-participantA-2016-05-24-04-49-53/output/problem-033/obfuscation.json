@@ -1,0 +1,198 @@
+[
+    {
+        "obfuscation": "\ufeff Do you live your own life ?", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Do you live your own life?", 
+        "original-end-charpos": 27, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Ever since the arrival of television there have been discussions whether it has good or bad influence on people .", 
+        "obfuscation-id": 2, 
+        "original": "  \nEver since the arrival of television there have been discussions whether it has good or bad influence on people.", 
+        "original-end-charpos": 142, 
+        "original-start-charpos": 28
+    }, 
+    {
+        "obfuscation": "I believe that television in itself is a fantastic way of reaching people world wide , providing them with entertainment but also with current information regarding political as well as cultural news .", 
+        "obfuscation-id": 3, 
+        "original": " \nI believe that TV in itself is a fantastic way of reaching people world wide, providing them with entertainment but also with current information regarding political as well as cultural news.", 
+        "original-end-charpos": 335, 
+        "original-start-charpos": 143
+    }, 
+    {
+        "obfuscation": "Yet there has over the last few years occurred a large concentration on TV programmes with vague content regarding connection to reality , such as talk shows and endless series .", 
+        "obfuscation-id": 4, 
+        "original": " \nYet there has over the last few years occurred a large concentration on TV programmes with vague content regarding connection to reality, such as talk shows and endless series.", 
+        "original-end-charpos": 513, 
+        "original-start-charpos": 336
+    }, 
+    {
+        "obfuscation": "This concentration is in my opinion the about serious threat to the positive use of television .", 
+        "obfuscation-id": 5, 
+        "original": " \nThis concentration is in my opinion the most serious threat to the positive use of television.", 
+        "original-end-charpos": 609, 
+        "original-start-charpos": 514
+    }, 
+    {
+        "obfuscation": "In order to lead a good life , internal as well as external , you want to make some effort by yourself , it is not enough to sit in front if the TV and receive your life through images .", 
+        "obfuscation-id": 6, 
+        "original": " \nIn order to lead a good life, internal as well as external, you need to make some effort by yourself, it is not enough to sit in front if the TV and receive your life through images.", 
+        "original-end-charpos": 793, 
+        "original-start-charpos": 610
+    }, 
+    {
+        "obfuscation": "The talk shows and series mentioned above are what I would like to refer to as bad television .", 
+        "obfuscation-id": 7, 
+        "original": " \nThe talk shows and series mentioned above are what I would like to refer to as bad TV.", 
+        "original-end-charpos": 881, 
+        "original-start-charpos": 794
+    }, 
+    {
+        "obfuscation": "Much of this derives from American television and has lately had a immense influence on Swedish broadcasting .", 
+        "obfuscation-id": 8, 
+        "original": " \nMuch of this derives from American television and has lately had a immense influence on Swedish broadcasting.", 
+        "original-end-charpos": 992, 
+        "original-start-charpos": 882
+    }, 
+    {
+        "obfuscation": "Besides the fact that it is a source of useful information television has become some sort of 'friend ' that you can spend an entire day together with .", 
+        "obfuscation-id": 9, 
+        "original": " \nBesides the fact that it is a source of useful information TV has become some sort of 'friend' that you can spend an entire day together with.", 
+        "original-end-charpos": 1136, 
+        "original-start-charpos": 993
+    }, 
+    {
+        "obfuscation": "For some people it goes as far as to almost become a substitute for their own reality .", 
+        "obfuscation-id": 10, 
+        "original": " \nFor some people it goes as far as to almost become a substitute for their own reality.", 
+        "original-end-charpos": 1224, 
+        "original-start-charpos": 1137
+    }, 
+    {
+        "obfuscation": "Still I believe that television is an enormous opportunity for people to get information about the world that surrounds them .", 
+        "obfuscation-id": 11, 
+        "original": " \nStill I believe that TV is an enormous opportunity for people to get information about the world that surrounds them.", 
+        "original-end-charpos": 1343, 
+        "original-start-charpos": 1225
+    }, 
+    {
+        "obfuscation": "In Sweden we know that watching channel 1 and 2 probably gives us a wider range of serious information regarding news items , cultural events and entertainment while channel 3 , 4 and 5 have more of a superficial character .", 
+        "obfuscation-id": 12, 
+        "original": "  \nIn Sweden we know that watching channel 1 and 2 probably gives us a wider range of serious information regarding news items, cultural events and entertainment while channel 3, 4 and 5 have more of a superficial character.", 
+        "original-end-charpos": 1567, 
+        "original-start-charpos": 1344
+    }, 
+    {
+        "obfuscation": "These channels are rather new and ever since they started broadcasting they have had a large influence of American TV and as far as I am concerned they are the prototype of bad television .", 
+        "obfuscation-id": 13, 
+        "original": " \nThese channels are rather new and ever since they started broadcasting they have had a large influence of American TV and as far as I am concerned they are the prototype of bad TV.", 
+        "original-end-charpos": 1749, 
+        "original-start-charpos": 1568
+    }, 
+    {
+        "obfuscation": "Examples of this so-called bad television are talk shows , romantic series filled with intrigues and films that show a lot of violence .", 
+        "obfuscation-id": 14, 
+        "original": " \nExamples of this so-called bad TV are talk shows, romantic series filled with intrigues and films that show a lot of violence.", 
+        "original-end-charpos": 1877, 
+        "original-start-charpos": 1750
+    }, 
+    {
+        "obfuscation": "The violence in these films tends to give people a very unrealistic image of the damages physical abuse and the usage of weapons can cause .", 
+        "obfuscation-id": 15, 
+        "original": " \nThe violence in these films tends to give people a very unrealistic image of the damages physical abuse and the usage of weapons can cause.", 
+        "original-end-charpos": 2018, 
+        "original-start-charpos": 1878
+    }, 
+    {
+        "obfuscation": "Children and new people might get a somewhat distorted image of these consequences and this in turn gives them a false feeling of being immortal .", 
+        "obfuscation-id": 16, 
+        "original": " \nChildren and young people might get a somewhat distorted image of these consequences and this in turn gives them a false feeling of being immortal.", 
+        "original-end-charpos": 2167, 
+        "original-start-charpos": 2019
+    }, 
+    {
+        "obfuscation": "The broadcast of talk shows and romantic series also provides people , both younger and elder , with an imaginary picture of what your love life and also sexual relations should be like .", 
+        "obfuscation-id": 17, 
+        "original": "  \nThe broadcast of talk shows and romantic series also provides people, both younger and older, with an imaginary picture of what your love life and also sexual relations should be like.", 
+        "original-end-charpos": 2354, 
+        "original-start-charpos": 2168
+    }, 
+    {
+        "obfuscation": "If you get this image of reality I believe that it is difficult for many people to be content with what they have .", 
+        "obfuscation-id": 18, 
+        "original": " \nIf you have this image of reality I believe that it is difficult for many people to be content with what they have.", 
+        "original-end-charpos": 2471, 
+        "original-start-charpos": 2355
+    }, 
+    {
+        "obfuscation": "They become problems with settling down and they always have a wish to rush off towards something new and different as soon as life gets a bit too regular .", 
+        "obfuscation-id": 19, 
+        "original": " \nThey get problems with settling down and they always have a wish to rush off towards something new and different as soon as life gets a bit too regular.", 
+        "original-end-charpos": 2625, 
+        "original-start-charpos": 2472
+    }, 
+    {
+        "obfuscation": "Their external , made-up world presides over their inner world and they do not take the chance to explore what they have got within .", 
+        "obfuscation-id": 20, 
+        "original": " \nTheir external, made-up world presides over their inner world and they do not take the chance to explore what they have got within.", 
+        "original-end-charpos": 2758, 
+        "original-start-charpos": 2626
+    }, 
+    {
+        "obfuscation": "This inner world I believe needs nourishing and you will not be able to get this nourishment through bad television .", 
+        "obfuscation-id": 21, 
+        "original": " \nThis inner world I believe needs nourishing and you will not be able to get this nourishment through bad TV.", 
+        "original-end-charpos": 2868, 
+        "original-start-charpos": 2759
+    }, 
+    {
+        "obfuscation": "Naturally all TV , good or bad , does encourage passive behavior but my opinion is that in order to nourish your inner self you must use your own mind .", 
+        "obfuscation-id": 22, 
+        "original": " \nNaturally all TV, good or bad, does encourage passive behaviour but my opinion is that in order to nourish your inner self you must use your own mind.", 
+        "original-end-charpos": 3020, 
+        "original-start-charpos": 2869
+    }, 
+    {
+        "obfuscation": "This you can make by reading a book , go to the cinema or , why not , sit down in the sofa to watch a good film that is on TV .", 
+        "obfuscation-id": 23, 
+        "original": " \nThis you can do by reading a book, go to the cinema or, why not, sit down in the sofa to watch a good film that is on TV.", 
+        "original-end-charpos": 3143, 
+        "original-start-charpos": 3021
+    }, 
+    {
+        "obfuscation": "What can be more relaxed than to enjoy a film at home or together with friends ?", 
+        "obfuscation-id": 24, 
+        "original": " \nWhat can be more relaxed than to enjoy a film at home or together with friends?", 
+        "original-end-charpos": 3224, 
+        "original-start-charpos": 3144
+    }, 
+    {
+        "obfuscation": "What I mean is that it is up to you to nourish your own head , you have the possibility to choose what to watch , then it is your choice if it will be Ricki Lake or Dokument .", 
+        "obfuscation-id": 25, 
+        "original": " \nWhat I mean is that it is up to you to nourish your own head, you have the possibility to choose what to watch, then it is your choice if it will be Ricki Lake or Dokument.", 
+        "original-end-charpos": 3398, 
+        "original-start-charpos": 3225
+    }, 
+    {
+        "obfuscation": "If you wish to live your own life you must make these choices but obviously this is also a question of what you are offered .", 
+        "obfuscation-id": 26, 
+        "original": " \nIf you wish to live your own life you must make these choices but obviously this is also a question of what you are offered.", 
+        "original-end-charpos": 3524, 
+        "original-start-charpos": 3399
+    }, 
+    {
+        "obfuscation": "In Sweden we still have a choice to watch programmes of higher quality or , as Postman expresses himself , junk-entertainment\u0002 .", 
+        "obfuscation-id": 27, 
+        "original": " \nIn Sweden we still have a choice to watch programmes of higher quality or, as Postman expresses himself, junk-entertainment\u0002.", 
+        "original-end-charpos": 3651, 
+        "original-start-charpos": 3525
+    }, 
+    {
+        "obfuscation": "In order to not live someone else 's life , you must start to nourish your inner world and it is entirely up to you how it should be done .", 
+        "obfuscation-id": 28, 
+        "original": " \nIn order to not live someone else's life, you must start to nourish your inner world and it is only up to you how it should be done.\n", 
+        "original-end-charpos": 3786, 
+        "original-start-charpos": 3652
+    }
+]

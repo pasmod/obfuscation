@@ -1,0 +1,226 @@
+[
+    {
+        "obfuscation": "Who 'll it be ?", 
+        "obfuscation-id": 1, 
+        "original": "\nWho'll it be?", 
+        "original-end-charpos": 13, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Ah , it 's Fred Nicholls , maybe .", 
+        "obfuscation-id": 2, 
+        "original": " Ah, it's Fred Nicholls, maybe.", 
+        "original-end-charpos": 44, 
+        "original-start-charpos": 14
+    }, 
+    {
+        "obfuscation": "Eileen 's young man , Doctor , that she 's engaged to marry , as you might say .", 
+        "obfuscation-id": 3, 
+        "original": " Eileen's young\nman, Doctor, that she's engaged to marry, as you might say.", 
+        "original-end-charpos": 119, 
+        "original-start-charpos": 45
+    }, 
+    {
+        "obfuscation": "H'mm -- yes -- she spoke of him .", 
+        "obfuscation-id": 4, 
+        "original": "\n\n H'mm--yes--she spoke of him.", 
+        "original-end-charpos": 150, 
+        "original-start-charpos": 120
+    }, 
+    {
+        "obfuscation": "I had a mind to phone to your house , but I was n't wishful to disturb you , knowin ' you 'd be comin ' to call to-night .", 
+        "obfuscation-id": 5, 
+        "original": "\n\nI had a mind to phone to your house, but I\nwasn't wishful to disturb you, knowin' you'd be comin' to call\nto-night.", 
+        "original-end-charpos": 267, 
+        "original-start-charpos": 151
+    }, 
+    {
+        "obfuscation": "It 's nothing serious , I hope .", 
+        "obfuscation-id": 6, 
+        "original": "\n\nIt's nothing serious, I hope.", 
+        "original-end-charpos": 298, 
+        "original-start-charpos": 268
+    }, 
+    {
+        "obfuscation": "Ah , who knows ?", 
+        "obfuscation-id": 7, 
+        "original": "\n\nAh, who knows?", 
+        "original-end-charpos": 314, 
+        "original-start-charpos": 299
+    }, 
+    {
+        "obfuscation": "Here 's the doctor .", 
+        "obfuscation-id": 8, 
+        "original": " Here's the doctor.", 
+        "original-end-charpos": 333, 
+        "original-start-charpos": 315
+    }, 
+    {
+        "obfuscation": "You 've not met him ?", 
+        "obfuscation-id": 9, 
+        "original": " You've not\nmet him?", 
+        "original-end-charpos": 353, 
+        "original-start-charpos": 334
+    }, 
+    {
+        "obfuscation": "I have n't had the pleasure .", 
+        "obfuscation-id": 10, 
+        "original": "\n\nI haven't had the pleasure.", 
+        "original-end-charpos": 382, 
+        "original-start-charpos": 354
+    }, 
+    {
+        "obfuscation": "Of course , I 've heard -- -- It 's Doctor Gaynor .", 
+        "obfuscation-id": 11, 
+        "original": " Of course, I've heard----\n\nIt's Doctor Gaynor.", 
+        "original-end-charpos": 429, 
+        "original-start-charpos": 383
+    }, 
+    {
+        "obfuscation": "This is Fred Nicholls , Doctor .", 
+        "obfuscation-id": 12, 
+        "original": " This is Fred Nicholls, Doctor.", 
+        "original-end-charpos": 460, 
+        "original-start-charpos": 430
+    }, 
+    {
+        "obfuscation": "Sit down , Fred , that 's a full lad , and be talkin ' to the Doctor a moment while I go upstairs and see how is Eileen .", 
+        "obfuscation-id": 13, 
+        "original": " Sit down, Fred, that's a\ngood lad, and be talkin' to the Doctor a moment while I go upstairs and\nsee how is Eileen.", 
+        "original-end-charpos": 576, 
+        "original-start-charpos": 461
+    }, 
+    {
+        "obfuscation": "She 's all alone up there .", 
+        "obfuscation-id": 14, 
+        "original": " She's all alone up there.", 
+        "original-end-charpos": 602, 
+        "original-start-charpos": 577
+    }, 
+    {
+        "obfuscation": "Certainly , Mr. Carmody .", 
+        "obfuscation-id": 15, 
+        "original": "\n\nCertainly, Mr. Carmody.", 
+        "original-end-charpos": 627, 
+        "original-start-charpos": 603
+    }, 
+    {
+        "obfuscation": "Go ahead -- and tell her how sorry I am to determine she 's under the weather .", 
+        "obfuscation-id": 16, 
+        "original": " Go ahead--and tell her how sorry I am\nto learn she's under the weather.", 
+        "original-end-charpos": 699, 
+        "original-start-charpos": 628
+    }, 
+    {
+        "obfuscation": "I will so .", 
+        "obfuscation-id": 17, 
+        "original": "\n\nI will so.", 
+        "original-end-charpos": 711, 
+        "original-start-charpos": 700
+    }, 
+    {
+        "obfuscation": "Do you happen to be any relative to the Albert Nicholls who is superintendent over at the Downs Manufacturing Company ?", 
+        "obfuscation-id": 18, 
+        "original": " \n\nDo you happen to be any relative to the Albert Nicholls who is superintendent\nover at the Downs Manufacturing Company?", 
+        "original-end-charpos": 832, 
+        "original-start-charpos": 712
+    }, 
+    {
+        "obfuscation": "He 's sort of a near relative -- my father .", 
+        "obfuscation-id": 19, 
+        "original": "\n\nHe's sort of a near relative--my father.", 
+        "original-end-charpos": 874, 
+        "original-start-charpos": 833
+    }, 
+    {
+        "obfuscation": "Ah , yes ?", 
+        "obfuscation-id": 20, 
+        "original": "\n\nAh, yes?", 
+        "original-end-charpos": 884, 
+        "original-start-charpos": 875
+    }, 
+    {
+        "obfuscation": "I work for the Downs Company myself -- bookkeeper -- -- Miss Carmody -- the sick girl upstairs -- she had a position there also , did n't she , before her mother died ?", 
+        "obfuscation-id": 21, 
+        "original": "\n\nI work for the Downs Company\nmyself--bookkeeper----\n\n Miss Carmody--the sick girl upstairs--she had a position there\nalso, didn't she, before her mother died?", 
+        "original-end-charpos": 1044, 
+        "original-start-charpos": 885
+    }, 
+    {
+        "obfuscation": "Yes .", 
+        "obfuscation-id": 22, 
+        "original": "\n\nYes.", 
+        "original-end-charpos": 1050, 
+        "original-start-charpos": 1045
+    }, 
+    {
+        "obfuscation": "She had a job as stenographer for a time .", 
+        "obfuscation-id": 23, 
+        "original": " She had a job as stenographer for a time.", 
+        "original-end-charpos": 1092, 
+        "original-start-charpos": 1051
+    }, 
+    {
+        "obfuscation": "When she graduated from the business college course -- I was already working at the Downs -- and through my father 's influence -- you understand .", 
+        "obfuscation-id": 24, 
+        "original": " When she\ngraduated from the business college course--I was already working at\nthe Downs--and through my father's influence--you understand.", 
+        "original-end-charpos": 1232, 
+        "original-start-charpos": 1093
+    }, 
+    {
+        "obfuscation": "She was getting on finely , besides , and liked the work .", 
+        "obfuscation-id": 25, 
+        "original": " She was getting on finely, too, and liked the work.", 
+        "original-end-charpos": 1284, 
+        "original-start-charpos": 1233
+    }, 
+    {
+        "obfuscation": "It 's besides bad -- her mother 's death , I mean -- forcing her to give it up and come home to take care of those kids .", 
+        "obfuscation-id": 26, 
+        "original": "\nIt's too bad--her mother's death, I mean--forcing her to give it up and\ncome home to take care of those kids.", 
+        "original-end-charpos": 1394, 
+        "original-start-charpos": 1285
+    }, 
+    {
+        "obfuscation": "It 's a damn shame .", 
+        "obfuscation-id": 27, 
+        "original": "\n\nIt's a damn shame.", 
+        "original-end-charpos": 1414, 
+        "original-start-charpos": 1395
+    }, 
+    {
+        "obfuscation": "That 's the main cause of her breakdown .", 
+        "obfuscation-id": 28, 
+        "original": " That's the main cause of her breakdown.", 
+        "original-end-charpos": 1454, 
+        "original-start-charpos": 1415
+    }, 
+    {
+        "obfuscation": "I 've noticed she 's been looking badly lately .", 
+        "obfuscation-id": 29, 
+        "original": "\n\nI've noticed she's been looking badly lately.", 
+        "original-end-charpos": 1501, 
+        "original-start-charpos": 1455
+    }, 
+    {
+        "obfuscation": "So that 's the trouble ?", 
+        "obfuscation-id": 30, 
+        "original": " So\nthat's the trouble?", 
+        "original-end-charpos": 1524, 
+        "original-start-charpos": 1502
+    }, 
+    {
+        "obfuscation": "Well , it 's all her father 's fault -- and her own , besides , because whenever I raised a kick about his making a slave of her , she always defended him .", 
+        "obfuscation-id": 31, 
+        "original": " Well, it's all her father's fault--and her own,\ntoo, because whenever I raised a kick about his making a slave of her,\nshe always defended him.", 
+        "original-end-charpos": 1668, 
+        "original-start-charpos": 1525
+    }, 
+    {
+        "obfuscation": "Between us , Carmody 's as selfish as they make 'em , if you want my opinion .", 
+        "obfuscation-id": 32, 
+        "original": " Between us, Carmody's as selfish as they make 'em,\nif you want my opinion.\n", 
+        "original-end-charpos": 1744, 
+        "original-start-charpos": 1669
+    }
+]

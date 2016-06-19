@@ -1,0 +1,303 @@
+[
+    {
+        "obfuscation": "II .", 
+        "obfuscation-id": 1, 
+        "original": "II.", 
+        "original-end-charpos": 2, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "It was in the township of Dunwich , in a large and partly inhabited farmhouse set against a hillside four miles from the village and a mile and a half from any other dwelling , that Wilbur Whateley was born at 5 A.M. on Sunday , the moment of February , 1913 .", 
+        "obfuscation-id": 2, 
+        "original": "\n\nIt was in the township of Dunwich, in a large and partly inhabited farmhouse set against a hillside four miles from the village and a mile and a half from any other dwelling, that Wilbur Whateley was born at 5 A.M. on Sunday, the second of February, 1913.", 
+        "original-end-charpos": 259, 
+        "original-start-charpos": 3
+    }, 
+    {
+        "obfuscation": "This date was remembered because it was Candlemas , which people in Dunwich curiously observe under another name ; and because the noises in the hills had sounded , and all the dogs of the countryside had barked persistently , throughout the night before .", 
+        "obfuscation-id": 3, 
+        "original": " This date was recalled because it was Candlemas, which people in Dunwich curiously observe under another name; and because the noises in the hills had sounded, and all the dogs of the countryside had barked persistently, throughout the night before.", 
+        "original-end-charpos": 509, 
+        "original-start-charpos": 260
+    }, 
+    {
+        "obfuscation": "Less worthy of notice was the fact that the mother was one of the decadent Whateleys , a reasonably deformed , unattractive albino woman of thirty-five , living with an aged and half-insane father about whom the most frightful tales of wizardry had been whispered in his youth .", 
+        "obfuscation-id": 4, 
+        "original": " Less worthy of notice was the fact that the mother was one of the decadent Whateleys, a somewhat deformed, unattractive albino woman of thirty-five, living with an aged and half-insane father about whom the most frightful tales of wizardry had been whispered in his youth.", 
+        "original-end-charpos": 782, 
+        "original-start-charpos": 510
+    }, 
+    {
+        "obfuscation": "Lavinia Whateley had no known husband , but according to the custom of the area made no attempt to disavow the child ; concerning the other side of whose ancestry the country folk might\u2014and did\u2014speculate as widely as they chose .", 
+        "obfuscation-id": 5, 
+        "original": " Lavinia Whateley had no known husband, but according to the custom of the region made no attempt to disavow the child; concerning the other side of whose ancestry the country folk might\u2014and did\u2014speculate as widely as they chose.", 
+        "original-end-charpos": 1011, 
+        "original-start-charpos": 783
+    }, 
+    {
+        "obfuscation": "On the contrary , she looked strangely proud of the dark , goatish-looking infant who formed such a contrast to her own sickly and pink-eyed albinism , and was heard to mutter many curious prophecies about its unusual powers and tremendous future .", 
+        "obfuscation-id": 6, 
+        "original": " On the contrary, she seemed strangely proud of the dark, goatish-looking infant who formed such a contrast to her own sickly and pink-eyed albinism, and was heard to mutter many curious prophecies about its unusual powers and tremendous future.", 
+        "original-end-charpos": 1256, 
+        "original-start-charpos": 1012
+    }, 
+    {
+        "obfuscation": "Lavinia was one who would be apt to mutter such things , for she was a lone animal given to wandering amidst thunderstorms in the hills and trying to read the great odorous books which her father had inherited through two centuries of Whateleys , and which were fast falling to pieces with age and worm-holes .", 
+        "obfuscation-id": 7, 
+        "original": "\n      Lavinia was one who would be apt to mutter such things, for she was a lone creature given to wandering amidst thunderstorms in the hills and trying to read the great odorous books which her father had inherited through two centuries of Whateleys, and which were fast falling to pieces with age and worm-holes.", 
+        "original-end-charpos": 1572, 
+        "original-start-charpos": 1257
+    }, 
+    {
+        "obfuscation": "She had never been to school , but was filled with confused scraps of ancient lore that Old Whateley had taught her .", 
+        "obfuscation-id": 8, 
+        "original": " She had never been to school, but was filled with disjointed scraps of ancient lore that Old Whateley had taught her.", 
+        "original-end-charpos": 1690, 
+        "original-start-charpos": 1573
+    }, 
+    {
+        "obfuscation": "The remote farmhouse had constantly been feared because of Old Whateley\u2019s reputation for black magic , and the unexplained death by violence of Mrs. Whateley when Lavinia was twelve years old had not helped to make the place popular .", 
+        "obfuscation-id": 9, 
+        "original": " The remote farmhouse had always been feared because of Old Whateley\u2019s reputation for black magic, and the unexplained death by violence of Mrs. Whateley when Lavinia was twelve years old had not helped to make the place popular.", 
+        "original-end-charpos": 1919, 
+        "original-start-charpos": 1691
+    }, 
+    {
+        "obfuscation": "Isolated among strange influences , Lavinia was fond of wild and grandiose day-dreams and singular occupations ; nor was her leisure much taken up by household cares in a base from which all standards of order and cleanliness had long since disappeared .", 
+        "obfuscation-id": 10, 
+        "original": " Isolated among strange influences, Lavinia was fond of wild and grandiose day-dreams and singular occupations; nor was her leisure much taken up by household cares in a home from which all standards of order and cleanliness had long since disappeared.", 
+        "original-end-charpos": 2171, 
+        "original-start-charpos": 1920
+    }, 
+    {
+        "obfuscation": "There was a hideous screaming which repeat above even the hill noises and the dogs\u2019 barking on the night Wilbur was born , but no known doctor or midwife presided at his coming .", 
+        "obfuscation-id": 11, 
+        "original": "\n      There was a hideous screaming which echoed above even the hill noises and the dogs\u2019 barking on the night Wilbur was born, but no known doctor or midwife presided at his coming.", 
+        "original-end-charpos": 2354, 
+        "original-start-charpos": 2172
+    }, 
+    {
+        "obfuscation": "Neighbours knew nothing of him till a week afterward , when Old Whateley drove his sleigh through the snow into Dunwich Village and discoursed incoherently to the group of loungers at Osborn\u2019s cosmopolitan store .", 
+        "obfuscation-id": 12, 
+        "original": " Neighbours knew nothing of him till a week afterward, when Old Whateley drove his sleigh through the snow into Dunwich Village and discoursed incoherently to the group of loungers at Osborn\u2019s general store.", 
+        "original-end-charpos": 2561, 
+        "original-start-charpos": 2355
+    }, 
+    {
+        "obfuscation": "There seemed to be a change in the old man\u2014an added element of furtiveness in the clouded brain which subtly transformed him from an object to a national of fear\u2014though he was not one to be perturbed by any common family event .", 
+        "obfuscation-id": 13, 
+        "original": " There seemed to be a change in the old man\u2014an added element of furtiveness in the clouded brain which subtly transformed him from an object to a subject of fear\u2014though he was not one to be perturbed by any common family event.", 
+        "original-end-charpos": 2788, 
+        "original-start-charpos": 2562
+    }, 
+    {
+        "obfuscation": "Amidst it all he proved some trace of the pride later noticed in his daughter , and what he said of the child\u2019s paternity was remembered by many of his hearers years afterward .", 
+        "obfuscation-id": 14, 
+        "original": " Amidst it all he shewed some trace of the pride later noticed in his daughter, and what he said of the child\u2019s paternity was remembered by many of his hearers years afterward.", 
+        "original-end-charpos": 2964, 
+        "original-start-charpos": 2789
+    }, 
+    {
+        "obfuscation": "\u201cI dun\u2019t keer what folks think\u2014ef Lavinny\u2019s son looked like his pa , he wouldn\u2019t look like nothin\u2019 ye expeck .", 
+        "obfuscation-id": 15, 
+        "original": "\n      \u201cI dun\u2019t keer what folks think\u2014ef Lavinny\u2019s boy looked like his pa, he wouldn\u2019t look like nothin\u2019 ye expeck.", 
+        "original-end-charpos": 3079, 
+        "original-start-charpos": 2965
+    }, 
+    {
+        "obfuscation": "Ye needn\u2019t remember the only folks is the folks hereabaouts .", 
+        "obfuscation-id": 16, 
+        "original": " Ye needn\u2019t think the only folks is the folks hereabaouts.", 
+        "original-end-charpos": 3137, 
+        "original-start-charpos": 3080
+    }, 
+    {
+        "obfuscation": "Lavinny\u2019s read some , an\u2019 has seed some things the most o\u2019 ye only state abaout .", 
+        "obfuscation-id": 17, 
+        "original": " Lavinny\u2019s read some, an\u2019 has seed some things the most o\u2019 ye only tell abaout.", 
+        "original-end-charpos": 3216, 
+        "original-start-charpos": 3138
+    }, 
+    {
+        "obfuscation": "I calc\u2019late her man is as full a husban\u2019 as ye kin find this side of Aylesbury ; an\u2019 ef ye knowed as much abaout the hills as I dew , ye wouldn\u2019t ast no better church weddin\u2019 nor her\u2019n .", 
+        "obfuscation-id": 18, 
+        "original": " I calc\u2019late her man is as good a husban\u2019 as ye kin find this side of Aylesbury; an\u2019 ef ye knowed as much abaout the hills as I dew, ye wouldn\u2019t ast no better church weddin\u2019 nor her\u2019n.", 
+        "original-end-charpos": 3400, 
+        "original-start-charpos": 3217
+    }, 
+    {
+        "obfuscation": "Let me tell ye suthin\u2019\u2014some day yew folks\u2019ll hear a child o\u2019 Lavinny\u2019s a-callin\u2019 its father\u2019s name on the top o\u2019 Sentinel Hill ! \u201d The alone persons who saw Wilbur during the first month of his life were old Zechariah Whateley , of the undecayed Whateleys , and Earl Sawyer\u2019s common-law wife , Mamie Bishop .", 
+        "obfuscation-id": 19, 
+        "original": " Let me tell ye suthin\u2019\u2014some day yew folks\u2019ll hear a child o\u2019 Lavinny\u2019s a-callin\u2019 its father\u2019s name on the top o\u2019 Sentinel Hill!\u201d\n      The only persons who saw Wilbur during the first month of his life were old Zechariah Whateley, of the undecayed Whateleys, and Earl Sawyer\u2019s common-law wife, Mamie Bishop.", 
+        "original-end-charpos": 3708, 
+        "original-start-charpos": 3401
+    }, 
+    {
+        "obfuscation": "Mamie\u2019s visit was frankly one of curiosity , and her subsequent tales made justice to her observations ; but Zechariah came to lead a pair of Alderney cows which Old Whateley had bought of his son Curtis .", 
+        "obfuscation-id": 20, 
+        "original": " Mamie\u2019s visit was frankly one of curiosity, and her subsequent tales did justice to her observations; but Zechariah came to lead a pair of Alderney cows which Old Whateley had bought of his son Curtis.", 
+        "original-end-charpos": 3910, 
+        "original-start-charpos": 3709
+    }, 
+    {
+        "obfuscation": "This marked the beginning of a class of cattle-buying on the part of small Wilbur\u2019s family which ended only in 1928 , when the Dunwich horror came and went ; yet at no time did the ramshackle Whateley barn seem overcrowded with livestock .", 
+        "obfuscation-id": 21, 
+        "original": " This marked the beginning of a course of cattle-buying on the part of small Wilbur\u2019s family which ended only in 1928, when the Dunwich horror came and went; yet at no time did the ramshackle Whateley barn seem overcrowded with livestock.", 
+        "original-end-charpos": 4148, 
+        "original-start-charpos": 3911
+    }, 
+    {
+        "obfuscation": "There came a period when people were curious enough to steal up and consider the herd that grazed precariously on the steep hillside above the old farmhouse , and they could never find more than ten or twelve anaemic , bloodless-looking specimens .", 
+        "obfuscation-id": 22, 
+        "original": " There came a period when people were curious enough to steal up and count the herd that grazed precariously on the steep hillside above the old farmhouse, and they could never find more than ten or twelve anaemic, bloodless-looking specimens.", 
+        "original-end-charpos": 4391, 
+        "original-start-charpos": 4149
+    }, 
+    {
+        "obfuscation": "obviously some blight or distemper , perhaps sprung from the unwholesome pasturage or the diseased fungi and timbers of the filthy barn , caused a heavy mortality amongst the Whateley animals .", 
+        "obfuscation-id": 23, 
+        "original": " Evidently some blight or distemper, perhaps sprung from the unwholesome pasturage or the diseased fungi and timbers of the filthy barn, caused a heavy mortality amongst the Whateley animals.", 
+        "original-end-charpos": 4582, 
+        "original-start-charpos": 4392
+    }, 
+    {
+        "obfuscation": "Odd wounds or sores , having something of the expression of incisions , seemed to afflict the visible cattle ; and once or twice during the earlier months certain callers fancied they could discern similar sores about the throats of the grey , unshaven old man and his slatternly , crinkly-haired albino daughter .", 
+        "obfuscation-id": 24, 
+        "original": " Odd wounds or sores, having something of the aspect of incisions, seemed to afflict the visible cattle; and once or twice during the earlier months certain callers fancied they could discern similar sores about the throats of the grey, unshaven old man and his slatternly, crinkly-haired albino daughter.", 
+        "original-end-charpos": 4887, 
+        "original-start-charpos": 4583
+    }, 
+    {
+        "obfuscation": "In the spring after Wilbur\u2019s birth Lavinia resumed her customary rambles in the hills , bearing in her misproportioned arms the swarthy child .", 
+        "obfuscation-id": 25, 
+        "original": "\n      In the spring after Wilbur\u2019s birth Lavinia resumed her customary rambles in the hills, bearing in her misproportioned arms the swarthy child.", 
+        "original-end-charpos": 5035, 
+        "original-start-charpos": 4888
+    }, 
+    {
+        "obfuscation": "Public interest in the Whateleys subsided after most of the country folk had seen the baby , and no one bothered to comment on the swift development which that newcomer appeared every day to exhibit .", 
+        "obfuscation-id": 26, 
+        "original": " Public interest in the Whateleys subsided after most of the country folk had seen the baby, and no one bothered to comment on the swift development which that newcomer seemed every day to exhibit.", 
+        "original-end-charpos": 5232, 
+        "original-start-charpos": 5036
+    }, 
+    {
+        "obfuscation": "Wilbur\u2019s growth was indeed phenomenal , for within three months of his birth he had attained a size and mesomorphic power not usually found in infants under a full year of age .", 
+        "obfuscation-id": 27, 
+        "original": " Wilbur\u2019s growth was indeed phenomenal, for within three months of his birth he had attained a size and muscular power not usually found in infants under a full year of age.", 
+        "original-end-charpos": 5405, 
+        "original-start-charpos": 5233
+    }, 
+    {
+        "obfuscation": "His motions and even his vocal sounds proved a restraint and deliberateness highly peculiar in an infant , and no one was really unprepared when , at seven months , he began to walk unassisted , with falterings which another month was sufficient to remove .", 
+        "obfuscation-id": 28, 
+        "original": " His motions and even his vocal sounds shewed a restraint and deliberateness highly peculiar in an infant, and no one was really unprepared when, at seven months, he began to walk unassisted, with falterings which another month was sufficient to remove.", 
+        "original-end-charpos": 5658, 
+        "original-start-charpos": 5406
+    }, 
+    {
+        "obfuscation": "It was somewhat after this time\u2014on Hallowe\u2019en\u2014that a great blaze was seen at midnight on the top of Sentinel Hill where the old table-like rock stands amidst its tumulus of ancient bones .", 
+        "obfuscation-id": 29, 
+        "original": "\n      It was somewhat after this time\u2014on Hallowe\u2019en\u2014that a great blaze was seen at midnight on the top of Sentinel Hill where the old table-like stone stands amidst its tumulus of ancient bones.", 
+        "original-end-charpos": 5853, 
+        "original-start-charpos": 5659
+    }, 
+    {
+        "obfuscation": "Considerable talk was begun when Silas Bishop\u2014of the undecayed Bishops\u2014mentioned having seen the boy running sturdily up that hill ahead of his mother about an hour before the blaze was remarked .", 
+        "obfuscation-id": 30, 
+        "original": " Considerable talk was started when Silas Bishop\u2014of the undecayed Bishops\u2014mentioned having seen the boy running sturdily up that hill ahead of his mother about an hour before the blaze was remarked.", 
+        "original-end-charpos": 6051, 
+        "original-start-charpos": 5854
+    }, 
+    {
+        "obfuscation": "Silas was rounding up a stray heifer , but he about forgot his mission when he fleetingly spied the two figures in the dim light of his lantern .", 
+        "obfuscation-id": 31, 
+        "original": " Silas was rounding up a stray heifer, but he nearly forgot his mission when he fleetingly spied the two figures in the dim light of his lantern.", 
+        "original-end-charpos": 6196, 
+        "original-start-charpos": 6052
+    }, 
+    {
+        "obfuscation": "They darted about noiselessly through the underbrush , and the astonished watcher seemed to think they were entirely unclothed .", 
+        "obfuscation-id": 32, 
+        "original": " They darted almost noiselessly through the underbrush, and the astonished watcher seemed to think they were entirely unclothed.", 
+        "original-end-charpos": 6324, 
+        "original-start-charpos": 6197
+    }, 
+    {
+        "obfuscation": "Afterward he could not be sure about the boy , who may have had some kind of a fringed belt and a couple of dark trunks or trousers on .", 
+        "obfuscation-id": 33, 
+        "original": " Afterward he could not be sure about the boy, who may have had some kind of a fringed belt and a pair of dark trunks or trousers on.", 
+        "original-end-charpos": 6457, 
+        "original-start-charpos": 6325
+    }, 
+    {
+        "obfuscation": "Wilbur was never subsequently seen alive and conscious without complete and tightly buttoned attire , the disarrangement or threatened disorganization of which always seemed to fill him with anger and alarm .", 
+        "obfuscation-id": 34, 
+        "original": " Wilbur was never subsequently seen alive and conscious without complete and tightly buttoned attire, the disarrangement or threatened disarrangement of which always seemed to fill him with anger and alarm.", 
+        "original-end-charpos": 6663, 
+        "original-start-charpos": 6458
+    }, 
+    {
+        "obfuscation": "His contrast with his squalid mother and grandfather in this respect were thought very notable until the horror of 1928 suggested the most valid of reasons .", 
+        "obfuscation-id": 35, 
+        "original": " His contrast with his squalid mother and grandfather in this respect was thought very notable until the horror of 1928 suggested the most valid of reasons.", 
+        "original-end-charpos": 6819, 
+        "original-start-charpos": 6664
+    }, 
+    {
+        "obfuscation": "The next January gossips were mildly interested in the fact that \u201cLavinny\u2019s black brat\u201d had begun to talk , and at the age of only eleven months .", 
+        "obfuscation-id": 36, 
+        "original": "\n      The next January gossips were mildly interested in the fact that \u201cLavinny\u2019s black brat\u201d had commenced to talk, and at the age of only eleven months.", 
+        "original-end-charpos": 6974, 
+        "original-start-charpos": 6820
+    }, 
+    {
+        "obfuscation": "His speech was somewhat remarkable both because of its difference from the ordinary stress of the region , and because it displayed a freedom from infantile lisping of which many children of three or four might well be proud .", 
+        "obfuscation-id": 37, 
+        "original": " His speech was somewhat remarkable both because of its difference from the ordinary accents of the region, and because it displayed a freedom from infantile lisping of which many children of three or four might well be proud.", 
+        "original-end-charpos": 7200, 
+        "original-start-charpos": 6975
+    }, 
+    {
+        "obfuscation": "The boy was not talkative , yet when he spoke he seemed to reflect some elusive component wholly unpossessed by Dunwich and its denizens .", 
+        "obfuscation-id": 38, 
+        "original": " The boy was not talkative, yet when he spoke he seemed to reflect some elusive element wholly unpossessed by Dunwich and its denizens.", 
+        "original-end-charpos": 7335, 
+        "original-start-charpos": 7201
+    }, 
+    {
+        "obfuscation": "The strangeness did not reside in what he said , or even in the simple idioms he used ; but seemed vaguely linked with his intonation or with the internal organs that produced the spoken sounds .", 
+        "obfuscation-id": 39, 
+        "original": " The strangeness did not reside in what he said, or even in the simple idioms he used; but seemed vaguely linked with his intonation or with the internal organs that produced the spoken sounds.", 
+        "original-end-charpos": 7528, 
+        "original-start-charpos": 7336
+    }, 
+    {
+        "obfuscation": "His facial aspect , too , were remarkable for its maturity ; for though he shared his mother\u2019s and grandfather\u2019s chinlessness , his firm and precociously shaped nose united with the expression of his large , dark , almost Latin eyes to give him an air of quasi-adulthood and well-nigh preternatural intelligence .", 
+        "obfuscation-id": 40, 
+        "original": " His facial aspect, too, was remarkable for its maturity; for though he shared his mother\u2019s and grandfather\u2019s chinlessness, his firm and precociously shaped nose united with the expression of his large, dark, almost Latin eyes to give him an air of quasi-adulthood and well-nigh preternatural intelligence.", 
+        "original-end-charpos": 7834, 
+        "original-start-charpos": 7529
+    }, 
+    {
+        "obfuscation": "He was , however , exceedingly ugly despite his appearance of brilliancy ; there being something about goatish or animalistic about his thick lips , large-pored , yellowish skin , coarse crinkly hair , and oddly elongated ears .", 
+        "obfuscation-id": 41, 
+        "original": " He was, however, exceedingly ugly despite his appearance of brilliancy; there being something almost goatish or animalistic about his thick lips, large-pored, yellowish skin, coarse crinkly hair, and oddly elongated ears.", 
+        "original-end-charpos": 8056, 
+        "original-start-charpos": 7835
+    }, 
+    {
+        "obfuscation": "He was soon disliked even more decidedly than his mother and grandsire , and all conjectures about him were spiced with references to the bygone magic of Old Whateley , and how the hills once shook when he shrieked the dreadful name of Yog-Sothoth in the midst of a set of stones with a great book open in his arms before him .", 
+        "obfuscation-id": 42, 
+        "original": " He was soon disliked even more decidedly than his mother and grandsire, and all conjectures about him were spiced with references to the bygone magic of Old Whateley, and how the hills once shook when he shrieked the dreadful name of Yog-Sothoth in the midst of a circle of stones with a great book open in his arms before him.", 
+        "original-end-charpos": 8384, 
+        "original-start-charpos": 8057
+    }, 
+    {
+        "obfuscation": "Dogs abhorred the boy , and he was always obliged to bring various defensive measures against their barking menace .", 
+        "obfuscation-id": 43, 
+        "original": " Dogs abhorred the boy, and he was always obliged to take various defensive measures against their barking menace.\n", 
+        "original-end-charpos": 8499, 
+        "original-start-charpos": 8385
+    }
+]

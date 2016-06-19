@@ -1,0 +1,485 @@
+[
+    {
+        "obfuscation": "V. The following winter brought an event no less strange than Wilbur\u2019s first trip outside the Dunwich area .", 
+        "obfuscation-id": 1, 
+        "original": "V.\n\nThe following winter brought an event no less strange than Wilbur\u2019s first trip outside the Dunwich region.", 
+        "original-end-charpos": 109, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Correspondence with the Widener Library at Harvard , the Biblioth\u00e8que Nationale in Paris , the British Museum , the University of Buenos Ayres , and the Library of Miskatonic University of Arkham had failed to get him the loan of a book he desperately wanted ; thus at length he set out in person , shabby , dirty , bearded , and uncouth of dialect , to consult the copy at Miskatonic , which was the nearest to him geographically .", 
+        "obfuscation-id": 2, 
+        "original": " Correspondence with the Widener Library at Harvard, the Biblioth\u00e8que Nationale in Paris, the British Museum, the University of Buenos Ayres, and the Library of Miskatonic University of Arkham had failed to get him the loan of a book he desperately wanted; so at length he set out in person, shabby, dirty, bearded, and uncouth of dialect, to consult the copy at Miskatonic, which was the nearest to him geographically.", 
+        "original-end-charpos": 528, 
+        "original-start-charpos": 110
+    }, 
+    {
+        "obfuscation": "about eight feet tall , and carrying a cheap new valise from Osborn\u2019s general store , this dark and goatish gargoyle appeared one day in Arkham in quest of the dreaded volume kept under lock and key at the college library\u2014the hideous Necronomicon of the mad Arab Abdul Alhazred in Olaus Wormius\u2019 Latin version , as printed in Spain in the seventeenth century .", 
+        "obfuscation-id": 3, 
+        "original": " Almost eight feet tall, and carrying a cheap new valise from Osborn\u2019s general store, this dark and goatish gargoyle appeared one day in Arkham in quest of the dreaded volume kept under lock and key at the college library\u2014the hideous Necronomicon of the mad Arab Abdul Alhazred in Olaus Wormius\u2019 Latin version, as printed in Spain in the seventeenth century.", 
+        "original-end-charpos": 886, 
+        "original-start-charpos": 529
+    }, 
+    {
+        "obfuscation": "He had never seen a city before , but had no thought save to find his way to the university grounds ; where , indeed , he passed heedlessly by the great white-fanged watchdog that barked with unnatural fury and enmity , and tugged frantically at its stout range .", 
+        "obfuscation-id": 4, 
+        "original": " He had never seen a city before, but had no thought save to find his way to the university grounds; where, indeed, he passed heedlessly by the great white-fanged watchdog that barked with unnatural fury and enmity, and tugged frantically at its stout chain.", 
+        "original-end-charpos": 1144, 
+        "original-start-charpos": 887
+    }, 
+    {
+        "obfuscation": "Wilbur had with him the priceless but imperfect copy of Dr. Dee\u2019s English version which his grandfather had bequeathed him , and upon receiving access to the Latin copy he at once began to collate the two texts with the aim of discovering a certain passing which would have come on the 751st page of his own defective volume .", 
+        "obfuscation-id": 5, 
+        "original": "\n      Wilbur had with him the priceless but imperfect copy of Dr. Dee\u2019s English version which his grandfather had bequeathed him, and upon receiving access to the Latin copy he at once began to collate the two texts with the aim of discovering a certain passage which would have come on the 751st page of his own defective volume.", 
+        "original-end-charpos": 1475, 
+        "original-start-charpos": 1145
+    }, 
+    {
+        "obfuscation": "This a lot he could not civilly refrain from telling the librarian\u2014the same erudite Henry Armitage ( A.M. Miskatonic , Ph .", 
+        "obfuscation-id": 6, 
+        "original": " This much he could not civilly refrain from telling the librarian\u2014the same erudite Henry Armitage (A.M. Miskatonic, Ph.", 
+        "original-end-charpos": 1595, 
+        "original-start-charpos": 1476
+    }, 
+    {
+        "obfuscation": "D. Princeton , Litt .", 
+        "obfuscation-id": 7, 
+        "original": " D. Princeton, Litt.", 
+        "original-end-charpos": 1615, 
+        "original-start-charpos": 1596
+    }, 
+    {
+        "obfuscation": "D. Johns Hopkins ) who had once shouted at the farm , and who now politely plied him with questions .", 
+        "obfuscation-id": 8, 
+        "original": " D. Johns Hopkins) who had once called at the farm, and who now politely plied him with questions.", 
+        "original-end-charpos": 1713, 
+        "original-start-charpos": 1616
+    }, 
+    {
+        "obfuscation": "He was looking , he had to admit , for a kind of formula or incantation containing the fearful name Yog-Sothoth , and it puzzled him to find discrepancies , duplications , and ambiguities which made the matter of determination far from easy .", 
+        "obfuscation-id": 9, 
+        "original": " He was looking, he had to admit, for a kind of formula or incantation containing the frightful name Yog-Sothoth, and it puzzled him to find discrepancies, duplications, and ambiguities which made the matter of determination far from easy.", 
+        "original-end-charpos": 1952, 
+        "original-start-charpos": 1714
+    }, 
+    {
+        "obfuscation": "As he copied the formula he finally chose , Dr. Armitage looked involuntarily over his shoulder at the open pages ; the left-hand one of which , in the Latin version , held such monstrous threats to the peace and sanity of the world .", 
+        "obfuscation-id": 10, 
+        "original": " As he copied the formula he finally chose, Dr. Armitage looked involuntarily over his shoulder at the open pages; the left-hand one of which, in the Latin version, contained such monstrous threats to the peace and sanity of the world.", 
+        "original-end-charpos": 2187, 
+        "original-start-charpos": 1953
+    }, 
+    {
+        "obfuscation": "\u201cNor is it to be thought , \u201d ran the text as Armitage mentally understood it , \u201cthat man is either the oldest or the last of earth\u2019s masters , or that the common bulk of life and substance walks alone .", 
+        "obfuscation-id": 11, 
+        "original": "\n      \u201cNor is it to be thought,\u201d ran the text as Armitage mentally translated it, \u201cthat man is either the oldest or the last of earth\u2019s masters, or that the common bulk of life and substance walks alone.", 
+        "original-end-charpos": 2391, 
+        "original-start-charpos": 2188
+    }, 
+    {
+        "obfuscation": "The Old Ones were , the Old Ones are , and the Old Ones shall be .", 
+        "obfuscation-id": 12, 
+        "original": " The Old Ones were, the Old Ones are, and the Old Ones shall be.", 
+        "original-end-charpos": 2455, 
+        "original-start-charpos": 2392
+    }, 
+    {
+        "obfuscation": "Not in the distances we know , but between them , They walk serene and primal , undimensioned and to us unseen .", 
+        "obfuscation-id": 13, 
+        "original": " Not in the spaces we know, but between them, They walk serene and primal, undimensioned and to us unseen.", 
+        "original-end-charpos": 2561, 
+        "original-start-charpos": 2456
+    }, 
+    {
+        "obfuscation": "Yog-Sothoth knows the gate .", 
+        "obfuscation-id": 14, 
+        "original": " Yog-Sothoth knows the gate.", 
+        "original-end-charpos": 2589, 
+        "original-start-charpos": 2562
+    }, 
+    {
+        "obfuscation": "Yog-Sothoth is the gate .", 
+        "obfuscation-id": 15, 
+        "original": " Yog-Sothoth is the gate.", 
+        "original-end-charpos": 2614, 
+        "original-start-charpos": 2590
+    }, 
+    {
+        "obfuscation": "Yog-Sothoth is the key and guardian of the gate .", 
+        "obfuscation-id": 16, 
+        "original": " Yog-Sothoth is the key and guardian of the gate.", 
+        "original-end-charpos": 2663, 
+        "original-start-charpos": 2615
+    }, 
+    {
+        "obfuscation": "Past , present , future , all are one in Yog-Sothoth .", 
+        "obfuscation-id": 17, 
+        "original": " Past, present, future, all are one in Yog-Sothoth.", 
+        "original-end-charpos": 2714, 
+        "original-start-charpos": 2664
+    }, 
+    {
+        "obfuscation": "He knows where the Old Ones broke through of erstwhile , and where They shall break through again .", 
+        "obfuscation-id": 18, 
+        "original": " He knows where the Old Ones broke through of old, and where They shall break through again.", 
+        "original-end-charpos": 2806, 
+        "original-start-charpos": 2715
+    }, 
+    {
+        "obfuscation": "He knows where They have trod earth\u2019s fields , and where They however tread them , and why no one can behold Them as They tread .", 
+        "obfuscation-id": 19, 
+        "original": " He knows where They have trod earth\u2019s fields, and where They still tread them, and why no one can behold Them as They tread.", 
+        "original-end-charpos": 2931, 
+        "original-start-charpos": 2807
+    }, 
+    {
+        "obfuscation": "By Their spirit can men sometimes know Them near , but of Their semblance can no man know , saving only in the features of those They have begotten on mankind ; and of those are there many sorts , differing in likeness from man\u2019s truest eidolon to that shape without sight or substance which is Them .", 
+        "obfuscation-id": 20, 
+        "original": " By Their smell can men sometimes know Them near, but of Their semblance can no man know, saving only in the features of those They have begotten on mankind; and of those are there many sorts, differing in likeness from man\u2019s truest eidolon to that shape without sight or substance which is Them.", 
+        "original-end-charpos": 3227, 
+        "original-start-charpos": 2932
+    }, 
+    {
+        "obfuscation": "They walk unseen and fetid in lonely places where the Words have been spoken and the Rites howled through at their Seasons .", 
+        "obfuscation-id": 21, 
+        "original": " They walk unseen and foul in lonely places where the Words have been spoken and the Rites howled through at their Seasons.", 
+        "original-end-charpos": 3350, 
+        "original-start-charpos": 3228
+    }, 
+    {
+        "obfuscation": "The wind gibbers with Their voices , and the ground mutters with Their consciousness .", 
+        "obfuscation-id": 22, 
+        "original": " The wind gibbers with Their voices, and the earth mutters with Their consciousness.", 
+        "original-end-charpos": 3434, 
+        "original-start-charpos": 3351
+    }, 
+    {
+        "obfuscation": "They bend the forest and crush the city , so far may not forest or city behold the hand that smites .", 
+        "obfuscation-id": 23, 
+        "original": " They bend the forest and crush the city, yet may not forest or city behold the hand that smites.", 
+        "original-end-charpos": 3531, 
+        "original-start-charpos": 3435
+    }, 
+    {
+        "obfuscation": "Kadath in the cold waste hath known Them , and what man knows Kadath ?", 
+        "obfuscation-id": 24, 
+        "original": " Kadath in the cold waste hath known Them, and what man knows Kadath?", 
+        "original-end-charpos": 3600, 
+        "original-start-charpos": 3532
+    }, 
+    {
+        "obfuscation": "The ice desert of the South and the sunken isles of Ocean hold stones whereon Their seal is engraven , but who hath understood the deep frozen city or the sealed tower long garlanded with seaweed and barnacles ?", 
+        "obfuscation-id": 25, 
+        "original": " The ice desert of the South and the sunken isles of Ocean hold stones whereon Their seal is engraven, but who hath seen the deep frozen city or the sealed tower long garlanded with seaweed and barnacles?", 
+        "original-end-charpos": 3804, 
+        "original-start-charpos": 3601
+    }, 
+    {
+        "obfuscation": "Great Cthulhu is Their cousin , so far can he spy Them only dimly .", 
+        "obfuscation-id": 26, 
+        "original": " Great Cthulhu is Their cousin, yet can he spy Them only dimly.", 
+        "original-end-charpos": 3867, 
+        "original-start-charpos": 3805
+    }, 
+    {
+        "obfuscation": "I\u00e4 !", 
+        "obfuscation-id": 27, 
+        "original": " I\u00e4!", 
+        "original-end-charpos": 3871, 
+        "original-start-charpos": 3868
+    }, 
+    {
+        "obfuscation": "Shub-Niggurath !", 
+        "obfuscation-id": 28, 
+        "original": " Shub-Niggurath!", 
+        "original-end-charpos": 3887, 
+        "original-start-charpos": 3872
+    }, 
+    {
+        "obfuscation": "As a foulness shall ye know Them .", 
+        "obfuscation-id": 29, 
+        "original": " As a foulness shall ye know Them.", 
+        "original-end-charpos": 3921, 
+        "original-start-charpos": 3888
+    }, 
+    {
+        "obfuscation": "Their hand is at your throats , yet ye see Them not ; and Their habitation is even one with your guarded doorway .", 
+        "obfuscation-id": 30, 
+        "original": " Their hand is at your throats, yet ye see Them not; and Their habitation is even one with your guarded threshold.", 
+        "original-end-charpos": 4035, 
+        "original-start-charpos": 3922
+    }, 
+    {
+        "obfuscation": "Yog-Sothoth is the key to the gate , whereby the spheres meet .", 
+        "obfuscation-id": 31, 
+        "original": " Yog-Sothoth is the key to the gate, whereby the spheres meet.", 
+        "original-end-charpos": 4097, 
+        "original-start-charpos": 4036
+    }, 
+    {
+        "obfuscation": "Man rules nowadays where They ruled once ; They shall soon rule where man rules now .", 
+        "obfuscation-id": 32, 
+        "original": " Man rules now where They ruled once; They shall soon rule where man rules now.", 
+        "original-end-charpos": 4176, 
+        "original-start-charpos": 4098
+    }, 
+    {
+        "obfuscation": "After summer is winter , and after winter summer .", 
+        "obfuscation-id": 33, 
+        "original": " After summer is winter, and after winter summer.", 
+        "original-end-charpos": 4225, 
+        "original-start-charpos": 4177
+    }, 
+    {
+        "obfuscation": "They wait patient and potent , for here shall They reign again.\u201d Dr. Armitage , associating what he was reading with what he had heard of Dunwich and its brooding presences , and of Wilbur Whateley and his dim , hideous aura that stretched from a dubious birth to a cloud of probable matricide , felt a wave of fear as tangible as a draught of the tomb\u2019s cold clamminess .", 
+        "obfuscation-id": 34, 
+        "original": " They wait patient and potent, for here shall They reign again.\u201d\n      Dr. Armitage, associating what he was reading with what he had heard of Dunwich and its brooding presences, and of Wilbur Whateley and his dim, hideous aura that stretched from a dubious birth to a cloud of probable matricide, felt a wave of fright as tangible as a draught of the tomb\u2019s cold clamminess.", 
+        "original-end-charpos": 4600, 
+        "original-start-charpos": 4226
+    }, 
+    {
+        "obfuscation": "The bent , goatish giant before him looked like the spawn of another planet or dimension ; like something only partly of mankind , and linked to black gulfs of essence and entity that stretch like titan phantasms beyond all spheres of force and matter , space and time .", 
+        "obfuscation-id": 35, 
+        "original": " The bent, goatish giant before him seemed like the spawn of another planet or dimension; like something only partly of mankind, and linked to black gulfs of essence and entity that stretch like titan phantasms beyond all spheres of force and matter, space and time.", 
+        "original-end-charpos": 4866, 
+        "original-start-charpos": 4601
+    }, 
+    {
+        "obfuscation": "soon Wilbur raised his head and began speaking in that strange , resonant fashion which hinted at sound-producing organs unlike the run of mankind\u2019s .", 
+        "obfuscation-id": 36, 
+        "original": " Presently Wilbur raised his head and began speaking in that strange, resonant fashion which hinted at sound-producing organs unlike the run of mankind\u2019s.", 
+        "original-end-charpos": 5020, 
+        "original-start-charpos": 4867
+    }, 
+    {
+        "obfuscation": "\u201cMr .", 
+        "obfuscation-id": 37, 
+        "original": "\n      \u201cMr.", 
+        "original-end-charpos": 5031, 
+        "original-start-charpos": 5021
+    }, 
+    {
+        "obfuscation": "Armitage , \u201d he said , \u201cI calc\u2019late I\u2019ve got to assume that book home .", 
+        "obfuscation-id": 38, 
+        "original": " Armitage,\u201d he said, \u201cI calc\u2019late I\u2019ve got to take that book home.", 
+        "original-end-charpos": 5097, 
+        "original-start-charpos": 5032
+    }, 
+    {
+        "obfuscation": "They\u2019s things in it I\u2019ve got to try under sarten conditions that I can\u2019t git here , an\u2019 it \u2019ud constitute a mortal sin to let a red-tape rule hold me up .", 
+        "obfuscation-id": 39, 
+        "original": " They\u2019s things in it I\u2019ve got to try under sarten conditions that I can\u2019t git here, an\u2019 it \u2019ud be a mortal sin to let a red-tape rule hold me up.", 
+        "original-end-charpos": 5242, 
+        "original-start-charpos": 5098
+    }, 
+    {
+        "obfuscation": "Let me take it along , Sir , an\u2019 I\u2019ll swar they wun\u2019t nobody know the difference .", 
+        "obfuscation-id": 40, 
+        "original": " Let me take it along, Sir, an\u2019 I\u2019ll swar they wun\u2019t nobody know the difference.", 
+        "original-end-charpos": 5322, 
+        "original-start-charpos": 5243
+    }, 
+    {
+        "obfuscation": "I dun\u2019t need to tell ye I\u2019ll take full keer of it .", 
+        "obfuscation-id": 41, 
+        "original": " I dun\u2019t need to tell ye I\u2019ll take good keer of it.", 
+        "original-end-charpos": 5373, 
+        "original-start-charpos": 5323
+    }, 
+    {
+        "obfuscation": "It wa\u2019n\u2019t me that put this Dee copy in the form it is .", 
+        "obfuscation-id": 42, 
+        "original": " It wa\u2019n\u2019t me that put this Dee copy in the shape it is.", 
+        "original-end-charpos": 5429, 
+        "original-start-charpos": 5374
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 43, 
+        "original": ".", 
+        "original-end-charpos": 5429, 
+        "original-start-charpos": 5430
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 44, 
+        "original": " .", 
+        "original-end-charpos": 5431, 
+        "original-start-charpos": 5430
+    }, 
+    {
+        "obfuscation": ". .\u201d He stopped as he saw firm denial on the librarian\u2019s face , and his own goatish features turned crafty .", 
+        "obfuscation-id": 45, 
+        "original": " . .\u201d\n      He stopped as he saw firm denial on the librarian\u2019s face, and his own goatish features grew crafty.", 
+        "original-end-charpos": 5542, 
+        "original-start-charpos": 5432
+    }, 
+    {
+        "obfuscation": "Armitage , half-ready to tell him he might make a copy of what parts he wanted , thought suddenly of the possible consequences and checked himself .", 
+        "obfuscation-id": 46, 
+        "original": " Armitage, half-ready to tell him he might make a copy of what parts he needed, thought suddenly of the possible consequences and checked himself.", 
+        "original-end-charpos": 5688, 
+        "original-start-charpos": 5543
+    }, 
+    {
+        "obfuscation": "There was too much responsiblity in giving such a being the key to such blasphemous outer sectors .", 
+        "obfuscation-id": 47, 
+        "original": " There was too much responsiblity in giving such a being the key to such blasphemous outer spheres.", 
+        "original-end-charpos": 5787, 
+        "original-start-charpos": 5689
+    }, 
+    {
+        "obfuscation": "Whateley saw how things stood , and tried to answer lightly .", 
+        "obfuscation-id": 48, 
+        "original": " Whateley saw how things stood, and tried to answer lightly.", 
+        "original-end-charpos": 5847, 
+        "original-start-charpos": 5788
+    }, 
+    {
+        "obfuscation": "\u201cWal , all right , ef ye feel that way abaout it .", 
+        "obfuscation-id": 49, 
+        "original": "\n      \u201cWal, all right, ef ye feel that way abaout it.", 
+        "original-end-charpos": 5901, 
+        "original-start-charpos": 5848
+    }, 
+    {
+        "obfuscation": "Maybe Harvard wun\u2019t be thus fussy as yew be.\u201d And without saying more he rose and strode out of the building , stooping at each doorway .", 
+        "obfuscation-id": 50, 
+        "original": " Maybe Harvard wun\u2019t be so fussy as yew be.\u201d And without saying more he rose and strode out of the building, stooping at each doorway.", 
+        "original-end-charpos": 6035, 
+        "original-start-charpos": 5902
+    }, 
+    {
+        "obfuscation": "Armitage heard the savage yelping of the great watchdog , and studied Whateley\u2019s gorilla-like lope as he crossed the moment of campus visible from the window .", 
+        "obfuscation-id": 51, 
+        "original": "\n      Armitage heard the savage yelping of the great watchdog, and studied Whateley\u2019s gorilla-like lope as he crossed the bit of campus visible from the window.", 
+        "original-end-charpos": 6196, 
+        "original-start-charpos": 6036
+    }, 
+    {
+        "obfuscation": "He thought of the wild tales he had heard , and remembered the old Sunday stories in the Advertiser ; these things , and the lore he had picked up from Dunwich rustics and villagers during his one visit there .", 
+        "obfuscation-id": 52, 
+        "original": " He thought of the wild tales he had heard, and recalled the old Sunday stories in the Advertiser; these things, and the lore he had picked up from Dunwich rustics and villagers during his one visit there.", 
+        "original-end-charpos": 6401, 
+        "original-start-charpos": 6197
+    }, 
+    {
+        "obfuscation": "Unseen things not of earth\u2014or at least not of tri-dimensional earth\u2014rushed foetid and horrible through New England\u2019s glens , and sulked obscenely on the mountain-tops .", 
+        "obfuscation-id": 53, 
+        "original": " Unseen things not of earth\u2014or at least not of tri-dimensional earth\u2014rushed foetid and horrible through New England\u2019s glens, and brooded obscenely on the mountain-tops.", 
+        "original-end-charpos": 6569, 
+        "original-start-charpos": 6402
+    }, 
+    {
+        "obfuscation": "Of this he had retentive felt certain .", 
+        "obfuscation-id": 54, 
+        "original": " Of this he had long felt certain.", 
+        "original-end-charpos": 6603, 
+        "original-start-charpos": 6570
+    }, 
+    {
+        "obfuscation": "Now he seemed to feel the close presence of some terrible part of the intruding horror , and to glimpse a hellish advance in the black dominion of the ancient and once passive nightmare .", 
+        "obfuscation-id": 55, 
+        "original": " Now he seemed to sense the close presence of some terrible part of the intruding horror, and to glimpse a hellish advance in the black dominion of the ancient and once passive nightmare.", 
+        "original-end-charpos": 6790, 
+        "original-start-charpos": 6604
+    }, 
+    {
+        "obfuscation": "He locked away the Necronomicon with a shudder of disgust , but the room still reeked with an unholy and unidentifiable malodor .", 
+        "obfuscation-id": 56, 
+        "original": " He locked away the Necronomicon with a shudder of disgust, but the room still reeked with an unholy and unidentifiable stench.", 
+        "original-end-charpos": 6917, 
+        "original-start-charpos": 6791
+    }, 
+    {
+        "obfuscation": "\u201cAs a foulness shall ye know them , \u201d he quoted .", 
+        "obfuscation-id": 57, 
+        "original": " \u201cAs a foulness shall ye know them,\u201d he quoted.", 
+        "original-end-charpos": 6964, 
+        "original-start-charpos": 6918
+    }, 
+    {
+        "obfuscation": "Yes\u2014the smell was the same as that which had sickened him at the Whateley farmhouse less than three years before .", 
+        "obfuscation-id": 58, 
+        "original": " Yes\u2014the odour was the same as that which had sickened him at the Whateley farmhouse less than three years before.", 
+        "original-end-charpos": 7078, 
+        "original-start-charpos": 6965
+    }, 
+    {
+        "obfuscation": "He thought of Wilbur , goatish and ominous , once again , and laughed mockingly at the village rumor of his parentage .", 
+        "obfuscation-id": 59, 
+        "original": " He thought of Wilbur, goatish and ominous, once again, and laughed mockingly at the village rumours of his parentage.", 
+        "original-end-charpos": 7196, 
+        "original-start-charpos": 7079
+    }, 
+    {
+        "obfuscation": "\u201cInbreeding ? \u201d Armitage murmured half-aloud to himself .", 
+        "obfuscation-id": 60, 
+        "original": "\n      \u201cInbreeding?\u201d Armitage muttered half-aloud to himself.", 
+        "original-end-charpos": 7257, 
+        "original-start-charpos": 7197
+    }, 
+    {
+        "obfuscation": "\u201cGreat God , what simpletons !", 
+        "obfuscation-id": 61, 
+        "original": " \u201cGreat God, what simpletons!", 
+        "original-end-charpos": 7286, 
+        "original-start-charpos": 7258
+    }, 
+    {
+        "obfuscation": "Shew them Arthur Machen\u2019s Great God Pan and they\u2019ll think it a coarse Dunwich scandal !", 
+        "obfuscation-id": 62, 
+        "original": " Shew them Arthur Machen\u2019s Great God Pan and they\u2019ll think it a common Dunwich scandal!", 
+        "original-end-charpos": 7373, 
+        "original-start-charpos": 7287
+    }, 
+    {
+        "obfuscation": "But what thing\u2014what cursed shapeless influence on or off this three-dimensioned earth\u2014was Wilbur Whateley\u2019s father ?", 
+        "obfuscation-id": 63, 
+        "original": " But what thing\u2014what cursed shapeless influence on or off this three-dimensioned earth\u2014was Wilbur Whateley\u2019s father?", 
+        "original-end-charpos": 7489, 
+        "original-start-charpos": 7374
+    }, 
+    {
+        "obfuscation": "Born on Candlemas\u2014nine months after May-Eve of 1912 , when the talk about the queer land noises reached clear to Arkham\u2014 What walked on the mountains that May-Night ?", 
+        "obfuscation-id": 64, 
+        "original": " Born on Candlemas\u2014nine months after May-Eve of 1912, when the talk about the queer earth noises reached clear to Arkham\u2014 What walked on the mountains that May-Night?", 
+        "original-end-charpos": 7655, 
+        "original-start-charpos": 7490
+    }, 
+    {
+        "obfuscation": "What Roodmas horror fastened itself on the world in half-human flesh and blood ? \u201d During the ensuing weeks Dr. Armitage set about to collect all possible data on Wilbur Whateley and the formless bearings around Dunwich .", 
+        "obfuscation-id": 65, 
+        "original": " What Roodmas horror fastened itself on the world in half-human flesh and blood?\u201d\n      During the ensuing weeks Dr. Armitage set about to collect all possible data on Wilbur Whateley and the formless presences around Dunwich.", 
+        "original-end-charpos": 7881, 
+        "original-start-charpos": 7656
+    }, 
+    {
+        "obfuscation": "He got in communication with Dr. Houghton of Aylesbury , who had attended Old Whateley in his last illness , and found much to ponder over in the grandfather\u2019s last words as quoted by the doctor .", 
+        "obfuscation-id": 66, 
+        "original": " He got in communication with Dr. Houghton of Aylesbury, who had attended Old Whateley in his last illness, and found much to ponder over in the grandfather\u2019s last words as quoted by the physician.", 
+        "original-end-charpos": 8078, 
+        "original-start-charpos": 7882
+    }, 
+    {
+        "obfuscation": "A visit to Dunwich Village failed to bring out much that were new ; but a close survey of the Necronomicon , in those parts which Wilbur had sought so avidly , seemed to supply new and terrible clues to the nature , methods , and desires of the strange evil so vaguely threatening this planet .", 
+        "obfuscation-id": 67, 
+        "original": " A visit to Dunwich Village failed to bring out much that was new; but a close survey of the Necronomicon, in those parts which Wilbur had sought so avidly, seemed to supply new and terrible clues to the nature, methods, and desires of the strange evil so vaguely threatening this planet.", 
+        "original-end-charpos": 8366, 
+        "original-start-charpos": 8079
+    }, 
+    {
+        "obfuscation": "Talks with several students of archaic lore in Boston , and letters to many others elsewhere , gave him a growing amazement which passed slowly through varied degrees of alarm to a state of really acute spiritual concern .", 
+        "obfuscation-id": 68, 
+        "original": " Talks with several students of archaic lore in Boston, and letters to many others elsewhere, gave him a growing amazement which passed slowly through varied degrees of alarm to a state of really acute spiritual fear.", 
+        "original-end-charpos": 8583, 
+        "original-start-charpos": 8367
+    }, 
+    {
+        "obfuscation": "As the summer drew on he felt dimly that something ought to be done about the lurking terrors of the upper Miskatonic valley , and about the atrocious being known to the human world as Wilbur Whateley .", 
+        "obfuscation-id": 69, 
+        "original": " As the summer drew on he felt dimly that something ought to be done about the lurking terrors of the upper Miskatonic valley, and about the monstrous being known to the human world as Wilbur Whateley.\n", 
+        "original-end-charpos": 8785, 
+        "original-start-charpos": 8584
+    }
+]

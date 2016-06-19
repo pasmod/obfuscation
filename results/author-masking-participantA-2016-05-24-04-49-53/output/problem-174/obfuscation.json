@@ -1,0 +1,373 @@
+[
+    {
+        "obfuscation": "Now , sir , we 're all ready for rehearsal of '' Orpheus with his Lute . ''", 
+        "obfuscation-id": 1, 
+        "original": " Now, sir, we're all ready for rehearsal of\n\"Orpheus with his Lute.\"", 
+        "original-end-charpos": 67, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "'' Orphoos with his loot ! ''", 
+        "obfuscation-id": 2, 
+        "original": "\n\n\"Orphoos with his loot!\"", 
+        "original-end-charpos": 93, 
+        "original-start-charpos": 68
+    }, 
+    {
+        "obfuscation": "That his loot , Mr Vane ?", 
+        "obfuscation-id": 3, 
+        "original": "  That his\nloot, Mr Vane?", 
+        "original-end-charpos": 118, 
+        "original-start-charpos": 94
+    }, 
+    {
+        "obfuscation": "Why did n't he pinch something more precious ?", 
+        "obfuscation-id": 4, 
+        "original": "  Why didn't he pinch something more precious?", 
+        "original-end-charpos": 164, 
+        "original-start-charpos": 119
+    }, 
+    {
+        "obfuscation": "Has this high-brow curtain-raiser of yours got any `` pep '' in it ?", 
+        "obfuscation-id": 5, 
+        "original": "  Has\nthis high-brow curtain-raiser of yours got any \"pep\" in it?", 
+        "original-end-charpos": 229, 
+        "original-start-charpos": 165
+    }, 
+    {
+        "obfuscation": "It has charm .", 
+        "obfuscation-id": 6, 
+        "original": "\n\nIt has charm.", 
+        "original-end-charpos": 244, 
+        "original-start-charpos": 230
+    }, 
+    {
+        "obfuscation": "I 'd thought of `` Pop goes the Weasel '' with fiddling Miggs .", 
+        "obfuscation-id": 7, 
+        "original": "\n\nI'd thought of \"Pop goes the Weasel\" with little Miggs.", 
+        "original-end-charpos": 301, 
+        "original-start-charpos": 245
+    }, 
+    {
+        "obfuscation": "We kind of need a cock-tail before `` Louisa loses , '' Mr Vane .", 
+        "obfuscation-id": 8, 
+        "original": "  We\nkind of want a cock-tail before \"Louisa loses,\" Mr Vane.", 
+        "original-end-charpos": 362, 
+        "original-start-charpos": 302
+    }, 
+    {
+        "obfuscation": "Well , sir , you 'll understand .", 
+        "obfuscation-id": 9, 
+        "original": "\n\nWell, sir, you'll see.", 
+        "original-end-charpos": 386, 
+        "original-start-charpos": 363
+    }, 
+    {
+        "obfuscation": "This your lighting ?", 
+        "obfuscation-id": 10, 
+        "original": "\n\nThis your lighting?", 
+        "original-end-charpos": 407, 
+        "original-start-charpos": 387
+    }, 
+    {
+        "obfuscation": "It 's a bit on the spiritool side .", 
+        "obfuscation-id": 11, 
+        "original": "  It's a bit on the spiritool side.", 
+        "original-end-charpos": 442, 
+        "original-start-charpos": 408
+    }, 
+    {
+        "obfuscation": "I've left my glass .", 
+        "obfuscation-id": 12, 
+        "original": "  I've\nleft my glass.", 
+        "original-end-charpos": 463, 
+        "original-start-charpos": 443
+    }, 
+    {
+        "obfuscation": "Guess I 'll sit in the front row .", 
+        "obfuscation-id": 13, 
+        "original": "  Guess I'll sit in the front row.", 
+        "original-end-charpos": 497, 
+        "original-start-charpos": 464
+    }, 
+    {
+        "obfuscation": "Ha'f a minute .", 
+        "obfuscation-id": 14, 
+        "original": "  Ha'f a minute.", 
+        "original-end-charpos": 513, 
+        "original-start-charpos": 498
+    }, 
+    {
+        "obfuscation": "Who plays this Orphoos ?", 
+        "obfuscation-id": 15, 
+        "original": "  Who\nplays this Orphoos?", 
+        "original-end-charpos": 538, 
+        "original-start-charpos": 514
+    }, 
+    {
+        "obfuscation": "George Fleetway .", 
+        "obfuscation-id": 16, 
+        "original": "\n\nGeorge Fleetway.", 
+        "original-end-charpos": 556, 
+        "original-start-charpos": 539
+    }, 
+    {
+        "obfuscation": "Has he got punch ?", 
+        "obfuscation-id": 17, 
+        "original": "\n\nHas he got punch?", 
+        "original-end-charpos": 575, 
+        "original-start-charpos": 557
+    }, 
+    {
+        "obfuscation": "It 's a very small part .", 
+        "obfuscation-id": 18, 
+        "original": "\n\nIt's a very small part.", 
+        "original-end-charpos": 600, 
+        "original-start-charpos": 576
+    }, 
+    {
+        "obfuscation": "Who are the others ?", 
+        "obfuscation-id": 19, 
+        "original": "\n\nWho are the others?", 
+        "original-end-charpos": 621, 
+        "original-start-charpos": 601
+    }, 
+    {
+        "obfuscation": "Guy Toone plays the Professor ; Vanessa Hellgrove his wife ; Maude Hopkins the faun .", 
+        "obfuscation-id": 20, 
+        "original": "\n\nGuy Toone plays the Professor; Vanessa Hellgrove his wife;\nMaude Hopkins the faun.", 
+        "original-end-charpos": 705, 
+        "original-start-charpos": 622
+    }, 
+    {
+        "obfuscation": "H 'm !", 
+        "obfuscation-id": 21, 
+        "original": "\n\nH'm!", 
+        "original-end-charpos": 711, 
+        "original-start-charpos": 706
+    }, 
+    {
+        "obfuscation": "Names make n't draw .", 
+        "obfuscation-id": 22, 
+        "original": "  Names don't draw.", 
+        "original-end-charpos": 730, 
+        "original-start-charpos": 712
+    }, 
+    {
+        "obfuscation": "They 're not expensive , any of them .", 
+        "obfuscation-id": 23, 
+        "original": "\n\nThey're not expensive, any of them.", 
+        "original-end-charpos": 767, 
+        "original-start-charpos": 731
+    }, 
+    {
+        "obfuscation": "Miss Hellgrove 's a find , I think .", 
+        "obfuscation-id": 24, 
+        "original": "  Miss Hellgrove's a find,\nI think.", 
+        "original-end-charpos": 802, 
+        "original-start-charpos": 768
+    }, 
+    {
+        "obfuscation": "Pretty ?", 
+        "obfuscation-id": 25, 
+        "original": "\n\nPretty?", 
+        "original-end-charpos": 811, 
+        "original-start-charpos": 803
+    }, 
+    {
+        "obfuscation": "Quite .", 
+        "obfuscation-id": 26, 
+        "original": "\n\nQuite.", 
+        "original-end-charpos": 819, 
+        "original-start-charpos": 812
+    }, 
+    {
+        "obfuscation": "Arty ?", 
+        "obfuscation-id": 27, 
+        "original": "\n\nArty?", 
+        "original-end-charpos": 826, 
+        "original-start-charpos": 820
+    }, 
+    {
+        "obfuscation": "No .", 
+        "obfuscation-id": 28, 
+        "original": "\n\nNo.", 
+        "original-end-charpos": 831, 
+        "original-start-charpos": 827
+    }, 
+    {
+        "obfuscation": "Look here , Mr FRUST , it 's no use your expecting another `` Pop goes the Weasel . ''", 
+        "obfuscation-id": 29, 
+        "original": " Look here, Mr FRUST,\nit's no use your expecting another \"Pop goes the Weasel.\"", 
+        "original-end-charpos": 910, 
+        "original-start-charpos": 832
+    }, 
+    {
+        "obfuscation": "We-ell , if it 's got punch and go , that 'll be enough for me .", 
+        "obfuscation-id": 30, 
+        "original": "\n\nWe-ell, if it's got punch and go, that'll be enough for me.", 
+        "original-end-charpos": 971, 
+        "original-start-charpos": 911
+    }, 
+    {
+        "obfuscation": "Let 's get to it !", 
+        "obfuscation-id": 31, 
+        "original": "\nLet's get to it!", 
+        "original-end-charpos": 988, 
+        "original-start-charpos": 972
+    }, 
+    {
+        "obfuscation": "Mr Foreson ?", 
+        "obfuscation-id": 32, 
+        "original": "\n\nMr Foreson?", 
+        "original-end-charpos": 1001, 
+        "original-start-charpos": 989
+    }, 
+    {
+        "obfuscation": "Sir ?", 
+        "obfuscation-id": 33, 
+        "original": "\n\nSir?", 
+        "original-end-charpos": 1007, 
+        "original-start-charpos": 1002
+    }, 
+    {
+        "obfuscation": "Beginners .", 
+        "obfuscation-id": 34, 
+        "original": "\n\nBeginners.", 
+        "original-end-charpos": 1019, 
+        "original-start-charpos": 1008
+    }, 
+    {
+        "obfuscation": "Take your curtain down .", 
+        "obfuscation-id": 35, 
+        "original": "  Take your curtain down.", 
+        "original-end-charpos": 1044, 
+        "original-start-charpos": 1020
+    }, 
+    {
+        "obfuscation": "Some voice !", 
+        "obfuscation-id": 36, 
+        "original": "\n\nSome voice!", 
+        "original-end-charpos": 1057, 
+        "original-start-charpos": 1045
+    }, 
+    {
+        "obfuscation": "'' Orpheus symbolized the voice of Beauty , the call of life , luring us mortals with his song back from the graves we dig for ourselves .", 
+        "obfuscation-id": 37, 
+        "original": "\n\n\"Orpheus symbolized the voice of Beauty, the call of life,\nluring us mortals with his song back from the graves we dig for\nourselves.", 
+        "original-end-charpos": 1192, 
+        "original-start-charpos": 1058
+    }, 
+    {
+        "obfuscation": "Probably the ancients realized this neither more nor less Arty ?", 
+        "obfuscation-id": 38, 
+        "original": "  Probably the ancients realized this neither more nor less\n\nArty?", 
+        "original-end-charpos": 1258, 
+        "original-start-charpos": 1193
+    }, 
+    {
+        "obfuscation": "No .", 
+        "obfuscation-id": 39, 
+        "original": "\n\nNo.", 
+        "original-end-charpos": 1263, 
+        "original-start-charpos": 1259
+    }, 
+    {
+        "obfuscation": "Look here , Mr FRUST , it 's no use your expecting another `` Pop goes the Weasel . ''", 
+        "obfuscation-id": 40, 
+        "original": " Look here, Mr FRUST, it's no use your expecting another \"Pop goes the Weasel.\"", 
+        "original-end-charpos": 1342, 
+        "original-start-charpos": 1264
+    }, 
+    {
+        "obfuscation": "We-ell , if it 's got punch and go , that 'll be enough for me .", 
+        "obfuscation-id": 41, 
+        "original": "\n\nWe-ell, if it's got punch and go, that'll be enough for me.", 
+        "original-end-charpos": 1403, 
+        "original-start-charpos": 1343
+    }, 
+    {
+        "obfuscation": "Let 's get to it !", 
+        "obfuscation-id": 42, 
+        "original": " Let's get to it!", 
+        "original-end-charpos": 1420, 
+        "original-start-charpos": 1404
+    }, 
+    {
+        "obfuscation": "Mr Foreson ?", 
+        "obfuscation-id": 43, 
+        "original": "\n\nMr Foreson?", 
+        "original-end-charpos": 1433, 
+        "original-start-charpos": 1421
+    }, 
+    {
+        "obfuscation": "Sir ?", 
+        "obfuscation-id": 44, 
+        "original": "\n\nSir?", 
+        "original-end-charpos": 1439, 
+        "original-start-charpos": 1434
+    }, 
+    {
+        "obfuscation": "Beginners .", 
+        "obfuscation-id": 45, 
+        "original": "\n\nBeginners.", 
+        "original-end-charpos": 1451, 
+        "original-start-charpos": 1440
+    }, 
+    {
+        "obfuscation": "Take your curtain down .", 
+        "obfuscation-id": 46, 
+        "original": "  Take your curtain down.", 
+        "original-end-charpos": 1476, 
+        "original-start-charpos": 1452
+    }, 
+    {
+        "obfuscation": "Some voice !", 
+        "obfuscation-id": 47, 
+        "original": "\n\nSome voice!", 
+        "original-end-charpos": 1489, 
+        "original-start-charpos": 1477
+    }, 
+    {
+        "obfuscation": "'' Orpheus symbolized the voice of Beauty , the call of life , luring us mortals with his song back from the graves we dig for ourselves .", 
+        "obfuscation-id": 48, 
+        "original": "\n\n\"Orpheus symbolized the voice of Beauty, the call of life,\nluring us mortals with his song back from the graves we dig for\nourselves.", 
+        "original-end-charpos": 1624, 
+        "original-start-charpos": 1490
+    }, 
+    {
+        "obfuscation": "Probably the ancients realized this neither more nor less than we moderns .", 
+        "obfuscation-id": 49, 
+        "original": "  Probably the ancients realized this neither more nor less than we moderns.", 
+        "original-end-charpos": 1700, 
+        "original-start-charpos": 1625
+    }, 
+    {
+        "obfuscation": "Mankind has not changed .", 
+        "obfuscation-id": 50, 
+        "original": "  Mankind has not changed.", 
+        "original-end-charpos": 1726, 
+        "original-start-charpos": 1701
+    }, 
+    {
+        "obfuscation": "The civilized being still hides the faun and the dryad within its broadcloth and its silk .", 
+        "obfuscation-id": 51, 
+        "original": "  The civilized being still\nhides the faun and the dryad within its broadcloth and its silk.", 
+        "original-end-charpos": 1818, 
+        "original-start-charpos": 1727
+    }, 
+    {
+        "obfuscation": "And yet '' -- [ He stops , with a dried-up air-rather impatiently ] Go on , my dear !", 
+        "obfuscation-id": 52, 
+        "original": "  And\nyet\"--[He stops, with a dried-up air-rather impatiently]  Go on, my\ndear!", 
+        "original-end-charpos": 1897, 
+        "original-start-charpos": 1819
+    }, 
+    {
+        "obfuscation": "It helps the atmosphere .", 
+        "obfuscation-id": 53, 
+        "original": "  It helps the atmosphere.\n", 
+        "original-end-charpos": 1924, 
+        "original-start-charpos": 1898
+    }
+]

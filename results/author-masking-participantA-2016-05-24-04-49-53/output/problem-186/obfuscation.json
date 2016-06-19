@@ -1,0 +1,506 @@
+[
+    {
+        "obfuscation": "Jim , you wo n't become fightin ' in the sun , with the birds all callin ' ?", 
+        "obfuscation-id": 1, 
+        "original": "Jim, you won't go fightin' in the sun, with the birds all callin'?", 
+        "original-end-charpos": 65, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "That depends on 'im .", 
+        "obfuscation-id": 2, 
+        "original": "\n\nThat depends on 'im.", 
+        "original-end-charpos": 87, 
+        "original-start-charpos": 66
+    }, 
+    {
+        "obfuscation": "I 'm not lookin ' for it .", 
+        "obfuscation-id": 3, 
+        "original": "  I'm not lookin' for it.", 
+        "original-end-charpos": 112, 
+        "original-start-charpos": 88
+    }, 
+    {
+        "obfuscation": "Daisy , I love you .", 
+        "obfuscation-id": 4, 
+        "original": "  Daisy, I\nlove you.", 
+        "original-end-charpos": 132, 
+        "original-start-charpos": 113
+    }, 
+    {
+        "obfuscation": "I love your hair .", 
+        "obfuscation-id": 5, 
+        "original": "  I love your hair.", 
+        "original-end-charpos": 151, 
+        "original-start-charpos": 133
+    }, 
+    {
+        "obfuscation": "I love your eyes .", 
+        "obfuscation-id": 6, 
+        "original": "  I love your eyes.", 
+        "original-end-charpos": 170, 
+        "original-start-charpos": 152
+    }, 
+    {
+        "obfuscation": "I love you .", 
+        "obfuscation-id": 7, 
+        "original": "  I love you.", 
+        "original-end-charpos": 183, 
+        "original-start-charpos": 171
+    }, 
+    {
+        "obfuscation": "And I love you , Jim .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nAnd I love you, Jim.", 
+        "original-end-charpos": 205, 
+        "original-start-charpos": 184
+    }, 
+    {
+        "obfuscation": "I do n't want nothin ' more than you in all the world .", 
+        "obfuscation-id": 9, 
+        "original": "  I don't want nothin' more than you\nin all the world.", 
+        "original-end-charpos": 259, 
+        "original-start-charpos": 206
+    }, 
+    {
+        "obfuscation": "Amen to that , my dear .", 
+        "obfuscation-id": 10, 
+        "original": "\n\nAmen to that, my dear.", 
+        "original-end-charpos": 283, 
+        "original-start-charpos": 260
+    }, 
+    {
+        "obfuscation": "Kiss me close !", 
+        "obfuscation-id": 11, 
+        "original": "  Kiss me close!", 
+        "original-end-charpos": 299, 
+        "original-start-charpos": 284
+    }, 
+    {
+        "obfuscation": "`` I 'll be properly there to-night , Where the fields are snowy white ; Banjos ringing , darkies singing , All the world seems bright . ''", 
+        "obfuscation-id": 12, 
+        "original": "\n\n                   \"I'll be right there to-night,\n                    Where the fields are snowy white;\n                    Banjos ringing, darkies singing,\n                    All the world seems bright.\"", 
+        "original-end-charpos": 506, 
+        "original-start-charpos": 300
+    }, 
+    {
+        "obfuscation": "It 's him !", 
+        "obfuscation-id": 13, 
+        "original": "\n\nIt's him!", 
+        "original-end-charpos": 517, 
+        "original-start-charpos": 507
+    }, 
+    {
+        "obfuscation": "Do n't become the wind up , Daisy .", 
+        "obfuscation-id": 14, 
+        "original": "\n\n\nDon't get the wind up, Daisy.", 
+        "original-end-charpos": 549, 
+        "original-start-charpos": 518
+    }, 
+    {
+        "obfuscation": "I 'm here !", 
+        "obfuscation-id": 15, 
+        "original": "  I'm here!", 
+        "original-end-charpos": 560, 
+        "original-start-charpos": 550
+    }, 
+    {
+        "obfuscation": "Daisy !", 
+        "obfuscation-id": 16, 
+        "original": "\n\nDaisy!", 
+        "original-end-charpos": 568, 
+        "original-start-charpos": 561
+    }, 
+    {
+        "obfuscation": "Daisy !", 
+        "obfuscation-id": 17, 
+        "original": "  Daisy!", 
+        "original-end-charpos": 576, 
+        "original-start-charpos": 569
+    }, 
+    {
+        "obfuscation": "Hallo , old pretty girl !", 
+        "obfuscation-id": 18, 
+        "original": "  Hallo, old pretty girl!", 
+        "original-end-charpos": 601, 
+        "original-start-charpos": 577
+    }, 
+    {
+        "obfuscation": "Hallo , Jack !", 
+        "obfuscation-id": 19, 
+        "original": "\n\nHallo, Jack!", 
+        "original-end-charpos": 615, 
+        "original-start-charpos": 602
+    }, 
+    {
+        "obfuscation": "I got things to tell you !", 
+        "obfuscation-id": 20, 
+        "original": " I got things to tell you!", 
+        "original-end-charpos": 641, 
+        "original-start-charpos": 616
+    }, 
+    {
+        "obfuscation": "What sort o ' things , this lovely day ?", 
+        "obfuscation-id": 21, 
+        "original": "\n\n What sort o' things, this lovely day?", 
+        "original-end-charpos": 681, 
+        "original-start-charpos": 642
+    }, 
+    {
+        "obfuscation": "Why , I got things that 'd take me years to tell .", 
+        "obfuscation-id": 22, 
+        "original": "  Why, I got things\nthat'd take me years to tell.", 
+        "original-end-charpos": 730, 
+        "original-start-charpos": 682
+    }, 
+    {
+        "obfuscation": "Have you missed me , Daisy ?", 
+        "obfuscation-id": 23, 
+        "original": "  Have you missed me, Daisy?", 
+        "original-end-charpos": 758, 
+        "original-start-charpos": 731
+    }, 
+    {
+        "obfuscation": "You been so long .", 
+        "obfuscation-id": 24, 
+        "original": "\n\nYou been so long.", 
+        "original-end-charpos": 777, 
+        "original-start-charpos": 759
+    }, 
+    {
+        "obfuscation": "thus I 'ave .", 
+        "obfuscation-id": 25, 
+        "original": "\n\nSo I 'ave.", 
+        "original-end-charpos": 789, 
+        "original-start-charpos": 778
+    }, 
+    {
+        "obfuscation": "My Gawd !", 
+        "obfuscation-id": 26, 
+        "original": "  My Gawd!", 
+        "original-end-charpos": 799, 
+        "original-start-charpos": 790
+    }, 
+    {
+        "obfuscation": "It 's a way they 'ave in the Army .", 
+        "obfuscation-id": 27, 
+        "original": "  It's a way they 'ave in the Army.", 
+        "original-end-charpos": 834, 
+        "original-start-charpos": 800
+    }, 
+    {
+        "obfuscation": "I said when I got out of it I 'd laugh .", 
+        "obfuscation-id": 28, 
+        "original": "  I\nsaid when I got out of it I'd laugh.", 
+        "original-end-charpos": 874, 
+        "original-start-charpos": 835
+    }, 
+    {
+        "obfuscation": "Like as the sun itself I used to think of you , Daisy , when the trumps were comin ' over , and the wind was up .", 
+        "obfuscation-id": 29, 
+        "original": "  Like as the sun itself I used\nto think of you, Daisy, when the trumps was comin' over, and the wind\nwas up.", 
+        "original-end-charpos": 983, 
+        "original-start-charpos": 875
+    }, 
+    {
+        "obfuscation": "D'you remember that last night in the wood ?", 
+        "obfuscation-id": 30, 
+        "original": "  D'you remember that last night in the wood?", 
+        "original-end-charpos": 1028, 
+        "original-start-charpos": 984
+    }, 
+    {
+        "obfuscation": "`` Come back and marry me quick , Jack . ''", 
+        "obfuscation-id": 31, 
+        "original": "  \"Come back and\nmarry me quick, Jack.\"", 
+        "original-end-charpos": 1067, 
+        "original-start-charpos": 1029
+    }, 
+    {
+        "obfuscation": "Well , here I am -- got me pass to heaven .", 
+        "obfuscation-id": 32, 
+        "original": "  Well, here I am--got me pass to heaven.", 
+        "original-end-charpos": 1108, 
+        "original-start-charpos": 1068
+    }, 
+    {
+        "obfuscation": "No more fightin ' , no more drillin ' , no more sleepin ' rough .", 
+        "obfuscation-id": 33, 
+        "original": "  No\nmore fightin', no more drillin', no more sleepin' rough.", 
+        "original-end-charpos": 1169, 
+        "original-start-charpos": 1109
+    }, 
+    {
+        "obfuscation": "We can get married now , Daisy .", 
+        "obfuscation-id": 34, 
+        "original": "  We can get\nmarried now, Daisy.", 
+        "original-end-charpos": 1201, 
+        "original-start-charpos": 1170
+    }, 
+    {
+        "obfuscation": "We can live soft an ' 'appy .", 
+        "obfuscation-id": 35, 
+        "original": "  We can live soft an' 'appy.", 
+        "original-end-charpos": 1230, 
+        "original-start-charpos": 1202
+    }, 
+    {
+        "obfuscation": "hold us a kiss , my dear .", 
+        "obfuscation-id": 36, 
+        "original": "  Give us a kiss, my\ndear.", 
+        "original-end-charpos": 1256, 
+        "original-start-charpos": 1231
+    }, 
+    {
+        "obfuscation": "No .", 
+        "obfuscation-id": 37, 
+        "original": "\n\nNo.", 
+        "original-end-charpos": 1261, 
+        "original-start-charpos": 1257
+    }, 
+    {
+        "obfuscation": "Why not ?", 
+        "obfuscation-id": 38, 
+        "original": "\n\nWhy not?", 
+        "original-end-charpos": 1271, 
+        "original-start-charpos": 1262
+    }, 
+    {
+        "obfuscation": "That 's why , soldier .", 
+        "obfuscation-id": 39, 
+        "original": "\n\n That's why, soldier.", 
+        "original-end-charpos": 1294, 
+        "original-start-charpos": 1272
+    }, 
+    {
+        "obfuscation": "'Oo are you , Pompey ?", 
+        "obfuscation-id": 40, 
+        "original": "\n\n'Oo are you, Pompey?", 
+        "original-end-charpos": 1316, 
+        "original-start-charpos": 1295
+    }, 
+    {
+        "obfuscation": "The sun do n't shine in your inside , do it ?", 
+        "obfuscation-id": 41, 
+        "original": "  The sun\ndon't shine in your inside, do it?", 
+        "original-end-charpos": 1360, 
+        "original-start-charpos": 1317
+    }, 
+    {
+        "obfuscation": "'Oo is he , Daisy ?", 
+        "obfuscation-id": 42, 
+        "original": "  'Oo is he, Daisy?", 
+        "original-end-charpos": 1379, 
+        "original-start-charpos": 1361
+    }, 
+    {
+        "obfuscation": "I 'll fight you for her .", 
+        "obfuscation-id": 43, 
+        "original": "\n\n I'll fight you for her.", 
+        "original-end-charpos": 1405, 
+        "original-start-charpos": 1380
+    }, 
+    {
+        "obfuscation": "Mate , you done your bit , an ' I done mine .", 
+        "obfuscation-id": 44, 
+        "original": "\n\n Mate, you done your bit, an' I done mine.", 
+        "original-end-charpos": 1449, 
+        "original-start-charpos": 1406
+    }, 
+    {
+        "obfuscation": "It's took us two ways , seemin'ly .", 
+        "obfuscation-id": 45, 
+        "original": "  It's\ntook us two ways, seemin'ly.", 
+        "original-end-charpos": 1484, 
+        "original-start-charpos": 1450
+    }, 
+    {
+        "obfuscation": "Jim !", 
+        "obfuscation-id": 46, 
+        "original": "\n\nJim!", 
+        "original-end-charpos": 1490, 
+        "original-start-charpos": 1485
+    }, 
+    {
+        "obfuscation": "I do n't want 'is charity .", 
+        "obfuscation-id": 47, 
+        "original": "\n\nI don't want 'is charity.", 
+        "original-end-charpos": 1517, 
+        "original-start-charpos": 1491
+    }, 
+    {
+        "obfuscation": "I entirely want what I can take .", 
+        "obfuscation-id": 48, 
+        "original": "  I only want what I can take.", 
+        "original-end-charpos": 1547, 
+        "original-start-charpos": 1518
+    }, 
+    {
+        "obfuscation": "Daisy , which of us will you 'ave ?", 
+        "obfuscation-id": 49, 
+        "original": "\n\nDaisy, which of us will you 'ave?", 
+        "original-end-charpos": 1582, 
+        "original-start-charpos": 1548
+    }, 
+    {
+        "obfuscation": "Oh !", 
+        "obfuscation-id": 50, 
+        "original": "\n\nOh!", 
+        "original-end-charpos": 1587, 
+        "original-start-charpos": 1583
+    }, 
+    {
+        "obfuscation": "Him !", 
+        "obfuscation-id": 51, 
+        "original": "  Him!", 
+        "original-end-charpos": 1593, 
+        "original-start-charpos": 1588
+    }, 
+    {
+        "obfuscation": "You see , mate !", 
+        "obfuscation-id": 52, 
+        "original": "\n\n\nYou see, mate!", 
+        "original-end-charpos": 1610, 
+        "original-start-charpos": 1594
+    }, 
+    {
+        "obfuscation": "Put your 'ands down .", 
+        "obfuscation-id": 53, 
+        "original": "  Put your 'ands down.", 
+        "original-end-charpos": 1632, 
+        "original-start-charpos": 1611
+    }, 
+    {
+        "obfuscation": "There 's nothin ' for it but a laugh .", 
+        "obfuscation-id": 54, 
+        "original": "  There's nothin' for\nit but a laugh.", 
+        "original-end-charpos": 1669, 
+        "original-start-charpos": 1633
+    }, 
+    {
+        "obfuscation": "You an ' me know that .", 
+        "obfuscation-id": 55, 
+        "original": "  You an' me know that.", 
+        "original-end-charpos": 1692, 
+        "original-start-charpos": 1670
+    }, 
+    {
+        "obfuscation": "Laugh , mate !", 
+        "obfuscation-id": 56, 
+        "original": "  Laugh, mate!", 
+        "original-end-charpos": 1706, 
+        "original-start-charpos": 1693
+    }, 
+    {
+        "obfuscation": "You blarsted -- -- !", 
+        "obfuscation-id": 57, 
+        "original": "\n\nYou blarsted----!", 
+        "original-end-charpos": 1725, 
+        "original-start-charpos": 1707
+    }, 
+    {
+        "obfuscation": "It 's no use , mate .", 
+        "obfuscation-id": 58, 
+        "original": "\n\nIt's no use, mate.", 
+        "original-end-charpos": 1745, 
+        "original-start-charpos": 1726
+    }, 
+    {
+        "obfuscation": "I ca n't do it .", 
+        "obfuscation-id": 59, 
+        "original": "  I can't do it.", 
+        "original-end-charpos": 1761, 
+        "original-start-charpos": 1746
+    }, 
+    {
+        "obfuscation": "I said I 'd laugh to-day , and laugh I will .", 
+        "obfuscation-id": 60, 
+        "original": "  I said I'd laugh\nto-day, and laugh I will.", 
+        "original-end-charpos": 1805, 
+        "original-start-charpos": 1762
+    }, 
+    {
+        "obfuscation": "I 've come through that , an ' all the stink of it ; I 've come through sorrer .", 
+        "obfuscation-id": 61, 
+        "original": "  I've come through that, an' all the stink\nof it; I've come through sorrer.", 
+        "original-end-charpos": 1881, 
+        "original-start-charpos": 1806
+    }, 
+    {
+        "obfuscation": "Never again !", 
+        "obfuscation-id": 62, 
+        "original": "  Never again!", 
+        "original-end-charpos": 1895, 
+        "original-start-charpos": 1882
+    }, 
+    {
+        "obfuscation": "Cheerio , mate !", 
+        "obfuscation-id": 63, 
+        "original": "  Cheerio, mate!", 
+        "original-end-charpos": 1911, 
+        "original-start-charpos": 1896
+    }, 
+    {
+        "obfuscation": "The sun 's a-shinin ' !", 
+        "obfuscation-id": 64, 
+        "original": "  The\nsun's a-shinin'!", 
+        "original-end-charpos": 1933, 
+        "original-start-charpos": 1912
+    }, 
+    {
+        "obfuscation": "He turns away .", 
+        "obfuscation-id": 65, 
+        "original": "  He turns away.", 
+        "original-end-charpos": 1949, 
+        "original-start-charpos": 1934
+    }, 
+    {
+        "obfuscation": "Jack , do n't think too 'ard of me !", 
+        "obfuscation-id": 66, 
+        "original": "\n\nJack, don't think too 'ard of me!", 
+        "original-end-charpos": 1984, 
+        "original-start-charpos": 1950
+    }, 
+    {
+        "obfuscation": "No fear , my dear !", 
+        "obfuscation-id": 67, 
+        "original": "\n\nNo fear, my dear!", 
+        "original-end-charpos": 2003, 
+        "original-start-charpos": 1985
+    }, 
+    {
+        "obfuscation": "Enjoy your fancy !", 
+        "obfuscation-id": 68, 
+        "original": "  Enjoy your fancy!", 
+        "original-end-charpos": 2022, 
+        "original-start-charpos": 2004
+    }, 
+    {
+        "obfuscation": "thus long !", 
+        "obfuscation-id": 69, 
+        "original": "  So long!", 
+        "original-end-charpos": 2032, 
+        "original-start-charpos": 2023
+    }, 
+    {
+        "obfuscation": "Gawd bless you both !", 
+        "obfuscation-id": 70, 
+        "original": "  Gawd bless you both!", 
+        "original-end-charpos": 2054, 
+        "original-start-charpos": 2033
+    }, 
+    {
+        "obfuscation": "'E 's mad !", 
+        "obfuscation-id": 71, 
+        "original": "\n\n'E's mad!", 
+        "original-end-charpos": 2065, 
+        "original-start-charpos": 2055
+    }, 
+    {
+        "obfuscation": "The sun has touched 'im , Jim !", 
+        "obfuscation-id": 72, 
+        "original": "\n\nThe sun has touched 'im, Jim!\n", 
+        "original-end-charpos": 2097, 
+        "original-start-charpos": 2066
+    }
+]

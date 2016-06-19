@@ -1,0 +1,1185 @@
+[
+    {
+        "obfuscation": "X .", 
+        "obfuscation-id": 1, 
+        "original": "X.", 
+        "original-end-charpos": 1, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "In the end the three men from Arkham\u2014old , white-bearded Dr. Armitage , stocky , iron-grey Professor Rice , and thin , youngish Dr. Morgan\u2014ascended the mountain alone .", 
+        "obfuscation-id": 2, 
+        "original": "\n\nIn the end the three men from Arkham\u2014old, white-bearded Dr. Armitage, stocky, iron-grey Professor Rice, and lean, youngish Dr. Morgan\u2014ascended the mountain alone.", 
+        "original-end-charpos": 165, 
+        "original-start-charpos": 2
+    }, 
+    {
+        "obfuscation": "After much patient instruction regarding its focussing and use , they left the telescope with the frightened group that remained in the road ; and as they climbed they were determined closely by those among whom the glass was passed around .", 
+        "obfuscation-id": 3, 
+        "original": " After much patient instruction regarding its focussing and use, they left the telescope with the frightened group that remained in the road; and as they climbed they were watched closely by those among whom the glass was passed around.", 
+        "original-end-charpos": 401, 
+        "original-start-charpos": 166
+    }, 
+    {
+        "obfuscation": "It was hard going , and Armitage had to be served more than once .", 
+        "obfuscation-id": 4, 
+        "original": " It was hard going, and Armitage had to be helped more than once.", 
+        "original-end-charpos": 466, 
+        "original-start-charpos": 402
+    }, 
+    {
+        "obfuscation": "High above the toiling group the bang-up swath trembled as its hellish maker re-passed with snail-like deliberateness .", 
+        "obfuscation-id": 5, 
+        "original": " High above the toiling group the great swath trembled as its hellish maker re-passed with snail-like deliberateness.", 
+        "original-end-charpos": 583, 
+        "original-start-charpos": 467
+    }, 
+    {
+        "obfuscation": "Then it was obvious that the pursuers were gaining .", 
+        "obfuscation-id": 6, 
+        "original": " Then it was obvious that the pursuers were gaining.", 
+        "original-end-charpos": 635, 
+        "original-start-charpos": 584
+    }, 
+    {
+        "obfuscation": "Curtis Whateley\u2014of the undecayed branch\u2014was having the telescope when the Arkham party detoured radically from the swath .", 
+        "obfuscation-id": 7, 
+        "original": "\n      Curtis Whateley\u2014of the undecayed branch\u2014was holding the telescope when the Arkham party detoured radically from the swath.", 
+        "original-end-charpos": 764, 
+        "original-start-charpos": 636
+    }, 
+    {
+        "obfuscation": "He told the crowd that the men were evidently trying to get to a subordinate peak which overlooked the swath at a point considerably ahead of where the shrubbery was nowadays bending .", 
+        "obfuscation-id": 8, 
+        "original": " He told the crowd that the men were evidently trying to get to a subordinate peak which overlooked the swath at a point considerably ahead of where the shrubbery was now bending.", 
+        "original-end-charpos": 943, 
+        "original-start-charpos": 765
+    }, 
+    {
+        "obfuscation": "This , indeed , proved to be truthful ; and the party were seen to gain the minor elevation only a short time after the invisible blasphemy had passed it .", 
+        "obfuscation-id": 9, 
+        "original": " This, indeed, proved to be true; and the party were seen to gain the minor elevation only a short time after the invisible blasphemy had passed it.", 
+        "original-end-charpos": 1091, 
+        "original-start-charpos": 944
+    }, 
+    {
+        "obfuscation": "Then Wesley Corey , who had taken the glass , cried away that Armitage was adjusting the sprayer which Rice held , and that something must be about to happen .", 
+        "obfuscation-id": 10, 
+        "original": "\n      Then Wesley Corey, who had taken the glass, cried out that Armitage was adjusting the sprayer which Rice held, and that something must be about to happen.", 
+        "original-end-charpos": 1252, 
+        "original-start-charpos": 1092
+    }, 
+    {
+        "obfuscation": "The crowd stirred uneasily , remembering that this sprayer was expected to give the unseen horror a moment of visibility .", 
+        "obfuscation-id": 11, 
+        "original": " The crowd stirred uneasily, recalling that this sprayer was expected to give the unseen horror a moment of visibility.", 
+        "original-end-charpos": 1371, 
+        "original-start-charpos": 1253
+    }, 
+    {
+        "obfuscation": "Two or three men shut their eyes , but Curtis Whateley snatched back the telescope and strained his vision to the utmost .", 
+        "obfuscation-id": 12, 
+        "original": " Two or three men shut their eyes, but Curtis Whateley snatched back the telescope and strained his vision to the utmost.", 
+        "original-end-charpos": 1492, 
+        "original-start-charpos": 1372
+    }, 
+    {
+        "obfuscation": "He saw that Rice , from the party\u2019s point of vantage above and behind the entity , had an excellent chance of spreading the potent powder with fantastic effect .", 
+        "obfuscation-id": 13, 
+        "original": " He saw that Rice, from the party\u2019s point of vantage above and behind the entity, had an excellent chance of spreading the potent powder with marvellous effect.", 
+        "original-end-charpos": 1652, 
+        "original-start-charpos": 1493
+    }, 
+    {
+        "obfuscation": "Those without the telescope understood only an instant\u2019s flash of grey cloud\u2014a cloud about the size of a moderately large building\u2014near the top of the mountain .", 
+        "obfuscation-id": 14, 
+        "original": "\n      Those without the telescope saw only an instant\u2019s flash of grey cloud\u2014a cloud about the size of a moderately large building\u2014near the top of the mountain.", 
+        "original-end-charpos": 1812, 
+        "original-start-charpos": 1653
+    }, 
+    {
+        "obfuscation": "Curtis , who had kept the instrument , dropped it with a piercing shriek into the ankle-deep mud of the road .", 
+        "obfuscation-id": 15, 
+        "original": " Curtis, who had held the instrument, dropped it with a piercing shriek into the ankle-deep mud of the road.", 
+        "original-end-charpos": 1920, 
+        "original-start-charpos": 1813
+    }, 
+    {
+        "obfuscation": "He reeled , and would have crumpled to the ground had not two or three others assumed and steadied him .", 
+        "obfuscation-id": 16, 
+        "original": " He reeled, and would have crumpled to the ground had not two or three others seized and steadied him.", 
+        "original-end-charpos": 2022, 
+        "original-start-charpos": 1921
+    }, 
+    {
+        "obfuscation": "All he could do was moan half-inaudibly , \u201cOh , oh , bang-up Gawd .", 
+        "obfuscation-id": 17, 
+        "original": " All he could do was moan half-inaudibly,\n      \u201cOh, oh, great Gawd .", 
+        "original-end-charpos": 2091, 
+        "original-start-charpos": 2023
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 18, 
+        "original": ".", 
+        "original-end-charpos": 2091, 
+        "original-start-charpos": 2092
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 19, 
+        "original": " .", 
+        "original-end-charpos": 2093, 
+        "original-start-charpos": 2092
+    }, 
+    {
+        "obfuscation": ". that .", 
+        "obfuscation-id": 20, 
+        "original": " . that .", 
+        "original-end-charpos": 2102, 
+        "original-start-charpos": 2094
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 21, 
+        "original": ".", 
+        "original-end-charpos": 2102, 
+        "original-start-charpos": 2103
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 22, 
+        "original": " .", 
+        "original-end-charpos": 2104, 
+        "original-start-charpos": 2103
+    }, 
+    {
+        "obfuscation": ". that .", 
+        "obfuscation-id": 23, 
+        "original": " . that .", 
+        "original-end-charpos": 2113, 
+        "original-start-charpos": 2105
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 24, 
+        "original": ".", 
+        "original-end-charpos": 2113, 
+        "original-start-charpos": 2114
+    }, 
+    {
+        "obfuscation": ". .\u201d There was a pandemonium of questioning , and entirely Henry Wheeler thought to rescue the fallen telescope and wipe it clean of mud .", 
+        "obfuscation-id": 25, 
+        "original": " . .\u201d\n      There was a pandemonium of questioning, and only Henry Wheeler thought to rescue the fallen telescope and wipe it clean of mud.", 
+        "original-end-charpos": 2252, 
+        "original-start-charpos": 2114
+    }, 
+    {
+        "obfuscation": "Curtis was past all coherence , and even isolated replies were almost besides much for him .", 
+        "obfuscation-id": 26, 
+        "original": " Curtis was past all coherence, and even isolated replies were almost too much for him.", 
+        "original-end-charpos": 2339, 
+        "original-start-charpos": 2253
+    }, 
+    {
+        "obfuscation": "\u201cBigger\u2019n a barn .", 
+        "obfuscation-id": 27, 
+        "original": "\n      \u201cBigger\u2019n a barn .", 
+        "original-end-charpos": 2364, 
+        "original-start-charpos": 2340
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 28, 
+        "original": ".", 
+        "original-end-charpos": 2364, 
+        "original-start-charpos": 2365
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 29, 
+        "original": " .", 
+        "original-end-charpos": 2366, 
+        "original-start-charpos": 2365
+    }, 
+    {
+        "obfuscation": ". all made o\u2019 squirmin\u2019 ropes .", 
+        "obfuscation-id": 30, 
+        "original": " . all made o\u2019 squirmin\u2019 ropes .", 
+        "original-end-charpos": 2398, 
+        "original-start-charpos": 2367
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 31, 
+        "original": ".", 
+        "original-end-charpos": 2398, 
+        "original-start-charpos": 2399
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 32, 
+        "original": " .", 
+        "original-end-charpos": 2400, 
+        "original-start-charpos": 2399
+    }, 
+    {
+        "obfuscation": ". hull thing kind o\u2019 shaped like a hen\u2019s egg bigger\u2019n anything , with dozens o\u2019 legs like hogsheads that haff shut up when they step .", 
+        "obfuscation-id": 33, 
+        "original": " . hull thing sort o\u2019 shaped like a hen\u2019s egg bigger\u2019n anything, with dozens o\u2019 legs like hogsheads that haff shut up when they step .", 
+        "original-end-charpos": 2534, 
+        "original-start-charpos": 2401
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 34, 
+        "original": ".", 
+        "original-end-charpos": 2534, 
+        "original-start-charpos": 2535
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 35, 
+        "original": " .", 
+        "original-end-charpos": 2536, 
+        "original-start-charpos": 2535
+    }, 
+    {
+        "obfuscation": ". nothin\u2019 solid abaout it\u2014all like jelly , an\u2019 made o\u2019 sep\u2019rit wrigglin\u2019 ropes pushed clost in concert .", 
+        "obfuscation-id": 36, 
+        "original": " . nothin\u2019 solid abaout it\u2014all like jelly, an\u2019 made o\u2019 sep\u2019rit wrigglin\u2019 ropes pushed clost together .", 
+        "original-end-charpos": 2638, 
+        "original-start-charpos": 2537
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 37, 
+        "original": ".", 
+        "original-end-charpos": 2638, 
+        "original-start-charpos": 2639
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 38, 
+        "original": " .", 
+        "original-end-charpos": 2640, 
+        "original-start-charpos": 2639
+    }, 
+    {
+        "obfuscation": ". bang-up bulgin\u2019 eyes all over it .", 
+        "obfuscation-id": 39, 
+        "original": " . great bulgin\u2019 eyes all over it .", 
+        "original-end-charpos": 2675, 
+        "original-start-charpos": 2641
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 40, 
+        "original": ".", 
+        "original-end-charpos": 2675, 
+        "original-start-charpos": 2676
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 41, 
+        "original": " .", 
+        "original-end-charpos": 2677, 
+        "original-start-charpos": 2676
+    }, 
+    {
+        "obfuscation": ". ten or twenty maouths or trunks a-stickin\u2019 aout all along the sides , big as stovepipes , an\u2019 all a-tossin\u2019 an\u2019 openin\u2019 an\u2019 shuttin\u2019 .", 
+        "obfuscation-id": 42, 
+        "original": " . ten or twenty maouths or trunks a-stickin\u2019 aout all along the sides, big as stovepipes, an\u2019 all a-tossin\u2019 an\u2019 openin\u2019 an\u2019 shuttin\u2019 .", 
+        "original-end-charpos": 2812, 
+        "original-start-charpos": 2678
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 43, 
+        "original": ".", 
+        "original-end-charpos": 2812, 
+        "original-start-charpos": 2813
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 44, 
+        "original": " .", 
+        "original-end-charpos": 2814, 
+        "original-start-charpos": 2813
+    }, 
+    {
+        "obfuscation": ". all grey , with kinder blue or purple rings .", 
+        "obfuscation-id": 45, 
+        "original": " . all grey, with kinder blue or purple rings .", 
+        "original-end-charpos": 2861, 
+        "original-start-charpos": 2815
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 46, 
+        "original": ".", 
+        "original-end-charpos": 2861, 
+        "original-start-charpos": 2862
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 47, 
+        "original": " .", 
+        "original-end-charpos": 2863, 
+        "original-start-charpos": 2862
+    }, 
+    {
+        "obfuscation": ". an\u2019 Gawd in heaven\u2014that haff side on top !", 
+        "obfuscation-id": 48, 
+        "original": " . an\u2019 Gawd in heaven\u2014that haff face on top!", 
+        "original-end-charpos": 2907, 
+        "original-start-charpos": 2864
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 49, 
+        "original": " .", 
+        "original-end-charpos": 2909, 
+        "original-start-charpos": 2908
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 50, 
+        "original": " .", 
+        "original-end-charpos": 2911, 
+        "original-start-charpos": 2910
+    }, 
+    {
+        "obfuscation": ".\u201d This final memory , whatever it was , proved besides much for poor Curtis ; and he collapsed completely before he could say more .", 
+        "obfuscation-id": 51, 
+        "original": " .\u201d\n      This final memory, whatever it was, proved too much for poor Curtis; and he collapsed completely before he could say more.", 
+        "original-end-charpos": 3043, 
+        "original-start-charpos": 2912
+    }, 
+    {
+        "obfuscation": "Fred Farr and Will Hutchins carried him to the roadside and laid him on the damp grass .", 
+        "obfuscation-id": 52, 
+        "original": " Fred Farr and Will Hutchins carried him to the roadside and laid him on the damp grass.", 
+        "original-end-charpos": 3131, 
+        "original-start-charpos": 3044
+    }, 
+    {
+        "obfuscation": "Henry Wheeler , trembling , became the rescued telescope on the mountain to see what he might .", 
+        "obfuscation-id": 53, 
+        "original": " Henry Wheeler, trembling, turned the rescued telescope on the mountain to see what he might.", 
+        "original-end-charpos": 3224, 
+        "original-start-charpos": 3132
+    }, 
+    {
+        "obfuscation": "Through the lenses were discernible three tiny figures , apparently running toward the summit as fast as the steep incline permitted .", 
+        "obfuscation-id": 54, 
+        "original": " Through the lenses were discernible three tiny figures, apparently running toward the summit as fast as the steep incline allowed.", 
+        "original-end-charpos": 3355, 
+        "original-start-charpos": 3225
+    }, 
+    {
+        "obfuscation": "merely these\u2014nothing more .", 
+        "obfuscation-id": 55, 
+        "original": " Only these\u2014nothing more.", 
+        "original-end-charpos": 3380, 
+        "original-start-charpos": 3356
+    }, 
+    {
+        "obfuscation": "Then everyone noticed a strangely unseasonable noise in the bass valley behind , and even in the underbrush of Sentinel Hill itself .", 
+        "obfuscation-id": 56, 
+        "original": " Then everyone noticed a strangely unseasonable noise in the deep valley behind, and even in the underbrush of Sentinel Hill itself.", 
+        "original-end-charpos": 3512, 
+        "original-start-charpos": 3381
+    }, 
+    {
+        "obfuscation": "It was the piping of unnumbered whippoorwills , and in their shrill chorus there seemed to lurk a note of tense and malefic expectancy .", 
+        "obfuscation-id": 57, 
+        "original": " It was the piping of unnumbered whippoorwills, and in their shrill chorus there seemed to lurk a note of tense and evil expectancy.", 
+        "original-end-charpos": 3644, 
+        "original-start-charpos": 3513
+    }, 
+    {
+        "obfuscation": "Earl Sawyer nowadays took the telescope and reported the three figures as standing on the topmost ridge , virtually level with the altar-stone but at a considerable distance from it .", 
+        "obfuscation-id": 58, 
+        "original": "\n      Earl Sawyer now took the telescope and reported the three figures as standing on the topmost ridge, virtually level with the altar-stone but at a considerable distance from it.", 
+        "original-end-charpos": 3827, 
+        "original-start-charpos": 3645
+    }, 
+    {
+        "obfuscation": "One figure , he said , seemed to be raising its hands above its head at rhythmic intervals ; and as Sawyer noted the circumstance the crowd seemed to hear a faint , half-musical sound from the distance , as if a loud chant were accompanying the gestures .", 
+        "obfuscation-id": 59, 
+        "original": " One figure, he said, seemed to be raising its hands above its head at rhythmic intervals; and as Sawyer mentioned the circumstance the crowd seemed to hear a faint, half-musical sound from the distance, as if a loud chant were accompanying the gestures.", 
+        "original-end-charpos": 4081, 
+        "original-start-charpos": 3828
+    }, 
+    {
+        "obfuscation": "The weird silhouette on that remote peak must have been a spectacle of countless grotesqueness and impressiveness , but no observer was in a mood for aesthetic appreciation .", 
+        "obfuscation-id": 60, 
+        "original": " The weird silhouette on that remote peak must have been a spectacle of infinite grotesqueness and impressiveness, but no observer was in a mood for aesthetic appreciation.", 
+        "original-end-charpos": 4253, 
+        "original-start-charpos": 4082
+    }, 
+    {
+        "obfuscation": "\u201cI guess he\u2019s sayin\u2019 the spell , \u201d whispered Wheeler as he snatched back the telescope .", 
+        "obfuscation-id": 61, 
+        "original": " \u201cI guess he\u2019s sayin\u2019 the spell,\u201d whispered Wheeler as he snatched back the telescope.", 
+        "original-end-charpos": 4339, 
+        "original-start-charpos": 4254
+    }, 
+    {
+        "obfuscation": "The whippoorwills were piping wildly , and in a singularly curious irregular rhythm quite unlike that of the visible ritual .", 
+        "obfuscation-id": 62, 
+        "original": " The whippoorwills were piping wildly, and in a singularly curious irregular rhythm quite unlike that of the visible ritual.", 
+        "original-end-charpos": 4463, 
+        "original-start-charpos": 4340
+    }, 
+    {
+        "obfuscation": "Suddenly the sunshine seemed to lessen without the intervention of any discernible cloud .", 
+        "obfuscation-id": 63, 
+        "original": "\n      Suddenly the sunshine seemed to lessen without the intervention of any discernible cloud.", 
+        "original-end-charpos": 4559, 
+        "original-start-charpos": 4464
+    }, 
+    {
+        "obfuscation": "It was a very curious phenomenon , and was plainly marked by all .", 
+        "obfuscation-id": 64, 
+        "original": " It was a very peculiar phenomenon, and was plainly marked by all.", 
+        "original-end-charpos": 4625, 
+        "original-start-charpos": 4560
+    }, 
+    {
+        "obfuscation": "A rumbling sound looked brewing beneath the hills , mixed strangely with a concordant rumbling which clearly came from the sky .", 
+        "obfuscation-id": 65, 
+        "original": " A rumbling sound seemed brewing beneath the hills, mixed strangely with a concordant rumbling which clearly came from the sky.", 
+        "original-end-charpos": 4752, 
+        "original-start-charpos": 4626
+    }, 
+    {
+        "obfuscation": "Lightning flashed aloft , and the wondering crowd looked in vain for the portents of storm .", 
+        "obfuscation-id": 66, 
+        "original": " Lightning flashed aloft, and the wondering crowd looked in vain for the portents of storm.", 
+        "original-end-charpos": 4843, 
+        "original-start-charpos": 4753
+    }, 
+    {
+        "obfuscation": "The chanting of the men from Arkham now became unmistakable , and Wheeler understood through the glass that they were all raising their arms in the rhythmic incantation .", 
+        "obfuscation-id": 67, 
+        "original": " The chanting of the men from Arkham now became unmistakable, and Wheeler saw through the glass that they were all raising their arms in the rhythmic incantation.", 
+        "original-end-charpos": 5005, 
+        "original-start-charpos": 4844
+    }, 
+    {
+        "obfuscation": "From some farmhouse far aside came the frantic barking of dogs .", 
+        "obfuscation-id": 68, 
+        "original": " From some farmhouse far away came the frantic barking of dogs.", 
+        "original-end-charpos": 5068, 
+        "original-start-charpos": 5006
+    }, 
+    {
+        "obfuscation": "The change in the quality of the daylight increased , and the crowd gazed about the horizon in curiosity .", 
+        "obfuscation-id": 69, 
+        "original": "\n      The change in the quality of the daylight increased, and the crowd gazed about the horizon in wonder.", 
+        "original-end-charpos": 5176, 
+        "original-start-charpos": 5069
+    }, 
+    {
+        "obfuscation": "A purplish darkness , born of nothing more than a spectral deepening of the sky\u2019s blue , pressed down upon the rumble hills .", 
+        "obfuscation-id": 70, 
+        "original": " A purplish darkness, born of nothing more than a spectral deepening of the sky\u2019s blue, pressed down upon the rumbling hills.", 
+        "original-end-charpos": 5301, 
+        "original-start-charpos": 5177
+    }, 
+    {
+        "obfuscation": "Then the lightning flashed again , slightly brighter than before , and the crowd fancied that it had shewed a certain mistiness around the altar-stone on the distant height .", 
+        "obfuscation-id": 71, 
+        "original": " Then the lightning flashed again, somewhat brighter than before, and the crowd fancied that it had shewed a certain mistiness around the altar-stone on the distant height.", 
+        "original-end-charpos": 5473, 
+        "original-start-charpos": 5302
+    }, 
+    {
+        "obfuscation": "No one , however , had been using the telescope at that instant .", 
+        "obfuscation-id": 72, 
+        "original": " No one, however, had been using the telescope at that instant.", 
+        "original-end-charpos": 5536, 
+        "original-start-charpos": 5474
+    }, 
+    {
+        "obfuscation": "The whippoorwills continued their irregular pulsation , and the men of Dunwich braced themselves tensely against some imponderable menace with which the atmosphere looked surcharged .", 
+        "obfuscation-id": 73, 
+        "original": " The whippoorwills continued their irregular pulsation, and the men of Dunwich braced themselves tensely against some imponderable menace with which the atmosphere seemed surcharged.", 
+        "original-end-charpos": 5718, 
+        "original-start-charpos": 5537
+    }, 
+    {
+        "obfuscation": "Without warning came those bass , cracked , raucous vocal sounds which will never leave the memory of the stricken group who heard them .", 
+        "obfuscation-id": 74, 
+        "original": "\n      Without warning came those deep, cracked, raucous vocal sounds which will never leave the memory of the stricken group who heard them.", 
+        "original-end-charpos": 5859, 
+        "original-start-charpos": 5719
+    }, 
+    {
+        "obfuscation": "Not from any human throat were they born , for the organs of man can render no such acoustic perversions .", 
+        "obfuscation-id": 75, 
+        "original": " Not from any human throat were they born, for the organs of man can yield no such acoustic perversions.", 
+        "original-end-charpos": 5963, 
+        "original-start-charpos": 5860
+    }, 
+    {
+        "obfuscation": "Rather would one have said they came from the stone itself , had not their source been so unmistakably the altar-stone on the peak .", 
+        "obfuscation-id": 76, 
+        "original": " Rather would one have said they came from the pit itself, had not their source been so unmistakably the altar-stone on the peak.", 
+        "original-end-charpos": 6092, 
+        "original-start-charpos": 5964
+    }, 
+    {
+        "obfuscation": "It is almost erroneous to call them sounds at all , since so much of their ghastly , infra-bass timbre talked to dim seats of consciousness and terror far subtler than the ear ; yet one must do so , since their form was indisputably though vaguely that of half-articulate words .", 
+        "obfuscation-id": 77, 
+        "original": " It is almost erroneous to call them sounds at all, since so much of their ghastly, infra-bass timbre spoke to dim seats of consciousness and terror far subtler than the ear; yet one must do so, since their form was indisputably though vaguely that of half-articulate words.", 
+        "original-end-charpos": 6366, 
+        "original-start-charpos": 6093
+    }, 
+    {
+        "obfuscation": "They were loud\u2014loud as the rumblings and the thunder above which they echoed\u2014yet did they come from no visible being .", 
+        "obfuscation-id": 78, 
+        "original": " They were loud\u2014loud as the rumblings and the thunder above which they echoed\u2014yet did they come from no visible being.", 
+        "original-end-charpos": 6484, 
+        "original-start-charpos": 6367
+    }, 
+    {
+        "obfuscation": "And because imagination might suggest a conjectural source in the world of non-visible beings , the huddled crowd at the mountain\u2019s base huddled however closer , and winced as if in expectation of a blow .", 
+        "obfuscation-id": 79, 
+        "original": " And because imagination might suggest a conjectural source in the world of non-visible beings, the huddled crowd at the mountain\u2019s base huddled still closer, and winced as if in expectation of a blow.", 
+        "original-end-charpos": 6685, 
+        "original-start-charpos": 6485
+    }, 
+    {
+        "obfuscation": "\u201cYgnaiih .", 
+        "obfuscation-id": 80, 
+        "original": "\n      \u201cYgnaiih .", 
+        "original-end-charpos": 6702, 
+        "original-start-charpos": 6686
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 81, 
+        "original": ".", 
+        "original-end-charpos": 6702, 
+        "original-start-charpos": 6703
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 82, 
+        "original": " .", 
+        "original-end-charpos": 6704, 
+        "original-start-charpos": 6703
+    }, 
+    {
+        "obfuscation": ". ygnaiih .", 
+        "obfuscation-id": 83, 
+        "original": " . ygnaiih .", 
+        "original-end-charpos": 6716, 
+        "original-start-charpos": 6705
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 84, 
+        "original": ".", 
+        "original-end-charpos": 6716, 
+        "original-start-charpos": 6717
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 85, 
+        "original": " .", 
+        "original-end-charpos": 6718, 
+        "original-start-charpos": 6717
+    }, 
+    {
+        "obfuscation": ". thflthkh\u2019ngha .", 
+        "obfuscation-id": 86, 
+        "original": " . thflthkh\u2019ngha .", 
+        "original-end-charpos": 6736, 
+        "original-start-charpos": 6719
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 87, 
+        "original": ".", 
+        "original-end-charpos": 6736, 
+        "original-start-charpos": 6737
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 88, 
+        "original": " .", 
+        "original-end-charpos": 6738, 
+        "original-start-charpos": 6737
+    }, 
+    {
+        "obfuscation": ". Yog-Sothoth .", 
+        "obfuscation-id": 89, 
+        "original": " . Yog-Sothoth .", 
+        "original-end-charpos": 6754, 
+        "original-start-charpos": 6739
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 90, 
+        "original": ".", 
+        "original-end-charpos": 6754, 
+        "original-start-charpos": 6755
+    }, 
+    {
+        "obfuscation": ". .\u201d rang the hideous croaking out of space .", 
+        "obfuscation-id": 91, 
+        "original": " . .\u201d rang the hideous croaking out of space.", 
+        "original-end-charpos": 6799, 
+        "original-start-charpos": 6755
+    }, 
+    {
+        "obfuscation": "\u201cY\u2019bthnk .", 
+        "obfuscation-id": 92, 
+        "original": " \u201cY\u2019bthnk .", 
+        "original-end-charpos": 6810, 
+        "original-start-charpos": 6800
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 93, 
+        "original": ".", 
+        "original-end-charpos": 6810, 
+        "original-start-charpos": 6811
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 94, 
+        "original": " .", 
+        "original-end-charpos": 6812, 
+        "original-start-charpos": 6811
+    }, 
+    {
+        "obfuscation": ". h\u2019ehye\u2014n\u2019grkdl\u2019lh .", 
+        "obfuscation-id": 95, 
+        "original": " . h\u2019ehye\u2014n\u2019grkdl\u2019lh.", 
+        "original-end-charpos": 6833, 
+        "original-start-charpos": 6813
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 96, 
+        "original": ".", 
+        "original-end-charpos": 6833, 
+        "original-start-charpos": 6834
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 97, 
+        "original": " .", 
+        "original-end-charpos": 6835, 
+        "original-start-charpos": 6834
+    }, 
+    {
+        "obfuscation": ". .\u201d The speaking impulse seemed to falter here , as if some fearful psychic struggle were going on .", 
+        "obfuscation-id": 98, 
+        "original": " . .\u201d\n      The speaking impulse seemed to falter here, as if some frightful psychic struggle were going on.", 
+        "original-end-charpos": 6943, 
+        "original-start-charpos": 6836
+    }, 
+    {
+        "obfuscation": "Henry Wheeler strained his eye at the telescope , but understood only the three grotesquely silhouetted human figures on the peak , all moving their arms furiously in strange gestures as their incantation drew near its culmination .", 
+        "obfuscation-id": 99, 
+        "original": " Henry Wheeler strained his eye at the telescope, but saw only the three grotesquely silhouetted human figures on the peak, all moving their arms furiously in strange gestures as their incantation drew near its culmination.", 
+        "original-end-charpos": 7166, 
+        "original-start-charpos": 6944
+    }, 
+    {
+        "obfuscation": "From what black wells of Acherontic concern or feeling , from what unplumbed gulfs of extra-cosmic consciousness or obscure , long-latent heredity , were those half-articulate thunder-croakings drawn ?", 
+        "obfuscation-id": 100, 
+        "original": " From what black wells of Acherontic fear or feeling, from what unplumbed gulfs of extra-cosmic consciousness or obscure, long-latent heredity, were those half-articulate thunder-croakings drawn?", 
+        "original-end-charpos": 7361, 
+        "original-start-charpos": 7167
+    }, 
+    {
+        "obfuscation": "soon they began to gather renewed force and coherence as they grew in stark , utter , ultimate frenzy .", 
+        "obfuscation-id": 101, 
+        "original": " Presently they began to gather renewed force and coherence as they grew in stark, utter, ultimate frenzy.", 
+        "original-end-charpos": 7467, 
+        "original-start-charpos": 7362
+    }, 
+    {
+        "obfuscation": "\u201cEh-ya-ya-ya-yahaah\u2014e\u2019yayayayaaaa .", 
+        "obfuscation-id": 102, 
+        "original": "\n      \u201cEh-ya-ya-ya-yahaah\u2014e\u2019yayayayaaaa .", 
+        "original-end-charpos": 7509, 
+        "original-start-charpos": 7468
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 103, 
+        "original": ".", 
+        "original-end-charpos": 7509, 
+        "original-start-charpos": 7510
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 104, 
+        "original": " .", 
+        "original-end-charpos": 7511, 
+        "original-start-charpos": 7510
+    }, 
+    {
+        "obfuscation": ". ngh\u2019aaaaa .", 
+        "obfuscation-id": 105, 
+        "original": " . ngh\u2019aaaaa .", 
+        "original-end-charpos": 7525, 
+        "original-start-charpos": 7512
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 106, 
+        "original": ".", 
+        "original-end-charpos": 7525, 
+        "original-start-charpos": 7526
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 107, 
+        "original": " .", 
+        "original-end-charpos": 7527, 
+        "original-start-charpos": 7526
+    }, 
+    {
+        "obfuscation": ". ngh\u2019aaaa .", 
+        "obfuscation-id": 108, 
+        "original": " . ngh\u2019aaaa .", 
+        "original-end-charpos": 7540, 
+        "original-start-charpos": 7528
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 109, 
+        "original": ".", 
+        "original-end-charpos": 7540, 
+        "original-start-charpos": 7541
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 110, 
+        "original": " .", 
+        "original-end-charpos": 7542, 
+        "original-start-charpos": 7541
+    }, 
+    {
+        "obfuscation": ". h\u2019yuh .", 
+        "obfuscation-id": 111, 
+        "original": " . h\u2019yuh .", 
+        "original-end-charpos": 7552, 
+        "original-start-charpos": 7543
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 112, 
+        "original": ".", 
+        "original-end-charpos": 7552, 
+        "original-start-charpos": 7553
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 113, 
+        "original": " .", 
+        "original-end-charpos": 7554, 
+        "original-start-charpos": 7553
+    }, 
+    {
+        "obfuscation": ". h\u2019yuh .", 
+        "obfuscation-id": 114, 
+        "original": " . h\u2019yuh .", 
+        "original-end-charpos": 7564, 
+        "original-start-charpos": 7555
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 115, 
+        "original": ".", 
+        "original-end-charpos": 7564, 
+        "original-start-charpos": 7565
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 116, 
+        "original": " .", 
+        "original-end-charpos": 7566, 
+        "original-start-charpos": 7565
+    }, 
+    {
+        "obfuscation": ". HELP !", 
+        "obfuscation-id": 117, 
+        "original": " . HELP!", 
+        "original-end-charpos": 7574, 
+        "original-start-charpos": 7567
+    }, 
+    {
+        "obfuscation": "HELP !", 
+        "obfuscation-id": 118, 
+        "original": " HELP!", 
+        "original-end-charpos": 7580, 
+        "original-start-charpos": 7575
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 119, 
+        "original": " .", 
+        "original-end-charpos": 7582, 
+        "original-start-charpos": 7581
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 120, 
+        "original": " .", 
+        "original-end-charpos": 7584, 
+        "original-start-charpos": 7583
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 121, 
+        "original": " .", 
+        "original-end-charpos": 7586, 
+        "original-start-charpos": 7585
+    }, 
+    {
+        "obfuscation": "ff\u2014ff\u2014ff\u2014FATHER !", 
+        "obfuscation-id": 122, 
+        "original": " ff\u2014ff\u2014ff\u2014FATHER!", 
+        "original-end-charpos": 7603, 
+        "original-start-charpos": 7587
+    }, 
+    {
+        "obfuscation": "FATHER !", 
+        "obfuscation-id": 123, 
+        "original": "FATHER!", 
+        "original-end-charpos": 7603, 
+        "original-start-charpos": 7604
+    }, 
+    {
+        "obfuscation": "FATHER ! YOG-SOTHOTH !", 
+        "obfuscation-id": 124, 
+        "original": " FATHER! YOG-SOTHOTH!", 
+        "original-end-charpos": 7624, 
+        "original-start-charpos": 7604
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 125, 
+        "original": " .", 
+        "original-end-charpos": 7626, 
+        "original-start-charpos": 7625
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 126, 
+        "original": " .", 
+        "original-end-charpos": 7628, 
+        "original-start-charpos": 7627
+    }, 
+    {
+        "obfuscation": ".\u201d But that was all .", 
+        "obfuscation-id": 127, 
+        "original": " .\u201d\n      But that was all.", 
+        "original-end-charpos": 7655, 
+        "original-start-charpos": 7629
+    }, 
+    {
+        "obfuscation": "The pale group in the road , still reeling at the indisputably English syllables that had poured thickly and thunderously down from the frantic vacancy beside that shocking altar-stone , were never to hear such syllables again .", 
+        "obfuscation-id": 128, 
+        "original": " The pallid group in the road, still reeling at the indisputably English syllables that had poured thickly and thunderously down from the frantic vacancy beside that shocking altar-stone, were never to hear such syllables again.", 
+        "original-end-charpos": 7883, 
+        "original-start-charpos": 7656
+    }, 
+    {
+        "obfuscation": "Instead , they jumped violently at the terrific report which appeared to rend the hills ; the deafening , cataclysmic peal whose source , be it inner earth or sky , no hearer was ever able to place .", 
+        "obfuscation-id": 129, 
+        "original": " Instead, they jumped violently at the terrific report which seemed to rend the hills; the deafening, cataclysmic peal whose source, be it inner earth or sky, no hearer was ever able to place.", 
+        "original-end-charpos": 8075, 
+        "original-start-charpos": 7884
+    }, 
+    {
+        "obfuscation": "A single lightning-bolt shot from the purple zenith to the altar-stone , and a great tidal wave of viewless force and indefinable stench swept down from the hill to all the countryside .", 
+        "obfuscation-id": 130, 
+        "original": " A single lightning-bolt shot from the purple zenith to the altar-stone, and a great tidal wave of viewless force and indescribable stench swept down from the hill to all the countryside.", 
+        "original-end-charpos": 8262, 
+        "original-start-charpos": 8076
+    }, 
+    {
+        "obfuscation": "Trees , grass , and underbrush were whipped into a fury ; and the frightened crowd at the mountain\u2019s base , weakened by the lethal foetor that seemed about to asphyxiate them , were about hurled off their feet .", 
+        "obfuscation-id": 131, 
+        "original": " Trees, grass, and underbrush were whipped into a fury; and the frightened crowd at the mountain\u2019s base, weakened by the lethal foetor that seemed about to asphyxiate them, were almost hurled off their feet.", 
+        "original-end-charpos": 8469, 
+        "original-start-charpos": 8263
+    }, 
+    {
+        "obfuscation": "Dogs howled from the distance , fleeceable grass and foliage wilted to a curious , sickly yellow-grey , and over field and forest were scattered the bodies of dead whippoorwills .", 
+        "obfuscation-id": 132, 
+        "original": " Dogs howled from the distance, green grass and foliage wilted to a curious, sickly yellow-grey, and over field and forest were scattered the bodies of dead whippoorwills.", 
+        "original-end-charpos": 8640, 
+        "original-start-charpos": 8470
+    }, 
+    {
+        "obfuscation": "The malodor left quickly , but the vegetation never came right again .", 
+        "obfuscation-id": 133, 
+        "original": "\n      The stench left quickly, but the vegetation never came right again.", 
+        "original-end-charpos": 8714, 
+        "original-start-charpos": 8641
+    }, 
+    {
+        "obfuscation": "To this day there is something queer and unholy about the growths on and around that fearsome hill .", 
+        "obfuscation-id": 134, 
+        "original": " To this day there is something queer and unholy about the growths on and around that fearsome hill.", 
+        "original-end-charpos": 8814, 
+        "original-start-charpos": 8715
+    }, 
+    {
+        "obfuscation": "Curtis Whateley was entirely just regaining consciousness when the Arkham men came slowly down the mountain in the beams of a sunlight once more brilliant and untainted .", 
+        "obfuscation-id": 135, 
+        "original": " Curtis Whateley was only just regaining consciousness when the Arkham men came slowly down the mountain in the beams of a sunlight once more brilliant and untainted.", 
+        "original-end-charpos": 8980, 
+        "original-start-charpos": 8815
+    }, 
+    {
+        "obfuscation": "They were grave and quiet , and looked shaken by memories and reflections even more terrible than those which had reduced the group of natives to a state of cowed quivering .", 
+        "obfuscation-id": 136, 
+        "original": " They were grave and quiet, and seemed shaken by memories and reflections even more terrible than those which had reduced the group of natives to a state of cowed quivering.", 
+        "original-end-charpos": 9153, 
+        "original-start-charpos": 8981
+    }, 
+    {
+        "obfuscation": "In reply to a jumble of questions they merely shook their heads and reaffirmed one vital fact .", 
+        "obfuscation-id": 137, 
+        "original": " In reply to a jumble of questions they only shook their heads and reaffirmed one vital fact.", 
+        "original-end-charpos": 9246, 
+        "original-start-charpos": 9154
+    }, 
+    {
+        "obfuscation": "\u201cThe thing has become forever , \u201d Armitage said .", 
+        "obfuscation-id": 138, 
+        "original": "\n      \u201cThe thing has gone forever,\u201d Armitage said.", 
+        "original-end-charpos": 9297, 
+        "original-start-charpos": 9247
+    }, 
+    {
+        "obfuscation": "\u201cIt has been split up into what it was originally made of , and can never exist again .", 
+        "obfuscation-id": 139, 
+        "original": " \u201cIt has been split up into what it was originally made of, and can never exist again.", 
+        "original-end-charpos": 9383, 
+        "original-start-charpos": 9298
+    }, 
+    {
+        "obfuscation": "It was an impossibility in a normal world .", 
+        "obfuscation-id": 140, 
+        "original": " It was an impossibility in a normal world.", 
+        "original-end-charpos": 9426, 
+        "original-start-charpos": 9384
+    }, 
+    {
+        "obfuscation": "merely the least fraction was really matter in any sense we know .", 
+        "obfuscation-id": 141, 
+        "original": " Only the least fraction was really matter in any sense we know.", 
+        "original-end-charpos": 9490, 
+        "original-start-charpos": 9427
+    }, 
+    {
+        "obfuscation": "It was like its father\u2014and most of it has gone back to him in some obscure realm or dimension outside our material universe ; some vague abyss out of which only the most accursed rites of human blasphemy could ever have called him for a moment on the hills.\u201d There was a brief silence , and in that pause the scattered senses of poor Curtis Whateley began to knit back into a sort of continuity ; so that he put his hands to his head with a moan .", 
+        "obfuscation-id": 142, 
+        "original": " It was like its father\u2014and most of it has gone back to him in some vague realm or dimension outside our material universe; some vague abyss out of which only the most accursed rites of human blasphemy could ever have called him for a moment on the hills.\u201d\n      There was a brief silence, and in that pause the scattered senses of poor Curtis Whateley began to knit back into a sort of continuity; so that he put his hands to his head with a moan.", 
+        "original-end-charpos": 9938, 
+        "original-start-charpos": 9491
+    }, 
+    {
+        "obfuscation": "Memory seemed to pick itself up where it had left off , and the horror of the view that had prostrated him burst in upon him again .", 
+        "obfuscation-id": 143, 
+        "original": " Memory seemed to pick itself up where it had left off, and the horror of the sight that had prostrated him burst in upon him again.", 
+        "original-end-charpos": 10070, 
+        "original-start-charpos": 9939
+    }, 
+    {
+        "obfuscation": "\u201cOh , oh , my Gawd , that haff face\u2014that haff side on top of it .", 
+        "obfuscation-id": 144, 
+        "original": "\n      \u201cOh, oh, my Gawd, that haff face\u2014that haff face on top of it .", 
+        "original-end-charpos": 10139, 
+        "original-start-charpos": 10071
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 145, 
+        "original": ".", 
+        "original-end-charpos": 10139, 
+        "original-start-charpos": 10140
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 146, 
+        "original": " .", 
+        "original-end-charpos": 10141, 
+        "original-start-charpos": 10140
+    }, 
+    {
+        "obfuscation": ". that side with the red eyes an\u2019 crinkly albino hair , an\u2019 no chin , like the Whateleys .", 
+        "obfuscation-id": 147, 
+        "original": " . that face with the red eyes an\u2019 crinkly albino hair, an\u2019 no chin, like the Whateleys .", 
+        "original-end-charpos": 10230, 
+        "original-start-charpos": 10142
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 148, 
+        "original": ".", 
+        "original-end-charpos": 10230, 
+        "original-start-charpos": 10231
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 149, 
+        "original": " .", 
+        "original-end-charpos": 10232, 
+        "original-start-charpos": 10231
+    }, 
+    {
+        "obfuscation": ". It was a octopus , centipede , spider kind o\u2019 thing , but they were a haff-shaped man\u2019s face on top of it , an\u2019 it looked like Wizard Whateley\u2019s , only it was yards an\u2019 yards acrost .", 
+        "obfuscation-id": 150, 
+        "original": " . It was a octopus, centipede, spider kind o\u2019 thing, but they was a haff-shaped man\u2019s face on top of it, an\u2019 it looked like Wizard Whateley\u2019s, only it was yards an\u2019 yards acrost.", 
+        "original-end-charpos": 10411, 
+        "original-start-charpos": 10233
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 151, 
+        "original": ".", 
+        "original-end-charpos": 10411, 
+        "original-start-charpos": 10412
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 152, 
+        "original": " .", 
+        "original-end-charpos": 10413, 
+        "original-start-charpos": 10412
+    }, 
+    {
+        "obfuscation": ". .\u201d He paused exhausted , as the whole group of natives stared in a bewilderment not quite cleared into fresh terror .", 
+        "obfuscation-id": 153, 
+        "original": " . .\u201d\n      He paused exhausted, as the whole group of natives stared in a bewilderment not quite crystallised into fresh terror.", 
+        "original-end-charpos": 10542, 
+        "original-start-charpos": 10414
+    }, 
+    {
+        "obfuscation": "merely old Zebulon Whateley , who wanderingly remembered ancient things but who had been silent heretofore , spoke aloud .", 
+        "obfuscation-id": 154, 
+        "original": " Only old Zebulon Whateley, who wanderingly remembered ancient things but who had been silent heretofore, spoke aloud.", 
+        "original-end-charpos": 10660, 
+        "original-start-charpos": 10543
+    }, 
+    {
+        "obfuscation": "\u201cFifteen year\u2019 gone , \u201d he rambled , \u201cI heerd Ol\u2019 Whateley state as haow some day we\u2019d hear a child o\u2019 Lavinny\u2019s a-callin\u2019 its father\u2019s name on the top o\u2019 Sentinel Hill .", 
+        "obfuscation-id": 155, 
+        "original": "\n      \u201cFifteen year\u2019 gone,\u201d he rambled, \u201cI heerd Ol\u2019 Whateley say as haow some day we\u2019d hear a child o\u2019 Lavinny\u2019s a-callin\u2019 its father\u2019s name on the top o\u2019 Sentinel Hill.", 
+        "original-end-charpos": 10831, 
+        "original-start-charpos": 10661
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 156, 
+        "original": ".", 
+        "original-end-charpos": 10831, 
+        "original-start-charpos": 10832
+    }, 
+    {
+        "obfuscation": ".", 
+        "obfuscation-id": 157, 
+        "original": " .", 
+        "original-end-charpos": 10833, 
+        "original-start-charpos": 10832
+    }, 
+    {
+        "obfuscation": ". .\u201d But Joe Osborn interrupted him to question the Arkham men anew .", 
+        "obfuscation-id": 158, 
+        "original": " . .\u201d\n      But Joe Osborn interrupted him to question the Arkham men anew.", 
+        "original-end-charpos": 10908, 
+        "original-start-charpos": 10834
+    }, 
+    {
+        "obfuscation": "\u201cWhat was it anyhaow , an\u2019 haowever made young Wizard Whateley call it aout o\u2019 the air it come from ? \u201d Armitage chose his words very carefully .", 
+        "obfuscation-id": 159, 
+        "original": "\n      \u201cWhat was it anyhaow, an\u2019 haowever did young Wizard Whateley call it aout o\u2019 the air it come from?\u201d\n      Armitage chose his words very carefully.", 
+        "original-end-charpos": 11061, 
+        "original-start-charpos": 10909
+    }, 
+    {
+        "obfuscation": "\u201cIt was\u2014well , it was largely a kind of force that doesn\u2019t belong in our part of space ; a kind of force that acts and grows and shapes itself by other laws than those of our sort of Nature .", 
+        "obfuscation-id": 160, 
+        "original": "\n      \u201cIt was\u2014well, it was mostly a kind of force that doesn\u2019t belong in our part of space; a kind of force that acts and grows and shapes itself by other laws than those of our sort of Nature.", 
+        "original-end-charpos": 11255, 
+        "original-start-charpos": 11062
+    }, 
+    {
+        "obfuscation": "We have no business calling in such things from external , and only very wicked people and very wicked cults ever try to .", 
+        "obfuscation-id": 161, 
+        "original": " We have no business calling in such things from outside, and only very wicked people and very wicked cults ever try to.", 
+        "original-end-charpos": 11375, 
+        "original-start-charpos": 11256
+    }, 
+    {
+        "obfuscation": "There was some of it in Wilbur Whateley himself\u2014enough to make a devil and a precocious monster of him , and to make his passing out a pretty terrible view .", 
+        "obfuscation-id": 162, 
+        "original": " There was some of it in Wilbur Whateley himself\u2014enough to make a devil and a precocious monster of him, and to make his passing out a pretty terrible sight.", 
+        "original-end-charpos": 11532, 
+        "original-start-charpos": 11376
+    }, 
+    {
+        "obfuscation": "I\u2019m going to burn his accursed diary , and if you men are wise you\u2019ll dynamite that altar-stone up there , and pull down all the rings of standing rocks on the other hills .", 
+        "obfuscation-id": 163, 
+        "original": " I\u2019m going to burn his accursed diary, and if you men are wise you\u2019ll dynamite that altar-stone up there, and pull down all the rings of standing stones on the other hills.", 
+        "original-end-charpos": 11704, 
+        "original-start-charpos": 11533
+    }, 
+    {
+        "obfuscation": "Things like that brought down the beings those Whateleys were so fond of\u2014the beings they were going to let in tangibly to wipe out the human race and drag the earth off to some nameless home for some nameless purpose .", 
+        "obfuscation-id": 164, 
+        "original": " Things like that brought down the beings those Whateleys were so fond of\u2014the beings they were going to let in tangibly to wipe out the human race and drag the earth off to some nameless place for some nameless purpose.", 
+        "original-end-charpos": 11923, 
+        "original-start-charpos": 11705
+    }, 
+    {
+        "obfuscation": "\u201cBut as to this matter we\u2019ve just sent back\u2014the Whateleys raised it for a terrible part in the doings that were to come .", 
+        "obfuscation-id": 165, 
+        "original": "\n      \u201cBut as to this thing we\u2019ve just sent back\u2014the Whateleys raised it for a terrible part in the doings that were to come.", 
+        "original-end-charpos": 12049, 
+        "original-start-charpos": 11924
+    }, 
+    {
+        "obfuscation": "It grew fast and big from the same reason that Wilbur turned fast and big\u2014but it beat him because it had a greater share of the outsideness in it .", 
+        "obfuscation-id": 166, 
+        "original": " It grew fast and big from the same reason that Wilbur grew fast and big\u2014but it beat him because it had a greater share of the outsideness in it.", 
+        "original-end-charpos": 12194, 
+        "original-start-charpos": 12050
+    }, 
+    {
+        "obfuscation": "You needn\u2019t ask how Wilbur called it out of the air .", 
+        "obfuscation-id": 167, 
+        "original": " You needn\u2019t ask how Wilbur called it out of the air.", 
+        "original-end-charpos": 12247, 
+        "original-start-charpos": 12195
+    }, 
+    {
+        "obfuscation": "He didn\u2019t call it away .", 
+        "obfuscation-id": 168, 
+        "original": " He didn\u2019t call it out.", 
+        "original-end-charpos": 12270, 
+        "original-start-charpos": 12248
+    }, 
+    {
+        "obfuscation": "It was his twin brother , but it looked more like the father than he did.\u201d", 
+        "obfuscation-id": 169, 
+        "original": " It was his twin brother, but it looked more like the father than he did.\u201d\n", 
+        "original-end-charpos": 12345, 
+        "original-start-charpos": 12271
+    }
+]

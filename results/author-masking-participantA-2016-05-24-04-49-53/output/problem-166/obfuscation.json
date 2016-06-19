@@ -1,0 +1,282 @@
+[
+    {
+        "obfuscation": "Oh , for heaven 's sake , are you off on that again ?", 
+        "obfuscation-id": 1, 
+        "original": "Oh, for heaven's sake, are you off on that\nagain?", 
+        "original-end-charpos": 48, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Where 's the harm in his taking me around ?", 
+        "obfuscation-id": 2, 
+        "original": " Where's the harm in his taking me around?", 
+        "original-end-charpos": 90, 
+        "original-start-charpos": 49
+    }, 
+    {
+        "obfuscation": "D'you want me to sit all day and night in this cabin with you -- and knit ?", 
+        "obfuscation-id": 3, 
+        "original": " D'you want me to sit\nall day and night in this cabin with you--and knit?", 
+        "original-end-charpos": 163, 
+        "original-start-charpos": 91
+    }, 
+    {
+        "obfuscation": "Ai n't I got a right to have as full a time as I can ?", 
+        "obfuscation-id": 4, 
+        "original": " Ain't I got a right\nto have as good a time as I can?", 
+        "original-end-charpos": 216, 
+        "original-start-charpos": 164
+    }, 
+    {
+        "obfuscation": "It ai n't correct kind of fun -- not with that fallar , no .", 
+        "obfuscation-id": 5, 
+        "original": "\n\nIt ain't right kind of fun--not with that fallar, no.", 
+        "original-end-charpos": 271, 
+        "original-start-charpos": 217
+    }, 
+    {
+        "obfuscation": "I been back on board every night by eleven , ai n't I ?", 
+        "obfuscation-id": 6, 
+        "original": "\n\nI been back on board every night by eleven, ain't I?", 
+        "original-end-charpos": 325, 
+        "original-start-charpos": 272
+    }, 
+    {
+        "obfuscation": "Say , look here , what d'you mean by what you yust said ?", 
+        "obfuscation-id": 7, 
+        "original": " \nSay, look here, what d'you mean by what you yust said?", 
+        "original-end-charpos": 381, 
+        "original-start-charpos": 326
+    }, 
+    {
+        "obfuscation": "Nutting but what Ay say , Anna .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nNutting but what Ay say, Anna.", 
+        "original-end-charpos": 413, 
+        "original-start-charpos": 382
+    }, 
+    {
+        "obfuscation": "You said `` ai n't correct '' and you said it funny .", 
+        "obfuscation-id": 9, 
+        "original": "\n\nYou said \"ain't right\" and you said it funny.", 
+        "original-end-charpos": 460, 
+        "original-start-charpos": 414
+    }, 
+    {
+        "obfuscation": "Say , listen here , you ai n't trying to insinuate that there 's something wrong between us , are you ?", 
+        "obfuscation-id": 10, 
+        "original": " Say, listen here,\nyou ain't trying to insinuate that there's something wrong between us,\nare you?", 
+        "original-end-charpos": 558, 
+        "original-start-charpos": 461
+    }, 
+    {
+        "obfuscation": "No , Anna !", 
+        "obfuscation-id": 11, 
+        "original": "\n\nNo, Anna!", 
+        "original-end-charpos": 569, 
+        "original-start-charpos": 559
+    }, 
+    {
+        "obfuscation": "No , Ay svear to God , Ay never tank dat !", 
+        "obfuscation-id": 12, 
+        "original": " No, Ay svear to God, Ay never tank dat!", 
+        "original-end-charpos": 609, 
+        "original-start-charpos": 570
+    }, 
+    {
+        "obfuscation": "Well , make n't you never think it neither if you want me ever to speak to you again .", 
+        "obfuscation-id": 13, 
+        "original": "\n\n\nWell, don't you never think it neither if you want me ever to speak to\nyou again.", 
+        "original-end-charpos": 693, 
+        "original-start-charpos": 610
+    }, 
+    {
+        "obfuscation": "If I ever dreamt you thought that , I 'd become the hell out of this barge so quick you could n't see me for dust .", 
+        "obfuscation-id": 14, 
+        "original": " If I ever dreamt you thought that, I'd get\nthe hell out of this barge so quick you couldn't see me for dust.", 
+        "original-end-charpos": 802, 
+        "original-start-charpos": 694
+    }, 
+    {
+        "obfuscation": "Ay would n't never dream -- You vas gatting learn to svear .", 
+        "obfuscation-id": 15, 
+        "original": "\n\nAy wouldn't never dream-- You vas gatting learn to svear.", 
+        "original-end-charpos": 861, 
+        "original-start-charpos": 803
+    }, 
+    {
+        "obfuscation": "Dat ai n't nice for new gel , you tank ?", 
+        "obfuscation-id": 16, 
+        "original": " Dat ain't nice for\nyoung gel, you tank?", 
+        "original-end-charpos": 901, 
+        "original-start-charpos": 862
+    }, 
+    {
+        "obfuscation": "Excuse me .", 
+        "obfuscation-id": 17, 
+        "original": "\n\nExcuse me.", 
+        "original-end-charpos": 913, 
+        "original-start-charpos": 902
+    }, 
+    {
+        "obfuscation": "You ai n't used to such language , I know .", 
+        "obfuscation-id": 18, 
+        "original": " You ain't used to\nsuch language, I know.", 
+        "original-end-charpos": 954, 
+        "original-start-charpos": 914
+    }, 
+    {
+        "obfuscation": "That 's what your taking me to sea has done for me .", 
+        "obfuscation-id": 19, 
+        "original": " That's what your taking me to sea\nhas done for me.", 
+        "original-end-charpos": 1005, 
+        "original-start-charpos": 955
+    }, 
+    {
+        "obfuscation": "No , it ai n't me .", 
+        "obfuscation-id": 20, 
+        "original": "\n\nNo, it ain't me.", 
+        "original-end-charpos": 1023, 
+        "original-start-charpos": 1006
+    }, 
+    {
+        "obfuscation": "It 's dat damn sailor fallar learn you bad tangs .", 
+        "obfuscation-id": 21, 
+        "original": " It's dat damn sailor fallar\nlearn you bad tangs.", 
+        "original-end-charpos": 1072, 
+        "original-start-charpos": 1024
+    }, 
+    {
+        "obfuscation": "He ai n't a sailor .", 
+        "obfuscation-id": 22, 
+        "original": "\n\nHe ain't a sailor.", 
+        "original-end-charpos": 1092, 
+        "original-start-charpos": 1073
+    }, 
+    {
+        "obfuscation": "He 's a stoker .", 
+        "obfuscation-id": 23, 
+        "original": " He's a stoker.", 
+        "original-end-charpos": 1107, 
+        "original-start-charpos": 1093
+    }, 
+    {
+        "obfuscation": "Dat vas million times vorse , Ay tal you !", 
+        "obfuscation-id": 24, 
+        "original": "\n\nDat vas million times vorse, Ay tal you!", 
+        "original-end-charpos": 1149, 
+        "original-start-charpos": 1108
+    }, 
+    {
+        "obfuscation": "Dem fallars dat vork below shoveling coal vas de dirtiest , rough gang of no-good fallars in vorld !", 
+        "obfuscation-id": 25, 
+        "original": " Dem fallars\ndat vork below shoveling coal vas de dirtiest, rough gang of no-good\nfallars in vorld!", 
+        "original-end-charpos": 1248, 
+        "original-start-charpos": 1150
+    }, 
+    {
+        "obfuscation": "I 'd hate to hear you say that to Mat .", 
+        "obfuscation-id": 26, 
+        "original": "\n\nI'd hate to hear you say that to Mat.", 
+        "original-end-charpos": 1287, 
+        "original-start-charpos": 1249
+    }, 
+    {
+        "obfuscation": "Oh , Ay tal him same tang .", 
+        "obfuscation-id": 27, 
+        "original": "\n\nOh, Ay tal him same tang.", 
+        "original-end-charpos": 1314, 
+        "original-start-charpos": 1288
+    }, 
+    {
+        "obfuscation": "You do n't gat it in head Ay 'm scared of him yust 'cause he vas stronger'n Ay vas .", 
+        "obfuscation-id": 28, 
+        "original": " You don't gat it in head Ay'm scared\nof him yust 'cause he vas stronger'n Ay vas.", 
+        "original-end-charpos": 1396, 
+        "original-start-charpos": 1315
+    }, 
+    {
+        "obfuscation": "You don't gat for fight with fists with dem fallars .", 
+        "obfuscation-id": 29, 
+        "original": " You don't\ngat for fight with fists with dem fallars.", 
+        "original-end-charpos": 1449, 
+        "original-start-charpos": 1397
+    }, 
+    {
+        "obfuscation": "Dere 's oder vay for fix him .", 
+        "obfuscation-id": 30, 
+        "original": " Dere's oder vay for fix him.", 
+        "original-end-charpos": 1478, 
+        "original-start-charpos": 1450
+    }, 
+    {
+        "obfuscation": "What d'you mean ?", 
+        "obfuscation-id": 31, 
+        "original": "\n\nWhat d'you mean?", 
+        "original-end-charpos": 1496, 
+        "original-start-charpos": 1479
+    }, 
+    {
+        "obfuscation": "Nutting .", 
+        "obfuscation-id": 32, 
+        "original": "\n\nNutting.", 
+        "original-end-charpos": 1506, 
+        "original-start-charpos": 1497
+    }, 
+    {
+        "obfuscation": "You 'd better not .", 
+        "obfuscation-id": 33, 
+        "original": "\n\nYou'd better not.", 
+        "original-end-charpos": 1525, 
+        "original-start-charpos": 1507
+    }, 
+    {
+        "obfuscation": "I would n't start no trouble with him if I were you .", 
+        "obfuscation-id": 34, 
+        "original": " I wouldn't start no trouble with him if I was\nyou.", 
+        "original-end-charpos": 1576, 
+        "original-start-charpos": 1526
+    }, 
+    {
+        "obfuscation": "He might forget some time that you were old and my father -- and then you 'd be out of luck .", 
+        "obfuscation-id": 35, 
+        "original": " He might forget some time that you was old and my father--and then\nyou'd be out of luck.", 
+        "original-end-charpos": 1665, 
+        "original-start-charpos": 1577
+    }, 
+    {
+        "obfuscation": "Vell , yust let him !", 
+        "obfuscation-id": 36, 
+        "original": "\n\nVell, yust let him!", 
+        "original-end-charpos": 1686, 
+        "original-start-charpos": 1666
+    }, 
+    {
+        "obfuscation": "Ay 'm ole bird maybe , but Ay bet Ay show him trick or two .", 
+        "obfuscation-id": 37, 
+        "original": " Ay'm ole bird\nmaybe, but Ay bet Ay show him trick or two.", 
+        "original-end-charpos": 1744, 
+        "original-start-charpos": 1687
+    }, 
+    {
+        "obfuscation": "Aw come on , be full .", 
+        "obfuscation-id": 38, 
+        "original": "\n\nAw come on, be good.", 
+        "original-end-charpos": 1766, 
+        "original-start-charpos": 1745
+    }, 
+    {
+        "obfuscation": "What 's eating you , anyway ?", 
+        "obfuscation-id": 39, 
+        "original": " What's eating you, anyway?", 
+        "original-end-charpos": 1793, 
+        "original-start-charpos": 1767
+    }, 
+    {
+        "obfuscation": "Do n't you want no one to be nice to me except yourself ?", 
+        "obfuscation-id": 40, 
+        "original": " Don't you want no one to be nice to me\nexcept yourself?\n", 
+        "original-end-charpos": 1850, 
+        "original-start-charpos": 1794
+    }
+]

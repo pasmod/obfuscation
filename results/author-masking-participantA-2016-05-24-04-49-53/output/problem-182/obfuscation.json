@@ -1,0 +1,408 @@
+[
+    {
+        "obfuscation": "Dogs take to her .", 
+        "obfuscation-id": 1, 
+        "original": "Dogs take to her.", 
+        "original-end-charpos": 16, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "That 's a sure sign .", 
+        "obfuscation-id": 2, 
+        "original": "  That's a sure sign.", 
+        "original-end-charpos": 37, 
+        "original-start-charpos": 17
+    }, 
+    {
+        "obfuscation": "Little things -- one can always tell .", 
+        "obfuscation-id": 3, 
+        "original": "\n\nLittle things--one can always tell.", 
+        "original-end-charpos": 74, 
+        "original-start-charpos": 38
+    }, 
+    {
+        "obfuscation": "Something very attractive about her -- what !", 
+        "obfuscation-id": 4, 
+        "original": "\n\n Something very attractive about her--what!", 
+        "original-end-charpos": 119, 
+        "original-start-charpos": 75
+    }, 
+    {
+        "obfuscation": "Fine build of woman .", 
+        "obfuscation-id": 5, 
+        "original": "  Fine build\nof woman.", 
+        "original-end-charpos": 141, 
+        "original-start-charpos": 120
+    }, 
+    {
+        "obfuscation": "I shall get hold of her for parish work .", 
+        "obfuscation-id": 6, 
+        "original": "\n\nI shall get hold of her for parish work.", 
+        "original-end-charpos": 183, 
+        "original-start-charpos": 142
+    }, 
+    {
+        "obfuscation": "Ah !", 
+        "obfuscation-id": 7, 
+        "original": "\n\n Ah!", 
+        "original-end-charpos": 189, 
+        "original-start-charpos": 184
+    }, 
+    {
+        "obfuscation": "Excellent -- excellent !", 
+        "obfuscation-id": 8, 
+        "original": "  Excellent--excellent!", 
+        "original-end-charpos": 212, 
+        "original-start-charpos": 190
+    }, 
+    {
+        "obfuscation": "Do !", 
+        "obfuscation-id": 9, 
+        "original": "  Do!", 
+        "original-end-charpos": 217, 
+        "original-start-charpos": 213
+    }, 
+    {
+        "obfuscation": "Wonder if her husband shoots ?", 
+        "obfuscation-id": 10, 
+        "original": "\n\n Wonder if her husband shoots?", 
+        "original-end-charpos": 249, 
+        "original-start-charpos": 218
+    }, 
+    {
+        "obfuscation": "She seems quite-er -- quite -- -- Quite !", 
+        "obfuscation-id": 11, 
+        "original": "  She seems\nquite-er--quite----\n\n Quite!", 
+        "original-end-charpos": 289, 
+        "original-start-charpos": 250
+    }, 
+    {
+        "obfuscation": "Altogether charming ; one of the nicest faces I ever saw .", 
+        "obfuscation-id": 12, 
+        "original": "  Altogether charming; one of the nicest faces I ever saw.", 
+        "original-end-charpos": 347, 
+        "original-start-charpos": 290
+    }, 
+    {
+        "obfuscation": "Oh !", 
+        "obfuscation-id": 13, 
+        "original": "\n\n\nOh!", 
+        "original-end-charpos": 353, 
+        "original-start-charpos": 348
+    }, 
+    {
+        "obfuscation": "Doctor -- have you ?", 
+        "obfuscation-id": 14, 
+        "original": "  Doctor--have you?", 
+        "original-end-charpos": 372, 
+        "original-start-charpos": 354
+    }, 
+    {
+        "obfuscation": "is it -- -- ?", 
+        "obfuscation-id": 15, 
+        "original": " is it----?", 
+        "original-end-charpos": 383, 
+        "original-start-charpos": 373
+    }, 
+    {
+        "obfuscation": "Right as rain !", 
+        "obfuscation-id": 16, 
+        "original": "\n\nRight as rain!", 
+        "original-end-charpos": 399, 
+        "original-start-charpos": 384
+    }, 
+    {
+        "obfuscation": "She held him like an angel -- he just licked her , and never made a sound .", 
+        "obfuscation-id": 17, 
+        "original": "  She held him like an angel--he just licked her, and never made a sound.", 
+        "original-end-charpos": 472, 
+        "original-start-charpos": 400
+    }, 
+    {
+        "obfuscation": "Poor darling !", 
+        "obfuscation-id": 18, 
+        "original": "\n\nPoor darling!", 
+        "original-end-charpos": 487, 
+        "original-start-charpos": 473
+    }, 
+    {
+        "obfuscation": "Can I -- -- Better leave 'em a minute .", 
+        "obfuscation-id": 19, 
+        "original": "  Can I----\n\n    \n\nBetter leave 'em a minute.", 
+        "original-end-charpos": 532, 
+        "original-start-charpos": 488
+    }, 
+    {
+        "obfuscation": "She 's moppin ' 'im off .", 
+        "obfuscation-id": 20, 
+        "original": "  She's moppin' 'im off.", 
+        "original-end-charpos": 556, 
+        "original-start-charpos": 533
+    }, 
+    {
+        "obfuscation": "Wonderful clever hands !", 
+        "obfuscation-id": 21, 
+        "original": " Wonderful clever hands!", 
+        "original-end-charpos": 580, 
+        "original-start-charpos": 557
+    }, 
+    {
+        "obfuscation": "I say -- who is she ?", 
+        "obfuscation-id": 22, 
+        "original": "\n\n I say--who is she?", 
+        "original-end-charpos": 601, 
+        "original-start-charpos": 581
+    }, 
+    {
+        "obfuscation": "Who ?", 
+        "obfuscation-id": 23, 
+        "original": "\n\n Who?", 
+        "original-end-charpos": 608, 
+        "original-start-charpos": 602
+    }, 
+    {
+        "obfuscation": "Well -- there you have me !", 
+        "obfuscation-id": 24, 
+        "original": "  Well--there you have me!", 
+        "original-end-charpos": 634, 
+        "original-start-charpos": 609
+    }, 
+    {
+        "obfuscation": "All I know is she 's a first-rate nurse -- been helpin ' me with a case in Ditch Lane .", 
+        "obfuscation-id": 25, 
+        "original": "  All I know is\nshe's a first-rate nurse--been helpin' me with a case in Ditch Lane.", 
+        "original-end-charpos": 718, 
+        "original-start-charpos": 635
+    }, 
+    {
+        "obfuscation": "Nice woman , besides -- thorough good sort !", 
+        "obfuscation-id": 26, 
+        "original": "\nNice woman, too--thorough good sort!", 
+        "original-end-charpos": 755, 
+        "original-start-charpos": 719
+    }, 
+    {
+        "obfuscation": "Quite an acquisition here .", 
+        "obfuscation-id": 27, 
+        "original": "  Quite an acquisition here.", 
+        "original-end-charpos": 783, 
+        "original-start-charpos": 756
+    }, 
+    {
+        "obfuscation": "H 'm !", 
+        "obfuscation-id": 28, 
+        "original": "\nH'm!", 
+        "original-end-charpos": 788, 
+        "original-start-charpos": 784
+    }, 
+    {
+        "obfuscation": "Excuse me hurryin ' away -- very late .", 
+        "obfuscation-id": 29, 
+        "original": "  Excuse me hurryin' off--very\nlate.", 
+        "original-end-charpos": 824, 
+        "original-start-charpos": 789
+    }, 
+    {
+        "obfuscation": "Good-bye , Rector .", 
+        "obfuscation-id": 30, 
+        "original": "  Good-bye, Rector.", 
+        "original-end-charpos": 843, 
+        "original-start-charpos": 825
+    }, 
+    {
+        "obfuscation": "Good-bye , Lady Ella .", 
+        "obfuscation-id": 31, 
+        "original": "  Good-bye, Lady Ella.", 
+        "original-end-charpos": 865, 
+        "original-start-charpos": 844
+    }, 
+    {
+        "obfuscation": "Good-bye !", 
+        "obfuscation-id": 32, 
+        "original": "  Good-bye!", 
+        "original-end-charpos": 876, 
+        "original-start-charpos": 866
+    }, 
+    {
+        "obfuscation": "H 'm !", 
+        "obfuscation-id": 33, 
+        "original": "\n\n\n\n H'm!", 
+        "original-end-charpos": 885, 
+        "original-start-charpos": 877
+    }, 
+    {
+        "obfuscation": "I suppose we ought to be a bit careful .", 
+        "obfuscation-id": 34, 
+        "original": "  I suppose we ought to be a bit careful.", 
+        "original-end-charpos": 926, 
+        "original-start-charpos": 886
+    }, 
+    {
+        "obfuscation": "Beg pardon , sir .", 
+        "obfuscation-id": 35, 
+        "original": "\n\n \n Beg pardon, sir.", 
+        "original-end-charpos": 947, 
+        "original-start-charpos": 927
+    }, 
+    {
+        "obfuscation": "Is the fiddling dog all right ?", 
+        "obfuscation-id": 36, 
+        "original": "  Is the little dog all right?", 
+        "original-end-charpos": 977, 
+        "original-start-charpos": 948
+    }, 
+    {
+        "obfuscation": "Yes .", 
+        "obfuscation-id": 37, 
+        "original": "\n\nYes.", 
+        "original-end-charpos": 983, 
+        "original-start-charpos": 978
+    }, 
+    {
+        "obfuscation": "Seein ' you 've missed your train , m 'm , shall I wait , and take you 'ome again ?", 
+        "obfuscation-id": 38, 
+        "original": "\n\nSeein' you've missed your train, m'm, shall I wait, and take you 'ome again?", 
+        "original-end-charpos": 1061, 
+        "original-start-charpos": 984
+    }, 
+    {
+        "obfuscation": "No .", 
+        "obfuscation-id": 39, 
+        "original": "\n\n No.", 
+        "original-end-charpos": 1067, 
+        "original-start-charpos": 1062
+    }, 
+    {
+        "obfuscation": "Cert'nly , m 'm .", 
+        "obfuscation-id": 40, 
+        "original": "\n\nCert'nly, m'm.", 
+        "original-end-charpos": 1083, 
+        "original-start-charpos": 1068
+    }, 
+    {
+        "obfuscation": "Oh , Jarvis -- what 's the name of the people here ?", 
+        "obfuscation-id": 41, 
+        "original": "  \n\n Oh, Jarvis--what's the name of the people here?", 
+        "original-end-charpos": 1135, 
+        "original-start-charpos": 1084
+    }, 
+    {
+        "obfuscation": "Challenger 's the name I 've driven 'em in , my lady .", 
+        "obfuscation-id": 42, 
+        "original": "\n\nChallenger's the name I've driven 'em in, my lady.", 
+        "original-end-charpos": 1187, 
+        "original-start-charpos": 1136
+    }, 
+    {
+        "obfuscation": "Challenger ?", 
+        "obfuscation-id": 43, 
+        "original": "\n\nChallenger?", 
+        "original-end-charpos": 1200, 
+        "original-start-charpos": 1188
+    }, 
+    {
+        "obfuscation": "Sounds like a hound .", 
+        "obfuscation-id": 44, 
+        "original": "  Sounds like a hound.", 
+        "original-end-charpos": 1222, 
+        "original-start-charpos": 1201
+    }, 
+    {
+        "obfuscation": "What 's he like ?", 
+        "obfuscation-id": 45, 
+        "original": "  What's he like?", 
+        "original-end-charpos": 1239, 
+        "original-start-charpos": 1223
+    }, 
+    {
+        "obfuscation": "Wears a soft 'at , sir .", 
+        "obfuscation-id": 46, 
+        "original": "\n\n  Wears a soft 'at, sir.", 
+        "original-end-charpos": 1265, 
+        "original-start-charpos": 1240
+    }, 
+    {
+        "obfuscation": "H 'm !", 
+        "obfuscation-id": 47, 
+        "original": "\n\n H'm!", 
+        "original-end-charpos": 1272, 
+        "original-start-charpos": 1266
+    }, 
+    {
+        "obfuscation": "Ah !", 
+        "obfuscation-id": 48, 
+        "original": "  Ah!", 
+        "original-end-charpos": 1277, 
+        "original-start-charpos": 1273
+    }, 
+    {
+        "obfuscation": "Very nice gentleman , very nice lady .", 
+        "obfuscation-id": 49, 
+        "original": "\n\nVery nice gentleman, very nice lady.", 
+        "original-end-charpos": 1315, 
+        "original-start-charpos": 1278
+    }, 
+    {
+        "obfuscation": "'Elped me with my old mare when she 'ad the 'ighsteria last week -- could n't 'a ' been kinder if they 'd 'a ' been angels from 'eaven .", 
+        "obfuscation-id": 50, 
+        "original": "  'Elped me with my old\nmare when she 'ad the 'ighsteria last week--couldn't 'a' been kinder\nif they'd 'a' been angels from 'eaven.", 
+        "original-end-charpos": 1446, 
+        "original-start-charpos": 1316
+    }, 
+    {
+        "obfuscation": "Wonderful fond o ' dumb animals , the two of 'em .", 
+        "obfuscation-id": 51, 
+        "original": "  Wonderful fond o' dumb\nanimals, the two of 'em.", 
+        "original-end-charpos": 1495, 
+        "original-start-charpos": 1447
+    }, 
+    {
+        "obfuscation": "I do n't pay no attention to gossip , meself .", 
+        "obfuscation-id": 52, 
+        "original": "  I don't pay no attention to gossip, meself.", 
+        "original-end-charpos": 1540, 
+        "original-start-charpos": 1496
+    }, 
+    {
+        "obfuscation": "Gossip ?", 
+        "obfuscation-id": 53, 
+        "original": "\n\nGossip?", 
+        "original-end-charpos": 1549, 
+        "original-start-charpos": 1541
+    }, 
+    {
+        "obfuscation": "What gossip ?", 
+        "obfuscation-id": 54, 
+        "original": "  What gossip?", 
+        "original-end-charpos": 1563, 
+        "original-start-charpos": 1550
+    }, 
+    {
+        "obfuscation": "Did I make use of the word , m 'm ?", 
+        "obfuscation-id": 55, 
+        "original": "\n\n Did I make use of the word, m'm?", 
+        "original-end-charpos": 1598, 
+        "original-start-charpos": 1564
+    }, 
+    {
+        "obfuscation": "You 'll excuse me , I 'm sure .", 
+        "obfuscation-id": 56, 
+        "original": "  You'll excuse\nme, I'm sure.", 
+        "original-end-charpos": 1627, 
+        "original-start-charpos": 1599
+    }, 
+    {
+        "obfuscation": "There 's always talk where there 's newcomers .", 
+        "obfuscation-id": 57, 
+        "original": "  There's always talk where there's newcomers.", 
+        "original-end-charpos": 1673, 
+        "original-start-charpos": 1628
+    }, 
+    {
+        "obfuscation": "I takes people as I finds 'em .", 
+        "obfuscation-id": 58, 
+        "original": "  I takes\npeople as I finds 'em.\n\n", 
+        "original-end-charpos": 1707, 
+        "original-start-charpos": 1674
+    }
+]

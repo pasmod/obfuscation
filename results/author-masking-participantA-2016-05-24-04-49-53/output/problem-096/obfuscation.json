@@ -1,0 +1,198 @@
+[
+    {
+        "obfuscation": "\ufeffThis test is dealing with my competence in English , assessing the four skills of reading , listening , writing and speaking .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffThis essay is dealing with my competence in English, assessing the four skills of reading, listening, writing and speaking.", 
+        "original-end-charpos": 123, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "I will try to point away my strengths and weaknesses within these different fields mentioned above .", 
+        "obfuscation-id": 2, 
+        "original": " \nI will try to point out my strengths and weaknesses within these different fields mentioned above.", 
+        "original-end-charpos": 223, 
+        "original-start-charpos": 124
+    }, 
+    {
+        "obfuscation": "I feel quite confident about taking in English , and because I have always enjoyed reading all sorts of books since I was a child , I have had a lot of practice as well .", 
+        "obfuscation-id": 3, 
+        "original": " \nI feel quite confident about reading in English, and because I have always enjoyed reading all sorts of books since I was a child, I have had a lot of practice as well.", 
+        "original-end-charpos": 393, 
+        "original-start-charpos": 224
+    }, 
+    {
+        "obfuscation": "I guess that makes it a lot easier .", 
+        "obfuscation-id": 4, 
+        "original": " \nI guess that makes it a lot easier.", 
+        "original-end-charpos": 430, 
+        "original-start-charpos": 394
+    }, 
+    {
+        "obfuscation": "I read a bit of English literature in my sparetime , mostly John Grisham 's books , and even though they are a bit specialised , regarding the legal-terms and some American slang , I have never had a trouble with them .", 
+        "obfuscation-id": 5, 
+        "original": " \nI read a bit of English literature in my sparetime, mostly John Grisham's books, and even though they are a bit specialised, regarding the legal-terms and some American slang, I have never had a problem with them.", 
+        "original-end-charpos": 645, 
+        "original-start-charpos": 431
+    }, 
+    {
+        "obfuscation": "I have also read a few poems , and they are much harder to understand , since they usually get a deeper meaning , which is harder to grasp if you have English as a second language , though in my opinion , a poem in English is easier to read then to listen to .", 
+        "obfuscation-id": 6, 
+        "original": " \nI have also read a few poems, and they are much harder to understand, since they usually have a deeper meaning, which is harder to grasp if you have English as a second language, though in my opinion, a poem in English is easier to read then to listen to.", 
+        "original-end-charpos": 902, 
+        "original-start-charpos": 646
+    }, 
+    {
+        "obfuscation": "If I am listening to a person giving a speech in English , I usually do n't have a lot of a problem understanding what he or she is saying .", 
+        "obfuscation-id": 7, 
+        "original": "  \nIf I am listening to a person giving a speech in English, I usually don't have much of a problem understanding what he or she is saying.", 
+        "original-end-charpos": 1041, 
+        "original-start-charpos": 903
+    }, 
+    {
+        "obfuscation": "If the accent is known for me , I do n't have to concentrate much at all , if the person is n't speaking exceptionally fast of course .", 
+        "obfuscation-id": 8, 
+        "original": " \nIf the accent is known for me, I don't have to concentrate much at all, if the person isn't talking exceptionally fast of course.", 
+        "original-end-charpos": 1172, 
+        "original-start-charpos": 1042
+    }, 
+    {
+        "obfuscation": "1996 I was an exchangestudent in Australia .", 
+        "obfuscation-id": 9, 
+        "original": " \n1996 I was an exchangestudent in Australia.", 
+        "original-end-charpos": 1217, 
+        "original-start-charpos": 1173
+    }, 
+    {
+        "obfuscation": "Their accent were new to me and fairly different from the American and British ways of speaking .", 
+        "obfuscation-id": 10, 
+        "original": " \nTheir accent was new to me and fairly different from the American and British ways of speaking.", 
+        "original-end-charpos": 1314, 
+        "original-start-charpos": 1218
+    }, 
+    {
+        "obfuscation": "I remember that in the inaugural week of school , I used to go home having the most dreadful headache from just listening to the teachers , trying to understand just what they were saying .", 
+        "obfuscation-id": 11, 
+        "original": " \nI remember that in the first week of school, I used to go home having the most dreadful headache from just listening to the teachers, trying to understand just what they were saying.", 
+        "original-end-charpos": 1498, 
+        "original-start-charpos": 1315
+    }, 
+    {
+        "obfuscation": "After a while I got used to it of course , and nowadays that is the accent that I feel most comfortable listening to , even though I myself have gone back to a mixture between American and British accents .", 
+        "obfuscation-id": 12, 
+        "original": " \nAfter a while I got used to it of course, and now that is the accent that I feel most comfortable listening to, even though I myself have gone back to a mixture between American and British accents.", 
+        "original-end-charpos": 1698, 
+        "original-start-charpos": 1499
+    }, 
+    {
+        "obfuscation": "When speaking a unlike language , Swedish people are afraid that they will have a funny accent , or that they will pronounce the words wrong so that someone might find their way of speaking amusing .", 
+        "obfuscation-id": 13, 
+        "original": "  \nWhen speaking a different language, Swedish people are afraid that they will have a funny accent, or that they will pronounce the words wrong so that someone might find their way of speaking amusing.", 
+        "original-end-charpos": 1900, 
+        "original-start-charpos": 1699
+    }, 
+    {
+        "obfuscation": "I am no exception .", 
+        "obfuscation-id": 14, 
+        "original": " \nI am no exception.", 
+        "original-end-charpos": 1920, 
+        "original-start-charpos": 1901
+    }, 
+    {
+        "obfuscation": "The schools that I have been to made n't put much effort into teaching us how to speak the languages that we were so good at reading .", 
+        "obfuscation-id": 15, 
+        "original": " \nThe schools that I have been to didn't put much effort into teaching us how to speak the languages that we were so good at reading.", 
+        "original-end-charpos": 2053, 
+        "original-start-charpos": 1921
+    }, 
+    {
+        "obfuscation": "Up until High School , I had a pretty large passive vocabulary , but the active one was nothing to be proud of .", 
+        "obfuscation-id": 16, 
+        "original": " \nUp until High School, I had a pretty large passive vocabulary, but the active one was nothing to be proud of.", 
+        "original-end-charpos": 2164, 
+        "original-start-charpos": 2054
+    }, 
+    {
+        "obfuscation": "Then I went to Australia and suddenly I had to speak English , because otherwise nobody would understand me , or be concerned in getting to know me .", 
+        "obfuscation-id": 17, 
+        "original": " \nThen I went to Australia and suddenly I had to speak English, because otherwise nobody would understand me, or be interested in getting to know me.", 
+        "original-end-charpos": 2313, 
+        "original-start-charpos": 2165
+    }, 
+    {
+        "obfuscation": "I remember this is the best way to fully learn a language , actually being forced to speak it , and also , in my opinion , as soon as you get over that basic fear of failing , you will see that the important thing is not to get every little word in a sentence right , but to actually say that sentence and make yourself heard !", 
+        "obfuscation-id": 18, 
+        "original": " \nI think this is the best way to fully learn a language, actually being forced to speak it, and also, in my opinion, as soon as you get over that basic fear of failing, you will see that the important thing is not to get every little word in a sentence right, but to actually say that sentence and make yourself heard!", 
+        "original-end-charpos": 2632, 
+        "original-start-charpos": 2314
+    }, 
+    {
+        "obfuscation": "As long as early people understand what you are saying , there is nothing to be afraid of at all .", 
+        "obfuscation-id": 19, 
+        "original": " \nAs long as other people understand what you are saying, there is nothing to be afraid of at all.", 
+        "original-end-charpos": 2730, 
+        "original-start-charpos": 2633
+    }, 
+    {
+        "obfuscation": "Of course , I however find it uncomfortable to speak English sometimes , and I rather write my friends back there a letter , than call them , and that is not only because of the phonebill ...", 
+        "obfuscation-id": 20, 
+        "original": " \nOf course, I still find it uncomfortable to speak English sometimes, and I rather write my friends back there a letter, than call them, and that is not only because of the phonebill...", 
+        "original-end-charpos": 2916, 
+        "original-start-charpos": 2731
+    }, 
+    {
+        "obfuscation": "I like writing , but that makes n't mean that I am very good at it .", 
+        "obfuscation-id": 21, 
+        "original": "  \nI like writing, but that doesn't mean that I am very good at it.", 
+        "original-end-charpos": 2983, 
+        "original-start-charpos": 2917
+    }, 
+    {
+        "obfuscation": "I learnt a lot from my exchange year , but there are all sorts of unlike rules how the essays should be outlined , that I do n't have a clue about .", 
+        "obfuscation-id": 22, 
+        "original": " \nI learnt a lot from my exchange year, but there are all sorts of different rules how the essays should be outlined, that I don't have a clue about.", 
+        "original-end-charpos": 3132, 
+        "original-start-charpos": 2984
+    }, 
+    {
+        "obfuscation": "In Primary School and High School , you precisely sit down and write an essay , and there are no certain rules or outlines that you are supposed to know about .", 
+        "obfuscation-id": 23, 
+        "original": " \nIn Primary School and High School, you just sit down and write an essay, and there are no certain rules or outlines that you are supposed to know about.", 
+        "original-end-charpos": 3286, 
+        "original-start-charpos": 3133
+    }, 
+    {
+        "obfuscation": "I think that is one of my large weaknesses .", 
+        "obfuscation-id": 24, 
+        "original": " \nI think that is one of my biggest weaknesses.", 
+        "original-end-charpos": 3333, 
+        "original-start-charpos": 3287
+    }, 
+    {
+        "obfuscation": "y greatest strength regarding this , is that I love writing a lot .", 
+        "obfuscation-id": 25, 
+        "original": " y greatest strength regarding this, is that I enjoy writing a lot.", 
+        "original-end-charpos": 3400, 
+        "original-start-charpos": 3334
+    }, 
+    {
+        "obfuscation": "I have n't done a lot of writing in English , but since about Grade 3 I have been writing short-stories and poems in Swedish .", 
+        "obfuscation-id": 26, 
+        "original": " \nI haven't done a lot of writing in English, but since about Grade 3 I have been writing short-stories and poems in Swedish.", 
+        "original-end-charpos": 3525, 
+        "original-start-charpos": 3401
+    }, 
+    {
+        "obfuscation": "When it comes to writing an essay with a prepared headline , I guess I do n't love it as much , but it is a bigger challenge of course .", 
+        "obfuscation-id": 27, 
+        "original": " \nWhen it comes to writing an essay with a prepared headline, I guess I don't enjoy it as much, but it is a bigger challenge of course.", 
+        "original-end-charpos": 3660, 
+        "original-start-charpos": 3526
+    }, 
+    {
+        "obfuscation": "To sum this up , I remember my English is pretty good in these four aspects , but I guess I will learn a lot from this semester of University .", 
+        "obfuscation-id": 28, 
+        "original": "  \nTo sum this up, I think my English is pretty good in these four aspects, but I guess I will learn a lot from this semester of University.\n", 
+        "original-end-charpos": 3801, 
+        "original-start-charpos": 3661
+    }
+]

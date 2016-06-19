@@ -1,0 +1,212 @@
+[
+    {
+        "obfuscation": "\ufeff television - a reliable educator ?", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff TV - a reliable educator?", 
+        "original-end-charpos": 26, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "In an ordinary Swedish home , the importance of television is constantly growing .", 
+        "obfuscation-id": 2, 
+        "original": "  \nIn an ordinary Swedish home, the importance of television is constantly growing.", 
+        "original-end-charpos": 109, 
+        "original-start-charpos": 27
+    }, 
+    {
+        "obfuscation": "television is often used as a baby-sitter and Swedish children are generally watching more than two hours of television a day without any possibility to question what they see , due to lack of parental presence .", 
+        "obfuscation-id": 3, 
+        "original": " \nTV is often used as a baby-sitter and Swedish children are generally watching more than two hours of television a day without any possibility to question what they see, due to lack of parental presence.", 
+        "original-end-charpos": 313, 
+        "original-start-charpos": 110
+    }, 
+    {
+        "obfuscation": "I think it is alarming that children are being exposed to impressions from television on their own , and I will discuss the situation in this essay .", 
+        "obfuscation-id": 4, 
+        "original": " \nI think it is alarming that children are being exposed to impressions from TV on their own, and I will discuss the situation in this essay.", 
+        "original-end-charpos": 454, 
+        "original-start-charpos": 314
+    }, 
+    {
+        "obfuscation": "y eyes were opened to this problem the other day , when reading an article saying that , at the age of 18 , the average child has spent more time watching television than engaging in any other activity except sleep .", 
+        "obfuscation-id": 5, 
+        "original": "  y eyes were opened to this problem the other day, when reading an article saying that, at the age of 18, the average child has spent more time watching TV than engaging in any other activity except sleep.", 
+        "original-end-charpos": 660, 
+        "original-start-charpos": 455
+    }, 
+    {
+        "obfuscation": "Consequently , the average child of today , experience a lot more through various soaps and films on TV than they do in actual life .", 
+        "obfuscation-id": 6, 
+        "original": " \nConsequently, the average child of today, experience a lot more through various soaps and films on TV than they do in real life.", 
+        "original-end-charpos": 790, 
+        "original-start-charpos": 661
+    }, 
+    {
+        "obfuscation": "A child 's personality is developing in every minute in ensemble with the environment he or she lives in and the experiences he or she does .", 
+        "obfuscation-id": 7, 
+        "original": " \nA child's personality is developing in every minute in ensemble with the environment he or she lives in and the experiences he or she does.", 
+        "original-end-charpos": 931, 
+        "original-start-charpos": 791
+    }, 
+    {
+        "obfuscation": "So , if television answers for a majority of these impressions , one must revalue and look upon TV as an educator of the same importance as parents and teachers .", 
+        "obfuscation-id": 8, 
+        "original": " \nSo, if TV answers for a majority of these impressions, one must revalue and look upon TV as an educator of the same importance as parents and teachers.", 
+        "original-end-charpos": 1084, 
+        "original-start-charpos": 932
+    }, 
+    {
+        "obfuscation": "I am not convinced that all parents and all teachers are reliable on giving children a true picture of the world , but I am convinced that they give a more realistic world picture than television does .", 
+        "obfuscation-id": 9, 
+        "original": " \nI am not convinced that all parents and all teachers are reliable on giving children a true picture of the world, but I am convinced that they give a more realistic world picture than TV does.", 
+        "original-end-charpos": 1278, 
+        "original-start-charpos": 1085
+    }, 
+    {
+        "obfuscation": "Most youths are able to distinguish between fiction and fact , but young children have certain difficulties deciding what is real and what is not on television .", 
+        "obfuscation-id": 10, 
+        "original": " \nMost youths are able to distinguish between fiction and fact, but young children have certain difficulties deciding what is real and what is not on TV.", 
+        "original-end-charpos": 1431, 
+        "original-start-charpos": 1279
+    }, 
+    {
+        "obfuscation": "true , the mere thought of a whole generation growing up with a distorted world view , frightens me and gives me a feeling of powerlessness because no one seems to know how to prevent that taking place .", 
+        "obfuscation-id": 11, 
+        "original": "   \nAdmittedly, the mere thought of a whole generation growing up with a distorted world view, frightens me and gives me a feeling of powerlessness because no one seems to know how to prevent that taking place.", 
+        "original-end-charpos": 1641, 
+        "original-start-charpos": 1432
+    }, 
+    {
+        "obfuscation": "Obviously , there are suggestions for solutions .", 
+        "obfuscation-id": 12, 
+        "original": " \nObviously, there are suggestions for solutions.", 
+        "original-end-charpos": 1690, 
+        "original-start-charpos": 1642
+    }, 
+    {
+        "obfuscation": "Thus , in various ways prohibit TV-watching and make an effort to engage children in early activities .", 
+        "obfuscation-id": 13, 
+        "original": " \nThus, in various ways prohibit TV-watching and make an effort to engage children in other activities.", 
+        "original-end-charpos": 1793, 
+        "original-start-charpos": 1691
+    }, 
+    {
+        "obfuscation": "An interesting suggestion is , the V chip , mentioned in Ginia Bellafante 's article Locking away violence .", 
+        "obfuscation-id": 14, 
+        "original": " \nAn interesting suggestion is, the V chip, mentioned in Ginia Bellafante's article Locking out violence.", 
+        "original-end-charpos": 1898, 
+        "original-start-charpos": 1794
+    }, 
+    {
+        "obfuscation": "The V chip is a computer chip installed in television sets to make it impossible to watch programs that embrace a certain level of violence .", 
+        "obfuscation-id": 15, 
+        "original": " \nThe V chip is a computer chip installed in TV sets to make it impossible to watch programs that embrace a certain level of violence.", 
+        "original-end-charpos": 2032, 
+        "original-start-charpos": 1899
+    }, 
+    {
+        "obfuscation": "This V chip would , probably , lock away the most violent sequences and decrease some children 's time spent in front of the television .", 
+        "obfuscation-id": 16, 
+        "original": " \nThis V chip would, probably, lock out the most violent sequences and decrease some children's time spent in front of the television.", 
+        "original-end-charpos": 2166, 
+        "original-start-charpos": 2033
+    }, 
+    {
+        "obfuscation": "On the early hand , the V chip might lull parents into false security , resulting in children watching even more television .", 
+        "obfuscation-id": 17, 
+        "original": " \nOn the other hand, the V chip might lull parents into false security, resulting in children watching even more television.", 
+        "original-end-charpos": 2290, 
+        "original-start-charpos": 2167
+    }, 
+    {
+        "obfuscation": "Undoubtedly , children do watch , and will keep on watching a lot of television in one way or another , and consequently one must act according to these conditions .", 
+        "obfuscation-id": 18, 
+        "original": " \nUndoubtedly, children do watch, and will keep on watching a lot of television in one way or another, and therefore one must act according to these conditions.", 
+        "original-end-charpos": 2450, 
+        "original-start-charpos": 2291
+    }, 
+    {
+        "obfuscation": "Thus , parents should keep their children company in front of the TV , to be able to discuss violence , ideals or whatever might turn up .", 
+        "obfuscation-id": 19, 
+        "original": " \nThus, parents should keep their children company in front of the TV, to be able to discuss violence, ideals or whatever might turn up.", 
+        "original-end-charpos": 2586, 
+        "original-start-charpos": 2451
+    }, 
+    {
+        "obfuscation": "Second best , is to discuss these matters after the TV-program .", 
+        "obfuscation-id": 20, 
+        "original": " \nSecond best, is to discuss these matters after the TV-program.", 
+        "original-end-charpos": 2650, 
+        "original-start-charpos": 2587
+    }, 
+    {
+        "obfuscation": "Similarly , questions aroused from television should be discussed in school , since TV plays an important role in children 's every day life .", 
+        "obfuscation-id": 21, 
+        "original": "   \nSimilarly, questions aroused from TV should be discussed in school, since TV plays an important role in children's every day life.", 
+        "original-end-charpos": 2784, 
+        "original-start-charpos": 2651
+    }, 
+    {
+        "obfuscation": "What is more , emotional topics , such as relations , abuse or morals can sometimes easier be brought up in class if based on fiction instead of someone 's own thoughts or experiences .", 
+        "obfuscation-id": 22, 
+        "original": " \nWhat is more, emotional topics, such as relations, abuse or morals can sometimes easier be brought up in class if based on fiction instead of someone's own thoughts or experiences.", 
+        "original-end-charpos": 2966, 
+        "original-start-charpos": 2785
+    }, 
+    {
+        "obfuscation": "That is to say , soaps and films might actually be useful in education , as long as followed up in adult presence .", 
+        "obfuscation-id": 23, 
+        "original": " \nThat is to say, soaps and films might actually be useful in education, as long as followed up in adult presence.", 
+        "original-end-charpos": 3080, 
+        "original-start-charpos": 2967
+    }, 
+    {
+        "obfuscation": "Moreover , there are actually people working as film-educationists , teaching how to use TV-programs and films in a didactic manner .", 
+        "obfuscation-id": 24, 
+        "original": " \nMoreover, there are actually people working as film-educationists, teaching how to use TV-programs and films in a didactic manner.", 
+        "original-end-charpos": 3212, 
+        "original-start-charpos": 3081
+    }, 
+    {
+        "obfuscation": "I have read an interview on a film-educationist who asserts that it is a democratic right to get the possibility to learn the language of television .", 
+        "obfuscation-id": 25, 
+        "original": " \nI have read an interview on a film-educationist who asserts that it is a democratic right to get the possibility to learn the language of TV.", 
+        "original-end-charpos": 3355, 
+        "original-start-charpos": 3213
+    }, 
+    {
+        "obfuscation": "He lectures on the influences television has on the average child and on the tricks that film producers use to achieve the greatest possible effects , with feigned fights as well as artificial beauty - most of them attained with a computor .", 
+        "obfuscation-id": 26, 
+        "original": " \nHe lectures on the influences TV has on the average child and on the tricks that film producers use to achieve the greatest possible effects, with feigned fights as well as artificial beauty - most of them attained with a computor.", 
+        "original-end-charpos": 3588, 
+        "original-start-charpos": 3356
+    }, 
+    {
+        "obfuscation": "He tells the children that Arnold Schwarzenegger is always surrounded by midget actors and filmed from a worm's-eye position to give the impression that he is huge .", 
+        "obfuscation-id": 27, 
+        "original": " \nHe tells the children that Arnold Schwarzenegger is always surrounded by midget actors and filmed from a worm's-eye view to give the impression that he is huge.", 
+        "original-end-charpos": 3750, 
+        "original-start-charpos": 3589
+    }, 
+    {
+        "obfuscation": "The film-educationist continues with indicating that Julia Roberts ' nude body in Pretty Woman is actually not her 's but a transexual model 's , since the producers thought Julia did not satisfactory fulfil the ideals of beauty .", 
+        "obfuscation-id": 28, 
+        "original": " \nThe film-educationist continues with indicating that Julia Roberts' nude body in Pretty Woman is actually not her's but a transexual model's, since the producers thought Julia did not satisfactory fulfil the ideals of beauty.", 
+        "original-end-charpos": 3977, 
+        "original-start-charpos": 3751
+    }, 
+    {
+        "obfuscation": "Eventually , children - with aid from adults - will realize that the major part of what they see in soaps and films is nothing but illusions .", 
+        "obfuscation-id": 29, 
+        "original": "   \nEventually, children - with help from adults - will realize that the major part of what they see in soaps and films is nothing but illusions.", 
+        "original-end-charpos": 4122, 
+        "original-start-charpos": 3978
+    }, 
+    {
+        "obfuscation": "Hopefully this fact will make children watch television with scepticism and so , add less TV-inspired values and ideals to their own world views .", 
+        "obfuscation-id": 30, 
+        "original": " \nHopefully this fact will make children watch TV with scepticism and so, add less TV-inspired values and ideals to their own world views.\n", 
+        "original-end-charpos": 4261, 
+        "original-start-charpos": 4123
+    }
+]

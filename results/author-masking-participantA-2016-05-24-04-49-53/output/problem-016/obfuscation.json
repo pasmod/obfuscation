@@ -1,0 +1,177 @@
+[
+    {
+        "obfuscation": "\ufeff Should the family look after the elderly ?", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff Should the family look after the elderly?", 
+        "original-end-charpos": 42, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "It has been proposed that the family , and not the state , should look after the elderly .", 
+        "obfuscation-id": 2, 
+        "original": "  \nIt has been proposed that the family, and not the state, should look after the elderly.", 
+        "original-end-charpos": 132, 
+        "original-start-charpos": 43
+    }, 
+    {
+        "obfuscation": "It seems like a natural thing to do when you first think about it .", 
+        "obfuscation-id": 3, 
+        "original": " \nIt seems like a natural thing to do when you first think about it.", 
+        "original-end-charpos": 200, 
+        "original-start-charpos": 133
+    }, 
+    {
+        "obfuscation": "The children would grow up with their grandparents nearby and perhaps the understanding between old people and youths would improve .", 
+        "obfuscation-id": 4, 
+        "original": " \nThe children would grow up with their grandparents nearby and perhaps the understanding between old people and youths would improve.", 
+        "original-end-charpos": 334, 
+        "original-start-charpos": 201
+    }, 
+    {
+        "obfuscation": "However , the society we live in today can not really be called natural and such heroic deeds make no longer fit in with people 's lifestyles .", 
+        "obfuscation-id": 5, 
+        "original": " \nHowever, the society we live in today can not really be called natural and such heroic deeds do no longer fit in with people's lifestyles.", 
+        "original-end-charpos": 474, 
+        "original-start-charpos": 335
+    }, 
+    {
+        "obfuscation": "It sounds to me just like a means for the state to save money and place a lot of extra work on the already overworked people and therefor I 'm against it .", 
+        "obfuscation-id": 6, 
+        "original": " \nIt sounds to me just like a way for the state to save money and place a lot of extra work on the already overworked people and therefor I'm against it.", 
+        "original-end-charpos": 627, 
+        "original-start-charpos": 475
+    }, 
+    {
+        "obfuscation": "The main reason why I do n't agree with the proposition is that people in today 's society have enough problems to worry about .", 
+        "obfuscation-id": 7, 
+        "original": "   \nThe main reason why I don't agree with the proposition is that people in today's society have enough problems to worry about.", 
+        "original-end-charpos": 756, 
+        "original-start-charpos": 628
+    }, 
+    {
+        "obfuscation": "Many men and women already find overloaded with work , which includes both of them managing a full-time job , taking care of a home , a relationship and possibly of children .", 
+        "obfuscation-id": 8, 
+        "original": " \nMany men and women already feel overloaded with work, which includes both of them managing a full-time job, taking care of a home, a relationship and possibly of children.", 
+        "original-end-charpos": 929, 
+        "original-start-charpos": 757
+    }, 
+    {
+        "obfuscation": "aside from these chores , time has to be set aside for personal well-being in order to prevent collapses and other stress symptoms that are increasingly common these days .", 
+        "obfuscation-id": 9, 
+        "original": " \nApart from these chores, time has to be set aside for personal well-being in order to prevent collapses and other stress symptoms that are increasingly common these days.", 
+        "original-end-charpos": 1101, 
+        "original-start-charpos": 930
+    }, 
+    {
+        "obfuscation": "Therefore , I see no possibility in managing yet another task , especially one that demands a lot of work and responsibility .", 
+        "obfuscation-id": 10, 
+        "original": " \nTherefore, I see no possibility in managing yet another task, especially one that demands a lot of work and responsibility.", 
+        "original-end-charpos": 1226, 
+        "original-start-charpos": 1102
+    }, 
+    {
+        "obfuscation": "Taking on the responsibility to care for one 's elderly means that geographical mobility is out of the question , something that many people , including me , saw as an advantage when joining the European Union and a matter of personal freedom .", 
+        "obfuscation-id": 11, 
+        "original": "  \nTaking on the responsibility to care for one's elderly means that geographical mobility is out of the question, something that many people, including me, saw as an advantage when joining the European Union and a matter of personal freedom.", 
+        "original-end-charpos": 1468, 
+        "original-start-charpos": 1227
+    }, 
+    {
+        "obfuscation": "Due to their task and their conscience , people would have to live their lives in the like geographical area as where they grew up .", 
+        "obfuscation-id": 12, 
+        "original": " \nDue to their task and their conscience, people would have to live their lives in the same geographical area as where they grew up.", 
+        "original-end-charpos": 1600, 
+        "original-start-charpos": 1469
+    }, 
+    {
+        "obfuscation": "Let us look at an example : Ellen is a Swedish girl and an only child from a small village in the south of Sweden called Nottraby .", 
+        "obfuscation-id": 13, 
+        "original": " \nLet us look at an example: Ellen is a Swedish girl and an only child from a small village in the south of Sweden called Nottraby.", 
+        "original-end-charpos": 1731, 
+        "original-start-charpos": 1601
+    }, 
+    {
+        "obfuscation": "She wants to become a French teacher and to improve her French she goes off to work in Paris for a year .", 
+        "obfuscation-id": 14, 
+        "original": " \nShe wants to become a French teacher and to improve her French she goes off to work in Paris for a year.", 
+        "original-end-charpos": 1837, 
+        "original-start-charpos": 1732
+    }, 
+    {
+        "obfuscation": "While waiting tables in Paris she falls in love with Guillaume , a French cook .", 
+        "obfuscation-id": 15, 
+        "original": " \nWhile waiting tables in Paris she falls in love with Guillaume, a French cook.", 
+        "original-end-charpos": 1917, 
+        "original-start-charpos": 1838
+    }, 
+    {
+        "obfuscation": "She decides to stay , marries Guillaume and they later have twins .", 
+        "obfuscation-id": 16, 
+        "original": " \nShe decides to stay, marries Guillaume and they later have twins.", 
+        "original-end-charpos": 1984, 
+        "original-start-charpos": 1918
+    }, 
+    {
+        "obfuscation": "When the children have reached the age of 10 , her mother dies and her retired father has difficulties taking care of himself due to back problems .", 
+        "obfuscation-id": 17, 
+        "original": " \nWhen the children have reached the age of 10, her mother dies and her retired father has difficulties taking care of himself due to back problems.", 
+        "original-end-charpos": 2132, 
+        "original-start-charpos": 1985
+    }, 
+    {
+        "obfuscation": "Since Ellen is the only class left and the family carries the responsibility to care for the elderly in Sweden , she feels obligated to return to Nottraby to look after her father .", 
+        "obfuscation-id": 18, 
+        "original": " \nSince Ellen is the only family left and the family carries the responsibility to care for the elderly in Sweden, she feels obligated to return to Nottraby to look after her father.", 
+        "original-end-charpos": 2314, 
+        "original-start-charpos": 2133
+    }, 
+    {
+        "obfuscation": "I strongly oppose the idea that Ellen or any other people would have to choose between their present class on one hand and the parents on the other , when there are state institutions with adequately educated staff to do so .", 
+        "obfuscation-id": 19, 
+        "original": " \nI strongly oppose the idea that Ellen or any other people would have to choose between their present family on one hand and the parents on the other, when there are state institutions with adequately educated staff to do so.", 
+        "original-end-charpos": 2540, 
+        "original-start-charpos": 2315
+    }, 
+    {
+        "obfuscation": "If the state leaves it entirely up to families to look after their elders , what happens to the elders who make n't have a family ?", 
+        "obfuscation-id": 20, 
+        "original": "    \nIf the state leaves it entirely up to families to look after their elders, what happens to the elders who don't have a family?", 
+        "original-end-charpos": 2671, 
+        "original-start-charpos": 2541
+    }, 
+    {
+        "obfuscation": "Because of expenses of having children many women prefer to get a full education leading to a well-paying job first .", 
+        "obfuscation-id": 21, 
+        "original": " \nBecause of expenses of having children many women prefer to get a good education leading to a well-paying job first.", 
+        "original-end-charpos": 2789, 
+        "original-start-charpos": 2672
+    }, 
+    {
+        "obfuscation": "This may mean they do not have children at all since there is not enough time to find a life partner and have babies before the menopause .", 
+        "obfuscation-id": 22, 
+        "original": " \nThis may mean they do not have children at all since there is not enough time to find a life partner and have babies before the menopause.", 
+        "original-end-charpos": 2929, 
+        "original-start-charpos": 2790
+    }, 
+    {
+        "obfuscation": "Many women and men are also unable to have children due to physical or even mental reasons .", 
+        "obfuscation-id": 23, 
+        "original": " \nMany women and men are also unable to have children due to physical or even mental reasons.", 
+        "original-end-charpos": 3022, 
+        "original-start-charpos": 2930
+    }, 
+    {
+        "obfuscation": "Thus , there would have to be some sort of institution anyway to take care of the childless elders .", 
+        "obfuscation-id": 24, 
+        "original": " \nThus, there would have to be some sort of institution anyway to take care of the childless elders.", 
+        "original-end-charpos": 3122, 
+        "original-start-charpos": 3023
+    }, 
+    {
+        "obfuscation": "Institutions for the elderly is something we can not live without in our modern and demanding society .", 
+        "obfuscation-id": 25, 
+        "original": " \nInstitutions for the elderly is something we can not live without in our modern and demanding society.\n", 
+        "original-end-charpos": 3227, 
+        "original-start-charpos": 3123
+    }
+]

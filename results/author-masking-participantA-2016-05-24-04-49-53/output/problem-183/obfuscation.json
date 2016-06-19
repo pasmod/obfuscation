@@ -1,0 +1,219 @@
+[
+    {
+        "obfuscation": "God blast it !", 
+        "obfuscation-id": 1, 
+        "original": "God blast it!", 
+        "original-end-charpos": 12, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "No , your kind never realises things till the crash comes -- usually when it 's too late .", 
+        "obfuscation-id": 2, 
+        "original": "\n\nNo, your kind never realises things till the crash\ncomes--usually when it's too late.", 
+        "original-end-charpos": 99, 
+        "original-start-charpos": 13
+    }, 
+    {
+        "obfuscation": "She kept on doing her work , I suppose -- taking care of her brothers and sisters , washing , cooking , sweeping , looking after your comfort -- worn away -- when she should have been in bed -- and -- -- But what 's the use of talking ?", 
+        "obfuscation-id": 3, 
+        "original": " She kept on doing her work, I\nsuppose--taking care of her brothers and sisters, washing, cooking,\nsweeping, looking after your comfort--worn out--when she should have\nbeen in bed--and---- But what's the use of talking?", 
+        "original-end-charpos": 318, 
+        "original-start-charpos": 100
+    }, 
+    {
+        "obfuscation": "The damage is done .", 
+        "obfuscation-id": 4, 
+        "original": " The damage is done.", 
+        "original-end-charpos": 338, 
+        "original-start-charpos": 319
+    }, 
+    {
+        "obfuscation": "We 've got to set to work to repair it at once .", 
+        "obfuscation-id": 5, 
+        "original": " We've got to set to work\nto repair it at once.", 
+        "original-end-charpos": 385, 
+        "original-start-charpos": 339
+    }, 
+    {
+        "obfuscation": "I 'll write to-night to Dr. Stanton of the Hill Farm Sanatorium and find away if he has a vacancy .", 
+        "obfuscation-id": 6, 
+        "original": " I'll write to-night to Dr. Stanton of the Hill\nFarm Sanatorium and find out if he has a vacancy.", 
+        "original-end-charpos": 482, 
+        "original-start-charpos": 386
+    }, 
+    {
+        "obfuscation": "And if luck is with us we can mail her there at once .", 
+        "obfuscation-id": 7, 
+        "original": " And if luck is with\nus we can send her there at once.", 
+        "original-end-charpos": 536, 
+        "original-start-charpos": 483
+    }, 
+    {
+        "obfuscation": "The sooner the good .", 
+        "obfuscation-id": 8, 
+        "original": " The sooner the better.", 
+        "original-end-charpos": 559, 
+        "original-start-charpos": 537
+    }, 
+    {
+        "obfuscation": "Is it sendin ' Eileen away to a hospital you 'd exist ?", 
+        "obfuscation-id": 9, 
+        "original": "\n\nIs it sendin' Eileen away\nto a hospital you'd be?", 
+        "original-end-charpos": 610, 
+        "original-start-charpos": 560
+    }, 
+    {
+        "obfuscation": "Then you 'll not !", 
+        "obfuscation-id": 10, 
+        "original": " Then you'll not!", 
+        "original-end-charpos": 627, 
+        "original-start-charpos": 611
+    }, 
+    {
+        "obfuscation": "You 'll get that notion out of your head damn quick .", 
+        "obfuscation-id": 11, 
+        "original": " You'll get that\nnotion out of your head damn quick.", 
+        "original-end-charpos": 679, 
+        "original-start-charpos": 628
+    }, 
+    {
+        "obfuscation": "It 's all nonsense you 're stuffin' me with , and lies , makin ' things out to be the worst in the world .", 
+        "obfuscation-id": 12, 
+        "original": " It's all nonsense you're stuffin'\nme with, and lies, makin' things out to be the worst in the world.", 
+        "original-end-charpos": 780, 
+        "original-start-charpos": 680
+    }, 
+    {
+        "obfuscation": "I'll not believe a word of Eileen having the consumption at all .", 
+        "obfuscation-id": 13, 
+        "original": " I'll\nnot believe a word of Eileen having the consumption at all.", 
+        "original-end-charpos": 845, 
+        "original-start-charpos": 781
+    }, 
+    {
+        "obfuscation": "It's doctors ' notions to be always lookin ' for a sickness that 'd kill you .", 
+        "obfuscation-id": 14, 
+        "original": " It's\ndoctors' notions to be always lookin' for a sickness that'd kill you.", 
+        "original-end-charpos": 920, 
+        "original-start-charpos": 846
+    }, 
+    {
+        "obfuscation": "She 'll not move a step out of here , and I say so , and I 'm her father !", 
+        "obfuscation-id": 15, 
+        "original": "\nShe'll not move a step out of here, and I say so, and I'm her father!", 
+        "original-end-charpos": 990, 
+        "original-start-charpos": 921
+    }, 
+    {
+        "obfuscation": "You refuse to get your daughter go to a sanatorium ?", 
+        "obfuscation-id": 16, 
+        "original": "\n\n You refuse to let your daughter go to a sanatorium?", 
+        "original-end-charpos": 1044, 
+        "original-start-charpos": 991
+    }, 
+    {
+        "obfuscation": "I do .", 
+        "obfuscation-id": 17, 
+        "original": "\n\nI do.", 
+        "original-end-charpos": 1051, 
+        "original-start-charpos": 1045
+    }, 
+    {
+        "obfuscation": "Then I 'll have to report her case to the Society for the Prevention of Tuberculosis of this county , and tell them of your refusal to help her .", 
+        "obfuscation-id": 18, 
+        "original": "\n\nThen I'll have to report her case to the\nSociety for the Prevention of Tuberculosis of this county, and tell\nthem of your refusal to help her.", 
+        "original-end-charpos": 1195, 
+        "original-start-charpos": 1052
+    }, 
+    {
+        "obfuscation": "Report all you like , and be damned to you !", 
+        "obfuscation-id": 19, 
+        "original": "\n\nReport all you like, and be damned to you!", 
+        "original-end-charpos": 1239, 
+        "original-start-charpos": 1196
+    }, 
+    {
+        "obfuscation": "A majority of the most influential men of this city are behind the Society .", 
+        "obfuscation-id": 20, 
+        "original": "\n\nA majority of the\nmost influential men of this city are behind the Society.", 
+        "original-end-charpos": 1316, 
+        "original-start-charpos": 1240
+    }, 
+    {
+        "obfuscation": "Do you know that ?", 
+        "obfuscation-id": 21, 
+        "original": " Do you know\nthat?", 
+        "original-end-charpos": 1334, 
+        "original-start-charpos": 1317
+    }, 
+    {
+        "obfuscation": "We 'll find a way to move you , Carmody , if you try to be stubborn .", 
+        "obfuscation-id": 22, 
+        "original": " We'll find a way to move you, Carmody, if you try to\nbe stubborn.", 
+        "original-end-charpos": 1400, 
+        "original-start-charpos": 1335
+    }, 
+    {
+        "obfuscation": "Ara , Doctor , you do n't understand the way of it at all .", 
+        "obfuscation-id": 23, 
+        "original": "\n\nAra, Doctor,you don't see the way of it at all.", 
+        "original-end-charpos": 1449, 
+        "original-start-charpos": 1401
+    }, 
+    {
+        "obfuscation": "If Eileen goes to the hospital , who 's to be takin ' care of the others , and mindin ' the house when I'm off to work ?", 
+        "obfuscation-id": 24, 
+        "original": " If Eileen goes to the hospital,\nwho's to be takin' care of the others, and mindin' the house when I'm\noff to work?", 
+        "original-end-charpos": 1564, 
+        "original-start-charpos": 1450
+    }, 
+    {
+        "obfuscation": "You can easily hire some woman .", 
+        "obfuscation-id": 25, 
+        "original": "\n\nYou can easily hire some woman.", 
+        "original-end-charpos": 1597, 
+        "original-start-charpos": 1565
+    }, 
+    {
+        "obfuscation": "Hire ?", 
+        "obfuscation-id": 26, 
+        "original": "\n\nHire?", 
+        "original-end-charpos": 1604, 
+        "original-start-charpos": 1598
+    }, 
+    {
+        "obfuscation": "D'you think I 'm a millionaire itself ?", 
+        "obfuscation-id": 27, 
+        "original": " D'you think I'm a millionaire itself?", 
+        "original-end-charpos": 1642, 
+        "original-start-charpos": 1605
+    }, 
+    {
+        "obfuscation": "That 's where the shoe pinches , eh ?", 
+        "obfuscation-id": 28, 
+        "original": "\n\nThat's where the shoe pinches, eh?", 
+        "original-end-charpos": 1678, 
+        "original-start-charpos": 1643
+    }, 
+    {
+        "obfuscation": "I 'm not going to waste any more words on you , Carmody , but I'm damn well going to understand this thing through !", 
+        "obfuscation-id": 29, 
+        "original": " I'm not going to waste any more words on you, Carmody, but I'm\ndamn well going to see this thing through!", 
+        "original-end-charpos": 1784, 
+        "original-start-charpos": 1679
+    }, 
+    {
+        "obfuscation": "You might as well give in inaugural as last .", 
+        "obfuscation-id": 30, 
+        "original": " You might as well give in\nfirst as last.", 
+        "original-end-charpos": 1825, 
+        "original-start-charpos": 1785
+    }, 
+    {
+        "obfuscation": "But where 's the money comin ' from ?", 
+        "obfuscation-id": 31, 
+        "original": "\n\nBut where's the money comin' from?\n\n", 
+        "original-end-charpos": 1863, 
+        "original-start-charpos": 1826
+    }
+]

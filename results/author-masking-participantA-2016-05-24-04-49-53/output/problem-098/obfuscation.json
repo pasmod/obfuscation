@@ -1,0 +1,324 @@
+[
+    {
+        "obfuscation": "\ufeffIt is broadly agreed that English is our second language in Sweden .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffIt is generally agreed that English is our second language in Sweden.", 
+        "original-end-charpos": 69, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Almost any Swede is able to communicate in English .", 
+        "obfuscation-id": 2, 
+        "original": " \nAlmost any Swede is able to communicate in English.", 
+        "original-end-charpos": 122, 
+        "original-start-charpos": 70
+    }, 
+    {
+        "obfuscation": "As a matter of fact , we are highly pendent on English for communicating with the rest of the world .", 
+        "obfuscation-id": 3, 
+        "original": " \nAs a matter of fact, we are highly dependent on English for communicating with the rest of the world.", 
+        "original-end-charpos": 225, 
+        "original-start-charpos": 123
+    }, 
+    {
+        "obfuscation": "However , I think it is important to try that there is a big difference between the younger and the elder generation .", 
+        "obfuscation-id": 4, 
+        "original": " \nHowever, I think it is important to stress that there is a big difference between the younger and the elder generation.", 
+        "original-end-charpos": 346, 
+        "original-start-charpos": 226
+    }, 
+    {
+        "obfuscation": "I have been studying and using the English language for a retentive time , more exactly since the fourth grade of elementary school .", 
+        "obfuscation-id": 5, 
+        "original": " \nI have been studying and using the English language for a long time, more exactly since the fourth grade of elementary school.", 
+        "original-end-charpos": 474, 
+        "original-start-charpos": 347
+    }, 
+    {
+        "obfuscation": "In this essay I will try to evaluate my own strengths and weaknesses in the four skills of speaking , writing , listening and reading .", 
+        "obfuscation-id": 6, 
+        "original": " \nIn this essay I will try to evaluate my own strengths and weaknesses in the four skills of speaking, writing, listening and reading.", 
+        "original-end-charpos": 608, 
+        "original-start-charpos": 475
+    }, 
+    {
+        "obfuscation": "Although I have been studying English for such a retentive time , I still do not feel comfortable when I speak it .", 
+        "obfuscation-id": 7, 
+        "original": "  \t\nAlthough I have been studying English for such a long time, I still do not feel comfortable when I speak it.", 
+        "original-end-charpos": 720, 
+        "original-start-charpos": 609
+    }, 
+    {
+        "obfuscation": "There are respective reasons why I feel this way .", 
+        "obfuscation-id": 8, 
+        "original": " \nThere are several reasons why I feel this way.", 
+        "original-end-charpos": 768, 
+        "original-start-charpos": 721
+    }, 
+    {
+        "obfuscation": "Firstly , I am not a lifelike speaker .", 
+        "obfuscation-id": 9, 
+        "original": " \nFirstly, I am not a natural speaker.", 
+        "original-end-charpos": 806, 
+        "original-start-charpos": 769
+    }, 
+    {
+        "obfuscation": "I have constantly been quite a silent person in bigger groups .", 
+        "obfuscation-id": 10, 
+        "original": " \nI have always been quite a silent person in bigger groups.", 
+        "original-end-charpos": 866, 
+        "original-start-charpos": 807
+    }, 
+    {
+        "obfuscation": "To give a speech in front of an audience is not comfortable .", 
+        "obfuscation-id": 11, 
+        "original": " \nTo give a speech in front of an audience is not easy.", 
+        "original-end-charpos": 921, 
+        "original-start-charpos": 867
+    }, 
+    {
+        "obfuscation": "Secondly , after two years of French at the university it seems to me like my head is all filled with French grammar , French words and French pronunciation .", 
+        "obfuscation-id": 12, 
+        "original": " \nSecondly, after two years of French at the university it seems to me like my head is all filled with French grammar, French words and French pronunciation.", 
+        "original-end-charpos": 1078, 
+        "original-start-charpos": 922
+    }, 
+    {
+        "obfuscation": "ultimately , I have not spent much time in English-speaking countries .", 
+        "obfuscation-id": 13, 
+        "original": " \nFinally, I have not spent much time in English-speaking countries.", 
+        "original-end-charpos": 1146, 
+        "original-start-charpos": 1079
+    }, 
+    {
+        "obfuscation": "I am well aware that I want more practise if I want my English to become fluid .", 
+        "obfuscation-id": 14, 
+        "original": " \nI am well aware that I need more practise if I want my English to become fluid.", 
+        "original-end-charpos": 1227, 
+        "original-start-charpos": 1147
+    }, 
+    {
+        "obfuscation": "Therefore I are planning a trip to England this summer .", 
+        "obfuscation-id": 15, 
+        "original": " \nTherefore I am planning a trip to England this summer.", 
+        "original-end-charpos": 1283, 
+        "original-start-charpos": 1228
+    }, 
+    {
+        "obfuscation": "On the other hand I find that I write English better than I speak it .", 
+        "obfuscation-id": 16, 
+        "original": "  \t\nOn the other hand I feel that I write English better than I speak it.", 
+        "original-end-charpos": 1356, 
+        "original-start-charpos": 1284
+    }, 
+    {
+        "obfuscation": "When you write you can take all the time that you need and besides you can constantly rely on dictionaries and grammars when you find it necessary .", 
+        "obfuscation-id": 17, 
+        "original": " \nWhen you write you can take all the time that you need and besides you can always rely on dictionaries and grammars when you find it necessary.", 
+        "original-end-charpos": 1501, 
+        "original-start-charpos": 1357
+    }, 
+    {
+        "obfuscation": "That suits me perfectly .", 
+        "obfuscation-id": 18, 
+        "original": " \nThat suits me perfectly.", 
+        "original-end-charpos": 1527, 
+        "original-start-charpos": 1502
+    }, 
+    {
+        "obfuscation": "After four years at the university , I am also quite familiar with the process of creating and structuring thoughts and ideas on paper .", 
+        "obfuscation-id": 19, 
+        "original": " \nAfter four years at the university, I am also quite familiar with the process of creating and structuring thoughts and ideas on paper.", 
+        "original-end-charpos": 1663, 
+        "original-start-charpos": 1528
+    }, 
+    {
+        "obfuscation": "One thing that I find difficult when I write English is to find the adequate words and phrases .", 
+        "obfuscation-id": 20, 
+        "original": " \nOne thing that I find difficult when I write English is to find the adequate words and phrases.", 
+        "original-end-charpos": 1760, 
+        "original-start-charpos": 1664
+    }, 
+    {
+        "obfuscation": "Though the problem is easily solved by having a full dictionary within reach while writing .", 
+        "obfuscation-id": 21, 
+        "original": " \nThough the problem is easily solved by having a good dictionary within reach while writing.", 
+        "original-end-charpos": 1853, 
+        "original-start-charpos": 1761
+    }, 
+    {
+        "obfuscation": "Another thing that much bothers me is the English spelling , but maybe it is only a question of practice .", 
+        "obfuscation-id": 22, 
+        "original": " \nAnother thing that often bothers me is the English spelling, but maybe it is only a question of practice.", 
+        "original-end-charpos": 1960, 
+        "original-start-charpos": 1854
+    }, 
+    {
+        "obfuscation": "In our everyday life we listen to English all the time without even thinking about it .", 
+        "obfuscation-id": 23, 
+        "original": "  \t\nIn our everyday life we listen to English all the time without even thinking about it.", 
+        "original-end-charpos": 2050, 
+        "original-start-charpos": 1961
+    }, 
+    {
+        "obfuscation": "We watch English and American programs on television and we listen to music with English lyrics .", 
+        "obfuscation-id": 24, 
+        "original": " \nWe watch English and American programs on television and we listen to music with English lyrics.", 
+        "original-end-charpos": 2148, 
+        "original-start-charpos": 2051
+    }, 
+    {
+        "obfuscation": "When we go to the cinema it is much to see an American movie .", 
+        "obfuscation-id": 25, 
+        "original": " \nWhen we go to the cinema it is often to see an American movie.", 
+        "original-end-charpos": 2212, 
+        "original-start-charpos": 2149
+    }, 
+    {
+        "obfuscation": "My opinion is that this is the reason why listening to English seems thus easy to me .", 
+        "obfuscation-id": 26, 
+        "original": " \nMy opinion is that this is the reason why listening to English seems so easy to me.", 
+        "original-end-charpos": 2297, 
+        "original-start-charpos": 2213
+    }, 
+    {
+        "obfuscation": "In early words , it has been a part of my everyday life for such a long time that I do not even think about it any more .", 
+        "obfuscation-id": 27, 
+        "original": " \nIn other words, it has been a part of my everyday life for such a long time that I do not even think about it any more.", 
+        "original-end-charpos": 2418, 
+        "original-start-charpos": 2298
+    }, 
+    {
+        "obfuscation": "Since I started this semester I have noticed that I listen more carefully when I hear English .", 
+        "obfuscation-id": 28, 
+        "original": " \nSince I started this semester I have noticed that I listen more carefully when I hear English.", 
+        "original-end-charpos": 2514, 
+        "original-start-charpos": 2419
+    }, 
+    {
+        "obfuscation": "Nowadays I am more focused and concentrated while listening .", 
+        "obfuscation-id": 29, 
+        "original": " \nNowadays I am more focused and concentrated while listening.", 
+        "original-end-charpos": 2576, 
+        "original-start-charpos": 2515
+    }, 
+    {
+        "obfuscation": "I pay much more attention to what they actually state , what expressions and words they use and how they pronounce it .", 
+        "obfuscation-id": 30, 
+        "original": " \nI pay much more attention to what they actually say, what expressions and words they use and how they pronounce it.", 
+        "original-end-charpos": 2693, 
+        "original-start-charpos": 2577
+    }, 
+    {
+        "obfuscation": "One of my main interests is literature .", 
+        "obfuscation-id": 31, 
+        "original": "  \t\nOne of my main interests is literature.", 
+        "original-end-charpos": 2736, 
+        "original-start-charpos": 2694
+    }, 
+    {
+        "obfuscation": "During my spare time I like to read novels and short stories .", 
+        "obfuscation-id": 32, 
+        "original": " \nDuring my spare time I like to read novels and short stories.", 
+        "original-end-charpos": 2799, 
+        "original-start-charpos": 2737
+    }, 
+    {
+        "obfuscation": "I consider reading very significant , and I think that children should be encouraged to read fiction at an early stage .", 
+        "obfuscation-id": 33, 
+        "original": " \nI consider reading very important, and I think that children should be encouraged to read fiction at an early stage.", 
+        "original-end-charpos": 2917, 
+        "original-start-charpos": 2800
+    }, 
+    {
+        "obfuscation": "What is significant is not what kind of literature you read .", 
+        "obfuscation-id": 34, 
+        "original": " \nWhat is important is not what kind of literature you read.", 
+        "original-end-charpos": 2977, 
+        "original-start-charpos": 2918
+    }, 
+    {
+        "obfuscation": "On the adverse , everyone should be allowed to choose according to his or her own taste .", 
+        "obfuscation-id": 35, 
+        "original": " \nOn the contrary, everyone should be allowed to choose according to his or her own taste.", 
+        "original-end-charpos": 3067, 
+        "original-start-charpos": 2978
+    }, 
+    {
+        "obfuscation": "The significant thing is that you read instead of spending all your time in front of the television or the computer .", 
+        "obfuscation-id": 36, 
+        "original": " \nThe important thing is that you read instead of spending all your time in front of the television or the computer.", 
+        "original-end-charpos": 3183, 
+        "original-start-charpos": 3068
+    }, 
+    {
+        "obfuscation": "The alone thing that troubles me when I read an English text is that I do not understand all the words .", 
+        "obfuscation-id": 37, 
+        "original": " \nThe only thing that troubles me when I read an English text is that I do not understand all the words.", 
+        "original-end-charpos": 3287, 
+        "original-start-charpos": 3184
+    }, 
+    {
+        "obfuscation": "It is clear that my vocabulary is not sufficient .", 
+        "obfuscation-id": 38, 
+        "original": " \nIt is clear that my vocabulary is not sufficient.", 
+        "original-end-charpos": 3338, 
+        "original-start-charpos": 3288
+    }, 
+    {
+        "obfuscation": "The English language appears to be so rich in words !", 
+        "obfuscation-id": 39, 
+        "original": " \nThe English language seems to be so rich in words!", 
+        "original-end-charpos": 3390, 
+        "original-start-charpos": 3339
+    }, 
+    {
+        "obfuscation": "I come across fresh ones all the time .", 
+        "obfuscation-id": 40, 
+        "original": " \nI come across new ones all the time.", 
+        "original-end-charpos": 3428, 
+        "original-start-charpos": 3391
+    }, 
+    {
+        "obfuscation": "In most cases I understand the approximate meaning of the word by looking at the context .", 
+        "obfuscation-id": 41, 
+        "original": " \nIn most cases I understand the approximate meaning of the word by looking at the context.", 
+        "original-end-charpos": 3519, 
+        "original-start-charpos": 3429
+    }, 
+    {
+        "obfuscation": "But most of the time I am eager to find away the exact definition .", 
+        "obfuscation-id": 42, 
+        "original": " \nBut most of the time I am eager to find out the exact definition.", 
+        "original-end-charpos": 3586, 
+        "original-start-charpos": 3520
+    }, 
+    {
+        "obfuscation": "Therefore I try to look up all new lyrics in the dictionary .", 
+        "obfuscation-id": 43, 
+        "original": " \nTherefore I try to look up all new words in the dictionary.", 
+        "original-end-charpos": 3647, 
+        "original-start-charpos": 3587
+    }, 
+    {
+        "obfuscation": "It is not easy to evaluate your own strengths and weaknesses in an objective manner .", 
+        "obfuscation-id": 44, 
+        "original": "  \t\nIt is not easy to evaluate your own strengths and weaknesses in an objective way.", 
+        "original-end-charpos": 3732, 
+        "original-start-charpos": 3648
+    }, 
+    {
+        "obfuscation": "At least , I made an attempt .", 
+        "obfuscation-id": 45, 
+        "original": " \nAt least, I made an attempt.", 
+        "original-end-charpos": 3762, 
+        "original-start-charpos": 3733
+    }, 
+    {
+        "obfuscation": "During this semester I hope that I will better my capacity in the four skills of speaking , writing , listening and reading in order to become a better communicator in English .", 
+        "obfuscation-id": 46, 
+        "original": " \nDuring this semester I hope that I will improve my capacity in the four skills of speaking, writing, listening and reading in order to become a better communicator in English.\n", 
+        "original-end-charpos": 3940, 
+        "original-start-charpos": 3763
+    }
+]

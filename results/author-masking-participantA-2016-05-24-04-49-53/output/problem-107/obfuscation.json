@@ -1,0 +1,814 @@
+[
+    {
+        "obfuscation": "\ufeffThe Judas Mark '' Cthulhu ftaghn , '' He said with a joke , swaying his tilted head to the right in a drunken manner .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffThe Judas Mark\n\"Cthulhu ftaghn,\" He said with a laugh, swaying his tilted head to the right in a drunken manner.", 
+        "original-end-charpos": 112, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "`` Cthulhu ftaghn . ''", 
+        "obfuscation-id": 2, 
+        "original": " \"Cthulhu ftaghn.\"", 
+        "original-end-charpos": 130, 
+        "original-start-charpos": 113
+    }, 
+    {
+        "obfuscation": "He broke away into a laughing fit .", 
+        "obfuscation-id": 3, 
+        "original": "\nHe broke out into a laughing fit.", 
+        "original-end-charpos": 164, 
+        "original-start-charpos": 131
+    }, 
+    {
+        "obfuscation": "Then as promptly as it started it stopped ; like the lightning bolt outside his window .", 
+        "obfuscation-id": 4, 
+        "original": " Then as quickly as it started it stopped; like the lightning bolt outside his window.", 
+        "original-end-charpos": 250, 
+        "original-start-charpos": 165
+    }, 
+    {
+        "obfuscation": "Arkham was his place of work .", 
+        "obfuscation-id": 5, 
+        "original": " Arkham was his place of work.", 
+        "original-end-charpos": 280, 
+        "original-start-charpos": 251
+    }, 
+    {
+        "obfuscation": "And as a patient , his work was hard to complete .", 
+        "obfuscation-id": 6, 
+        "original": " And as a patient, his work was hard to complete.", 
+        "original-end-charpos": 329, 
+        "original-start-charpos": 281
+    }, 
+    {
+        "obfuscation": "Not like he wanted to do it , either .", 
+        "obfuscation-id": 7, 
+        "original": " Not like he wanted to do it, either.", 
+        "original-end-charpos": 366, 
+        "original-start-charpos": 330
+    }, 
+    {
+        "obfuscation": "The rain stopped .", 
+        "obfuscation-id": 8, 
+        "original": "\nThe rain stopped.", 
+        "original-end-charpos": 384, 
+        "original-start-charpos": 367
+    }, 
+    {
+        "obfuscation": "'' I hear youuuuuuu . ''", 
+        "obfuscation-id": 9, 
+        "original": "\n\"I hear youuuuuuu.\"", 
+        "original-end-charpos": 404, 
+        "original-start-charpos": 385
+    }, 
+    {
+        "obfuscation": "He chuckled .", 
+        "obfuscation-id": 10, 
+        "original": " He chuckled.", 
+        "original-end-charpos": 417, 
+        "original-start-charpos": 405
+    }, 
+    {
+        "obfuscation": "`` I hear you flapping those blasted wings outside my windah . ''", 
+        "obfuscation-id": 11, 
+        "original": " \"I hear you flapping those blasted wings outside my windah.\"", 
+        "original-end-charpos": 478, 
+        "original-start-charpos": 418
+    }, 
+    {
+        "obfuscation": "He giggled , then sobered up .", 
+        "obfuscation-id": 12, 
+        "original": " He giggled, then sobered up.", 
+        "original-end-charpos": 507, 
+        "original-start-charpos": 479
+    }, 
+    {
+        "obfuscation": "`` Damn Migo .", 
+        "obfuscation-id": 13, 
+        "original": " \"Damn Migo.", 
+        "original-end-charpos": 519, 
+        "original-start-charpos": 508
+    }, 
+    {
+        "obfuscation": "YA CA N'T HAVE MY BRAIN ! ''", 
+        "obfuscation-id": 14, 
+        "original": " YA CAN'T HAVE MY BRAIN!\"", 
+        "original-end-charpos": 544, 
+        "original-start-charpos": 520
+    }, 
+    {
+        "obfuscation": "There came a drum of plastic on metal as his attention was drawn to the neat with a plastic flashlight .", 
+        "obfuscation-id": 15, 
+        "original": "\nThere came a drum of plastic on metal as his attention was drawn to the orderly with a plastic flashlight.", 
+        "original-end-charpos": 651, 
+        "original-start-charpos": 545
+    }, 
+    {
+        "obfuscation": "Aforementioned light shining into his padded room .", 
+        "obfuscation-id": 16, 
+        "original": " Aforementioned light shining into his padded room.", 
+        "original-end-charpos": 702, 
+        "original-start-charpos": 652
+    }, 
+    {
+        "obfuscation": "'' Keep it down in there ! ''", 
+        "obfuscation-id": 17, 
+        "original": "\n\"Keep it down in there!\"", 
+        "original-end-charpos": 727, 
+        "original-start-charpos": 703
+    }, 
+    {
+        "obfuscation": "The orderly tore before leaving him alone once again .", 
+        "obfuscation-id": 18, 
+        "original": " The orderly snapped before leaving him alone once again.", 
+        "original-end-charpos": 784, 
+        "original-start-charpos": 728
+    }, 
+    {
+        "obfuscation": "'' Power outage , eh ? ''", 
+        "obfuscation-id": 19, 
+        "original": "\n\"Power outage, eh?\"", 
+        "original-end-charpos": 804, 
+        "original-start-charpos": 785
+    }, 
+    {
+        "obfuscation": "He chuckled .", 
+        "obfuscation-id": 20, 
+        "original": " He chuckled.", 
+        "original-end-charpos": 817, 
+        "original-start-charpos": 805
+    }, 
+    {
+        "obfuscation": "`` Wonder whyyyy . ''", 
+        "obfuscation-id": 21, 
+        "original": " \"Wonder whyyyy.\"", 
+        "original-end-charpos": 834, 
+        "original-start-charpos": 818
+    }, 
+    {
+        "obfuscation": "He rolled his head back to his right ; towards his window .", 
+        "obfuscation-id": 22, 
+        "original": "\nHe rolled his head back to his right; towards his window.", 
+        "original-end-charpos": 892, 
+        "original-start-charpos": 835
+    }, 
+    {
+        "obfuscation": "His eyes registered the sound of unearthly wings twitching like insects contemplating flight .", 
+        "obfuscation-id": 23, 
+        "original": " His eyes registered the sound of unearthly wings twitching like insects contemplating flight.", 
+        "original-end-charpos": 986, 
+        "original-start-charpos": 893
+    }, 
+    {
+        "obfuscation": "Oh how he hated those blasted things .", 
+        "obfuscation-id": 24, 
+        "original": " Oh how he hated those damn things.", 
+        "original-end-charpos": 1021, 
+        "original-start-charpos": 987
+    }, 
+    {
+        "obfuscation": "Far worse than those Shoggoths he faced a while back .", 
+        "obfuscation-id": 25, 
+        "original": " Far worse than those Shoggoths he faced a while back.", 
+        "original-end-charpos": 1075, 
+        "original-start-charpos": 1022
+    }, 
+    {
+        "obfuscation": "At least the Shoggoths ate you ; thus ending your torment .", 
+        "obfuscation-id": 26, 
+        "original": " At least the Shoggoths ate you; thus ending your torment.", 
+        "original-end-charpos": 1133, 
+        "original-start-charpos": 1076
+    }, 
+    {
+        "obfuscation": "But a Migo\u2026He shuttered .", 
+        "obfuscation-id": 27, 
+        "original": " But a Migo\u2026He shuttered.", 
+        "original-end-charpos": 1158, 
+        "original-start-charpos": 1134
+    }, 
+    {
+        "obfuscation": "He did not want to think about it .", 
+        "obfuscation-id": 28, 
+        "original": " He did not want to think about it.", 
+        "original-end-charpos": 1193, 
+        "original-start-charpos": 1159
+    }, 
+    {
+        "obfuscation": "'' Nyarlahotep\u2026You son of a bitch . ''", 
+        "obfuscation-id": 29, 
+        "original": "\n\"Nyarlahotep\u2026You son of a bitch.\"", 
+        "original-end-charpos": 1227, 
+        "original-start-charpos": 1194
+    }, 
+    {
+        "obfuscation": "He said , looking grumpy , then broke out in hysterics , then going back as if it never found .", 
+        "obfuscation-id": 30, 
+        "original": " He said, looking grumpy, then broke out in hysterics, then going back as if it never happened.", 
+        "original-end-charpos": 1322, 
+        "original-start-charpos": 1228
+    }, 
+    {
+        "obfuscation": "`` If it were n't for you\u2026I 'd be\u2026I 'd be\u2026 '' Where would he be ?", 
+        "obfuscation-id": 31, 
+        "original": " \"If it weren't for you\u2026I'd be\u2026I'd be\u2026\"\nWhere would he be?", 
+        "original-end-charpos": 1380, 
+        "original-start-charpos": 1323
+    }, 
+    {
+        "obfuscation": "In his mind , he saw himself in Miami , laying on the beach with Lucinda , their two kids playing in the sand as the waves crashed soothingly onto the shore .", 
+        "obfuscation-id": 32, 
+        "original": " In his mind, he saw himself in Miami, laying on the beach with Lucinda, their two kids playing in the sand as the waves crashed soothingly onto the shore.", 
+        "original-end-charpos": 1535, 
+        "original-start-charpos": 1381
+    }, 
+    {
+        "obfuscation": "But then his logic would kick that to the curb .", 
+        "obfuscation-id": 33, 
+        "original": " But then his logic would kick that to the curb.", 
+        "original-end-charpos": 1583, 
+        "original-start-charpos": 1536
+    }, 
+    {
+        "obfuscation": "Lucinda were showing signs\u2026She would have dumped him if it were n't for that Deep One , that is , dragging her-kicking and screaming-to the bottom of the sea .", 
+        "obfuscation-id": 34, 
+        "original": " Lucinda was showing signs\u2026She would have dumped him if it weren't for that Deep One, that is, dragging her-kicking and screaming-to the bottom of the sea.", 
+        "original-end-charpos": 1738, 
+        "original-start-charpos": 1584
+    }, 
+    {
+        "obfuscation": "He would be aside from his insane parents .", 
+        "obfuscation-id": 35, 
+        "original": "\nHe would be away from his insane parents.", 
+        "original-end-charpos": 1780, 
+        "original-start-charpos": 1739
+    }, 
+    {
+        "obfuscation": "That insane town of Dunwich .", 
+        "obfuscation-id": 36, 
+        "original": " That insane town of Dunwich.", 
+        "original-end-charpos": 1809, 
+        "original-start-charpos": 1781
+    }, 
+    {
+        "obfuscation": "Even if Lucinda did not accompany him , he would , at least , be complimentary from here .", 
+        "obfuscation-id": 37, 
+        "original": " Even if Lucinda did not accompany him, he would, at least, be free from here.", 
+        "original-end-charpos": 1887, 
+        "original-start-charpos": 1810
+    }, 
+    {
+        "obfuscation": "But then he met him .", 
+        "obfuscation-id": 38, 
+        "original": " But then he met him.", 
+        "original-end-charpos": 1908, 
+        "original-start-charpos": 1888
+    }, 
+    {
+        "obfuscation": "'' Jesus\u2026 '' '' Yes ? ''", 
+        "obfuscation-id": 39, 
+        "original": "\n\"Jesus\u2026\"\n\"Yes?\"", 
+        "original-end-charpos": 1924, 
+        "original-start-charpos": 1909
+    }, 
+    {
+        "obfuscation": "Came a sweet , velvety part .", 
+        "obfuscation-id": 40, 
+        "original": " Came a sweet, velvety voice.", 
+        "original-end-charpos": 1953, 
+        "original-start-charpos": 1925
+    }, 
+    {
+        "obfuscation": "A voice one would hear from royalty .", 
+        "obfuscation-id": 41, 
+        "original": " A voice one would hear from royalty.", 
+        "original-end-charpos": 1990, 
+        "original-start-charpos": 1954
+    }, 
+    {
+        "obfuscation": "'' Not you . ''", 
+        "obfuscation-id": 42, 
+        "original": "\n\"Not you.\"", 
+        "original-end-charpos": 2001, 
+        "original-start-charpos": 1991
+    }, 
+    {
+        "obfuscation": "He snapped .", 
+        "obfuscation-id": 43, 
+        "original": " He snapped.", 
+        "original-end-charpos": 2013, 
+        "original-start-charpos": 2002
+    }, 
+    {
+        "obfuscation": "'' But I am him . ''", 
+        "obfuscation-id": 44, 
+        "original": "\n\"But I am him.\"", 
+        "original-end-charpos": 2029, 
+        "original-start-charpos": 2014
+    }, 
+    {
+        "obfuscation": "A hand put itself on his shoulder as the entire figure appeared , sitting beside him like they were best friends .", 
+        "obfuscation-id": 45, 
+        "original": " A hand placed itself on his shoulder as the entire figure appeared, sitting beside him like they were best friends.", 
+        "original-end-charpos": 2145, 
+        "original-start-charpos": 2030
+    }, 
+    {
+        "obfuscation": "'' No ... You 're the fucking antichrist . ''", 
+        "obfuscation-id": 46, 
+        "original": "\n\"No...You're the fucking antichrist.\"", 
+        "original-end-charpos": 2183, 
+        "original-start-charpos": 2146
+    }, 
+    {
+        "obfuscation": "'' Is there actually a difference in that either ? ''", 
+        "obfuscation-id": 47, 
+        "original": "\n\"Is there really a difference in that either?\"", 
+        "original-end-charpos": 2230, 
+        "original-start-charpos": 2184
+    }, 
+    {
+        "obfuscation": "Jesus asked , a smirk gracing his regal , bootleg lips .", 
+        "obfuscation-id": 48, 
+        "original": " Jesus asked, a smirk gracing his regal, black lips.", 
+        "original-end-charpos": 2282, 
+        "original-start-charpos": 2231
+    }, 
+    {
+        "obfuscation": "`` Both promise paradise .", 
+        "obfuscation-id": 49, 
+        "original": " \"Both promise paradise.", 
+        "original-end-charpos": 2306, 
+        "original-start-charpos": 2283
+    }, 
+    {
+        "obfuscation": "From there , it 's on a person 's opinion on what that is . ''", 
+        "obfuscation-id": 50, 
+        "original": " From there, it's on a person's opinion on what that is.\"", 
+        "original-end-charpos": 2363, 
+        "original-start-charpos": 2307
+    }, 
+    {
+        "obfuscation": "He chuckled .", 
+        "obfuscation-id": 51, 
+        "original": " He chuckled.", 
+        "original-end-charpos": 2376, 
+        "original-start-charpos": 2364
+    }, 
+    {
+        "obfuscation": "`` And do not tell me that you forgot your title , Ivan\u2026Or should I say 'Judas ' ? ''", 
+        "obfuscation-id": 52, 
+        "original": " \"And do not tell me that you forgot your title, Ivan\u2026Or should I say 'Judas'?\"", 
+        "original-end-charpos": 2455, 
+        "original-start-charpos": 2377
+    }, 
+    {
+        "obfuscation": "'' THEN WHY PLACE ME HERE ? ''", 
+        "obfuscation-id": 53, 
+        "original": "\n\"THEN WHY PLACE ME HERE?\"", 
+        "original-end-charpos": 2481, 
+        "original-start-charpos": 2456
+    }, 
+    {
+        "obfuscation": "Ivan shouted .", 
+        "obfuscation-id": 54, 
+        "original": " Ivan shouted.", 
+        "original-end-charpos": 2495, 
+        "original-start-charpos": 2482
+    }, 
+    {
+        "obfuscation": "'' Hey ! ''", 
+        "obfuscation-id": 55, 
+        "original": "\n\"Hey!\"", 
+        "original-end-charpos": 2502, 
+        "original-start-charpos": 2496
+    }, 
+    {
+        "obfuscation": "The orderly exclaimed , banging his flashlight on the bars again .", 
+        "obfuscation-id": 56, 
+        "original": " The orderly shouted, banging his flashlight on the bars again.", 
+        "original-end-charpos": 2565, 
+        "original-start-charpos": 2503
+    }, 
+    {
+        "obfuscation": "`` What did I just say ? ''", 
+        "obfuscation-id": 57, 
+        "original": " \"What did I just say?\"", 
+        "original-end-charpos": 2588, 
+        "original-start-charpos": 2566
+    }, 
+    {
+        "obfuscation": "The orderly 's side began to bubble .", 
+        "obfuscation-id": 58, 
+        "original": "\nThe orderly's face began to bubble.", 
+        "original-end-charpos": 2624, 
+        "original-start-charpos": 2589
+    }, 
+    {
+        "obfuscation": "His flesh boiled , broken screams erupted from his face .", 
+        "obfuscation-id": 59, 
+        "original": " His flesh boiled, broken screams erupted from his face.", 
+        "original-end-charpos": 2680, 
+        "original-start-charpos": 2625
+    }, 
+    {
+        "obfuscation": "He collapsed and scratched at his side , letting more and more blood poor onto the floor .", 
+        "obfuscation-id": 60, 
+        "original": " He collapsed and scratched at his face, letting more and more blood poor onto the floor.", 
+        "original-end-charpos": 2769, 
+        "original-start-charpos": 2681
+    }, 
+    {
+        "obfuscation": "'' I hate interruptions . ''", 
+        "obfuscation-id": 61, 
+        "original": "\n\"I hate interruptions.\"", 
+        "original-end-charpos": 2793, 
+        "original-start-charpos": 2770
+    }, 
+    {
+        "obfuscation": "Jesus said .", 
+        "obfuscation-id": 62, 
+        "original": " Jesus said.", 
+        "original-end-charpos": 2805, 
+        "original-start-charpos": 2794
+    }, 
+    {
+        "obfuscation": "`` And as for your answer\u2026Because .", 
+        "obfuscation-id": 63, 
+        "original": " \"And as for your answer\u2026Because.", 
+        "original-end-charpos": 2838, 
+        "original-start-charpos": 2806
+    }, 
+    {
+        "obfuscation": "If Jesus were as all powerful as he claimed , why did he allow Judas to stay in the fold ?", 
+        "obfuscation-id": 64, 
+        "original": " If Jesus was as all powerful as he claimed, why did he allow Judas to stay in the fold?", 
+        "original-end-charpos": 2926, 
+        "original-start-charpos": 2839
+    }, 
+    {
+        "obfuscation": "Why did he allow the lowly wretches hope ?", 
+        "obfuscation-id": 65, 
+        "original": " Why did he allow the lowly wretches hope?", 
+        "original-end-charpos": 2968, 
+        "original-start-charpos": 2927
+    }, 
+    {
+        "obfuscation": "Why did I command Tython to drag Lucinda down to the depths to suffer being rendered by hungry maws before she could drown ? ''", 
+        "obfuscation-id": 66, 
+        "original": " Why did I command Tython to drag Lucinda down to the depths to suffer being rendered by hungry maws before she could drown?\"", 
+        "original-end-charpos": 3093, 
+        "original-start-charpos": 2969
+    }, 
+    {
+        "obfuscation": "He smirked evilly as he described Lucinda 's gruesome demise .", 
+        "obfuscation-id": 67, 
+        "original": "\nHe smirked evilly as he described Lucinda's gruesome demise.", 
+        "original-end-charpos": 3154, 
+        "original-start-charpos": 3094
+    }, 
+    {
+        "obfuscation": "Ivan panted heavily , his rage rising faster than R'lyeh ever would to the surface .", 
+        "obfuscation-id": 68, 
+        "original": " Ivan panted heavily, his rage rising faster than R'lyeh ever would to the surface.", 
+        "original-end-charpos": 3237, 
+        "original-start-charpos": 3155
+    }, 
+    {
+        "obfuscation": "Ivan struck thin air as his body moved too slow for the deity ; whom were already standing , laughing at the mortal .", 
+        "obfuscation-id": 69, 
+        "original": " Ivan struck thin air as his body moved too slow for the deity; whom was already standing, laughing at the mortal.", 
+        "original-end-charpos": 3351, 
+        "original-start-charpos": 3238
+    }, 
+    {
+        "obfuscation": "'' Because there 's more to it , Judas . ''", 
+        "obfuscation-id": 70, 
+        "original": "\n\"Because there's more to it, Judas.\"", 
+        "original-end-charpos": 3388, 
+        "original-start-charpos": 3352
+    }, 
+    {
+        "obfuscation": "Jesus said .", 
+        "obfuscation-id": 71, 
+        "original": " Jesus said.", 
+        "original-end-charpos": 3400, 
+        "original-start-charpos": 3389
+    }, 
+    {
+        "obfuscation": "`` Judas of erstwhile was an important player in the world .", 
+        "obfuscation-id": 72, 
+        "original": " \"Judas of old was an important player in the world.", 
+        "original-end-charpos": 3452, 
+        "original-start-charpos": 3401
+    }, 
+    {
+        "obfuscation": "The wretches were a growing populace , if they loved him , they would worship him . ''", 
+        "obfuscation-id": 73, 
+        "original": " The wretches were a growing populace, if they loved him, they would worship him.\"", 
+        "original-end-charpos": 3534, 
+        "original-start-charpos": 3453
+    }, 
+    {
+        "obfuscation": "'' Bullshit ! ''", 
+        "obfuscation-id": 74, 
+        "original": "\n\"Bullshit!\"", 
+        "original-end-charpos": 3546, 
+        "original-start-charpos": 3535
+    }, 
+    {
+        "obfuscation": "He spat .", 
+        "obfuscation-id": 75, 
+        "original": " He spat.", 
+        "original-end-charpos": 3555, 
+        "original-start-charpos": 3547
+    }, 
+    {
+        "obfuscation": "'' Is it ? ''", 
+        "obfuscation-id": 76, 
+        "original": "\n\"Is it?\"", 
+        "original-end-charpos": 3564, 
+        "original-start-charpos": 3556
+    }, 
+    {
+        "obfuscation": "'' We want you to betray us , Judas . ''", 
+        "obfuscation-id": 77, 
+        "original": "\n\"We want you to betray us, Judas.\"", 
+        "original-end-charpos": 3599, 
+        "original-start-charpos": 3565
+    }, 
+    {
+        "obfuscation": "Jesus said after his question was ignored .", 
+        "obfuscation-id": 78, 
+        "original": " Jesus said after his question was ignored.", 
+        "original-end-charpos": 3642, 
+        "original-start-charpos": 3600
+    }, 
+    {
+        "obfuscation": "'' Why ? ''", 
+        "obfuscation-id": 79, 
+        "original": "\n\"Why?\"", 
+        "original-end-charpos": 3649, 
+        "original-start-charpos": 3643
+    }, 
+    {
+        "obfuscation": "'' Sorry , but us Christs keep some secrets from their disciples . ''", 
+        "obfuscation-id": 80, 
+        "original": "\n\"Sorry, but us Christs keep some secrets from their disciples.\"", 
+        "original-end-charpos": 3713, 
+        "original-start-charpos": 3650
+    }, 
+    {
+        "obfuscation": "'' What makes you Jesus ? ''", 
+        "obfuscation-id": 81, 
+        "original": "\n\"What makes you Jesus?\"", 
+        "original-end-charpos": 3737, 
+        "original-start-charpos": 3714
+    }, 
+    {
+        "obfuscation": "'' Our roles . ''", 
+        "obfuscation-id": 82, 
+        "original": "\n\"Our roles.\"", 
+        "original-end-charpos": 3750, 
+        "original-start-charpos": 3738
+    }, 
+    {
+        "obfuscation": "He stated simply .", 
+        "obfuscation-id": 83, 
+        "original": " He stated simply.", 
+        "original-end-charpos": 3768, 
+        "original-start-charpos": 3751
+    }, 
+    {
+        "obfuscation": "`` You see\u2026He was supposed to preach about us .", 
+        "obfuscation-id": 84, 
+        "original": " \"You see\u2026He was supposed to preach about us.", 
+        "original-end-charpos": 3813, 
+        "original-start-charpos": 3769
+    }, 
+    {
+        "obfuscation": "But , sadly , his mind could n't take it .", 
+        "obfuscation-id": 85, 
+        "original": " But, sadly, his mind couldn't take it.", 
+        "original-end-charpos": 3852, 
+        "original-start-charpos": 3814
+    }, 
+    {
+        "obfuscation": "thus Cthulhu became a god .", 
+        "obfuscation-id": 86, 
+        "original": " So Cthulhu became a god.", 
+        "original-end-charpos": 3877, 
+        "original-start-charpos": 3853
+    }, 
+    {
+        "obfuscation": "Not like it matters , religion changes all the time . ''", 
+        "obfuscation-id": 87, 
+        "original": " Not like it matters, religion changes all the time.\"", 
+        "original-end-charpos": 3930, 
+        "original-start-charpos": 3878
+    }, 
+    {
+        "obfuscation": "He smirked , all knowing .", 
+        "obfuscation-id": 88, 
+        "original": "\nHe smirked, all knowing.", 
+        "original-end-charpos": 3955, 
+        "original-start-charpos": 3931
+    }, 
+    {
+        "obfuscation": "`` And no , he was n't the son of Cthulhu .", 
+        "obfuscation-id": 89, 
+        "original": " \"And no, he wasn't the son of Cthulhu.", 
+        "original-end-charpos": 3994, 
+        "original-start-charpos": 3956
+    }, 
+    {
+        "obfuscation": "That was my fiddling trick . ''", 
+        "obfuscation-id": 90, 
+        "original": " That was my little trick.\"", 
+        "original-end-charpos": 4021, 
+        "original-start-charpos": 3995
+    }, 
+    {
+        "obfuscation": "'' Pray Judas , '' He said from behind Ivan-not allowing him to speak-his bootleg , decaying lips mere inches from his ear .", 
+        "obfuscation-id": 91, 
+        "original": "\n\"Pray Judas,\" He said from behind Ivan-not allowing him to speak-his black, decaying lips mere inches from his ear.", 
+        "original-end-charpos": 4137, 
+        "original-start-charpos": 4022
+    }, 
+    {
+        "obfuscation": "`` He likes that .", 
+        "obfuscation-id": 92, 
+        "original": " \"He likes that.", 
+        "original-end-charpos": 4153, 
+        "original-start-charpos": 4138
+    }, 
+    {
+        "obfuscation": "It makes him feel powerful . ''", 
+        "obfuscation-id": 93, 
+        "original": " It makes him feel powerful.\"", 
+        "original-end-charpos": 4182, 
+        "original-start-charpos": 4154
+    }, 
+    {
+        "obfuscation": "'' No , '' Ivan said .", 
+        "obfuscation-id": 94, 
+        "original": "\n\"No,\" Ivan said.", 
+        "original-end-charpos": 4199, 
+        "original-start-charpos": 4183
+    }, 
+    {
+        "obfuscation": "`` I shall not ya damned bastard !", 
+        "obfuscation-id": 95, 
+        "original": " \"I shall not ya damned bastard!", 
+        "original-end-charpos": 4231, 
+        "original-start-charpos": 4200
+    }, 
+    {
+        "obfuscation": "And I wo n't bring about their reawakening !", 
+        "obfuscation-id": 96, 
+        "original": " And I won't bring about their reawakening!", 
+        "original-end-charpos": 4274, 
+        "original-start-charpos": 4232
+    }, 
+    {
+        "obfuscation": "These crazies will remain sedated ! ''", 
+        "obfuscation-id": 97, 
+        "original": " These crazies will remain sedated!\"", 
+        "original-end-charpos": 4310, 
+        "original-start-charpos": 4275
+    }, 
+    {
+        "obfuscation": "Jesus laughed .", 
+        "obfuscation-id": 98, 
+        "original": "\nJesus laughed.", 
+        "original-end-charpos": 4325, 
+        "original-start-charpos": 4311
+    }, 
+    {
+        "obfuscation": "'' That 's my cue . ''", 
+        "obfuscation-id": 99, 
+        "original": "\n\"That's my cue.\"", 
+        "original-end-charpos": 4342, 
+        "original-start-charpos": 4326
+    }, 
+    {
+        "obfuscation": "Jesus caught Ivan by the neck and slammed his body against the wall .", 
+        "obfuscation-id": 100, 
+        "original": "\nJesus grabbed Ivan by the neck and slammed his body against the wall.", 
+        "original-end-charpos": 4412, 
+        "original-start-charpos": 4343
+    }, 
+    {
+        "obfuscation": "Buzzing from outside the window turned from a silent drone into a frenzy .", 
+        "obfuscation-id": 101, 
+        "original": " Buzzing from outside the window grew from a silent drone into a frenzy.", 
+        "original-end-charpos": 4484, 
+        "original-start-charpos": 4413
+    }, 
+    {
+        "obfuscation": "Jesus smirked evilly , drawing his face closer to his Judas .", 
+        "obfuscation-id": 102, 
+        "original": " Jesus smirked evilly, drawing his face closer to his Judas.", 
+        "original-end-charpos": 4544, 
+        "original-start-charpos": 4485
+    }, 
+    {
+        "obfuscation": "'' In blood the target is drawn . ''", 
+        "obfuscation-id": 103, 
+        "original": "\n\"In blood the mark is drawn.\"", 
+        "original-end-charpos": 4574, 
+        "original-start-charpos": 4545
+    }, 
+    {
+        "obfuscation": "Nyarlahotep drew the blade he was hiding and slashed Ivan 's wrist , splattering drops of blood on the wall .", 
+        "obfuscation-id": 104, 
+        "original": "\nNyarlahotep drew the blade he was hiding and slashed Ivan's wrist, splattering drops of blood on the wall.", 
+        "original-end-charpos": 4681, 
+        "original-start-charpos": 4575
+    }, 
+    {
+        "obfuscation": "He determined in delight as the drops spread , several linking up and continuing their intricate design .", 
+        "obfuscation-id": 105, 
+        "original": " He watched in delight as the drops spread, several linking up and continuing their intricate design.", 
+        "original-end-charpos": 4782, 
+        "original-start-charpos": 4682
+    }, 
+    {
+        "obfuscation": "It consisted of a crude circle with intertwining tentacles and a pair of piercing centers .", 
+        "obfuscation-id": 106, 
+        "original": "\nIt consisted of a crude circle with intertwining tentacles and a pair of piercing eyes.", 
+        "original-end-charpos": 4870, 
+        "original-start-charpos": 4783
+    }, 
+    {
+        "obfuscation": "'' There , '' He said .", 
+        "obfuscation-id": 107, 
+        "original": "\n\"There,\" He said.", 
+        "original-end-charpos": 4888, 
+        "original-start-charpos": 4871
+    }, 
+    {
+        "obfuscation": "`` Done . ''", 
+        "obfuscation-id": 108, 
+        "original": " \"Done.\"", 
+        "original-end-charpos": 4896, 
+        "original-start-charpos": 4889
+    }, 
+    {
+        "obfuscation": "He tossed Ivan .", 
+        "obfuscation-id": 109, 
+        "original": "\nHe tossed Ivan.", 
+        "original-end-charpos": 4912, 
+        "original-start-charpos": 4897
+    }, 
+    {
+        "obfuscation": "He brought next to the window and as he peered out of it he clearly saw the glowing heads and beating wings of the Migo , their forms slightly covered by the rain that began to fall again .", 
+        "obfuscation-id": 110, 
+        "original": " He landed next to the window and as he peered out of it he clearly saw the glowing heads and beating wings of the Migo, their forms slightly covered by the rain that began to fall again.", 
+        "original-end-charpos": 5099, 
+        "original-start-charpos": 4913
+    }, 
+    {
+        "obfuscation": "'' Enjoy your trip , Judas . ''", 
+        "obfuscation-id": 111, 
+        "original": "\n\"Enjoy your trip, Judas.\"", 
+        "original-end-charpos": 5125, 
+        "original-start-charpos": 5100
+    }, 
+    {
+        "obfuscation": "Nyarlahotep said .", 
+        "obfuscation-id": 112, 
+        "original": " Nyarlahotep said.", 
+        "original-end-charpos": 5143, 
+        "original-start-charpos": 5126
+    }, 
+    {
+        "obfuscation": "`` For though I am done with you , you however serve a purpose . ''", 
+        "obfuscation-id": 113, 
+        "original": " \"For though I am done with you, you still serve a purpose.\"", 
+        "original-end-charpos": 5203, 
+        "original-start-charpos": 5144
+    }, 
+    {
+        "obfuscation": "The Migo swarmed , the window shattering like paper .", 
+        "obfuscation-id": 114, 
+        "original": "\nThe Migo swarmed, the window shattering like paper.", 
+        "original-end-charpos": 5255, 
+        "original-start-charpos": 5204
+    }, 
+    {
+        "obfuscation": "Ivan barely had time to shout as they worked on his skull , amputating his brain and placing it inside their jar .", 
+        "obfuscation-id": 115, 
+        "original": " Ivan barely had time to scream as they worked on his skull, amputating his brain and placing it inside their jar.", 
+        "original-end-charpos": 5369, 
+        "original-start-charpos": 5256
+    }, 
+    {
+        "obfuscation": "'' Cthulhu ftagn , indeed . ''", 
+        "obfuscation-id": 116, 
+        "original": "\n\"Cthulhu ftagn, indeed.\"", 
+        "original-end-charpos": 5394, 
+        "original-start-charpos": 5370
+    }
+]

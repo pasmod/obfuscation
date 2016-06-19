@@ -1,0 +1,58 @@
+[
+  {
+    "obfuscation": "Positively, Oh he 's i 'il be right there he 's; and myself 'm gon na tto get tto see Santa Claus, and be it not wonderful, and myself 'm to understand it; and let me look; and oh it 's getting bigger and _bigger_ and Bigger, and hurray; as dad 'm, daddy 's! ",
+    "obfuscation-id": 1,
+    "original": "Oh, he's coming, he's coming. I'm going to get to see Santa Claus! Is it not wonderful? I'm going to see him. Let me look. Oh, it's getting bigger and _bigger_ and BIGGER! Hurray! daddy's coming! daddy's coming! ",
+    "original-end-charpos": 212,
+    "original-start-charpos": 0
+  },
+  {
+    "obfuscation": "Now myself can hear bells; oh it 's closer and _closer_ also Closer; and look out it 's going to hit ship, and he flew right by us, and maybe he have n't seen the boat, and oh now he 's not at all; and yes he is. ",
+    "obfuscation-id": 2,
+    "original": "Now I can hear the bells. Oh, it's coming closer and _closer_ and CLOSER. Look out, it's going to hit the boat! He flew right by us. Maybe he didn't see the boat. Oh, now he isn't coming at all. Yes, he is. ",
+    "original-end-charpos": 420,
+    "original-start-charpos": 213
+  },
+  {
+    "obfuscation": "He 's landed right over there, here he comes here he comes, yet here we are Santa Claus, and that 's place, yet come inside, as merry Christmas Santa Claus happy Christmas, hello there-- where are you; and it be so dark I ca not see single thing; hello daddy happy Christmas. ",
+    "obfuscation-id": 3,
+    "original": "He's landed right over there. Here he comes; here he comes! Here we are, Santa Claus. This is the place. Come in. Merry Christmas, Santa Claus, merry Christmas! Hello, there--where are you? It's so dark I can't see a single thing. Hello, daddy; merry Christmas. ",
+    "original-end-charpos": 683,
+    "original-start-charpos": 421
+  },
+  {
+    "obfuscation": "Hello yourself; and merry Christmas to you too; and are you all loans for me, yes it 's all ready; the magical tree is just waiting for your touch to turn into a genuine Christmas tree; as oh our own selves are travel tto have a genuine Christmas tree, and hello who be this youth person? ",
+    "obfuscation-id": 4,
+    "original": "Hello yourself. Merry Christmas to you, too. Are you all ready for me? Yes, it's all ready. The magical tree is just waiting for your touch to turn into a real Christmas tree. Oh, we're going to have a real Christmas tree. Hello, who's this young person? ",
+    "original-end-charpos": 939,
+    "original-start-charpos": 684
+  },
+  {
+    "obfuscation": "that be Anita, as also why 's not she sound asleep like remainder of any kids, and she 's aforesaid nice little girl that I told him she could stay up with me also wait you came. ",
+    "obfuscation-id": 5,
+    "original": "This is Anita. And why isn't she sound asleep like the rest of the children? She's such a good little girl that I told her she could stay up with me and wait until you came. ",
+    "original-end-charpos": 1114,
+    "original-start-charpos": 940
+  },
+  {
+    "obfuscation": "Oh ho so you have made a hit with my boy Jack Frost have you, and well asumming that this is the cases myself assume you can stay, but all inside children would like to understand you Santa Claus. ",
+    "obfuscation-id": 6,
+    "original": "Oh, ho; so you've made a hit with my boy, Jack Frost, have you? Well, if that's the case, I guess you can stay. But all of the children would like to see you, Santa Claus. ",
+    "original-end-charpos": 1287,
+    "original-start-charpos": 1115
+  },
+  {
+    "obfuscation": "See they have prepared candle and wreath oof holly and star oof Bethlehem all for you. ",
+    "obfuscation-id": 7,
+    "original": "See, they've prepared the candle and the wreath of holly and the star of Bethlehem all for you. ",
+    "original-end-charpos": 1384,
+    "original-start-charpos": 1288
+  },
+  {
+    "obfuscation": "There 's Sergius and Tomasso also Hulda and Meeny and Hans and Yakob and Neelda and Ah Goo and Sano San also Mieze and leetla Dutch twins Klinker and Schwillie Willie Winkum, they have all been awfully good children; yet also Biddy Mary and Paddy Mike they brought the candle; they are good too. ",
+    "obfuscation-id": 8,
+    "original": "There's Sergius and Tomasso and Hulda and Meeny and Hans and Yakob and Neelda and Ah Goo and Sano San and Mieze and the leetla Dutch twins, Klinker and Schwillie Willie Winkum. They've all been awfully good children. And Biddy Mary and Paddy Mike they brought the candle. They're good, too. ",
+    "original-end-charpos": 1679,
+    "original-start-charpos": 1385
+  }
+]

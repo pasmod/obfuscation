@@ -1,0 +1,408 @@
+[
+    {
+        "obfuscation": "\ufeff `` The entirely good Indian is a dead Indian . ''", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff \"The only good Indian is a dead Indian.\"", 
+        "original-end-charpos": 41, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "In the nineteenth century , the attitude among the white settlers towards American Indians was that of civilized people looking at savages .", 
+        "obfuscation-id": 2, 
+        "original": "  \nIn the nineteenth century, the attitude among the white settlers towards American Indians was that of civilized people looking at savages.", 
+        "original-end-charpos": 182, 
+        "original-start-charpos": 42
+    }, 
+    {
+        "obfuscation": "Indians were seen as some strange , preferably wild savages .", 
+        "obfuscation-id": 3, 
+        "original": " \nIndians were seen as some strange, rather wild savages.", 
+        "original-end-charpos": 239, 
+        "original-start-charpos": 183
+    }, 
+    {
+        "obfuscation": "however though , Indians were also admired as stoic and brave .", 
+        "obfuscation-id": 4, 
+        "original": " \nStill though, Indians were also admired as stoic and brave.", 
+        "original-end-charpos": 300, 
+        "original-start-charpos": 240
+    }, 
+    {
+        "obfuscation": "The white settlers went further and further west , taking over the land of the Indians .", 
+        "obfuscation-id": 5, 
+        "original": " \nThe white settlers moved further and further west, taking over the land of the Indians.", 
+        "original-end-charpos": 389, 
+        "original-start-charpos": 301
+    }, 
+    {
+        "obfuscation": "The white settlers cheated the Indians many times over and spared no land for them to live in .", 
+        "obfuscation-id": 6, 
+        "original": " \nThe white settlers cheated the Indians many times over and spared no land for them to live in.", 
+        "original-end-charpos": 485, 
+        "original-start-charpos": 390
+    }, 
+    {
+        "obfuscation": "From giving them the unharmed western part of America , the white people altered to only allowing the Indians small territories , which by time became smaller and smaller .", 
+        "obfuscation-id": 7, 
+        "original": " \nFrom giving them the whole western part of America, the white people altered to only allowing the Indians small territories, which by time became smaller and smaller.", 
+        "original-end-charpos": 653, 
+        "original-start-charpos": 486
+    }, 
+    {
+        "obfuscation": "In this essay I will give an account of the attitudes that allowed for this to happen , as they are revealed in the writings of the white Americans living in the late nineteenth century .", 
+        "obfuscation-id": 8, 
+        "original": " \nIn this essay I will give an account of the attitudes that allowed for this to happen, as they are revealed in the writings of the white Americans living in the late nineteenth century.", 
+        "original-end-charpos": 840, 
+        "original-start-charpos": 654
+    }, 
+    {
+        "obfuscation": "In most of the texts written by white Americans at this time , it is quite clear that they did not see Indians as normal humans .", 
+        "obfuscation-id": 9, 
+        "original": " \t\nIn most of the texts written by white Americans at this time, it is quite clear that they did not see Indians as normal humans.", 
+        "original-end-charpos": 970, 
+        "original-start-charpos": 841
+    }, 
+    {
+        "obfuscation": "They did not even believe them to be at the like level of civilization as white people were .", 
+        "obfuscation-id": 10, 
+        "original": " \nThey did not even believe them to be at the same level of civilization as white people were.", 
+        "original-end-charpos": 1064, 
+        "original-start-charpos": 971
+    }, 
+    {
+        "obfuscation": "The word they used when they referred to Indians were `` savage '' .", 
+        "obfuscation-id": 11, 
+        "original": " \nThe word they used when they referred to Indians was \"savage\".", 
+        "original-end-charpos": 1128, 
+        "original-start-charpos": 1065
+    }, 
+    {
+        "obfuscation": "They saw Indians as barbaric and impossible to civilize .", 
+        "obfuscation-id": 12, 
+        "original": " \nThey saw Indians as barbaric and impossible to civilize.", 
+        "original-end-charpos": 1186, 
+        "original-start-charpos": 1129
+    }, 
+    {
+        "obfuscation": "There was supposedly no way in which white settlers could possibly teach these savages the normal means of living .", 
+        "obfuscation-id": 13, 
+        "original": " \nThere was supposedly no way in which white settlers could possibly teach these savages the normal ways of living.", 
+        "original-end-charpos": 1301, 
+        "original-start-charpos": 1187
+    }, 
+    {
+        "obfuscation": "The lifestyle that white people demanded must be the only means that could be right .", 
+        "obfuscation-id": 14, 
+        "original": " \nThe lifestyle that white people demanded must be the only way that could be right.", 
+        "original-end-charpos": 1385, 
+        "original-start-charpos": 1302
+    }, 
+    {
+        "obfuscation": "In a text from 1881 , Judson E. Walker wrote about the Indians : `` Try as they will , they can not entirely subdue the savage instincts to roam at will , to defy restraint , and to indulge their lawless appetites for blood and plunder . ''", 
+        "obfuscation-id": 15, 
+        "original": " \nIn a text from 1881, Judson E. \nWalker wrote about the Indians: \"Try as they will, they cannot entirely subdue the savage instincts to roam at will, to defy restraint, and to indulge their lawless appetites for blood and plunder.\"", 
+        "original-end-charpos": 1617, 
+        "original-start-charpos": 1386
+    }, 
+    {
+        "obfuscation": "( Walker 67 ) .", 
+        "obfuscation-id": 16, 
+        "original": " \n(Walker 67).", 
+        "original-end-charpos": 1631, 
+        "original-start-charpos": 1618
+    }, 
+    {
+        "obfuscation": "This was the way in which Indians were normally reported at this time , and nobody saw this attitude as strange .", 
+        "obfuscation-id": 17, 
+        "original": " \nThis was the way in which Indians were normally described at this time, and nobody saw this attitude as strange.", 
+        "original-end-charpos": 1745, 
+        "original-start-charpos": 1632
+    }, 
+    {
+        "obfuscation": "Rather it would be strange to think otherwise .", 
+        "obfuscation-id": 18, 
+        "original": " \nRather it would be strange to believe otherwise.", 
+        "original-end-charpos": 1795, 
+        "original-start-charpos": 1746
+    }, 
+    {
+        "obfuscation": "However , there were also Indians who were seen as `` full '' ( Walker 70 ) .", 
+        "obfuscation-id": 19, 
+        "original": " \t\nHowever, there were also Indians who were seen as \"good\" (Walker 70).", 
+        "original-end-charpos": 1867, 
+        "original-start-charpos": 1796
+    }, 
+    {
+        "obfuscation": "These were the ones who took the ruling of the white man and plainly let themselves be transported to whatever place the white man designated for them .", 
+        "obfuscation-id": 20, 
+        "original": " \nThese were the ones who accepted the ruling of the white man and plainly let themselves be transported to whatever place the white man designated for them.", 
+        "original-end-charpos": 2024, 
+        "original-start-charpos": 1868
+    }, 
+    {
+        "obfuscation": "There they gave up all their old beliefs of moving freely and being a part of nature .", 
+        "obfuscation-id": 21, 
+        "original": " \nThere they gave up all their old beliefs of moving freely and being a part of nature.", 
+        "original-end-charpos": 2111, 
+        "original-start-charpos": 2025
+    }, 
+    {
+        "obfuscation": "rather they obeyed the laws of the white community .", 
+        "obfuscation-id": 22, 
+        "original": " \nInstead they obeyed the laws of the white community.", 
+        "original-end-charpos": 2165, 
+        "original-start-charpos": 2112
+    }, 
+    {
+        "obfuscation": "Whites believed , however , that these Indians were not friendly by choice or by nature .", 
+        "obfuscation-id": 23, 
+        "original": " \nWhites believed, however, that these Indians were not friendly by choice or by nature.", 
+        "original-end-charpos": 2253, 
+        "original-start-charpos": 2166
+    }, 
+    {
+        "obfuscation": "On the adverse , these Indians were forced to be friendly because of other reasons .", 
+        "obfuscation-id": 24, 
+        "original": " \nOn the contrary, these Indians were forced to be friendly because of other reasons.", 
+        "original-end-charpos": 2338, 
+        "original-start-charpos": 2254
+    }, 
+    {
+        "obfuscation": "This way of thinking is implied by Elizabeth Custer in her record Boots and Saddles : `` Two Bears had long been friendly to the white man ; he was too old to fight , ... '' ( Custer 207 ) .", 
+        "obfuscation-id": 25, 
+        "original": " \nThis way of thinking is implied by Elizabeth Custer in her book Boots and Saddles: \"Two Bears had long been friendly to the white man; he was too old to fight,...\" \n(Custer 207).", 
+        "original-end-charpos": 2518, 
+        "original-start-charpos": 2339
+    }, 
+    {
+        "obfuscation": "Rather than by choice , Two Bears were forced by old age not to fight .", 
+        "obfuscation-id": 26, 
+        "original": " \nRather than by choice, Two Bears was forced by old age not to fight.", 
+        "original-end-charpos": 2588, 
+        "original-start-charpos": 2519
+    }, 
+    {
+        "obfuscation": "The Indians who did fought , however , were seen as horrible warriors .", 
+        "obfuscation-id": 27, 
+        "original": " \t\nThe Indians who did fought, however, were seen as horrible warriors.", 
+        "original-end-charpos": 2659, 
+        "original-start-charpos": 2589
+    }, 
+    {
+        "obfuscation": "The white thought the fighting spirit and the courage among Indians to be noteworthy .", 
+        "obfuscation-id": 28, 
+        "original": " \nThe white thought the fighting spirit and the courage among Indians to be remarkable.", 
+        "original-end-charpos": 2746, 
+        "original-start-charpos": 2660
+    }, 
+    {
+        "obfuscation": "Any Indian could bring concern to an ordinary cavalry recruit and this came to be of great importance in the famous battle of Little Big Horn .", 
+        "obfuscation-id": 29, 
+        "original": " \nAny Indian could bring fear to an ordinary cavalry recruit and this came to be of great importance in the famous battle of Little Big Horn.", 
+        "original-end-charpos": 2887, 
+        "original-start-charpos": 2747
+    }, 
+    {
+        "obfuscation": "According to one of the Indian warriors who fought in the battle , nine out of ten soldiers committed suicide during this battle .", 
+        "obfuscation-id": 30, 
+        "original": " \nAccording to one of the Indian warriors who fought in the battle, nine out of ten soldiers committed suicide during this battle.", 
+        "original-end-charpos": 3017, 
+        "original-start-charpos": 2888
+    }, 
+    {
+        "obfuscation": "Presumably , they did this out of fear of the Indian savages whose hatred they were facing .", 
+        "obfuscation-id": 31, 
+        "original": " \nPresumably, they did this out of fear of the Indian savages whose hatred they were facing.", 
+        "original-end-charpos": 3109, 
+        "original-start-charpos": 3018
+    }, 
+    {
+        "obfuscation": "This shows that the white population were not entirely unknowing about the Indian life .", 
+        "obfuscation-id": 32, 
+        "original": " \nThis shows that the white population were not only unknowing about the Indian life.", 
+        "original-end-charpos": 3194, 
+        "original-start-charpos": 3110
+    }, 
+    {
+        "obfuscation": "They were also terrified of the way they thought these savages would torture any captured survivors of a battle .", 
+        "obfuscation-id": 33, 
+        "original": " \nThey were also terrified of the way they thought these savages would torture any captured survivors of a battle.", 
+        "original-end-charpos": 3308, 
+        "original-start-charpos": 3195
+    }, 
+    {
+        "obfuscation": "Even though the Indians terrified most white people , the white also admired the Indians .", 
+        "obfuscation-id": 34, 
+        "original": " \t\nEven though the Indians terrified most white people, the white also admired the Indians.", 
+        "original-end-charpos": 3399, 
+        "original-start-charpos": 3309
+    }, 
+    {
+        "obfuscation": "In the above mentioned text by Elizabeth Custer , the following passage can be found : `` A New York Charity Ball could bring away no more antique heirlooms , nor take more time in preparations than the costumes of Indians prepared for council . ''", 
+        "obfuscation-id": 35, 
+        "original": " \nIn the above mentioned text by Elizabeth Custer, the following passage can be found: \"A New York Charity Ball could bring out no more antique heirlooms, nor take more time in preparations than the costumes of Indians prepared for council.\"", 
+        "original-end-charpos": 3640, 
+        "original-start-charpos": 3400
+    }, 
+    {
+        "obfuscation": "( Custer 210 ) .", 
+        "obfuscation-id": 36, 
+        "original": " \n(Custer 210).", 
+        "original-end-charpos": 3655, 
+        "original-start-charpos": 3641
+    }, 
+    {
+        "obfuscation": "The Indians were responsible for her husbands defeat in Little Big Horn .", 
+        "obfuscation-id": 37, 
+        "original": " \nThe Indians were responsible for her husbands defeat in Little Big Horn.", 
+        "original-end-charpos": 3729, 
+        "original-start-charpos": 3656
+    }, 
+    {
+        "obfuscation": "however though , Elizabeth Custer did admire the traditions and customs among the Indians .", 
+        "obfuscation-id": 38, 
+        "original": " \nStill though, Elizabeth Custer did admire the traditions and customs among the Indians.", 
+        "original-end-charpos": 3818, 
+        "original-start-charpos": 3730
+    }, 
+    {
+        "obfuscation": "The Indians were also admired as bang-up warriors .", 
+        "obfuscation-id": 39, 
+        "original": " \t\nThe Indians were also admired as great warriors.", 
+        "original-end-charpos": 3869, 
+        "original-start-charpos": 3819
+    }, 
+    {
+        "obfuscation": "The cavalry feared the Indians , but also admired their courage and their offering towards their leaders .", 
+        "obfuscation-id": 40, 
+        "original": " \nThe cavalry feared the Indians, but also admired their courage and their offering towards their leaders.", 
+        "original-end-charpos": 3975, 
+        "original-start-charpos": 3870
+    }, 
+    {
+        "obfuscation": "When the cavalry arrested and imprisoned Rain-in-the-face , two of the young members in his tribe asked if they could join him in his imprisoning ( Custer 213 ) , something that were then seen as extraordinary .", 
+        "obfuscation-id": 41, 
+        "original": " \nWhen the cavalry arrested and imprisoned Rain-in-the-face, two of the young members in his tribe asked if they could join him in his imprisoning (Custer 213), something that was then seen as extraordinary.", 
+        "original-end-charpos": 4182, 
+        "original-start-charpos": 3976
+    }, 
+    {
+        "obfuscation": "Their action showed them to be brave and honourable , something that was coarse among Indians , but rarely seen among the white settlers .", 
+        "obfuscation-id": 42, 
+        "original": " \nTheir action showed them to be brave and honourable, something that was common among Indians, but rarely seen among the white settlers.", 
+        "original-end-charpos": 4319, 
+        "original-start-charpos": 4183
+    }, 
+    {
+        "obfuscation": "The white also believed the Indians to be concerned as to become revenge .", 
+        "obfuscation-id": 43, 
+        "original": " \t\nThe white also believed the Indians to be concerned as to get revenge.", 
+        "original-end-charpos": 4392, 
+        "original-start-charpos": 4320
+    }, 
+    {
+        "obfuscation": "When Rain-in-the-face escaped the white justice , the white thought he would try to get vengeance for the imprisonment .", 
+        "obfuscation-id": 44, 
+        "original": " \nWhen Rain-in-the-face escaped the white justice, the white thought he would try to get vengeance for the imprisonment.", 
+        "original-end-charpos": 4512, 
+        "original-start-charpos": 4393
+    }, 
+    {
+        "obfuscation": "Elizabeth Custer writes about his escape that : `` As it will be seen further on , the stained waters of the Little Big Horn , on July 25 , 1876 , told how deadly and fatal that were . ''", 
+        "obfuscation-id": 45, 
+        "original": " \nElizabeth Custer writes about his escape that: \"As it will be seen further on, the stained waters of the Little Big Horn, on July 25, 1876, told how deadly and fatal that was.\"", 
+        "original-end-charpos": 4690, 
+        "original-start-charpos": 4513
+    }, 
+    {
+        "obfuscation": "( Custer 215 ) .", 
+        "obfuscation-id": 46, 
+        "original": " \n(Custer 215).", 
+        "original-end-charpos": 4705, 
+        "original-start-charpos": 4691
+    }, 
+    {
+        "obfuscation": "This is contradicting to the statement of Wooden Leg , who says that none of the Indians who fought in the battle knew they were fighting Custer .", 
+        "obfuscation-id": 47, 
+        "original": " \nThis is contradicting to the statement of Wooden Leg, who says that none of the Indians who fought in the battle knew they were fighting Custer.", 
+        "original-end-charpos": 4851, 
+        "original-start-charpos": 4706
+    }, 
+    {
+        "obfuscation": "rather they thought they were being attacked by the soldiers they had previously fought on the Rosebud ( Graham 106 ) .", 
+        "obfuscation-id": 48, 
+        "original": " \nInstead they thought they were being attacked by the soldiers they had previously fought on the Rosebud (Graham 106).", 
+        "original-end-charpos": 4970, 
+        "original-start-charpos": 4852
+    }, 
+    {
+        "obfuscation": "The white settlers much based their attitudes towards Indians on mistakes like the one above .", 
+        "obfuscation-id": 49, 
+        "original": " \t\nThe white settlers often based their attitudes towards Indians on mistakes like the one above.", 
+        "original-end-charpos": 5067, 
+        "original-start-charpos": 4971
+    }, 
+    {
+        "obfuscation": "The attitudes towards Indians have been separated into both fear and admiration .", 
+        "obfuscation-id": 50, 
+        "original": " \nThe attitudes towards Indians have been divided into both fear and admiration.", 
+        "original-end-charpos": 5147, 
+        "original-start-charpos": 5068
+    }, 
+    {
+        "obfuscation": "Especially the defeat of General Custer seems to have made an impression on the white Americans .", 
+        "obfuscation-id": 51, 
+        "original": " \nEspecially the defeat of General Custer seems to have made an impression on the white Americans.", 
+        "original-end-charpos": 5245, 
+        "original-start-charpos": 5148
+    }, 
+    {
+        "obfuscation": "The cavalry saw the Indians as savages and sometimes even as dumb .", 
+        "obfuscation-id": 52, 
+        "original": " \nThe cavalry saw the Indians as savages and sometimes even as dumb.", 
+        "original-end-charpos": 5313, 
+        "original-start-charpos": 5246
+    }, 
+    {
+        "obfuscation": "Although , when they faced the Indians in battle , moreover was defeated , the attitudes changed from malice to about a kind of respect .", 
+        "obfuscation-id": 53, 
+        "original": " \nAlthough, when they faced the Indians in battle, moreover was defeated, the attitudes changed from malice to almost a kind of respect.", 
+        "original-end-charpos": 5449, 
+        "original-start-charpos": 5314
+    }, 
+    {
+        "obfuscation": "The Indians also made bang-up impression as they took their suffering with a kind of toleration .", 
+        "obfuscation-id": 54, 
+        "original": " \nThe Indians also made great impression as they took their suffering with a kind of toleration.", 
+        "original-end-charpos": 5545, 
+        "original-start-charpos": 5450
+    }, 
+    {
+        "obfuscation": "Sitting Bull did not give up for his own sake , but for his people .", 
+        "obfuscation-id": 55, 
+        "original": " \nSitting Bull did not give up for his own sake, but for his people.", 
+        "original-end-charpos": 5613, 
+        "original-start-charpos": 5546
+    }, 
+    {
+        "obfuscation": "Sitting Bull , who was the last Indian to surrender ( Walker 75 ) , however kept his dignity and he held no hate towards the white man .", 
+        "obfuscation-id": 56, 
+        "original": " \nSitting Bull, who was the last Indian to surrender (Walker 75), still kept his dignity and he held no hate towards the white man.", 
+        "original-end-charpos": 5744, 
+        "original-start-charpos": 5614
+    }, 
+    {
+        "obfuscation": "It was this greatness that made the admiration to the Indians .", 
+        "obfuscation-id": 57, 
+        "original": " \nIt was this greatness that created the admiration to the Indians.", 
+        "original-end-charpos": 5811, 
+        "original-start-charpos": 5745
+    }, 
+    {
+        "obfuscation": "This admiration were the only white attitude which the American Indians fully deserved .", 
+        "obfuscation-id": 58, 
+        "original": " \nThis admiration was the only white attitude which the American Indians fully deserved.\n", 
+        "original-end-charpos": 5900, 
+        "original-start-charpos": 5812
+    }
+]

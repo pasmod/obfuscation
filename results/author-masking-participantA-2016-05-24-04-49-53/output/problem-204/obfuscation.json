@@ -1,0 +1,163 @@
+[
+    {
+        "obfuscation": "And O my darling , O my pet , Whatever else you may forget , In yonder isle beyond the sea , Do not forget you 've married me !", 
+        "obfuscation-id": 1, 
+        "original": "                               \n                   \n                 And O my darling, O my pet,\n                 Whatever else you may forget,\n                 In yonder isle beyond the sea,\n                 Do not forget you've married me!", 
+        "original-end-charpos": 240, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Oh my darling , O my pet , etc .", 
+        "obfuscation-id": 2, 
+        "original": "\n\n\t       Oh my darling, O my pet, etc.", 
+        "original-end-charpos": 279, 
+        "original-start-charpos": 241
+    }, 
+    {
+        "obfuscation": "Then away we go to an island fair That lies in a Southern sea : We know not where , and we do n't much care , Wherever that isle may be .", 
+        "obfuscation-id": 3, 
+        "original": "\n\n\n                 Then away we go to an island fair\n                      That lies in a Southern sea:\n                 We know not where, and we don't much care,\n                      Wherever that isle may be.", 
+        "original-end-charpos": 492, 
+        "original-start-charpos": 280
+    }, 
+    {
+        "obfuscation": "One , two , three , Haul !", 
+        "obfuscation-id": 4, 
+        "original": "\n\n\t\t\tOne, two, three,\n                                Haul!", 
+        "original-end-charpos": 551, 
+        "original-start-charpos": 493
+    }, 
+    {
+        "obfuscation": "One , two , three , Haul !", 
+        "obfuscation-id": 5, 
+        "original": "\n                           One, two, three,\n                                Haul!", 
+        "original-end-charpos": 633, 
+        "original-start-charpos": 552
+    }, 
+    {
+        "obfuscation": "One , two , three , Haul !", 
+        "obfuscation-id": 6, 
+        "original": "\n                           One, two, three,\n                                Haul!", 
+        "original-end-charpos": 715, 
+        "original-start-charpos": 634
+    }, 
+    {
+        "obfuscation": "With a will !", 
+        "obfuscation-id": 7, 
+        "original": "\n                           With a will!", 
+        "original-end-charpos": 755, 
+        "original-start-charpos": 716
+    }, 
+    {
+        "obfuscation": "When the breezes are a-blowing The ship will be going , When they do n't we shall all stand still !", 
+        "obfuscation-id": 8, 
+        "original": "\n\n\t      When the breezes are a-blowing\n            The ship will be going,\n                 When they don't we shall all stand still!", 
+        "original-end-charpos": 889, 
+        "original-start-charpos": 756
+    }, 
+    {
+        "obfuscation": "Then away we go to an island fair , We know not where , and we do n't much care , Wherever that isle may be .", 
+        "obfuscation-id": 9, 
+        "original": "\n            Then away we go to an island fair,\n            We know not where, and we don't much care,\n                 Wherever that isle may be.", 
+        "original-end-charpos": 1035, 
+        "original-start-charpos": 890
+    }, 
+    {
+        "obfuscation": "Away we go To a balmy isle , Where the roses blow All the winter while .", 
+        "obfuscation-id": 10, 
+        "original": "\n\n            \n\n                      Away we go\n                           To a balmy isle,\n                      Where the roses blow\n                           All the winter while.", 
+        "original-end-charpos": 1219, 
+        "original-start-charpos": 1036
+    }, 
+    {
+        "obfuscation": "Then away we go to an island fair That lies in a Southern sea : Then away we go to an island fair , Then away , then away , then away !", 
+        "obfuscation-id": 11, 
+        "original": "\n\n\n                      Then away we go to an island fair\n                           That lies in a Southern sea:\n                      Then away we go to an island fair,\n                           Then away, then away, then away!", 
+        "original-end-charpos": 1450, 
+        "original-start-charpos": 1220
+    }, 
+    {
+        "obfuscation": "Of happiness the very pith In Barataria you may see : A monarchy that 's tempered with Republican Equality .", 
+        "obfuscation-id": 12, 
+        "original": "\n\n            Of happiness the very pith\n                           In Barataria you may see:\n            A monarchy that's tempered with\n                           Republican Equality.", 
+        "original-end-charpos": 1635, 
+        "original-start-charpos": 1451
+    }, 
+    {
+        "obfuscation": "This form of government we find The beau ideal of its kind -- A despotism strict combined With absolute equality !", 
+        "obfuscation-id": 13, 
+        "original": "\n            This form of government we find\n            The beau ideal of its kind--\n            A despotism strict combined\n \t\tWith absolute equality!", 
+        "original-end-charpos": 1787, 
+        "original-start-charpos": 1636
+    }, 
+    {
+        "obfuscation": "Two kings , of undue pride bereft , Who act in perfect unity , Whom you can order right and left With absolute impunity .", 
+        "obfuscation-id": 14, 
+        "original": "\n\nTwo kings, of undue pride bereft,\n                           Who act in perfect unity,\n            Whom you can order right and left\n                           With absolute impunity.", 
+        "original-end-charpos": 1972, 
+        "original-start-charpos": 1788
+    }, 
+    {
+        "obfuscation": "Who put their subjects at their ease By doing all they can to please !", 
+        "obfuscation-id": 15, 
+        "original": "\n            Who put their subjects at their ease\n            By doing all they can to please!", 
+        "original-end-charpos": 2066, 
+        "original-start-charpos": 1973
+    }, 
+    {
+        "obfuscation": "And thus , to earn their bread-and-cheese , Seize every opportunity .", 
+        "obfuscation-id": 16, 
+        "original": "\n            And thus, to earn their bread-and-cheese,\n                           Seize every opportunity.", 
+        "original-end-charpos": 2172, 
+        "original-start-charpos": 2067
+    }, 
+    {
+        "obfuscation": "Of happiness the very pith , etc .", 
+        "obfuscation-id": 17, 
+        "original": "\n\nOf happiness the very pith, etc.", 
+        "original-end-charpos": 2206, 
+        "original-start-charpos": 2173
+    }, 
+    {
+        "obfuscation": "Gentlemen , we are much obliged to you for your expressions of satisfaction and full feeling -- I say , we are much obliged to you for your expressions of satisfaction and good feeling .", 
+        "obfuscation-id": 18, 
+        "original": "\n\nGentlemen, we are much obliged to you for your\n  expressions of satisfaction and good feeling--I say, we are much\n  obliged to you for your expressions of satisfaction and good\n  feeling.", 
+        "original-end-charpos": 2395, 
+        "original-start-charpos": 2207
+    }, 
+    {
+        "obfuscation": "We heard you .", 
+        "obfuscation-id": 19, 
+        "original": "\n\n  We heard you.", 
+        "original-end-charpos": 2412, 
+        "original-start-charpos": 2396
+    }, 
+    {
+        "obfuscation": "We are delighted , at any time , to fall in with sentiments so charmingly expressed .", 
+        "obfuscation-id": 20, 
+        "original": "\n\nWe are delighted, at any time, to fall in with sentiments so charmingly expressed.", 
+        "original-end-charpos": 2496, 
+        "original-start-charpos": 2413
+    }, 
+    {
+        "obfuscation": "That 's all right .", 
+        "obfuscation-id": 21, 
+        "original": "\n\nThat's all right.", 
+        "original-end-charpos": 2515, 
+        "original-start-charpos": 2497
+    }, 
+    {
+        "obfuscation": "At the like time there is just one little grievance that we should like to ventilate .", 
+        "obfuscation-id": 22, 
+        "original": "\n\nAt the same time there is just one little grievance that we should like to ventilate.", 
+        "original-end-charpos": 2602, 
+        "original-start-charpos": 2516
+    }, 
+    {
+        "obfuscation": "What ?", 
+        "obfuscation-id": 23, 
+        "original": "\n\n What?\n\n", 
+        "original-end-charpos": 2612, 
+        "original-start-charpos": 2603
+    }
+]

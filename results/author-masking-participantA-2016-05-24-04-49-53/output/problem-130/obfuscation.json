@@ -1,0 +1,296 @@
+[
+    {
+        "obfuscation": "\ufeffA smile lit Goro 's black face .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffA smile lit Goro's dark face.", 
+        "original-end-charpos": 29, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "He looked down at the elegant dark blue kimono in his arms .", 
+        "obfuscation-id": 2, 
+        "original": " He looked down at the elegant dark blue kimono in his arms.", 
+        "original-end-charpos": 89, 
+        "original-start-charpos": 30
+    }, 
+    {
+        "obfuscation": "`` It 's beautiful . ''", 
+        "obfuscation-id": 3, 
+        "original": " \"It's beautiful.\"", 
+        "original-end-charpos": 107, 
+        "original-start-charpos": 90
+    }, 
+    {
+        "obfuscation": "Torren-Wraeth smiled in return , he loved to see Goro smile .", 
+        "obfuscation-id": 4, 
+        "original": " Torren-Wraeth smiled in return, he loved to see Goro smile.", 
+        "original-end-charpos": 167, 
+        "original-start-charpos": 108
+    }, 
+    {
+        "obfuscation": "`` It belongs to you , Goro-chan . ''", 
+        "obfuscation-id": 5, 
+        "original": " \"It belongs to you, Goro-chan.\"", 
+        "original-end-charpos": 199, 
+        "original-start-charpos": 168
+    }, 
+    {
+        "obfuscation": "`` But , this is too ... '' `` You deserve it far more than any pampered noble . ''", 
+        "obfuscation-id": 6, 
+        "original": " \"But, this is too...\" \"You deserve it far more than any pampered noble.\"", 
+        "original-end-charpos": 272, 
+        "original-start-charpos": 200
+    }, 
+    {
+        "obfuscation": "The dark-skinned youth blushed .", 
+        "obfuscation-id": 7, 
+        "original": " The dark-skinned youth blushed.", 
+        "original-end-charpos": 304, 
+        "original-start-charpos": 273
+    }, 
+    {
+        "obfuscation": "`` Thank you , Torren-kun ! ''", 
+        "obfuscation-id": 8, 
+        "original": " \"Thank you, Torren-kun!\"", 
+        "original-end-charpos": 329, 
+        "original-start-charpos": 305
+    }, 
+    {
+        "obfuscation": "As Goro dressed , Torren-Wraeth looked at his own kimono , bright red and fashionable .", 
+        "obfuscation-id": 9, 
+        "original": " As Goro dressed, Torren-Wraeth looked at his own kimono, bright red and fashionable.", 
+        "original-end-charpos": 414, 
+        "original-start-charpos": 330
+    }, 
+    {
+        "obfuscation": "He had worried about attracting undue attention with the appearance of wealth , but he decided that he was strong enough to risk any human robber or thief .", 
+        "obfuscation-id": 10, 
+        "original": " He had worried about attracting undue attention with the appearance of wealth, but he decided that he was strong enough to risk any human robber or thief.", 
+        "original-end-charpos": 569, 
+        "original-start-charpos": 415
+    }, 
+    {
+        "obfuscation": "Besides , this was to be their inaugural trip to the Kabuki theater .", 
+        "obfuscation-id": 11, 
+        "original": " Besides, this was to be their first trip to the Kabuki theater.", 
+        "original-end-charpos": 633, 
+        "original-start-charpos": 570
+    }, 
+    {
+        "obfuscation": "It had taken enough time and effort to make himself appear human , he might as well show off .", 
+        "obfuscation-id": 12, 
+        "original": " It had taken enough time and effort to make himself appear human, he might as well show off.", 
+        "original-end-charpos": 726, 
+        "original-start-charpos": 634
+    }, 
+    {
+        "obfuscation": "He looked up at Goro , partly dressed and excitedly pulling himself together .", 
+        "obfuscation-id": 13, 
+        "original": " He looked up at Goro, partly dressed and excitedly pulling himself together.", 
+        "original-end-charpos": 803, 
+        "original-start-charpos": 727
+    }, 
+    {
+        "obfuscation": "He thought of the men who had abused him , and found a twitch of rage ... Goro must never find out what Torren-Wraeth had done to those men .", 
+        "obfuscation-id": 14, 
+        "original": " He thought of the men who had abused him, and felt a twitch of rage... Goro must never find out what Torren-Wraeth had done to those men.", 
+        "original-end-charpos": 941, 
+        "original-start-charpos": 804
+    }, 
+    {
+        "obfuscation": "He did not want Goro to ever even hear the name Y'Golonac , a lot less learn what he was , how he dealt with his victims .", 
+        "obfuscation-id": 15, 
+        "original": " He did not want Goro to ever even hear the name Y'Golonac, much less learn what he was, how he dealt with his victims.", 
+        "original-end-charpos": 1060, 
+        "original-start-charpos": 942
+    }, 
+    {
+        "obfuscation": "Torren-Wraeth loathed Y'Golonac , the Defiler , the Obscenity , the obese , headless idol of depravity , who devoured his victims slowly with the mouths in the palms of his flabby , groping hands .", 
+        "obfuscation-id": 16, 
+        "original": " Torren-Wraeth loathed Y'Golonac, the Defiler, the Obscenity, the obese, headless god of depravity, who devoured his victims slowly with the mouths in the palms of his flabby, groping hands.", 
+        "original-end-charpos": 1250, 
+        "original-start-charpos": 1061
+    }, 
+    {
+        "obfuscation": "But he had to avenge Goro , he had to make them pay for using him , for torturing him , for robbing him of his childhood and his innocence .", 
+        "obfuscation-id": 17, 
+        "original": " But he had to avenge Goro, he had to make them pay for using him, for torturing him, for robbing him of his childhood and his innocence.", 
+        "original-end-charpos": 1387, 
+        "original-start-charpos": 1251
+    }, 
+    {
+        "obfuscation": "merely Y'Golonac could grant the punishment those men deserved ... Then Goro was standing there , smiling , in his blue kimono , and Torren-Wraeth was happy again ... Torren-Wraeth awoke slowly , not wanting to leave his dream , because Goro still lived in his dreams ...", 
+        "obfuscation-id": 18, 
+        "original": " Only Y'Golonac could grant the punishment those men deserved... Then Goro was standing there, smiling, in his blue kimono, and Torren-Wraeth was happy again...\nTorren-Wraeth awoke slowly, not wanting to leave his dream, because Goro still lived in his dreams...", 
+        "original-end-charpos": 1649, 
+        "original-start-charpos": 1388
+    }, 
+    {
+        "obfuscation": "He was in China , not Japan , in the Monastery of The Order of The Bloated Woman .", 
+        "obfuscation-id": 19, 
+        "original": " He was in China, not Japan, in the Monastery of The Order of The Bloated Woman.", 
+        "original-end-charpos": 1729, 
+        "original-start-charpos": 1650
+    }, 
+    {
+        "obfuscation": "Japan was gone , Goro was gone , and Torren-Wraeth was still here .", 
+        "obfuscation-id": 20, 
+        "original": " Japan was gone, Goro was gone, and Torren-Wraeth was still here.", 
+        "original-end-charpos": 1794, 
+        "original-start-charpos": 1730
+    }, 
+    {
+        "obfuscation": "Warm tears ran down his cheeks , but he brushed them aside .", 
+        "obfuscation-id": 21, 
+        "original": " Warm tears ran down his cheeks, but he brushed them away.", 
+        "original-end-charpos": 1852, 
+        "original-start-charpos": 1795
+    }, 
+    {
+        "obfuscation": "Life had to go on , and on , and on ... Great Cthulhu was concerned .", 
+        "obfuscation-id": 22, 
+        "original": " Life had to go on, and on, and on...\nGreat Cthulhu was concerned.", 
+        "original-end-charpos": 1918, 
+        "original-start-charpos": 1853
+    }, 
+    {
+        "obfuscation": "Hastur seemed to have gained some favor in Nyarlathotep 's many eyes , and anything that benefited Hastur weakened Cthulhu , in both their eyes .", 
+        "obfuscation-id": 23, 
+        "original": " Hastur seemed to have gained some favor in Nyarlathotep's many eyes, and anything that benefited Hastur weakened Cthulhu, in both their eyes.", 
+        "original-end-charpos": 2060, 
+        "original-start-charpos": 1919
+    }, 
+    {
+        "obfuscation": "`` My Lord Cthulhu , there is no need for concern , '' The tall , red-robed figure that stood at the side of Cthulhu 's throne moved forward respectfully , Chxixsas ' bone-white face seemed to swim within his voluminous gowns , `` It is well known that the fruits of Nyarlathotep 's attentions are rarely to be desired . ''", 
+        "obfuscation-id": 24, 
+        "original": " \"My Lord Cthulhu, there is no need for concern,\" The tall, red-robed figure that stood at the side of Cthulhu's throne moved forward respectfully, Chxixsas' bone-white face seemed to swim within his voluminous robes, \"It is well known that the fruits of Nyarlathotep's attentions are rarely to be desired.\"", 
+        "original-end-charpos": 2367, 
+        "original-start-charpos": 2061
+    }, 
+    {
+        "obfuscation": "The voice was thin , hollow , distant , `` This may rise , in fact , a setback for The King in Tatters .", 
+        "obfuscation-id": 25, 
+        "original": " The voice was thin, hollow, distant, \" This may prove, in fact, a setback for The King in Tatters.", 
+        "original-end-charpos": 2466, 
+        "original-start-charpos": 2368
+    }, 
+    {
+        "obfuscation": "Even nowadays he trembles in his palace at Carcosa , fearing what manner of spawn this union may unleash . ''", 
+        "obfuscation-id": 26, 
+        "original": " Even now he trembles in his palace at Carcosa, fearing what manner of spawn this union may unleash.\"", 
+        "original-end-charpos": 2567, 
+        "original-start-charpos": 2467
+    }, 
+    {
+        "obfuscation": "Cthulhu gave the equivalent of a laugh , `` Can you picture them , The Black Wind knocking down the walls of Carcosa , the Bloody Tongue crushing that cursed palace into dust !", 
+        "obfuscation-id": 27, 
+        "original": " Cthulhu gave the equivalent of a laugh, \"Can you picture them, The Black Wind knocking down the walls of Carcosa, the Bloody Tongue crushing that cursed palace into dust!", 
+        "original-end-charpos": 2738, 
+        "original-start-charpos": 2568
+    }, 
+    {
+        "obfuscation": "Oh , one can dream , Chxixsas ... One can dream ... '' The two masks , the Golden Angel and the Slender Maiden stood side by side , Is n't it all a lie , in the end ?", 
+        "obfuscation-id": 28, 
+        "original": " Oh, one can dream, Chxixsas... One can dream...\"\nThe two masks, the Golden Angel and the Slender Maiden stood side by side, Isn't it all a lie, in the end?", 
+        "original-end-charpos": 2894, 
+        "original-start-charpos": 2739
+    }, 
+    {
+        "obfuscation": "Torren-Wraeth bowed politely before the Bloated Woman .", 
+        "obfuscation-id": 29, 
+        "original": " Torren-Wraeth bowed politely before the Bloated Woman.", 
+        "original-end-charpos": 2949, 
+        "original-start-charpos": 2895
+    }, 
+    {
+        "obfuscation": "She was holding the Black Fan under her eyes , giving the illusion that she was a slender young lady , at least to the humans present .", 
+        "obfuscation-id": 30, 
+        "original": " She was holding the Black Fan under her eyes, giving the illusion that she was a slender young lady, at least to the humans present.", 
+        "original-end-charpos": 3082, 
+        "original-start-charpos": 2950
+    }, 
+    {
+        "obfuscation": "holmium Fong stood by reverently , but his jealousy of Tek was as strong as ever .", 
+        "obfuscation-id": 31, 
+        "original": " Ho Fong stood by reverently, but his jealousy of Tek was as strong as ever.", 
+        "original-end-charpos": 3158, 
+        "original-start-charpos": 3083
+    }, 
+    {
+        "obfuscation": "Torren-Wraeth wondered if The Bloated Woman would play them against each early ... He hoped not , for both their sake 's .", 
+        "obfuscation-id": 32, 
+        "original": " Torren-Wraeth wondered if The Bloated Woman would play them against each other...He hoped not, for both their sake's.", 
+        "original-end-charpos": 3276, 
+        "original-start-charpos": 3159
+    }, 
+    {
+        "obfuscation": "`` It is an honor to again have the presence of the Son of Cthulhu in my humble monastery . ''", 
+        "obfuscation-id": 33, 
+        "original": " \"It is an honor to again have the presence of the Son of Cthulhu in my humble monastery.\"", 
+        "original-end-charpos": 3366, 
+        "original-start-charpos": 3277
+    }, 
+    {
+        "obfuscation": "`` The honor is all mine , '' Torren-Wraeth replied lightly , `` My father sends his greetings and good-will toward you , My Lady . ''", 
+        "obfuscation-id": 34, 
+        "original": " \"The honor is all mine,\" Torren-Wraeth replied softly, \"My father sends his greetings and good-will toward you, My Lady.\"", 
+        "original-end-charpos": 3488, 
+        "original-start-charpos": 3367
+    }, 
+    {
+        "obfuscation": "The Bloated Woman 's nose-tendril curled delicately in the air , `` No doubt .", 
+        "obfuscation-id": 35, 
+        "original": " The Bloated Woman's nose-tendril curled delicately in the air, \"No doubt.", 
+        "original-end-charpos": 3562, 
+        "original-start-charpos": 3489
+    }, 
+    {
+        "obfuscation": "Send him my good-will in return . ''", 
+        "obfuscation-id": 36, 
+        "original": " Send him my good-will in return.\"", 
+        "original-end-charpos": 3596, 
+        "original-start-charpos": 3563
+    }, 
+    {
+        "obfuscation": "Torren-Wraeth could n't help but look at the sacrificial altar , where human victims had their arms cut off by the sacred sickles , after which they bled to death .", 
+        "obfuscation-id": 37, 
+        "original": " Torren-Wraeth couldn't help but look at the sacrificial altar, where human victims had their arms cut off by the sacred sickles, after which they bled to death.", 
+        "original-end-charpos": 3757, 
+        "original-start-charpos": 3597
+    }, 
+    {
+        "obfuscation": "He shuddered slenderly at the horrible images flashing through his mind .", 
+        "obfuscation-id": 38, 
+        "original": " He shuddered slightly at the horrible images flashing through his mind.", 
+        "original-end-charpos": 3829, 
+        "original-start-charpos": 3758
+    }, 
+    {
+        "obfuscation": "The Bloated Woman noted this , but politely made no mention of it .", 
+        "obfuscation-id": 39, 
+        "original": " The Bloated Woman noted this, but politely made no mention of it.", 
+        "original-end-charpos": 3895, 
+        "original-start-charpos": 3830
+    }, 
+    {
+        "obfuscation": "Torren-Wraeth honestly could not condemn her , almost all of the worshiped entities , including his own father , demanded human sacrifice , many in even more horrible ways ... `` I regret that I have to leave so soon , though I am grateful for your hospitality . ''", 
+        "obfuscation-id": 40, 
+        "original": " Torren-Wraeth honestly could not condemn her, almost all of the worshiped entities, including his own father, demanded human sacrifice, many in even more horrible ways... \"I regret that I have to leave so soon, though I am grateful for your hospitality.\"", 
+        "original-end-charpos": 4150, 
+        "original-start-charpos": 3896
+    }, 
+    {
+        "obfuscation": "The last character , at least , was true .", 
+        "obfuscation-id": 41, 
+        "original": " The last part, at least, was true.", 
+        "original-end-charpos": 4185, 
+        "original-start-charpos": 4151
+    }, 
+    {
+        "obfuscation": "`` May The Key and The Gate be with you . ''", 
+        "obfuscation-id": 42, 
+        "original": " \"May The Key and The Gate be with you.\"", 
+        "original-end-charpos": 4225, 
+        "original-start-charpos": 4186
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "obfuscation": "\ufeffThere 's nothing a lot of interest in the lobby : three striped armchairs ( one of which has an upholstered arm that 's coming unsewn ) , two tables , a crackling fireplace , and a wrought-iron chandelier .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffThere's nothing much of interest in the lobby: three striped armchairs (one of which has an upholstered arm that's coming unsewn), two tables, a crackling fireplace, and a wrought-iron chandelier.", 
+        "original-end-charpos": 196, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "It would behoove Mr. Th\u00e8nard to tell his servant to dust the cobwebs off of it , and perhaps place some books on the tables .", 
+        "obfuscation-id": 2, 
+        "original": " It would behoove Mr. Th\u00e8nard to tell his servant to dust the cobwebs off of it, and perhaps place some books on the tables.", 
+        "original-end-charpos": 320, 
+        "original-start-charpos": 197
+    }, 
+    {
+        "obfuscation": "Knowing Agathe , however , she sticks to her duties , and makes n't like to be told anything that she considers superfluous .", 
+        "obfuscation-id": 3, 
+        "original": " Knowing Agathe, however, she sticks to her duties, and doesn't like to be told anything that she considers superfluous.", 
+        "original-end-charpos": 440, 
+        "original-start-charpos": 321
+    }, 
+    {
+        "obfuscation": "I 've seen her at the Dreamers ' Inn since I was a girl , but have constantly avoided her .", 
+        "obfuscation-id": 4, 
+        "original": " I've seen her at the Dreamers' Inn since I was a girl, but have always avoided her.", 
+        "original-end-charpos": 524, 
+        "original-start-charpos": 441
+    }, 
+    {
+        "obfuscation": "I 'm relieved to see no sign of the crone in the empty dining room , which I pass on the way to the stairs .", 
+        "obfuscation-id": 5, 
+        "original": " I'm relieved to see no sign of the crone in the empty dining room, which I pass on the way to the stairs.", 
+        "original-end-charpos": 630, 
+        "original-start-charpos": 525
+    }, 
+    {
+        "obfuscation": "Even when she was younger by twenty-seven days , Agathe 's presence was a fearsome one .", 
+        "obfuscation-id": 6, 
+        "original": "\nEven when she was younger by twenty-seven years, Agathe's presence was a fearsome one.", 
+        "original-end-charpos": 717, 
+        "original-start-charpos": 631
+    }, 
+    {
+        "obfuscation": "At fifty , she already appeared to be a quarter century older than that .", 
+        "obfuscation-id": 7, 
+        "original": " At fifty, she already appeared to be a quarter century older than that.", 
+        "original-end-charpos": 789, 
+        "original-start-charpos": 718
+    }, 
+    {
+        "obfuscation": "With eyes that were about onyx , narrowed into perpetual slits , she terrified me and unnerved Father .", 
+        "obfuscation-id": 8, 
+        "original": " With eyes that were nearly onyx, narrowed into perpetual slits, she terrified me and unnerved Father.", 
+        "original-end-charpos": 891, 
+        "original-start-charpos": 790
+    }, 
+    {
+        "obfuscation": "`` I wish I could dismiss her , '' he hissed into my ear when I was entirely seven , `` but she 's served here at the Inn since your grandfather 's time .", 
+        "obfuscation-id": 9, 
+        "original": " \"I wish I could dismiss her,\" he hissed into my ear when I was only seven, \"but she's served here at the Inn since your grandfather's time.", 
+        "original-end-charpos": 1031, 
+        "original-start-charpos": 892
+    }, 
+    {
+        "obfuscation": "It would n't be fair .", 
+        "obfuscation-id": 10, 
+        "original": " It wouldn't be fair.", 
+        "original-end-charpos": 1052, 
+        "original-start-charpos": 1032
+    }, 
+    {
+        "obfuscation": "Without her wages here , she 'd surely starve . ''", 
+        "obfuscation-id": 11, 
+        "original": " Without her wages here, she'd surely starve.\"", 
+        "original-end-charpos": 1098, 
+        "original-start-charpos": 1053
+    }, 
+    {
+        "obfuscation": "Back then , I did n't think that Agathe required a lot to eat , with a gaunt frame that reminded me of a skeleton in a maid 's dress .", 
+        "obfuscation-id": 12, 
+        "original": " Back then, I didn't think that Agathe required much to eat, with a gaunt frame that reminded me of a skeleton in a maid's dress.", 
+        "original-end-charpos": 1227, 
+        "original-start-charpos": 1099
+    }, 
+    {
+        "obfuscation": "Her hair , brown then and gray nowadays , is pulled back tightly into an impeccable bun .", 
+        "obfuscation-id": 13, 
+        "original": " Her hair, brown then and gray now, is pulled back tightly into an impeccable bun.", 
+        "original-end-charpos": 1309, 
+        "original-start-charpos": 1228
+    }, 
+    {
+        "obfuscation": "She performs her daily tasks in complete silence , or did so in my tender days , and glared at you malevolently if you so much as looked her way .", 
+        "obfuscation-id": 14, 
+        "original": " She performs her daily tasks in complete silence, or did so in my tender years, and glared at you malevolently if you so much as looked her way.", 
+        "original-end-charpos": 1454, 
+        "original-start-charpos": 1310
+    }, 
+    {
+        "obfuscation": "Hate seemed to dart from her bottomless pupils directly into your soul , and from that moment you learned to leave her alone .", 
+        "obfuscation-id": 15, 
+        "original": " Hate seemed to dart from her bottomless pupils directly into your soul, and from that moment you learned to leave her alone.", 
+        "original-end-charpos": 1579, 
+        "original-start-charpos": 1455
+    }, 
+    {
+        "obfuscation": "She 's not here , Millicent , I assure myself as I slowly ascend the stairs .", 
+        "obfuscation-id": 16, 
+        "original": "\nShe's not here, Millicent, I tell myself as I slowly ascend the stairs.", 
+        "original-end-charpos": 1651, 
+        "original-start-charpos": 1580
+    }, 
+    {
+        "obfuscation": "She 's up in her room .", 
+        "obfuscation-id": 17, 
+        "original": " She's up in her room.", 
+        "original-end-charpos": 1673, 
+        "original-start-charpos": 1652
+    }, 
+    {
+        "obfuscation": "You 're safe nowadays .", 
+        "obfuscation-id": 18, 
+        "original": " You're safe now.", 
+        "original-end-charpos": 1690, 
+        "original-start-charpos": 1674
+    }, 
+    {
+        "obfuscation": "Still , I cling to the wall tightly and hold my breath as I reach the second floor .", 
+        "obfuscation-id": 19, 
+        "original": " \nStill, I cling to the wall tightly and hold my breath as I reach the second floor.", 
+        "original-end-charpos": 1774, 
+        "original-start-charpos": 1691
+    }, 
+    {
+        "obfuscation": "The door to my room stands before me , closed and locked , and bearing a brass 2 as the symbol of my destination .", 
+        "obfuscation-id": 20, 
+        "original": " The door to my room stands before me, closed and locked, and bearing a brass 2 as the symbol of my destination.", 
+        "original-end-charpos": 1886, 
+        "original-start-charpos": 1775
+    }, 
+    {
+        "obfuscation": "I know that behind that door lies safety , and I find myself darting toward it like a hunted rabbit .", 
+        "obfuscation-id": 21, 
+        "original": " I know that behind that door lies safety, and I find myself darting toward it like a hunted rabbit.", 
+        "original-end-charpos": 1986, 
+        "original-start-charpos": 1887
+    }, 
+    {
+        "obfuscation": "I jam Monsieur Th\u00e9nard 's key into the lock with a hard jolt , besides loud for my sepulchral surroundings , and give it a frightened twist .", 
+        "obfuscation-id": 22, 
+        "original": " I jam Monsieur Th\u00e9nard's key into the lock with a hard jolt, too loud for my sepulchral surroundings, and give it a frightened twist.", 
+        "original-end-charpos": 2120, 
+        "original-start-charpos": 1987
+    }, 
+    {
+        "obfuscation": "It assumes all my power of self-restraint not to slam the door behind me once it opens , so as to ward off a sudden appearance of Agathe .", 
+        "obfuscation-id": 23, 
+        "original": " It takes all my power of self-restraint not to slam the door behind me once it opens, so as to ward off a sudden appearance of Agathe.", 
+        "original-end-charpos": 2255, 
+        "original-start-charpos": 2121
+    }, 
+    {
+        "obfuscation": "Besides , I have to turn on the gas lamp .", 
+        "obfuscation-id": 24, 
+        "original": " Besides, I have to turn on the gas lamp.", 
+        "original-end-charpos": 2296, 
+        "original-start-charpos": 2256
+    }, 
+    {
+        "obfuscation": "The room is suddenly illuminated , almost warmly , and I smile as I behold a quilted bed .", 
+        "obfuscation-id": 25, 
+        "original": " The room is suddenly illuminated, almost warmly, and I smile as I behold a quilted bed.", 
+        "original-end-charpos": 2384, 
+        "original-start-charpos": 2297
+    }, 
+    {
+        "obfuscation": "Above it is a diamond-paned window , black as pitch , and next to me is a writing desk .", 
+        "obfuscation-id": 26, 
+        "original": " Above it is a diamond-paned window, black as pitch, and next to me is a writing desk.", 
+        "original-end-charpos": 2470, 
+        "original-start-charpos": 2385
+    }, 
+    {
+        "obfuscation": "Locking the door and double-bolting it for the night , I sit down at the latter .", 
+        "obfuscation-id": 27, 
+        "original": " Locking the door and double-bolting it for the night, I sit down at the latter.", 
+        "original-end-charpos": 2550, 
+        "original-start-charpos": 2471
+    }, 
+    {
+        "obfuscation": "There 's nothing on the worn and scuffed top of it but a copy of the Holy Bible .", 
+        "obfuscation-id": 28, 
+        "original": "\nThere's nothing on the worn and scuffed top of it but a copy of the Holy Bible.", 
+        "original-end-charpos": 2630, 
+        "original-start-charpos": 2551
+    }, 
+    {
+        "obfuscation": "More out of boredom than piety , I open it to a certain random point past the center .", 
+        "obfuscation-id": 29, 
+        "original": " More out of boredom than piety, I open it to a certain random point past the middle.", 
+        "original-end-charpos": 2715, 
+        "original-start-charpos": 2631
+    }, 
+    {
+        "obfuscation": "Romans 6:23 immediately catches my eye : '' For the wages of sin is death , but the gift of God is eternal life through Jesus Christ our Lord . ''", 
+        "obfuscation-id": 30, 
+        "original": " Romans 6:23 immediately catches my eye:\n\"For the wages of sin is death, but the gift of God is eternal life through Jesus Christ our Lord.\"", 
+        "original-end-charpos": 2855, 
+        "original-start-charpos": 2716
+    }, 
+    {
+        "obfuscation": "Eternal life ?", 
+        "obfuscation-id": 31, 
+        "original": " \nEternal life?", 
+        "original-end-charpos": 2870, 
+        "original-start-charpos": 2856
+    }, 
+    {
+        "obfuscation": "Why would I want such a thing , when even this temporal one of mine is pointless ?", 
+        "obfuscation-id": 32, 
+        "original": " Why would I want such a thing, when even this temporal one of mine is pointless?", 
+        "original-end-charpos": 2951, 
+        "original-start-charpos": 2871
+    }, 
+    {
+        "obfuscation": "Day after day , I yearn for company and occupation , so far I ca n't even get a position as a charwoman here in Leight .", 
+        "obfuscation-id": 33, 
+        "original": " Day after day, I yearn for company and occupation, yet I can't even get a position as a charwoman here in Leight.", 
+        "original-end-charpos": 3065, 
+        "original-start-charpos": 2952
+    }, 
+    {
+        "obfuscation": "Not that I 'd want to be a drudge , but one would think I could at least teach or give piano lessons .", 
+        "obfuscation-id": 34, 
+        "original": " Not that I'd want to be a drudge, but one would think I could at least teach or give piano lessons.", 
+        "original-end-charpos": 3165, 
+        "original-start-charpos": 3066
+    }, 
+    {
+        "obfuscation": "No one will trust me with their own confidence , however , let alone the welfare of their children .", 
+        "obfuscation-id": 35, 
+        "original": " No one will trust me with their own confidence, however, let alone the welfare of their children.", 
+        "original-end-charpos": 3263, 
+        "original-start-charpos": 3166
+    }, 
+    {
+        "obfuscation": "I am not a godly woman by any means , which brings me to the second page to which I suddenly turned - Romans 3:23 : '' For all have sinned , and come short of the glory of God . ''", 
+        "obfuscation-id": 36, 
+        "original": " I am not a godly woman by any means, which brings me to the second page to which I suddenly turned - Romans 3:23:\n\"For all have sinned, and come short of the glory of God.\"", 
+        "original-end-charpos": 3436, 
+        "original-start-charpos": 3264
+    }, 
+    {
+        "obfuscation": "Do I not know it ?", 
+        "obfuscation-id": 37, 
+        "original": " \nDo I not know it?", 
+        "original-end-charpos": 3455, 
+        "original-start-charpos": 3437
+    }, 
+    {
+        "obfuscation": "Are the powers that be , whether the Trinity or other spirits , unaware of the iniquity I bear ?", 
+        "obfuscation-id": 38, 
+        "original": " Are the powers that be, whether the Trinity or other spirits, unaware of the iniquity I bear?", 
+        "original-end-charpos": 3549, 
+        "original-start-charpos": 3456
+    }, 
+    {
+        "obfuscation": "Not entirely do I carry the burden of my mistakes and wrongdoings , but those of my errant forefathers .", 
+        "obfuscation-id": 39, 
+        "original": " Not only do I carry the burden of my mistakes and wrongdoings, but those of my errant forefathers.", 
+        "original-end-charpos": 3648, 
+        "original-start-charpos": 3550
+    }, 
+    {
+        "obfuscation": "I can not say whether Abner Dawes , the man who built the Dreamers ' Inn with his own hands , was Satan 's thrall or not .", 
+        "obfuscation-id": 40, 
+        "original": " I cannot say whether Abner Dawes, the man who built the Dreamers' Inn with his own hands, was Satan's thrall or not.", 
+        "original-end-charpos": 3765, 
+        "original-start-charpos": 3649
+    }, 
+    {
+        "obfuscation": "however , even after Grandfather 's changing our family surname from Dawes to Dawson , the stigma of our bloodline has remained .", 
+        "obfuscation-id": 41, 
+        "original": " Nevertheless, even after Grandfather's changing our family surname from Dawes to Dawson, the stigma of our bloodline has remained.", 
+        "original-end-charpos": 3896, 
+        "original-start-charpos": 3766
+    }, 
+    {
+        "obfuscation": "One might ask why this is thus , when other people here in Leight whose kin were hanged during the Purge have had their black marks washed away .", 
+        "obfuscation-id": 42, 
+        "original": " One might ask why this is so, when other people here in Leight whose kin were hanged during the Purge have had their black marks washed away.", 
+        "original-end-charpos": 4038, 
+        "original-start-charpos": 3897
+    }, 
+    {
+        "obfuscation": "The answer is simple : they turned to Christ , and all of their feuding churches , while we Dawsons kept our faith to ourselves .", 
+        "obfuscation-id": 43, 
+        "original": " The answer is simple: they turned to Christ, and all of their feuding churches, while we Dawsons kept our faith to ourselves.", 
+        "original-end-charpos": 4164, 
+        "original-start-charpos": 4039
+    }, 
+    {
+        "obfuscation": "Hoping for a glimmer of salvation in the Holy Book 's pages , I unconsciously turn to one more passage : '' And as it is appointed unto men once to die , but after this the judgment . ''", 
+        "obfuscation-id": 44, 
+        "original": "\nHoping for a glimmer of salvation in the Holy Book's pages, I unconsciously turn to one more passage:\n\"And as it is appointed unto men once to die, but after this the judgment.\"", 
+        "original-end-charpos": 4342, 
+        "original-start-charpos": 4165
+    }, 
+    {
+        "obfuscation": "Hebrews 9:27 Sighing , I undress for bed and climb beneath the quilt .", 
+        "obfuscation-id": 45, 
+        "original": " Hebrews 9:27\nSighing, I undress for bed and climb beneath the quilt.", 
+        "original-end-charpos": 4411, 
+        "original-start-charpos": 4343
+    }, 
+    {
+        "obfuscation": "I straightway fall into slumber , and begin to dream .", 
+        "obfuscation-id": 46, 
+        "original": " I straightway fall into slumber, and begin to dream.\n", 
+        "original-end-charpos": 4465, 
+        "original-start-charpos": 4412
+    }
+]

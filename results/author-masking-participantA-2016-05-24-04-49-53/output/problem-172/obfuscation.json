@@ -1,0 +1,289 @@
+[
+    {
+        "obfuscation": "thus long .", 
+        "obfuscation-id": 1, 
+        "original": "\nSo long.", 
+        "original-end-charpos": 8, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Well , what 's up nowadays ?", 
+        "obfuscation-id": 2, 
+        "original": "  \n\nWell,\nwhat's up now?", 
+        "original-end-charpos": 32, 
+        "original-start-charpos": 9
+    }, 
+    {
+        "obfuscation": "Nutting -- nutting .", 
+        "obfuscation-id": 3, 
+        "original": "\n\nNutting--nutting.", 
+        "original-end-charpos": 51, 
+        "original-start-charpos": 33
+    }, 
+    {
+        "obfuscation": "Anna !", 
+        "obfuscation-id": 4, 
+        "original": " Anna!", 
+        "original-end-charpos": 57, 
+        "original-start-charpos": 52
+    }, 
+    {
+        "obfuscation": "Hello -- father .", 
+        "obfuscation-id": 5, 
+        "original": "\n\nHello--father.", 
+        "original-end-charpos": 73, 
+        "original-start-charpos": 58
+    }, 
+    {
+        "obfuscation": "She told me it was you .", 
+        "obfuscation-id": 6, 
+        "original": " She told me it\nwas you.", 
+        "original-end-charpos": 97, 
+        "original-start-charpos": 74
+    }, 
+    {
+        "obfuscation": "I yust got here a little while ago .", 
+        "obfuscation-id": 7, 
+        "original": " I yust got here a little while ago.", 
+        "original-end-charpos": 133, 
+        "original-start-charpos": 98
+    }, 
+    {
+        "obfuscation": "It 's full -- for see you -- after all dem years , Anna .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nIt's good--for see you--after\nall dem years, Anna.", 
+        "original-end-charpos": 185, 
+        "original-start-charpos": 134
+    }, 
+    {
+        "obfuscation": "It 's full to see you , too .", 
+        "obfuscation-id": 9, 
+        "original": " \n\nIt's good to see you,\ntoo.", 
+        "original-end-charpos": 214, 
+        "original-start-charpos": 186
+    }, 
+    {
+        "obfuscation": "Anna lilla !", 
+        "obfuscation-id": 10, 
+        "original": "\n\nAnna lilla!", 
+        "original-end-charpos": 227, 
+        "original-start-charpos": 215
+    }, 
+    {
+        "obfuscation": "Anna lilla !", 
+        "obfuscation-id": 11, 
+        "original": " Anna lilla!", 
+        "original-end-charpos": 239, 
+        "original-start-charpos": 228
+    }, 
+    {
+        "obfuscation": "What 's that -- Swedish ?", 
+        "obfuscation-id": 12, 
+        "original": "\n\nWhat's that--Swedish?", 
+        "original-end-charpos": 262, 
+        "original-start-charpos": 240
+    }, 
+    {
+        "obfuscation": "I do n't know it .", 
+        "obfuscation-id": 13, 
+        "original": " I\ndon't know it.", 
+        "original-end-charpos": 279, 
+        "original-start-charpos": 263
+    }, 
+    {
+        "obfuscation": "Gee , I had an awful trip coming here .", 
+        "obfuscation-id": 14, 
+        "original": "  Gee, I had an awful trip coming here.", 
+        "original-end-charpos": 318, 
+        "original-start-charpos": 280
+    }, 
+    {
+        "obfuscation": "I 'm all in .", 
+        "obfuscation-id": 15, 
+        "original": " I'm all in.", 
+        "original-end-charpos": 330, 
+        "original-start-charpos": 319
+    }, 
+    {
+        "obfuscation": "I had to sit up in the dirty coach all night -- could n't receive no sleep , hardly -- and then I had a hard job finding this place .", 
+        "obfuscation-id": 16, 
+        "original": " I had to\nsit up in the dirty coach all night--couldn't get no sleep, hardly--and\nthen I had a hard job finding this place.", 
+        "original-end-charpos": 453, 
+        "original-start-charpos": 331
+    }, 
+    {
+        "obfuscation": "I never been in New York before , you know , and -- You know you vas awful pooty gel , Anna ?", 
+        "obfuscation-id": 17, 
+        "original": " I never been in New York\nbefore, you know, and--\n\n You know you vas awful pooty gel, Anna?", 
+        "original-end-charpos": 544, 
+        "original-start-charpos": 454
+    }, 
+    {
+        "obfuscation": "Ay bet all men see you fall in love with you , py yiminy !", 
+        "obfuscation-id": 18, 
+        "original": " Ay\nbet all men see you fall in love with you, py yiminy!", 
+        "original-end-charpos": 601, 
+        "original-start-charpos": 545
+    }, 
+    {
+        "obfuscation": "Cut it !", 
+        "obfuscation-id": 19, 
+        "original": "\n\nCut it!", 
+        "original-end-charpos": 610, 
+        "original-start-charpos": 602
+    }, 
+    {
+        "obfuscation": "You talk like as they all do .", 
+        "obfuscation-id": 20, 
+        "original": " You talk same as they all do.", 
+        "original-end-charpos": 640, 
+        "original-start-charpos": 611
+    }, 
+    {
+        "obfuscation": "Ai n't no harm for your fader talk dat vay , Anna .", 
+        "obfuscation-id": 21, 
+        "original": "\n\nAin't no harm for your fader talk dat vay, Anna.", 
+        "original-end-charpos": 690, 
+        "original-start-charpos": 641
+    }, 
+    {
+        "obfuscation": "No -- course not .", 
+        "obfuscation-id": 22, 
+        "original": "\n\nNo--course not.", 
+        "original-end-charpos": 707, 
+        "original-start-charpos": 691
+    }, 
+    {
+        "obfuscation": "Only -- it 's funny to see you and not remember nothing .", 
+        "obfuscation-id": 23, 
+        "original": " Only--it's funny to see\nyou and not remember nothing.", 
+        "original-end-charpos": 761, 
+        "original-start-charpos": 708
+    }, 
+    {
+        "obfuscation": "You 're like -- a stranger .", 
+        "obfuscation-id": 24, 
+        "original": " You're like--a stranger.", 
+        "original-end-charpos": 786, 
+        "original-start-charpos": 762
+    }, 
+    {
+        "obfuscation": "Ay s'pose .", 
+        "obfuscation-id": 25, 
+        "original": "\n\nAy s'pose.", 
+        "original-end-charpos": 798, 
+        "original-start-charpos": 787
+    }, 
+    {
+        "obfuscation": "Ay never come home only few times ven you vas kit in Sveden .", 
+        "obfuscation-id": 26, 
+        "original": " Ay never come home only few times ven you\nvas kit in Sveden.", 
+        "original-end-charpos": 859, 
+        "original-start-charpos": 799
+    }, 
+    {
+        "obfuscation": "You do n't remember dat ?", 
+        "obfuscation-id": 27, 
+        "original": " You don't remember dat?", 
+        "original-end-charpos": 883, 
+        "original-start-charpos": 860
+    }, 
+    {
+        "obfuscation": "No .", 
+        "obfuscation-id": 28, 
+        "original": "\n\nNo.", 
+        "original-end-charpos": 888, 
+        "original-start-charpos": 884
+    }, 
+    {
+        "obfuscation": "But why did n't you never come home them days ?", 
+        "obfuscation-id": 29, 
+        "original": " But why didn't you never come home them days?", 
+        "original-end-charpos": 934, 
+        "original-start-charpos": 889
+    }, 
+    {
+        "obfuscation": "Why did n't you never come away West to see me ?", 
+        "obfuscation-id": 30, 
+        "original": "\nWhy didn't you never come out West to see me?", 
+        "original-end-charpos": 980, 
+        "original-start-charpos": 935
+    }, 
+    {
+        "obfuscation": "Ay tank , after your mo'der die , ven Ay vas avay on voyage , it 's better for you you make n't never see me !", 
+        "obfuscation-id": 31, 
+        "original": "\n\nAy tank, after your mo'der die, ven Ay vas avay on\nvoyage, it's better for you you don't never see me!", 
+        "original-end-charpos": 1084, 
+        "original-start-charpos": 981
+    }, 
+    {
+        "obfuscation": "[ He sinks down in the chair opposite her dejectedly -- then turns to her -- sadly . ]", 
+        "obfuscation-id": 32, 
+        "original": " [He sinks down in\nthe chair opposite her dejectedly--then turns to her--sadly.]", 
+        "original-end-charpos": 1164, 
+        "original-start-charpos": 1085
+    }, 
+    {
+        "obfuscation": "Ay don't know , Anna , vhy Ay never come home Sveden in ole year .", 
+        "obfuscation-id": 33, 
+        "original": " Ay don't\nknow, Anna, vhy Ay never come home Sveden in ole year.", 
+        "original-end-charpos": 1228, 
+        "original-start-charpos": 1165
+    }, 
+    {
+        "obfuscation": "Ay vant come home end of every voyage .", 
+        "obfuscation-id": 34, 
+        "original": " Ay vant come\nhome end of every voyage.", 
+        "original-end-charpos": 1267, 
+        "original-start-charpos": 1229
+    }, 
+    {
+        "obfuscation": "Ay vant see your mo'der , your two bro'der before dey vas drowned , you ven you vas born -- but -- Ay -- make n't go .", 
+        "obfuscation-id": 35, 
+        "original": " Ay vant see your mo'der, your two bro'der\nbefore dey vas drowned, you ven you vas born--but--Ay--don't go.", 
+        "original-end-charpos": 1374, 
+        "original-start-charpos": 1268
+    }, 
+    {
+        "obfuscation": "Ay sign on oder ships -- go South America , go Australia , go China , travel every port all over world many times -- but Ay never go aboard ship sail for Sveden .", 
+        "obfuscation-id": 36, 
+        "original": " Ay\nsign on oder ships--go South America, go Australia, go China, go every\nport all over world many times--but Ay never go aboard ship sail for\nSveden.", 
+        "original-end-charpos": 1525, 
+        "original-start-charpos": 1375
+    }, 
+    {
+        "obfuscation": "Ven Ay gat money for pay passage home as passenger den -- Ay forgat and Ay spend all money .", 
+        "obfuscation-id": 37, 
+        "original": " Ven Ay gat money for pay passage home as passenger den-- Ay forgat and Ay spend all money.", 
+        "original-end-charpos": 1616, 
+        "original-start-charpos": 1526
+    }, 
+    {
+        "obfuscation": "Ven Ay tank again , it 's too late .", 
+        "obfuscation-id": 38, 
+        "original": " Ven Ay tank\nagain, it's too late.", 
+        "original-end-charpos": 1650, 
+        "original-start-charpos": 1617
+    }, 
+    {
+        "obfuscation": "Ay make n't know vhy but dat 's vay with most sailor fallar , Anna .", 
+        "obfuscation-id": 39, 
+        "original": "  Ay don't know vhy but dat's vay with\nmost sailor fallar, Anna.", 
+        "original-end-charpos": 1714, 
+        "original-start-charpos": 1651
+    }, 
+    {
+        "obfuscation": "Dat ole davil ocean make dem crazy fools with her dirty tricks .", 
+        "obfuscation-id": 40, 
+        "original": " Dat ole davil sea make dem crazy fools with\nher dirty tricks.", 
+        "original-end-charpos": 1776, 
+        "original-start-charpos": 1715
+    }, 
+    {
+        "obfuscation": "It 's so .", 
+        "obfuscation-id": 41, 
+        "original": " It's so.\n\n", 
+        "original-end-charpos": 1787, 
+        "original-start-charpos": 1777
+    }
+]

@@ -1,0 +1,891 @@
+[
+    {
+        "obfuscation": "\ufeffThe Shoggoth I had met Professor Kindle during my explorations in my youth in Berlin at a convention .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffThe Shoggoth\nI had met Professor Kindle during my explorations in my youth in Berlin at a convention.", 
+        "original-end-charpos": 101, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "His theories in such subjects as physics and anatomy were peculiar to me-and to his chagrin-his colleges as well .", 
+        "obfuscation-id": 2, 
+        "original": " His theories in such subjects as physics and anatomy were peculiar to me-and to his chagrin-his colleges as well.", 
+        "original-end-charpos": 215, 
+        "original-start-charpos": 102
+    }, 
+    {
+        "obfuscation": "'' Well , my son , '' He said upon my asking why everyone seemed to mock him .", 
+        "obfuscation-id": 3, 
+        "original": "\n\"Well, my boy,\" He said upon my asking why everyone seemed to mock him.", 
+        "original-end-charpos": 287, 
+        "original-start-charpos": 216
+    }, 
+    {
+        "obfuscation": "`` These fools do not wish to see what 's thus plain that if it were a snake , it would most assuredly bite them . ''", 
+        "obfuscation-id": 4, 
+        "original": " \"These fools do not wish to see what's so plain that if it were a snake, it would most assuredly bite them.\"", 
+        "original-end-charpos": 396, 
+        "original-start-charpos": 288
+    }, 
+    {
+        "obfuscation": "Upon that introduction , he had began to tell me how certain miniscule particles held the universe together .", 
+        "obfuscation-id": 5, 
+        "original": "\nUpon that introduction, he had began to tell me how certain miniscule particles held the universe together.", 
+        "original-end-charpos": 504, 
+        "original-start-charpos": 397
+    }, 
+    {
+        "obfuscation": "What he said went beyond dark matter and such unexplained universal secrets that it was almost hard to believe .", 
+        "obfuscation-id": 6, 
+        "original": " What he said went beyond dark matter and such unexplained universal secrets that it was almost hard to believe.", 
+        "original-end-charpos": 616, 
+        "original-start-charpos": 505
+    }, 
+    {
+        "obfuscation": "But I can tell you , he was convincing .", 
+        "obfuscation-id": 7, 
+        "original": " But I can tell you, he was convincing.", 
+        "original-end-charpos": 655, 
+        "original-start-charpos": 617
+    }, 
+    {
+        "obfuscation": "A fact that will by and by cause me to rethink my pursuits .", 
+        "obfuscation-id": 8, 
+        "original": " A fact that will later cause me to rethink my pursuits.", 
+        "original-end-charpos": 711, 
+        "original-start-charpos": 656
+    }, 
+    {
+        "obfuscation": "'' You see , my son , Yog-Sothoth particles and Azathoth particles exist in sub matter , in a way that can go undetected even more so than the elusive dark matter for it obviously does not refract or twist light in any such matter like anything else in space . ''", 
+        "obfuscation-id": 9, 
+        "original": "\n\"You see, my boy, Yog-Sothoth particles and Azathoth particles exist in sub matter, in a way that can go undetected even more so than the elusive dark matter for it obviously does not refract or twist light in any such matter like anything else in space.\"", 
+        "original-end-charpos": 967, 
+        "original-start-charpos": 712
+    }, 
+    {
+        "obfuscation": "'' Then how does one know of their existence ? ''", 
+        "obfuscation-id": 10, 
+        "original": "\n\"Then how does one know of their existence?\"", 
+        "original-end-charpos": 1012, 
+        "original-start-charpos": 968
+    }, 
+    {
+        "obfuscation": "I asked , and for the fourth time : `` And why those names ? ''", 
+        "obfuscation-id": 11, 
+        "original": " I asked, and for the fourth time: \"And why those names?\"", 
+        "original-end-charpos": 1069, 
+        "original-start-charpos": 1013
+    }, 
+    {
+        "obfuscation": "It was odd to me to think that such a thing would exist that does not interact upon its surroundings .", 
+        "obfuscation-id": 12, 
+        "original": "\nIt was odd to me to think that such a thing would exist that does not interact upon its surroundings.", 
+        "original-end-charpos": 1171, 
+        "original-start-charpos": 1070
+    }, 
+    {
+        "obfuscation": "And what was queer was that the names did not follow the standard scientific tradition of Latin roots ; instead appearing to be from some alien language .", 
+        "obfuscation-id": 13, 
+        "original": " And what was queer was that the names did not follow the standard scientific tradition of Latin roots; instead appearing to be from some alien language.", 
+        "original-end-charpos": 1324, 
+        "original-start-charpos": 1172
+    }, 
+    {
+        "obfuscation": "He smiled .", 
+        "obfuscation-id": 14, 
+        "original": "\nHe smiled.", 
+        "original-end-charpos": 1335, 
+        "original-start-charpos": 1325
+    }, 
+    {
+        "obfuscation": "`` Come , my son , I shall show you . ''", 
+        "obfuscation-id": 15, 
+        "original": " \"Come, my boy, I shall show you.\"", 
+        "original-end-charpos": 1369, 
+        "original-start-charpos": 1336
+    }, 
+    {
+        "obfuscation": "He draped an arm over my shoulders .", 
+        "obfuscation-id": 16, 
+        "original": " He draped an arm over my shoulders.", 
+        "original-end-charpos": 1405, 
+        "original-start-charpos": 1370
+    }, 
+    {
+        "obfuscation": "`` And as for the names ; they are from the Necromicon .", 
+        "obfuscation-id": 17, 
+        "original": " \"And as for the names; they are from the Necromicon.", 
+        "original-end-charpos": 1458, 
+        "original-start-charpos": 1406
+    }, 
+    {
+        "obfuscation": "A book I doubt you have taken , but the names fit , believe me .", 
+        "obfuscation-id": 18, 
+        "original": " A book I doubt you have read, but the names fit, believe me.", 
+        "original-end-charpos": 1519, 
+        "original-start-charpos": 1459
+    }, 
+    {
+        "obfuscation": "For you see , Azathoth represents chaos , and Yog-Sothoth order ; it 's like the Chinese philosophy of Yin and Yang , a philosophy I find as very true . ''", 
+        "obfuscation-id": 19, 
+        "original": " For you see, Azathoth represents chaos, and Yog-Sothoth order; it's like the Chinese philosophy of Yin and Yang, a philosophy I find as very true.\"", 
+        "original-end-charpos": 1667, 
+        "original-start-charpos": 1520
+    }, 
+    {
+        "obfuscation": "Kindle took me to his hotel room where he produced from a brown briefcase , a telescope .", 
+        "obfuscation-id": 20, 
+        "original": "\nKindle took me to his hotel room where he produced from a brown briefcase, a telescope.", 
+        "original-end-charpos": 1755, 
+        "original-start-charpos": 1668
+    }, 
+    {
+        "obfuscation": "It looked like any telescope that one could easily obtain from any store for cheap .", 
+        "obfuscation-id": 21, 
+        "original": " It looked like any telescope that one could easily obtain from any store for cheap.", 
+        "original-end-charpos": 1839, 
+        "original-start-charpos": 1756
+    }, 
+    {
+        "obfuscation": "so far , something was off .", 
+        "obfuscation-id": 22, 
+        "original": " Yet, something was off.", 
+        "original-end-charpos": 1863, 
+        "original-start-charpos": 1840
+    }, 
+    {
+        "obfuscation": "A minor defect , so far hardly noticeable except in the right light .", 
+        "obfuscation-id": 23, 
+        "original": " A minor defect, yet hardly noticeable except in the right light.", 
+        "original-end-charpos": 1928, 
+        "original-start-charpos": 1864
+    }, 
+    {
+        "obfuscation": "There was an angle of odd proportions etched out of glass and sealed within between the two lenses .", 
+        "obfuscation-id": 24, 
+        "original": " There was an angle of odd proportions etched out of glass and sealed within between the two lenses.", 
+        "original-end-charpos": 2028, 
+        "original-start-charpos": 1929
+    }, 
+    {
+        "obfuscation": "'' Look , look . ''", 
+        "obfuscation-id": 25, 
+        "original": "\n\"Look, look.\"", 
+        "original-end-charpos": 2042, 
+        "original-start-charpos": 2029
+    }, 
+    {
+        "obfuscation": "He said excitedly .", 
+        "obfuscation-id": 26, 
+        "original": " He said excitedly.", 
+        "original-end-charpos": 2061, 
+        "original-start-charpos": 2043
+    }, 
+    {
+        "obfuscation": "I did look .", 
+        "obfuscation-id": 27, 
+        "original": "\nI did look.", 
+        "original-end-charpos": 2073, 
+        "original-start-charpos": 2062
+    }, 
+    {
+        "obfuscation": "And what I saw amazed me more than frightened me ; as many introductory things do .", 
+        "obfuscation-id": 28, 
+        "original": " And what I saw amazed me more than frightened me; as many introductory things do.", 
+        "original-end-charpos": 2155, 
+        "original-start-charpos": 2074
+    }, 
+    {
+        "obfuscation": "What appeared to be bubbles and globular orbs of wiggling ganglia-like tentacles were stuck in concert .", 
+        "obfuscation-id": 29, 
+        "original": " What appeared to be bubbles and globular orbs of wiggling ganglia-like tentacles were stuck together.", 
+        "original-end-charpos": 2257, 
+        "original-start-charpos": 2156
+    }, 
+    {
+        "obfuscation": "I took my center away .", 
+        "obfuscation-id": 30, 
+        "original": " I took my eye away.", 
+        "original-end-charpos": 2277, 
+        "original-start-charpos": 2258
+    }, 
+    {
+        "obfuscation": "'' And how do you know it keeps the universe in concert ? ''", 
+        "obfuscation-id": 31, 
+        "original": "\n\"And how do you know it keeps the universe together?\"", 
+        "original-end-charpos": 2331, 
+        "original-start-charpos": 2278
+    }, 
+    {
+        "obfuscation": "'' It goes in a straight line across the sky . ''", 
+        "obfuscation-id": 32, 
+        "original": "\n\"It goes in a straight line across the sky.\"", 
+        "original-end-charpos": 2376, 
+        "original-start-charpos": 2332
+    }, 
+    {
+        "obfuscation": "He said .", 
+        "obfuscation-id": 33, 
+        "original": " He said.", 
+        "original-end-charpos": 2385, 
+        "original-start-charpos": 2377
+    }, 
+    {
+        "obfuscation": "`` Granted , it 's mere speculation , but I believe it to be correct , for , how many things are a perfect course in a vacuum ? ''", 
+        "obfuscation-id": 34, 
+        "original": " \"Granted, it's mere speculation, but I believe it to be correct, for, how many things are a perfect line in a vacuum?\"", 
+        "original-end-charpos": 2504, 
+        "original-start-charpos": 2386
+    }, 
+    {
+        "obfuscation": "I was unable to disagree .", 
+        "obfuscation-id": 35, 
+        "original": "\nI was unable to disagree.", 
+        "original-end-charpos": 2530, 
+        "original-start-charpos": 2505
+    }, 
+    {
+        "obfuscation": "After that , our interactions consisted of an odd letter or two .", 
+        "obfuscation-id": 36, 
+        "original": "\nAfter that, our interactions consisted of an odd letter or two.", 
+        "original-end-charpos": 2594, 
+        "original-start-charpos": 2531
+    }, 
+    {
+        "obfuscation": "I became a physician and he became a recluse ascribable to his latest published work that was about his Azathoth and Yog-Sothoth particles .", 
+        "obfuscation-id": 37, 
+        "original": " I became a physician and he became a recluse due to his latest published work that was about his Azathoth and Yog-Sothoth particles.", 
+        "original-end-charpos": 2727, 
+        "original-start-charpos": 2595
+    }, 
+    {
+        "obfuscation": "He would entirely ever briefly say what he was working on .", 
+        "obfuscation-id": 38, 
+        "original": " He would only ever briefly say what he was working on.", 
+        "original-end-charpos": 2782, 
+        "original-start-charpos": 2728
+    }, 
+    {
+        "obfuscation": "I guess he thought me a fellow conspirator , a rebel to the newly founded scientific idea ; anything out of the norm is false , to the point he sent me a battered copy of the Necromicon .", 
+        "obfuscation-id": 39, 
+        "original": " I guess he thought me a fellow conspirator, a rebel to the newly founded scientific idea; anything out of the norm is false, to the point he sent me a battered copy of the Necromicon.", 
+        "original-end-charpos": 2966, 
+        "original-start-charpos": 2783
+    }, 
+    {
+        "obfuscation": "I read the book , horrified at what I was reading , that I am still surprised that I did not give it to the floor and burn it .", 
+        "obfuscation-id": 40, 
+        "original": "\nI read the book, horrified at what I was reading, that I am still surprised that I did not throw it to the floor and burn it.", 
+        "original-end-charpos": 3092, 
+        "original-start-charpos": 2967
+    }, 
+    {
+        "obfuscation": "But the adjacent letter just asked a question : Did you read it ?", 
+        "obfuscation-id": 41, 
+        "original": " But the next letter just asked a question:\nDid you read it?", 
+        "original-end-charpos": 3152, 
+        "original-start-charpos": 3093
+    }, 
+    {
+        "obfuscation": "I replied in the positive and the following response was an invitation to his little house in the sparsely populated hills of New England .", 
+        "obfuscation-id": 42, 
+        "original": "\nI replied in the positive and the next response was an invitation to his little house in the sparsely populated hills of New England.", 
+        "original-end-charpos": 3286, 
+        "original-start-charpos": 3153
+    }, 
+    {
+        "obfuscation": "I will not tell of my travels to his one story house that surprised me that such a man would live there .", 
+        "obfuscation-id": 43, 
+        "original": " I will not tell of my travels to his one story house that surprised me that such a man would live there.", 
+        "original-end-charpos": 3391, 
+        "original-start-charpos": 3287
+    }, 
+    {
+        "obfuscation": "It was a dilapidated house that looked like time and hillbilly inhabitants before him had a violent party , trashing it beyond any sense of repairing it .", 
+        "obfuscation-id": 44, 
+        "original": "\nIt was a dilapidated house that looked like time and hillbilly inhabitants before him had a wild party, trashing it beyond any sense of repairing it.", 
+        "original-end-charpos": 3541, 
+        "original-start-charpos": 3392
+    }, 
+    {
+        "obfuscation": "When I knocked on the door and my friend opened it , I was greeted with the sight of the inside , which appeared entirely slightly better than the outside .", 
+        "obfuscation-id": 45, 
+        "original": " When I knocked on the door and my friend opened it, I was greeted with the sight of the inside, which appeared only slightly better than the outside.", 
+        "original-end-charpos": 3691, 
+        "original-start-charpos": 3542
+    }, 
+    {
+        "obfuscation": "The wallpaper was peeling , everything were dusty , and the lights were working , yet did not seem to help alleviate the gloom that seemed to settle upon the house in a death grip .", 
+        "obfuscation-id": 46, 
+        "original": " The wallpaper was peeling, everything was dusty, and the lights were working, yet did not seem to help alleviate the gloom that seemed to settle upon the house in a death grip.", 
+        "original-end-charpos": 3868, 
+        "original-start-charpos": 3692
+    }, 
+    {
+        "obfuscation": "'' Ah , it 's thus good to see you , my boy . ''", 
+        "obfuscation-id": 47, 
+        "original": "\n\"Ah, it's so good to see you, my boy.\"", 
+        "original-end-charpos": 3907, 
+        "original-start-charpos": 3869
+    }, 
+    {
+        "obfuscation": "He greeted me , allowing me into the house .", 
+        "obfuscation-id": 48, 
+        "original": " He greeted me, allowing me into the house.", 
+        "original-end-charpos": 3950, 
+        "original-start-charpos": 3908
+    }, 
+    {
+        "obfuscation": "`` Come , please sit .", 
+        "obfuscation-id": 49, 
+        "original": " \"Come, please sit.", 
+        "original-end-charpos": 3969, 
+        "original-start-charpos": 3951
+    }, 
+    {
+        "obfuscation": "I have some tea prepared for your arrival . ''", 
+        "obfuscation-id": 50, 
+        "original": " I have some tea prepared for your arrival.\"", 
+        "original-end-charpos": 4013, 
+        "original-start-charpos": 3970
+    }, 
+    {
+        "obfuscation": "I take the offered liquid and he sits on the armchair across from me .", 
+        "obfuscation-id": 51, 
+        "original": "\nI take the offered liquid and he sits on the armchair across from me.", 
+        "original-end-charpos": 4083, 
+        "original-start-charpos": 4014
+    }, 
+    {
+        "obfuscation": "He takes a sip of his tea before setting it down upon the arm of his chair , his finger never leaving the handle .", 
+        "obfuscation-id": 52, 
+        "original": " He takes a sip of his tea before setting it down upon the arm of his chair, his finger never leaving the handle.", 
+        "original-end-charpos": 4196, 
+        "original-start-charpos": 4084
+    }, 
+    {
+        "obfuscation": "'' I invited you here to see my newest discovery . ''", 
+        "obfuscation-id": 53, 
+        "original": "\n\"I invited you here to see my newest discovery.\"", 
+        "original-end-charpos": 4245, 
+        "original-start-charpos": 4197
+    }, 
+    {
+        "obfuscation": "He said , an acute look aimed at me .", 
+        "obfuscation-id": 54, 
+        "original": " He said, an intense look aimed at me.", 
+        "original-end-charpos": 4283, 
+        "original-start-charpos": 4246
+    }, 
+    {
+        "obfuscation": "Like an excited madman holding a gun .", 
+        "obfuscation-id": 55, 
+        "original": " Like an excited madman holding a gun.", 
+        "original-end-charpos": 4321, 
+        "original-start-charpos": 4284
+    }, 
+    {
+        "obfuscation": "'' What is it ? ''", 
+        "obfuscation-id": 56, 
+        "original": "\n\"What is it?\"", 
+        "original-end-charpos": 4335, 
+        "original-start-charpos": 4322
+    }, 
+    {
+        "obfuscation": "'' Shoggoths , '' He said that one word , never explaining anything , letting the dreadful word sink into my mind .", 
+        "obfuscation-id": 57, 
+        "original": "\n\"Shoggoths,\"\nHe said that one word, never explaining anything, letting the dreadful word sink into my mind.", 
+        "original-end-charpos": 4443, 
+        "original-start-charpos": 4336
+    }, 
+    {
+        "obfuscation": "'' Granted , '' He took another sip .", 
+        "obfuscation-id": 58, 
+        "original": "\n\"Granted,\" He took another sip.", 
+        "original-end-charpos": 4475, 
+        "original-start-charpos": 4444
+    }, 
+    {
+        "obfuscation": "`` I did n't discover them .", 
+        "obfuscation-id": 59, 
+        "original": " \"I didn't discover them.", 
+        "original-end-charpos": 4500, 
+        "original-start-charpos": 4476
+    }, 
+    {
+        "obfuscation": "But there was something that eluded me .", 
+        "obfuscation-id": 60, 
+        "original": " But there was something that eluded me.", 
+        "original-end-charpos": 4540, 
+        "original-start-charpos": 4501
+    }, 
+    {
+        "obfuscation": "A phrase ; anyone could over look it , but I did n't .", 
+        "obfuscation-id": 61, 
+        "original": " A phrase; anyone could over look it, but I didn't.", 
+        "original-end-charpos": 4591, 
+        "original-start-charpos": 4541
+    }, 
+    {
+        "obfuscation": "Tekeli-li . ''", 
+        "obfuscation-id": 62, 
+        "original": " Tekeli-li.\"", 
+        "original-end-charpos": 4603, 
+        "original-start-charpos": 4592
+    }, 
+    {
+        "obfuscation": "He almost mimicked a robot .", 
+        "obfuscation-id": 63, 
+        "original": " He almost mimicked a robot.", 
+        "original-end-charpos": 4631, 
+        "original-start-charpos": 4604
+    }, 
+    {
+        "obfuscation": "My face became pale at that word .", 
+        "obfuscation-id": 64, 
+        "original": "\nMy face turned pale at that word.", 
+        "original-end-charpos": 4665, 
+        "original-start-charpos": 4632
+    }, 
+    {
+        "obfuscation": "Instinctual concern ingrown and nearly forgotten , left burrowed into a level of subconscious was unearthed and made me want to run faster than I have ever ran in my entire life .", 
+        "obfuscation-id": 65, 
+        "original": " Instinctual fear ingrown and nearly forgotten, left burrowed into a level of subconscious was unearthed and made me want to run faster than I have ever ran in my entire life.", 
+        "original-end-charpos": 4840, 
+        "original-start-charpos": 4666
+    }, 
+    {
+        "obfuscation": "I knew I should have listened to it , but curiosity had become the better of me .", 
+        "obfuscation-id": 66, 
+        "original": " I knew I should have listened to it, but curiosity had gotten the better of me.", 
+        "original-end-charpos": 4920, 
+        "original-start-charpos": 4841
+    }, 
+    {
+        "obfuscation": "'' The purpose behind it , '' Kindle continued as if there were no tension in the air .", 
+        "obfuscation-id": 67, 
+        "original": "\n\"The purpose behind it,\" Kindle continued as if there were no tension in the air.", 
+        "original-end-charpos": 5002, 
+        "original-start-charpos": 4921
+    }, 
+    {
+        "obfuscation": "`` Eluded me .", 
+        "obfuscation-id": 68, 
+        "original": " \"Eluded me.", 
+        "original-end-charpos": 5014, 
+        "original-start-charpos": 5003
+    }, 
+    {
+        "obfuscation": "Until I started thinking in terms of wolves .", 
+        "obfuscation-id": 69, 
+        "original": " Until I started thinking in terms of wolves.", 
+        "original-end-charpos": 5059, 
+        "original-start-charpos": 5015
+    }, 
+    {
+        "obfuscation": "They 're very much alike , you know .", 
+        "obfuscation-id": 70, 
+        "original": " They're very much alike, you know.", 
+        "original-end-charpos": 5094, 
+        "original-start-charpos": 5060
+    }, 
+    {
+        "obfuscation": "Sleek killing machines with a high intelligence ( though to-say-Cthulhu or Azathoth , they are stupid ) . ''", 
+        "obfuscation-id": 71, 
+        "original": " Sleek killing machines with a high intelligence(though to-say-Cthulhu or Azathoth, they are stupid).\"", 
+        "original-end-charpos": 5196, 
+        "original-start-charpos": 5095
+    }, 
+    {
+        "obfuscation": "With an interesting way to communicate . ''", 
+        "obfuscation-id": 72, 
+        "original": "\nWith an interesting way to communicate.\"", 
+        "original-end-charpos": 5237, 
+        "original-start-charpos": 5197
+    }, 
+    {
+        "obfuscation": "He smirked .", 
+        "obfuscation-id": 73, 
+        "original": " He smirked.", 
+        "original-end-charpos": 5249, 
+        "original-start-charpos": 5238
+    }, 
+    {
+        "obfuscation": "`` I was proven correct by mere opportunity .", 
+        "obfuscation-id": 74, 
+        "original": " \"I was proven correct by mere chance.", 
+        "original-end-charpos": 5287, 
+        "original-start-charpos": 5250
+    }, 
+    {
+        "obfuscation": "I spied a shoggoth all alone .", 
+        "obfuscation-id": 75, 
+        "original": " I spied a shoggoth all alone.", 
+        "original-end-charpos": 5317, 
+        "original-start-charpos": 5288
+    }, 
+    {
+        "obfuscation": "It cried away 'Tekeli-li !", 
+        "obfuscation-id": 76, 
+        "original": " It cried out 'Tekeli-li!", 
+        "original-end-charpos": 5342, 
+        "original-start-charpos": 5318
+    }, 
+    {
+        "obfuscation": "Tekeli-li ! '", 
+        "obfuscation-id": 77, 
+        "original": " Tekeli-li!'", 
+        "original-end-charpos": 5354, 
+        "original-start-charpos": 5343
+    }, 
+    {
+        "obfuscation": "Another cried away in response , but this one angrier .", 
+        "obfuscation-id": 78, 
+        "original": " Another cried out in response, but this one angrier.", 
+        "original-end-charpos": 5407, 
+        "original-start-charpos": 5355
+    }, 
+    {
+        "obfuscation": "The first talked out and went about doing chores . ''", 
+        "obfuscation-id": 79, 
+        "original": " The first spoke out and went about doing chores.\"", 
+        "original-end-charpos": 5457, 
+        "original-start-charpos": 5408
+    }, 
+    {
+        "obfuscation": "'' That 's interesting , Kindle . ''", 
+        "obfuscation-id": 80, 
+        "original": "\n\"That's interesting, Kindle.\"", 
+        "original-end-charpos": 5487, 
+        "original-start-charpos": 5458
+    }, 
+    {
+        "obfuscation": "I said .", 
+        "obfuscation-id": 81, 
+        "original": " I said.", 
+        "original-end-charpos": 5495, 
+        "original-start-charpos": 5488
+    }, 
+    {
+        "obfuscation": "`` But how does this have to do with wolves ?", 
+        "obfuscation-id": 82, 
+        "original": " \"But how does this have to do with wolves?", 
+        "original-end-charpos": 5538, 
+        "original-start-charpos": 5496
+    }, 
+    {
+        "obfuscation": "They howl to alert members of their pack of their location . ''", 
+        "obfuscation-id": 83, 
+        "original": " They howl to alert members of their pack of their location.\"", 
+        "original-end-charpos": 5599, 
+        "original-start-charpos": 5539
+    }, 
+    {
+        "obfuscation": "'' Yes , '' Kindle said matter-of-factly .", 
+        "obfuscation-id": 84, 
+        "original": "\n\"Yes,\" Kindle said matter-of-factly.", 
+        "original-end-charpos": 5636, 
+        "original-start-charpos": 5600
+    }, 
+    {
+        "obfuscation": "`` But wolves also have growls and early vocal ways of communicating .", 
+        "obfuscation-id": 85, 
+        "original": " \"But wolves also have growls and other vocal ways of communicating.", 
+        "original-end-charpos": 5704, 
+        "original-start-charpos": 5637
+    }, 
+    {
+        "obfuscation": "Shoggoths entirely have the one word .", 
+        "obfuscation-id": 86, 
+        "original": " Shoggoths only have the one word.", 
+        "original-end-charpos": 5738, 
+        "original-start-charpos": 5705
+    }, 
+    {
+        "obfuscation": "And to prove it , I took two Shoggoths and put them in something similar to a rat maze . ''", 
+        "obfuscation-id": 87, 
+        "original": " And to prove it, I took two Shoggoths and placed them in something similar to a rat maze.\"", 
+        "original-end-charpos": 5829, 
+        "original-start-charpos": 5739
+    }, 
+    {
+        "obfuscation": "'' But how did you catch them ? ''", 
+        "obfuscation-id": 88, 
+        "original": "\n\"But how did you catch them?\"", 
+        "original-end-charpos": 5859, 
+        "original-start-charpos": 5830
+    }, 
+    {
+        "obfuscation": "'' Does n't matter . ''", 
+        "obfuscation-id": 89, 
+        "original": "\n\"Doesn't matter.\"", 
+        "original-end-charpos": 5877, 
+        "original-start-charpos": 5860
+    }, 
+    {
+        "obfuscation": "He snapped .", 
+        "obfuscation-id": 90, 
+        "original": " He snapped.", 
+        "original-end-charpos": 5889, 
+        "original-start-charpos": 5878
+    }, 
+    {
+        "obfuscation": "`` Now let me finish , my friend . ''", 
+        "obfuscation-id": 91, 
+        "original": " \"Now let me finish, my friend.\"", 
+        "original-end-charpos": 5921, 
+        "original-start-charpos": 5890
+    }, 
+    {
+        "obfuscation": "'' One called out and the other began to move and call out as well .", 
+        "obfuscation-id": 92, 
+        "original": "\n\"One called out and the other started to move and call out as well.", 
+        "original-end-charpos": 5989, 
+        "original-start-charpos": 5922
+    }, 
+    {
+        "obfuscation": "This continued until they found each early .", 
+        "obfuscation-id": 93, 
+        "original": " This continued until they found each other.", 
+        "original-end-charpos": 6033, 
+        "original-start-charpos": 5990
+    }, 
+    {
+        "obfuscation": "It was n't until I got more that I made the most startling information about them . ''", 
+        "obfuscation-id": 94, 
+        "original": " It wasn't until I caught more that I made the most startling information about them.\"", 
+        "original-end-charpos": 6119, 
+        "original-start-charpos": 6034
+    }, 
+    {
+        "obfuscation": "My body trembles .", 
+        "obfuscation-id": 95, 
+        "original": "\nMy body trembles.", 
+        "original-end-charpos": 6137, 
+        "original-start-charpos": 6120
+    }, 
+    {
+        "obfuscation": "I can entirely imagine what else he could have discovered about those loathsome creatures .", 
+        "obfuscation-id": 96, 
+        "original": " I can only imagine what else he could have discovered about those loathsome creatures.", 
+        "original-end-charpos": 6224, 
+        "original-start-charpos": 6138
+    }, 
+    {
+        "obfuscation": "'' I had gotten six or seven of them .", 
+        "obfuscation-id": 97, 
+        "original": "\n\"I had caught six or seven of them.", 
+        "original-end-charpos": 6260, 
+        "original-start-charpos": 6225
+    }, 
+    {
+        "obfuscation": "I crammed them into this one room below this house .", 
+        "obfuscation-id": 98, 
+        "original": " I crammed them into this one room below this house.", 
+        "original-end-charpos": 6312, 
+        "original-start-charpos": 6261
+    }, 
+    {
+        "obfuscation": "It was getting cramped in there for them , so these two decided to fuse in concert .", 
+        "obfuscation-id": 99, 
+        "original": " It was getting cramped in there for them, so these two decided to fuse together.", 
+        "original-end-charpos": 6393, 
+        "original-start-charpos": 6313
+    }, 
+    {
+        "obfuscation": "And it hit me !", 
+        "obfuscation-id": 100, 
+        "original": " And it hit me!", 
+        "original-end-charpos": 6408, 
+        "original-start-charpos": 6394
+    }, 
+    {
+        "obfuscation": "They 're fragments !", 
+        "obfuscation-id": 101, 
+        "original": " They're fragments!", 
+        "original-end-charpos": 6427, 
+        "original-start-charpos": 6409
+    }, 
+    {
+        "obfuscation": "Their hive mind-like behavior , their similarities .", 
+        "obfuscation-id": 102, 
+        "original": " Their hive mind-like behavior, their similarities.", 
+        "original-end-charpos": 6478, 
+        "original-start-charpos": 6428
+    }, 
+    {
+        "obfuscation": "Everything ! ''", 
+        "obfuscation-id": 103, 
+        "original": " Everything!\"", 
+        "original-end-charpos": 6491, 
+        "original-start-charpos": 6479
+    }, 
+    {
+        "obfuscation": "'' Come , I 'll show you . ''", 
+        "obfuscation-id": 104, 
+        "original": "\n\"Come, I'll show you.\"", 
+        "original-end-charpos": 6514, 
+        "original-start-charpos": 6492
+    }, 
+    {
+        "obfuscation": "'' No , '' I snap , standing .", 
+        "obfuscation-id": 105, 
+        "original": "\n\"No,\" I snap, standing.", 
+        "original-end-charpos": 6538, 
+        "original-start-charpos": 6515
+    }, 
+    {
+        "obfuscation": "`` I 'd preferably not . ''", 
+        "obfuscation-id": 106, 
+        "original": " \"I'd rather not.\"", 
+        "original-end-charpos": 6556, 
+        "original-start-charpos": 6539
+    }, 
+    {
+        "obfuscation": "Kindle becomes angered by my outburst .", 
+        "obfuscation-id": 107, 
+        "original": "\nKindle becomes angered by my outburst.", 
+        "original-end-charpos": 6595, 
+        "original-start-charpos": 6557
+    }, 
+    {
+        "obfuscation": "He grabs my arm tightly and tries to drag me towards the cellar , but I resist .", 
+        "obfuscation-id": 108, 
+        "original": " He grabs my arm tightly and tries to drag me towards the cellar, but I resist.", 
+        "original-end-charpos": 6674, 
+        "original-start-charpos": 6596
+    }, 
+    {
+        "obfuscation": "'' Come , come , there is nothing to be afraid of . ''", 
+        "obfuscation-id": 109, 
+        "original": "\n\"Come, come, there is nothing to be afraid of.\"", 
+        "original-end-charpos": 6722, 
+        "original-start-charpos": 6675
+    }, 
+    {
+        "obfuscation": "'' There is . ''", 
+        "obfuscation-id": 110, 
+        "original": "\n\"There is.\"", 
+        "original-end-charpos": 6734, 
+        "original-start-charpos": 6723
+    }, 
+    {
+        "obfuscation": "I said .", 
+        "obfuscation-id": 111, 
+        "original": " I said.", 
+        "original-end-charpos": 6742, 
+        "original-start-charpos": 6735
+    }, 
+    {
+        "obfuscation": "`` Shoggoths\u2026 '' I was cut off by a brassy thunder from under our feet .", 
+        "obfuscation-id": 112, 
+        "original": " \"Shoggoths\u2026\"\nI was cut off by a loud thunder from under our feet.", 
+        "original-end-charpos": 6808, 
+        "original-start-charpos": 6743
+    }, 
+    {
+        "obfuscation": "Kindle pales as it happens again .", 
+        "obfuscation-id": 113, 
+        "original": " Kindle pales as it happens again.", 
+        "original-end-charpos": 6842, 
+        "original-start-charpos": 6809
+    }, 
+    {
+        "obfuscation": "He breaks from my arm and tries to run into the kitchen but he never makes it .", 
+        "obfuscation-id": 114, 
+        "original": " He breaks from my arm and tries to run into the kitchen but he never makes it.", 
+        "original-end-charpos": 6921, 
+        "original-start-charpos": 6843
+    }, 
+    {
+        "obfuscation": "A retentive , large , slimy black tentacle rises from the hole it made in the floor .", 
+        "obfuscation-id": 115, 
+        "original": " A long, large, slimy black tentacle rises from the hole it made in the floor.", 
+        "original-end-charpos": 6999, 
+        "original-start-charpos": 6922
+    }, 
+    {
+        "obfuscation": "I notice in sick fascination that a bootleg , tar-like substance drips off of it .", 
+        "obfuscation-id": 116, 
+        "original": " I notice in sick fascination that a black, tar-like substance drips off of it.", 
+        "original-end-charpos": 7078, 
+        "original-start-charpos": 7000
+    }, 
+    {
+        "obfuscation": "It darts towards the sound of Kindle 's running feet and wraps around his leg , forcing him to land , face foremost , onto the floor .", 
+        "obfuscation-id": 117, 
+        "original": " It darts towards the sound of Kindle's running feet and wraps around his leg, forcing him to land, face first, onto the floor.", 
+        "original-end-charpos": 7205, 
+        "original-start-charpos": 7079
+    }, 
+    {
+        "obfuscation": "I watch , dumb , as it drags my friend towards the hole .", 
+        "obfuscation-id": 118, 
+        "original": "\nI watch, dumb, as it drags my friend towards the hole.", 
+        "original-end-charpos": 7260, 
+        "original-start-charpos": 7206
+    }, 
+    {
+        "obfuscation": "Kindle screams and begs me to help him , but I do n't move .", 
+        "obfuscation-id": 119, 
+        "original": " Kindle screams and begs me to help him, but I don't move.", 
+        "original-end-charpos": 7318, 
+        "original-start-charpos": 7261
+    }, 
+    {
+        "obfuscation": "Fear plagues me , cementing my feet to the wood floor .", 
+        "obfuscation-id": 120, 
+        "original": " Fear plagues me, cementing my feet to the wood floor.", 
+        "original-end-charpos": 7372, 
+        "original-start-charpos": 7319
+    }, 
+    {
+        "obfuscation": "It is not until his struggling form sinks into the hole that my feet can work again and I dart out of the house .", 
+        "obfuscation-id": 121, 
+        "original": " It is not until his struggling form sinks into the hole that my feet can work again and I dart out of the house.", 
+        "original-end-charpos": 7485, 
+        "original-start-charpos": 7373
+    }, 
+    {
+        "obfuscation": "Tekeli-li !", 
+        "obfuscation-id": 122, 
+        "original": "\nTekeli-li!", 
+        "original-end-charpos": 7496, 
+        "original-start-charpos": 7486
+    }, 
+    {
+        "obfuscation": "( 1 ) AAAhhhhhhhh !", 
+        "obfuscation-id": 123, 
+        "original": "(1)\nAAAhhhhhhhh!", 
+        "original-end-charpos": 7512, 
+        "original-start-charpos": 7497
+    }, 
+    {
+        "obfuscation": "( 1 ) 1 ) These were larger ( font 22 ) , but the site messes with me !", 
+        "obfuscation-id": 124, 
+        "original": "(1)\n\n1) These were larger(font 22), but the site messes with me!", 
+        "original-end-charpos": 7576, 
+        "original-start-charpos": 7513
+    }, 
+    {
+        "obfuscation": "Mantineus-The ending is ambiguous by default .", 
+        "obfuscation-id": 125, 
+        "original": "\nMantineus-The ending is ambiguous by default.", 
+        "original-end-charpos": 7622, 
+        "original-start-charpos": 7577
+    }, 
+    {
+        "obfuscation": "You see , our hero makes it away .", 
+        "obfuscation-id": 126, 
+        "original": " You see, our hero makes it out.", 
+        "original-end-charpos": 7654, 
+        "original-start-charpos": 7623
+    }, 
+    {
+        "obfuscation": "What you see is The Shuggoth and Kindle 's dying scream .", 
+        "obfuscation-id": 127, 
+        "original": " What you see is The Shuggoth and Kindle's dying scream.\n", 
+        "original-end-charpos": 7711, 
+        "original-start-charpos": 7655
+    }
+]

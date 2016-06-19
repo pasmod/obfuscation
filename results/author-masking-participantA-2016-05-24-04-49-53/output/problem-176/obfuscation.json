@@ -1,0 +1,289 @@
+[
+    {
+        "obfuscation": "Oh , 't is you , is it ?", 
+        "obfuscation-id": 1, 
+        "original": "\n Oh, 'tis you, is\nit?", 
+        "original-end-charpos": 21, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "What 're ye shiverin ' 'bout ?", 
+        "obfuscation-id": 2, 
+        "original": " What're ye shiverin' 'bout?", 
+        "original-end-charpos": 49, 
+        "original-start-charpos": 22
+    }, 
+    {
+        "obfuscation": "Stay by the stove where ye belong and ye 'll find no need of chatterin ' .", 
+        "obfuscation-id": 3, 
+        "original": " Stay by the stove where ye belong and\nye'll find no need of chatterin'.", 
+        "original-end-charpos": 121, 
+        "original-start-charpos": 50
+    }, 
+    {
+        "obfuscation": "It 's c-c-cold .", 
+        "obfuscation-id": 4, 
+        "original": "\n\nIt's c-c-cold.", 
+        "original-end-charpos": 137, 
+        "original-start-charpos": 122
+    }, 
+    {
+        "obfuscation": "Who d 'ye think it were -- the Old Man ?", 
+        "obfuscation-id": 5, 
+        "original": " Who d'ye think it were--the Old Man?", 
+        "original-end-charpos": 174, 
+        "original-start-charpos": 138
+    }, 
+    {
+        "obfuscation": "None o ' your lip , new un , or I 'll learn ye .", 
+        "obfuscation-id": 6, 
+        "original": "\nNone o' your\nlip, young un, or I'll learn ye.", 
+        "original-end-charpos": 220, 
+        "original-start-charpos": 175
+    }, 
+    {
+        "obfuscation": "Where was it ye've been all o ' the time -- the fo'c's'tle ?", 
+        "obfuscation-id": 7, 
+        "original": " Where was it ye've\nbeen all o' the time--the fo'c's'tle?", 
+        "original-end-charpos": 277, 
+        "original-start-charpos": 221
+    }, 
+    {
+        "obfuscation": "Yes .", 
+        "obfuscation-id": 8, 
+        "original": "\n\nYes.", 
+        "original-end-charpos": 283, 
+        "original-start-charpos": 278
+    }, 
+    {
+        "obfuscation": "Let the Old Man see ye up for'ard monkeyshinin ' with the hands and ye 'll get a hidin ' ye 'll not forget in a hurry .", 
+        "obfuscation-id": 9, 
+        "original": "\n\nLet the Old Man see ye up for'ard monkeyshinin' with the\nhands and ye'll get a hidin' ye'll not forget in a hurry.", 
+        "original-end-charpos": 399, 
+        "original-start-charpos": 284
+    }, 
+    {
+        "obfuscation": "Aw , he do n't see nothin ' .", 
+        "obfuscation-id": 10, 
+        "original": "\n\nAw, he don't see nothin'.", 
+        "original-end-charpos": 426, 
+        "original-start-charpos": 400
+    }, 
+    {
+        "obfuscation": "He jest walks up and down like he did n't notice nobody -- and stares at the ice to the no'the'ard .", 
+        "obfuscation-id": 11, 
+        "original": " He jest walks up and down like he didn't notice nobody--and\nstares at the ice to the no'the'ard.", 
+        "original-end-charpos": 523, 
+        "original-start-charpos": 427
+    }, 
+    {
+        "obfuscation": "He's constantly starin ' at the ice .", 
+        "obfuscation-id": 12, 
+        "original": "\n\nHe's\nalways starin' at the ice.", 
+        "original-end-charpos": 556, 
+        "original-start-charpos": 524
+    }, 
+    {
+        "obfuscation": "Ice , ice , ice !", 
+        "obfuscation-id": 13, 
+        "original": "  Ice, ice, ice!", 
+        "original-end-charpos": 572, 
+        "original-start-charpos": 557
+    }, 
+    {
+        "obfuscation": "Damn him and damn the ice !", 
+        "obfuscation-id": 14, 
+        "original": " Damn him and damn the ice!", 
+        "original-end-charpos": 599, 
+        "original-start-charpos": 573
+    }, 
+    {
+        "obfuscation": "Holdin ' us in for nigh on a year -- nothin ' to see but ice -- stuck in it like a fly in molasses !", 
+        "obfuscation-id": 15, 
+        "original": " Holdin' us in for\nnigh on a year--nothin' to see but ice--stuck in it like a fly in\nmolasses!", 
+        "original-end-charpos": 693, 
+        "original-start-charpos": 600
+    }, 
+    {
+        "obfuscation": "Ssshh !", 
+        "obfuscation-id": 16, 
+        "original": "\n\nSsshh!", 
+        "original-end-charpos": 701, 
+        "original-start-charpos": 694
+    }, 
+    {
+        "obfuscation": "He 'll hear ye .", 
+        "obfuscation-id": 17, 
+        "original": " He'll hear ye.", 
+        "original-end-charpos": 716, 
+        "original-start-charpos": 702
+    }, 
+    {
+        "obfuscation": "Aye , damn , and damn the Arctic seas , and damn this rotten whalin ' ship of his , and damn me for a fool to ever ship on it !", 
+        "obfuscation-id": 18, 
+        "original": "\n\nAye, damn, and damn the Arctic seas, and damn\nthis rotten whalin' ship of his, and damn me for a fool to ever ship on\nit!", 
+        "original-end-charpos": 839, 
+        "original-start-charpos": 717
+    }, 
+    {
+        "obfuscation": "He 's a hard man -- as hard a man as ever sailed the seas .", 
+        "obfuscation-id": 19, 
+        "original": " He's a hard\nman--as hard a man as ever sailed the seas.", 
+        "original-end-charpos": 895, 
+        "original-start-charpos": 840
+    }, 
+    {
+        "obfuscation": "Aye .", 
+        "obfuscation-id": 20, 
+        "original": "\n\nAye.", 
+        "original-end-charpos": 901, 
+        "original-start-charpos": 896
+    }, 
+    {
+        "obfuscation": "The two years we all signed up for are done this day !", 
+        "obfuscation-id": 21, 
+        "original": "\n\nThe two years we all signed up for are done this day!", 
+        "original-end-charpos": 956, 
+        "original-start-charpos": 902
+    }, 
+    {
+        "obfuscation": "Two years o ' this dog 's life , and no luck in the fishin ' , and the hands half starved with the food runnin ' low , rotten as it is ; and not a sign of him turnin ' back for home !", 
+        "obfuscation-id": 22, 
+        "original": " Two\nyears o' this dog's life, and no luck in the fishin', and the hands half\nstarved with the food runnin' low, rotten as it is; and not a sign of\nhim turnin' back for home!", 
+        "original-end-charpos": 1130, 
+        "original-start-charpos": 957
+    }, 
+    {
+        "obfuscation": "Home !", 
+        "obfuscation-id": 23, 
+        "original": " Home!", 
+        "original-end-charpos": 1136, 
+        "original-start-charpos": 1131
+    }, 
+    {
+        "obfuscation": "I begin to doubt if ever I 'll set foot on land again .", 
+        "obfuscation-id": 24, 
+        "original": " I begin to doubt if ever\nI'll set foot on land again.", 
+        "original-end-charpos": 1190, 
+        "original-start-charpos": 1137
+    }, 
+    {
+        "obfuscation": "What is it he thinks he's goin ' to do ?", 
+        "obfuscation-id": 25, 
+        "original": " What is it he thinks he's\ngoin' to do?", 
+        "original-end-charpos": 1229, 
+        "original-start-charpos": 1191
+    }, 
+    {
+        "obfuscation": "Keep us all up here after our time is worked away till the last man of us is starved to death or frozen ?", 
+        "obfuscation-id": 26, 
+        "original": " Keep us all up here after our time is worked out till the\nlast man of us is starved to death or frozen?", 
+        "original-end-charpos": 1333, 
+        "original-start-charpos": 1230
+    }, 
+    {
+        "obfuscation": "We 've grub enough hardly to concluding out the voyage back if we started now .", 
+        "obfuscation-id": 27, 
+        "original": " We've grub enough hardly\nto last out the voyage back if we started now.", 
+        "original-end-charpos": 1405, 
+        "original-start-charpos": 1334
+    }, 
+    {
+        "obfuscation": "What are the men goin ' to make 'bout it ?", 
+        "obfuscation-id": 28, 
+        "original": " What are the men goin' to\ndo 'bout it?", 
+        "original-end-charpos": 1444, 
+        "original-start-charpos": 1406
+    }, 
+    {
+        "obfuscation": "Did ye hear any talk in the fo'c's'tle ?", 
+        "obfuscation-id": 29, 
+        "original": " Did ye hear any talk in the fo'c's'tle?", 
+        "original-end-charpos": 1484, 
+        "original-start-charpos": 1445
+    }, 
+    {
+        "obfuscation": "They said if he do n't place back south for home to-day they 're goin ' to mutiny .", 
+        "obfuscation-id": 30, 
+        "original": "\n\nThey said if he don't put\nback south for home to-day they're goin' to mutiny.", 
+        "original-end-charpos": 1563, 
+        "original-start-charpos": 1485
+    }, 
+    {
+        "obfuscation": "Mutiny ?", 
+        "obfuscation-id": 31, 
+        "original": "\n\nMutiny?", 
+        "original-end-charpos": 1572, 
+        "original-start-charpos": 1564
+    }, 
+    {
+        "obfuscation": "Aye , 't is the only thing they can do ; and serve him properly after the manner he 's treated them -- 's if they were n't no better nor dogs .", 
+        "obfuscation-id": 32, 
+        "original": " Aye, 'tis the only thing\nthey can do; and serve him right after the manner he's treated them--'s\nif they weren't no better nor dogs.", 
+        "original-end-charpos": 1705, 
+        "original-start-charpos": 1573
+    }, 
+    {
+        "obfuscation": "BEN .", 
+        "obfuscation-id": 33, 
+        "original": "\n\nBEN.", 
+        "original-end-charpos": 1711, 
+        "original-start-charpos": 1706
+    }, 
+    {
+        "obfuscation": "The ice is all broke up to s'uth'ard .", 
+        "obfuscation-id": 34, 
+        "original": " The ice is all broke up to s'uth'ard.", 
+        "original-end-charpos": 1749, 
+        "original-start-charpos": 1712
+    }, 
+    {
+        "obfuscation": "They 's clear water s'far 's you can see .", 
+        "obfuscation-id": 35, 
+        "original": " They's clear water s'far 's\nyou can see.", 
+        "original-end-charpos": 1790, 
+        "original-start-charpos": 1750
+    }, 
+    {
+        "obfuscation": "He ai n't got no excuse for not turnin ' back for home , the men says .", 
+        "obfuscation-id": 36, 
+        "original": " He ain't got no excuse for not turnin' back for home, the\nmen says.", 
+        "original-end-charpos": 1858, 
+        "original-start-charpos": 1791
+    }, 
+    {
+        "obfuscation": "He wo n't look nowheres but no'the'ard where they 's only the ice to see .", 
+        "obfuscation-id": 37, 
+        "original": "\n\nHe won't look nowheres but no'the'ard where\nthey's only the ice to see.", 
+        "original-end-charpos": 1931, 
+        "original-start-charpos": 1859
+    }, 
+    {
+        "obfuscation": "He make n't want to see no clear water .", 
+        "obfuscation-id": 38, 
+        "original": " He don't want to see no clear water.", 
+        "original-end-charpos": 1968, 
+        "original-start-charpos": 1932
+    }, 
+    {
+        "obfuscation": "All he thinks on is gettin ' the ile -- 's if it was our fault he ai n't had good luck with the whales .", 
+        "obfuscation-id": 39, 
+        "original": " All he\nthinks on is gettin' the ile--'s if it was our fault he ain't had good\nluck with the whales.", 
+        "original-end-charpos": 2068, 
+        "original-start-charpos": 1969
+    }, 
+    {
+        "obfuscation": "I think the man 's mighty nigh losin ' his senses .", 
+        "obfuscation-id": 40, 
+        "original": " I think the man's mighty\nnigh losin' his senses.", 
+        "original-end-charpos": 2117, 
+        "original-start-charpos": 2069
+    }, 
+    {
+        "obfuscation": "D'you really think he 's crazy ?", 
+        "obfuscation-id": 41, 
+        "original": "\n\nD'you really think he's crazy?\n\n", 
+        "original-end-charpos": 2151, 
+        "original-start-charpos": 2118
+    }
+]

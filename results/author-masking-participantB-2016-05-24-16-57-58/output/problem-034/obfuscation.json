@@ -1,0 +1,562 @@
+[
+    {
+        "obfuscation": "\ufeff1.",
+        "obfuscation-id": 1,
+        "original": "\ufeff1.",
+        "original-end-charpos": 3,
+        "original-start-charpos": 0
+    },
+    {
+        "obfuscation": "a language of English Introduction world. spoken",
+        "obfuscation-id": 2,
+        "original": "Introduction  English is one of the most spoken languages in the world.",
+        "original-end-charpos": 74,
+        "original-start-charpos": 4
+    },
+    {
+        "obfuscation": "many tabacs may at the whole spread world, English British  and British English are the two largest groups.",
+        "obfuscation-id": 3,
+        "original": "There are many varieties spread around the whole world, of which British English and American English are the two largest groups.",
+        "original-end-charpos": 203,
+        "original-start-charpos": 75
+    },
+    {
+        "obfuscation": "today Many young , a year in the United States or work. or",
+        "obfuscation-id": 4,
+        "original": "Many young people today chose to spend a year or more in the United States to either study or work.",
+        "original-end-charpos": 302,
+        "original-start-charpos": 204
+    },
+    {
+        "obfuscation": "given that we Sweden have shown school was English since the fourth to language should not great problems.",
+        "obfuscation-id": 5,
+        "original": "Since we Swedes have been taught English in school since the fourth grade the language should not cause any big problems.",
+        "original-end-charpos": 423,
+        "original-start-charpos": 303
+    },
+    {
+        "obfuscation": "there are differences between school Nevertheless most often English, English, British  and British variety.",
+        "obfuscation-id": 6,
+        "original": "Nevertheless there are differences between the school English, which is most often British English, and the American variety.",
+        "original-end-charpos": 548,
+        "original-start-charpos": 424
+    },
+    {
+        "obfuscation": "I even in an exchange of other students and Minnesota in vocabulary. devastation variant",
+        "obfuscation-id": 7,
+        "original": "I was myself a foreign exchange student in Minnesota and have experienced the variation in vocabulary.",
+        "original-end-charpos": 650,
+        "original-start-charpos": 549
+    },
+    {
+        "obfuscation": "in some cases , how beautiful , it would be fair , if I know that I would have saved word, could moments. dramatic",
+        "obfuscation-id": 8,
+        "original": "In some cases it would have been nice if I had known the correct word, it could have saved me from embarrassing moments.",
+        "original-end-charpos": 770,
+        "original-start-charpos": 651
+    },
+    {
+        "obfuscation": "I believe that it is interesting , which Therefor and , like many other countries in both languages.",
+        "obfuscation-id": 9,
+        "original": "Therefor I think it is interesting to see what words and how many that are different in the two languages.",
+        "original-end-charpos": 876,
+        "original-start-charpos": 771
+    },
+    {
+        "obfuscation": "the Are word abweicht classes , which have a particular incidence areas? and",
+        "obfuscation-id": 10,
+        "original": "Are there any word classes that differs the most and within any special areas?",
+        "original-end-charpos": 954,
+        "original-start-charpos": 877
+    },
+    {
+        "obfuscation": "1.2.",
+        "obfuscation-id": 11,
+        "original": "1.2.",
+        "original-end-charpos": 958,
+        "original-start-charpos": 955
+    },
+    {
+        "obfuscation": "I materiel , and method of the English Dictionary Longman Contemporary and the International Committee of English P. Trudgill and Hannah. 2003",
+        "obfuscation-id": 12,
+        "original": "Material and method  I have used the Longman Dictionary of Contemporary English and International English by P.  Trudgill and J.  Hannah.",
+        "original-end-charpos": 1095,
+        "original-start-charpos": 959
+    },
+    {
+        "obfuscation": "as we industrialized countries , so it is , I another is the first 1,000 letters A, B, C, and D, total 4,000 words of Longman.",
+        "obfuscation-id": 13,
+        "original": "To find out how frequent it is that words are different I took out the first 1,000 words of the letters A, B, C, and D, a total of 4,000 words from Longman.",
+        "original-end-charpos": 1251,
+        "original-start-charpos": 1096
+    },
+    {
+        "obfuscation": "I with the words of to different forms , but the same importance in two languages and also that the US \u2013 that only in English English. British",
+        "obfuscation-id": 14,
+        "original": "I looked at the words to find out which ones that had different forms but the same meaning in the two languages and also which words that only exist in American English respectively British English.",
+        "original-end-charpos": 1449,
+        "original-start-charpos": 1252
+    },
+    {
+        "obfuscation": "this approach does not correspond exactly though. entirely .",
+        "obfuscation-id": 15,
+        "original": "This method may not be completely accurate though.",
+        "original-end-charpos": 1499,
+        "original-start-charpos": 1450
+    },
+    {
+        "obfuscation": "because Longman Dictionary first for the British national Corpus, and although it contains many US words , in my opinion , the different , if I were a US version dictionary.",
+        "obfuscation-id": 16,
+        "original": "First because Longman Dictionary comes from the British National Corpus, and even though it contains many American words I believe the result would look different if I had used an American edition of a dictionary.",
+        "original-end-charpos": 1712,
+        "original-start-charpos": 1500
+    },
+    {
+        "obfuscation": "that Secondly, different slang and are not all countries are represented in this dictionary.",
+        "obfuscation-id": 17,
+        "original": "Secondly, many words that are different are slang words and all of them are naturally not represented in this dictionary.",
+        "original-end-charpos": 1833,
+        "original-start-charpos": 1713
+    },
+    {
+        "obfuscation": "but what Laut the show of several words and English. formelleren",
+        "obfuscation-id": 18,
+        "original": "It does however show the frequency of different words in more formal written and spoken English.",
+        "original-end-charpos": 1929,
+        "original-start-charpos": 1834
+    },
+    {
+        "obfuscation": "I represented ? in different areas where he differences between the two languages I both Longman English and international P. Trudgill and Hannah. 2003",
+        "obfuscation-id": 19,
+        "original": "When I looked at different areas of words where there were differences between the two languages I used both Longman and International English by P.  Trudgill and J.  Hannah.",
+        "original-end-charpos": 2103,
+        "original-start-charpos": 1930
+    },
+    {
+        "obfuscation": "in the survey , I have only that it is not in a single languages.",
+        "obfuscation-id": 20,
+        "original": "In this investigation I only included words that are different not ones that exist in one only one of the languages.",
+        "original-end-charpos": 2219,
+        "original-start-charpos": 2104
+    },
+    {
+        "obfuscation": "I did not every word different, , and for this study is based on my own ties with the would , if someone otherwise , it might not be too same. have",
+        "obfuscation-id": 21,
+        "original": "I have not all included every word that is different, and this investigation is based on my own associations with the areas so if someone else would have done it it would probably not have looked te same.",
+        "original-end-charpos": 2423,
+        "original-start-charpos": 2220
+    },
+    {
+        "obfuscation": "2 .",
+        "obfuscation-id": 22,
+        "original": "2.",
+        "original-end-charpos": 2425,
+        "original-start-charpos": 2424
+    },
+    {
+        "obfuscation": "Result On investigate , as the total number of 4,000 terms 248 differed , I found that , in some between AmE and BrE.",
+        "obfuscation-id": 23,
+        "original": "Result of frequency investigation  Of the total number of 4,000 words I found 248 that differed in some way between AmE and BrE.",
+        "original-end-charpos": 2553,
+        "original-start-charpos": 2426
+    },
+    {
+        "obfuscation": "75 words a multiplicity of forms at the same sense of two languages 1). (Appendix",
+        "obfuscation-id": 24,
+        "original": "75 words had different forms with the same meaning in the two languages (Appendix 1).",
+        "original-end-charpos": 2638,
+        "original-start-charpos": 2554
+    },
+    {
+        "obfuscation": "73 words only in AmE (Appendix 2), and 100 in BrE (Appendix 3).",
+        "obfuscation-id": 25,
+        "original": "73 words existed only in AmE (Appendix 2), and 100 in BrE (Appendix 3).",
+        "original-end-charpos": 2709,
+        "original-start-charpos": 2639
+    },
+    {
+        "obfuscation": "other terms can can be used , and in both AmE BrE.",
+        "obfuscation-id": 26,
+        "original": "The rest were words can could be used in both AmE and BrE.",
+        "original-end-charpos": 2767,
+        "original-start-charpos": 2710
+    },
+    {
+        "obfuscation": "Figure 1 Figure 1 shows the proportion of different terms that I found.",
+        "obfuscation-id": 27,
+        "original": "Figure 1  Figure 1 shows the percentage of the kind of different words I found.",
+        "original-end-charpos": 2846,
+        "original-start-charpos": 2768
+    },
+    {
+        "obfuscation": "with the total number of 4,000 words 1.88% a multiplicity of forms but the same importance in both languages.",
+        "obfuscation-id": 28,
+        "original": "Out of the total number of 4,000 words 1.88% had different forms but the same meaning in the two languages.",
+        "original-end-charpos": 2953,
+        "original-start-charpos": 2847
+    },
+    {
+        "obfuscation": "words 1.83% in AmE and only in BrE. 2.53%",
+        "obfuscation-id": 29,
+        "original": "1.83% of the words were only found in AmE and 2.53% in BrE.",
+        "original-end-charpos": 3012,
+        "original-start-charpos": 2954
+    },
+    {
+        "obfuscation": "the results of the study , as in other AmE and BrE shows that it was not as many words , at least not different, dictionary.",
+        "obfuscation-id": 30,
+        "original": "The results of the study of frequency of different words in AmE and BrE shows that there are not so many words that are different, at least not in a dictionary.",
+        "original-end-charpos": 3172,
+        "original-start-charpos": 3013
+    },
+    {
+        "obfuscation": "but I believe that , in the daily speech in both countries, , and if one slang dialect differences.",
+        "obfuscation-id": 31,
+        "original": "I believe though that there are much more words that differ in the everyday speech in the two countries, if one include slang words and dialect differences.",
+        "original-end-charpos": 3328,
+        "original-start-charpos": 3173
+    },
+    {
+        "obfuscation": "the British investigation can communicating with problems. without US",
+        "obfuscation-id": 32,
+        "original": "The investigation shows though that a British person can communicate with an American without any problems.",
+        "original-end-charpos": 3435,
+        "original-start-charpos": 3329
+    },
+    {
+        "obfuscation": "what I represented ? in the class speech that me 85.5% of all words nouns, 6.5% adjectives, 6% verbs, 1.2% adverbs and 0.008% interjections.",
+        "obfuscation-id": 33,
+        "original": "When I looked at what word classes the words belonged to I found that 85.5% of all words were nouns, 6.5% adjectives, 6% verbs, 1.2% adverbs and 0.008% interjections.",
+        "original-end-charpos": 3601,
+        "original-start-charpos": 3436
+    },
+    {
+        "obfuscation": "of course , the most word nouns abweicht class , between the languages.",
+        "obfuscation-id": 34,
+        "original": "The nouns are obviously the most common word class that differs between the languages.",
+        "original-end-charpos": 3687,
+        "original-start-charpos": 3602
+    },
+    {
+        "obfuscation": "so , if I letters individually. studied",
+        "obfuscation-id": 35,
+        "original": "It was also the case when I looked at the letters individually.",
+        "original-end-charpos": 3750,
+        "original-start-charpos": 3688
+    },
+    {
+        "obfuscation": "On 73 words , have been only in AmE 78.1% nouns, 8.2% verbs, 7% adjectives, 2.7% adverbs and 1.4% interjections.",
+        "obfuscation-id": 36,
+        "original": "Of the 73 words that were only found in AmE 78.1% were nouns, 8.2% verbs, 7% adjectives, 2.7% adverbs and 1.4% interjections.",
+        "original-end-charpos": 3875,
+        "original-start-charpos": 3751
+    },
+    {
+        "obfuscation": "the 100 Also only the most likely BrE nouns frequent, 87% nouns, 8% adjectives, 3% verbs, 1% adverbs and 1% interjections.",
+        "obfuscation-id": 37,
+        "original": "Also of the 100 only BrE words the nouns were most frequent, 87% nouns, 8% adjectives, 3% verbs, 1% adverbs and 1% interjections.",
+        "original-end-charpos": 4004,
+        "original-start-charpos": 3876
+    },
+    {
+        "obfuscation": "Figure 2 Figure 2 shows clearly that nouns with 85,5% the word class is different in both languages.",
+        "obfuscation-id": 38,
+        "original": "Figure 2  Figure 2 shows clearly that the nouns with 85,5% are the word class that differ the most in the two languages.",
+        "original-end-charpos": 4124,
+        "original-start-charpos": 4005
+    },
+    {
+        "obfuscation": "some factors In change vocabulary between the two languages.",
+        "obfuscation-id": 39,
+        "original": "There are several factors that tribute to the change in vocabulary between the two languages.",
+        "original-end-charpos": 4217,
+        "original-start-charpos": 4125
+    },
+    {
+        "obfuscation": "Britain represented ? colonized North America new words and the appointment of experiments , they existing with words BrE or also new developments ones, of technological and cultural differences in vocabulary. have",
+        "obfuscation-id": 40,
+        "original": "When Britain colonized North America new words and experiences had to be named and they did that by taking already existing BrE words or invent new ones, also technological and cultural developments have caused differences in the vocabulary.",
+        "original-end-charpos": 4458,
+        "original-start-charpos": 4218
+    },
+    {
+        "obfuscation": "a third are the (Trudgill influence and other languages Hannah, 1985:75-6).",
+        "obfuscation-id": 41,
+        "original": "A third reason is the influence of other languages (Trudgill and Hannah, 1985:75-6).",
+        "original-end-charpos": 4542,
+        "original-start-charpos": 4459
+    },
+    {
+        "obfuscation": "this is, believe, the main reason today, given that many people of the entire world immigrate States. in the US",
+        "obfuscation-id": 42,
+        "original": "This is, I believe, the most important cause today, since many people from all over the world immigrate to the United States.",
+        "original-end-charpos": 4667,
+        "original-start-charpos": 4543
+    },
+    {
+        "obfuscation": "( in ) It , they are with several nationalities and must other, communicate the largest number of new words arises, discourse languages. financial assistance of their home countries",
+        "obfuscation-id": 43,
+        "original": "There they are mixed up with several nationalities and have to learn to communicate with each other, in that way many new words arises, many of which are loan words from their native languages.",
+        "original-end-charpos": 4860,
+        "original-start-charpos": 4668
+    },
+    {
+        "obfuscation": "3 .",
+        "obfuscation-id": 44,
+        "original": "3.",
+        "original-end-charpos": 4862,
+        "original-start-charpos": 4861
+    },
+    {
+        "obfuscation": "if their Words in a specific areas of the words of different areas such as the one can only many words at the same sense not the same form.",
+        "obfuscation-id": 45,
+        "original": "Words in special areas   If one look at words from different areas one can see that there are many words with the same meaning but not the same form.",
+        "original-end-charpos": 5011,
+        "original-start-charpos": 4863
+    },
+    {
+        "obfuscation": "in many areas , is the vocabulary different.",
+        "obfuscation-id": 46,
+        "original": "In many fields the vocabulary is quite different.",
+        "original-end-charpos": 5060,
+        "original-start-charpos": 5012
+    },
+    {
+        "obfuscation": "I on three areas in which the vocabulary differs, education, food, and clothing.",
+        "obfuscation-id": 47,
+        "original": "I looked at three areas where the vocabulary differs, education, food, and clothing.",
+        "original-end-charpos": 5144,
+        "original-start-charpos": 5061
+    },
+    {
+        "obfuscation": "3.1.",
+        "obfuscation-id": 48,
+        "original": "3.1.",
+        "original-end-charpos": 5148,
+        "original-start-charpos": 5145
+    },
+    {
+        "obfuscation": "education of Bildungsraum still words , and AmE BrE.",
+        "obfuscation-id": 49,
+        "original": "Education  In the area of education there are several words that are different in AmE and BrE.",
+        "original-end-charpos": 5242,
+        "original-start-charpos": 5149
+    },
+    {
+        "obfuscation": "given that the two countries not school system , there is only natural that , in different languages and not within the other.",
+        "obfuscation-id": 50,
+        "original": "Since the two countries do not have the same school system there are naturally words that only exist in one of the languages and not in the other.",
+        "original-end-charpos": 5388,
+        "original-start-charpos": 5243
+    },
+    {
+        "obfuscation": "there are many AmE Therefor terms , you cannot for the speech in BrE versa. and",
+        "obfuscation-id": 51,
+        "original": "Therefor there are many AmE words for which one can not find a corresponding word in BrE and vice versa.",
+        "original-end-charpos": 5492,
+        "original-start-charpos": 5389
+    },
+    {
+        "obfuscation": "I believe , many students perhaps foreign exchange , some problems in a high level of school. US",
+        "obfuscation-id": 52,
+        "original": "I believe many foreign exchange students may have had some problems in an American high school.",
+        "original-end-charpos": 5587,
+        "original-start-charpos": 5493
+    },
+    {
+        "obfuscation": "3.1.1.",
+        "obfuscation-id": 53,
+        "original": "3.1.1.",
+        "original-end-charpos": 5593,
+        "original-start-charpos": 5588
+    },
+    {
+        "obfuscation": "Table 1 \u2013 that , thanks to differed AmE BrE Eraser half Rubber Term Principal as head of government Weltlehrer Class Course Vacation be monthly ballot edge Notice brink Freshman achieve Fresher Mark Amselfeld day day sports Drop-out School-leaver form achieve Prom Ball students Sophomore year II Table 1 shows that the same , but not the same form of AmE BrE, In and also some words , both in different meanings. languages .",
+        "obfuscation-id": 54,
+        "original": "Table 1 - educational word that differed  AmE\t\t\tBrE Eraser\t\t\tRubber Semester\t\t\tTerm Principal\t\t\tHead teacher Class\t\t\tCourse Vacation\t\t\tHoliday Bulletin board\t\tNotice board Freshman\t\t\tFresher Grade\t\t\tMark Field day\t\t\tSport day Drop-out\t\t\tSchool-leaver Grade\t\t\tForm Prom\t\t\tBall Sophomore\t\t\tSecond year student  Table 1 shows words that have the same meaning but not the same form in the AmE and BrE,  There are also a few words that are used in both languages but have different meanings.",
+        "original-end-charpos": 6079,
+        "original-start-charpos": 5594
+    },
+    {
+        "obfuscation": "Jr. and varsity words. party",
+        "obfuscation-id": 55,
+        "original": "Junior and varsity are two such words.",
+        "original-end-charpos": 6117,
+        "original-start-charpos": 6080
+    },
+    {
+        "obfuscation": "in a country young AmE , is a in his second year school, a high level of protection of young in Britain is a pupil school , and in a country young years of conflict between 7-11 old.",
+        "obfuscation-id": 56,
+        "original": "In AmE a junior is a student who is in his second year in high school, while a junior in Britain is a pupil in a junior school and between 7-11 years old.",
+        "original-end-charpos": 6271,
+        "original-start-charpos": 6118
+    },
+    {
+        "obfuscation": "Varsity is a common policy of word in the US in the major team , for a sport the school.",
+        "obfuscation-id": 57,
+        "original": "Varsity is a common word in the US used for the main team in a sport that represents the school.",
+        "original-end-charpos": 6367,
+        "original-start-charpos": 6272
+    },
+    {
+        "obfuscation": "because of speech is not very common in BrE exists , but as a \u00fcberkommenes word for a university, especially Oxford or Cambridge.",
+        "obfuscation-id": 58,
+        "original": "It is not a very common word in BrE but it exists as an old-fashioned word for a university, especially Oxford or Cambridge.",
+        "original-end-charpos": 6491,
+        "original-start-charpos": 6368
+    },
+    {
+        "obfuscation": "3.2.",
+        "obfuscation-id": 59,
+        "original": "3.2.",
+        "original-end-charpos": 6495,
+        "original-start-charpos": 6492
+    },
+    {
+        "obfuscation": "3.2.1. Agency",
+        "obfuscation-id": 60,
+        "original": "Food  3.2.1.",
+        "original-end-charpos": 6507,
+        "original-start-charpos": 6496
+    },
+    {
+        "obfuscation": "that Table 2 \u2013 the food differed AmE BrE Squash Marrow Zucchini Rutabaga Schwedin Courgettes related Egg Aubergine Cookie Biscuit Biscuit Scone recognizing Dessert Biscuit Pudding Jelly Jam Potato Chips herstellte Crisps French-fries Chips Wastebasket am Silverware Cutlery uffin tin Cake tin Spatula on paper Faucet again Tap Table 2 arises in the form , but no sense of two languages 3.3.",
+        "obfuscation-id": 61,
+        "original": "Table 2 - food words that differed  AmE\t\t\tBrE Squash\t\t\tMarrow Zucchini\t\t\tCourgettes Rutabaga\t\t\tSwede Egg plant\t\t\tAubergine Cookie\t\t\tBiscuit Biscuit\t\t\tScone Cracker\t\t\tBiscuit Dessert\t\t\tPudding Jelly\t\t\tJam Potato chips\t\tCrisps French-fries\t\tChips Wastebasket\t\tBin Silverware\t\t\tCutlery uffin tin\t\t\tCake tin Spatula\t\t\tFish slice Faucet\t\t\tTap  Table 2 shows words that are different in form but not in meaning in the two languages  3.3.",
+        "original-end-charpos": 6938,
+        "original-start-charpos": 6508
+    },
+    {
+        "obfuscation": "Clothing 3.3.1.",
+        "obfuscation-id": 62,
+        "original": "Clothing   3.3.1.",
+        "original-end-charpos": 6955,
+        "original-start-charpos": 6939
+    },
+    {
+        "obfuscation": "Table Kleidung that AmE differed BrE Garter Suspender Underpants Knickers Smock Overall Pantyhose Tights Tuxedo Dinner Jackett Jumper Sweater Undershirt Vest ock Turtle Turtle depends Turtle depends Polo depends Pants Trousers Sneakers Plimsolls Table 3 is embodied in the form , but no sense of two languages 4 .",
+        "obfuscation-id": 63,
+        "original": "Table 3 - clothing words that differed  AmE\t\t\t\tBrE Garter\t\t\t\tSuspender Underpants\t\t\t\tKnickers Smock\t\t\t\tOverall Pantyhose\t\t\t\tTights Tuxedo\t\t\t\tDinner jacket Sweater\t\t\t\tJumper Undershirt \t\t\tVest ock Turtle\t\t\tTurtle neck Turtle neck\t\t\tPolo neck Pants\t\t\t\tTrousers Sneakers\t\t\t\tPlimsolls  Table 3 shows words that are different in form but not in meaning in the two languages  4.",
+        "original-end-charpos": 7327,
+        "original-start-charpos": 6956
+    },
+    {
+        "obfuscation": "the conclusion of the total After examination than 4,000 Longman Dictionary Contemporary in English , I found that only 248 in AmE BrE. .",
+        "obfuscation-id": 64,
+        "original": "Conclusion  After studying a total of 4,000 words in Longman Dictionary of Contemporary English I found only 248 words that were different in AmE and BrE.",
+        "original-end-charpos": 7481,
+        "original-start-charpos": 7328
+    },
+    {
+        "obfuscation": "they In some to a multiplicity of forms , but also that a few meanings, in AmE and some BrE.",
+        "obfuscation-id": 65,
+        "original": "Some of them had different forms but same meanings, while some were only found in AmE and some in BrE.",
+        "original-end-charpos": 7583,
+        "original-start-charpos": 7482
+    },
+    {
+        "obfuscation": "the study on its to class , I found that the majority of words nouns.",
+        "obfuscation-id": 66,
+        "original": "In the investigation on word classes I found that the majority of the words were nouns.",
+        "original-end-charpos": 7670,
+        "original-start-charpos": 7584
+    },
+    {
+        "obfuscation": "in my survey words in education, foods and I clothing, , all of which are the days in America and Britain.",
+        "obfuscation-id": 67,
+        "original": "In my investigation on words in the areas of education, food and clothing, I found every day words that are different in America and Britain.",
+        "original-end-charpos": 7811,
+        "original-start-charpos": 7671
+    },
+    {
+        "obfuscation": "the study , one thing is the UK example National Corpus.",
+        "obfuscation-id": 68,
+        "original": "This investigation is based on a dictionary taken from the British National Corpus.",
+        "original-end-charpos": 7894,
+        "original-start-charpos": 7812
+    },
+    {
+        "obfuscation": "not many differences between the languages, well , but I beloieva i , if a US can as a complement , I would have gotten result. another",
+        "obfuscation-id": 69,
+        "original": "It did not show many differences between the languages, but I beloieva that if i had used an American dictionary as a complement I would have gotten a different result.",
+        "original-end-charpos": 8062,
+        "original-start-charpos": 7895
+    },
+    {
+        "obfuscation": "I Many hours fthe terms in Longman can be used , and in the two AmE BrE, was a word , but that , for example , often in not as AmE in BrE.",
+        "obfuscation-id": 70,
+        "original": "Many o fthe words I found in Longman could be used in both AmE and BrE, but often a word that was common in for example AmE was not so frequently used in BrE.",
+        "original-end-charpos": 8220,
+        "original-start-charpos": 8063
+    },
+    {
+        "obfuscation": "which means that a US BrE not understood States, often anyway, perhaps only good strange.",
+        "obfuscation-id": 71,
+        "original": "This means that even though a BrE word is not used in the United States, it is often understood anyway, it may just sound strange.",
+        "original-end-charpos": 8350,
+        "original-start-charpos": 8221
+    },
+    {
+        "obfuscation": "with the A foreigner BrE without any problems in the United States of America.",
+        "obfuscation-id": 72,
+        "original": "A foreigner with knowledge of BrE can manage without any major problems in the United States of America.",
+        "original-end-charpos": 8454,
+        "original-start-charpos": 8351
+    },
+    {
+        "obfuscation": "5 .",
+        "obfuscation-id": 73,
+        "original": "5.",
+        "original-end-charpos": 8456,
+        "original-start-charpos": 8455
+    },
+    {
+        "obfuscation": "Appendixes 5.1 Appendix 1- Words and , in the AmE BrE AmE BrE Rappel Abseil Absentee vote Postal vote gas pedal Accelerator Airplane Aeroplane Ages discrimination Ageism Advice column Agony column BB guns Arabs All-around guns All-round Allen wrench Allen key Aluminum Aluminium is not the British  football arcade Video Amusement arcade baby transport Pushcart Formula Babymilk Babysitter Childminder Bachelor party Back Backcha Stag night speak Backcomb Tease Band-Aid Elastoplast bank map Banker's Cheque out Bar card for permanent out Bar graph chart out Bar hop Pub-crawl Bartender Barman/barmaid Barrette Hair slide Baseboard Skirting aboard a little Beauty Beauty Beet Beetroot Bellhop Bellboy Bell pepper Capsicum Beltway circle path Bias Bias bureaucracy Ferris binding Rad Big Rad Billy creditors Truncheon Garbage collector Binman Caboose Guard's van Cabstand Taxi ooch order Cadge Cake part Cake tin Call-in Phone-in Calling map map Visiting Call letters Call sign Campground Campsite Kann Tin canadiennes Bacon cheeseburgers Candy Sweet Cotton Candy Candyfloss Trailer Caravan Card catalogue Card Career canselor index Careers Janitor much of the Assembly Caretaker Parking Car park Carryall Holdall Portacrib Carrycot Carry-out Takeaway Slingshot Catapult aush\u00f6hlen Central edian reserves Certified e-mails Recorded provision hop Kanals surf Kanals CPA Chartered accountant member Charter Founder Talk member online show AmE show BrE Checkerboard Draughtboard Checking Current Check-room Cloakroom Appendix account for the 2 \u2013 Selection words only in AmE Absentee round All-fired All-nighter Alum Alumni throw Beauty guy parlor Bedroll Bare-assed Bassinet Baggage car Barfly Billfold Barf of a situation Cabin Balky fever Cakewal Candy cane Candy greatest in Candy stripper Careen Caregiver Care package Chaparral Chap-book Dentine Dang day Davenport Desk clerk camp Dibs Deadhead Diddly Dean's list Deep six following",
+        "obfuscation-id": 74,
+        "original": "Appendixes  5.1 Appendix 1- Words that were different in AmE and BrE  AmE\t\t\t\tBrE Rappel\t\t\t\tAbseil Absentee vote\t\t\tPostal vote Gas pedal\t\t\t\tAccelerator Airplane\t\t\t\tAeroplane Age discrimination\t\t\tAgeism Advice column\t\t\tAgony column BB gun\t\t\t\tAir gun All-around\t\t\t\tAll-round Allen wrench\t\t\tAllen key Aluminum\t\t\t\tAluminium Football\t\t\t\tAmerican football Video arcade\t\t\tAmusement arcade\t\t\t Baby carriage\t\t\tPushcart Formula\t\t\t\tBabymilk Babysitter\t\t\t\tChildminder Bachelor party\t\t\tStag night Back talk\t\t\t\tBackcha Tease\t\t\t\tBackcomb Band-Aid\t\t\t\tElastoplast Bank card\t\t\t\tCheque card Banker's order\t \t\tStanding order Bar graph\t\t\t\tBar chart Bar hop\t\t\t\tPub-crawl Bartender\t\t\t\tBarman/barmaid Barrette\t\t\t\tHair slide Baseboard\t\t\t\tSkirting board Beauty mark\t\t\tBeauty spot Beet\t\t\t\tBeetroot Bellhop\t\t\t\tBellboy Bell pepper\t\t\tCapsicum Beltway\t\t\t\tRing road Bias tape\t\t\t\tBias binding Ferris wheel\t\t\tBig wheel Billy club\t\t\t\tTruncheon Garbage collector\t\t\tBinman Caboose\t\t\t\tGuard's van Cabstand\t\t\t\tTaxi rank ooch\t\t\t\tCadge Cake pan\t\t\t\tCake tin Call-in\t\t\t\tPhone-in Calling card\t\t\tVisiting card Call letters\t\t\tCall sign Campground\t\t\t\tCampsite Can\t\t\t\tTin Canadian bacon\t\t\tBacon Candy\t\t\t\tSweet Cotton Candy \t\t\tCandyfloss Trailer\t\t\t\tCaravan Card catalog\t\t\tCard index Career canselor\t\t\tCareers officer Janitor\t\t\t\tCaretaker Parking lot\t\t\tCar park Carryall\t\t\t\tHoldall Portacrib\t\t\t\tCarrycot Carry-out\t\t\t\tTakeaway Slingshot\t\t\t\tCatapult edian strip\t\t\tCentral reservation Certified mail\t\t\tRecorded delivery Channel surf\t\t\tChannel hop CPA\t\t\t\tChartered accountant Charter member\t\t\tFounder member Talk show\t\t\t\tChat show AmE\t\t\t\tBrE Checkerboard\t\t\tDraughtboard Checking account\t\t\tCurrent account Check-room\t\t\t\tCloakroom  5.2 Appendix 2 - Selection of words only found in AmE  Absentee ballot\t\t\tAll-fired All-nighter\t\t\tAlum Alumni\t\t\t\tBad guy Beauty parlor\t\t\tBedroll Bare-assed\t\t\t\tBassinet Baggage car\t\t\tBillfold Barfly\t\t\t\tBarf Bach\t\t\t\tBalky Cabin fever\t\t\tCakewal Candy cane \t\t\tCandy apple\t Candy stripper\t\t\tCareen Caregiver\t\t\t\tCare package Chaparral\t\t\t\tChap-book Dentine\t\t\t\tDang Davenport\t\t\t\tDay camp Desk clerk\t\t\t\tDibs Deadhead\t\t\t\tDiddly Dean's list\t\t\tDeep six  5.3.",
+        "original-end-charpos": 10576,
+        "original-start-charpos": 8457
+    },
+    {
+        "obfuscation": "Appendix Selection 3 , the only in BrE Abattoir About-turn Advert Aerodrome Ambulanceman Aftercare Aggro Arabs Airy hostess fairy Arabs Barmy letter Barney Barack Baddie Barrow boy Bathing trunks Batty Banana skin Bap Beef burger Cardigan Caff Card vote Cagoule Cakehole Camiknickers Canoodle Caravanning Carer Chap Dab side for legal Daft Derv day Denier tripper day Desk own pupil Did-dums Dickybird 6",
+        "obfuscation-id": 75,
+        "original": "Appendix 3 - Selection of words only found in BrE  Abattoir\t\t\tAbout-turn Advert\t\t\tAerodrome\t Ambulanceman\t\tAftercare Aggro\t\t\tAir hostess Airy fairy\t\t\tAir letter Barmy\t\t\tBarney Barrack\t\t\tBaddie Barrow boy\t\t\tBathing trunks Batty\t\t\tBanana skin Bap\t\t\tBeef burger Cardigan\t\t\tCaff Card vote\t\t\tCagoule Cakehole\t\t\tCamiknickers Canoodle\t\t\tCaravanning Carer\t\t\tChap Dab hand\t\t\tDaft Des res\t\t\tDerv Denier\t\t\tDay tripper Desk tidy\t\t\tDay pupil Did-dums\t\t\tDickybird  6.",
+        "original-end-charpos": 11029,
+        "original-start-charpos": 10577
+    },
+    {
+        "obfuscation": "the Contemporary English. References Longman Dictionary",
+        "obfuscation-id": 76,
+        "original": "References  Longman Dictionary of Contemporary English.",
+        "original-end-charpos": 11084,
+        "original-start-charpos": 11030
+    },
+    {
+        "obfuscation": "1995.",
+        "obfuscation-id": 77,
+        "original": "1995.",
+        "original-end-charpos": 11089,
+        "original-start-charpos": 11085
+    },
+    {
+        "obfuscation": "third edition.",
+        "obfuscation-id": 78,
+        "original": "3rd edition.",
+        "original-end-charpos": 11101,
+        "original-start-charpos": 11090
+    },
+    {
+        "obfuscation": "the macro-story Clays Britain: Ltd. Trudgill P. and Hannah. 2003",
+        "obfuscation-id": 79,
+        "original": "Great Britain: Clays Ltd.   Trudgill P. and J.  Hannah.",
+        "original-end-charpos": 11156,
+        "original-start-charpos": 11102
+    },
+    {
+        "obfuscation": "international 1985. English, 75-6, 79-80. parties",
+        "obfuscation-id": 80,
+        "original": "1985.  International English, pages 75-6, 79-80.",
+        "original-end-charpos": 11204,
+        "original-start-charpos": 11157
+    }
+]

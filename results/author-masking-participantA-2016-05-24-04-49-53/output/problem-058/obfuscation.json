@@ -1,0 +1,254 @@
+[
+    {
+        "obfuscation": "\ufeff ALLOW BASEBALL CAPS IN THE CLASSROOM There is a lively debate going on in Swedish schools whether to allow pupils to break caps or whether to force them to take them off in class .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeff ALLOW BASEBALL CAPS IN THE CLASSROOM  There is a lively debate going on in Swedish schools whether to allow pupils to wear caps or whether to force them to take them off in class.", 
+        "original-end-charpos": 180, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "The custom to break a baseball cap has become very popular and many pupils do not take the cap off their heads when they enter the classroom .", 
+        "obfuscation-id": 2, 
+        "original": " \nThe custom to wear a baseball cap has become very popular and many pupils do not take the cap off their heads when they enter the classroom.", 
+        "original-end-charpos": 322, 
+        "original-start-charpos": 181
+    }, 
+    {
+        "obfuscation": "What young people break has always been discussed by adults and teachers have even in the past reacted to how their students are dressed .", 
+        "obfuscation-id": 3, 
+        "original": " \nWhat young people wear has always been discussed by adults and teachers have even in the past reacted to how their students are dressed.", 
+        "original-end-charpos": 460, 
+        "original-start-charpos": 323
+    }, 
+    {
+        "obfuscation": "however , the discussion about the cap is much more upset than previous discussions .", 
+        "obfuscation-id": 4, 
+        "original": " \nNevertheless, the discussion about the cap is much more upset than previous discussions.", 
+        "original-end-charpos": 550, 
+        "original-start-charpos": 461
+    }, 
+    {
+        "obfuscation": "In some schools the debate is so intense that it has divided the school staff into two groups depending on the impression on the matter .", 
+        "obfuscation-id": 5, 
+        "original": " \nIn some schools the debate is so intense that it has divided the school staff into two groups depending on the opinion on the matter.", 
+        "original-end-charpos": 685, 
+        "original-start-charpos": 551
+    }, 
+    {
+        "obfuscation": "This is a rather complex issue and I will take up just two standpoints for allowing pupils to break baseball caps in the classroom .", 
+        "obfuscation-id": 6, 
+        "original": " \t\nThis is a rather complex issue and I will take up just two standpoints for allowing pupils to wear baseball caps in the classroom.", 
+        "original-end-charpos": 818, 
+        "original-start-charpos": 686
+    }, 
+    {
+        "obfuscation": "First , clothing is a part of a young person 's struggle for identity , second , the cap itself is not the problem , there are other reasons why teachers become so upset when pupils do not take off their caps .", 
+        "obfuscation-id": 7, 
+        "original": " \nFirst, clothing is a part of a young person's struggle for identity, second, the cap itself is not the problem, there are other reasons why teachers get so upset when pupils do not take off their caps.", 
+        "original-end-charpos": 1021, 
+        "original-start-charpos": 819
+    }, 
+    {
+        "obfuscation": "In the inaugural place , young people try several ways to find out and show who they are or would like to be .", 
+        "obfuscation-id": 8, 
+        "original": "  \t \nIn the first place, young people try several ways to find out and show who they are or would like to be.", 
+        "original-end-charpos": 1130, 
+        "original-start-charpos": 1022
+    }, 
+    {
+        "obfuscation": "For instance , music and sports are often important functions of their lives which they , naturally , have a need to express in different ways .", 
+        "obfuscation-id": 9, 
+        "original": " \nFor instance, music and sports are often important parts of their lives which they, naturally, have a need to express in different ways.", 
+        "original-end-charpos": 1268, 
+        "original-start-charpos": 1131
+    }, 
+    {
+        "obfuscation": "In other words , a cap , frequently with a logotype showing what music style or sports team the wearer likes , is a way to show identity .", 
+        "obfuscation-id": 10, 
+        "original": " \nIn other words, a cap, often with a logotype showing what music style or sports team the wearer likes, is a way to show identity.", 
+        "original-end-charpos": 1399, 
+        "original-start-charpos": 1269
+    }, 
+    {
+        "obfuscation": "It is no news that teenagers desire to dress differently from adults .", 
+        "obfuscation-id": 11, 
+        "original": " \nIt is no news that teenagers want to dress differently from adults.", 
+        "original-end-charpos": 1468, 
+        "original-start-charpos": 1400
+    }, 
+    {
+        "obfuscation": "Not besides long ago this could be done by wearing jeans and a sweater .", 
+        "obfuscation-id": 12, 
+        "original": " \nNot too long ago this could be done by wearing jeans and a sweater.", 
+        "original-end-charpos": 1537, 
+        "original-start-charpos": 1469
+    }, 
+    {
+        "obfuscation": "This is not longer potential because it is the way any teachers dress nowadays .", 
+        "obfuscation-id": 13, 
+        "original": " \nThis is not longer possible because it is the way any teachers dress nowadays.", 
+        "original-end-charpos": 1617, 
+        "original-start-charpos": 1538
+    }, 
+    {
+        "obfuscation": "Strangely enough , the reaction to and the feelings about pupils wearing baseball caps in class seem more upset than , for example , the reactions to punk-rockers in the 1980s .", 
+        "obfuscation-id": 14, 
+        "original": "  \t \nStrangely enough, the reaction to and the feelings about pupils wearing baseball caps in class seem more upset than, for example, the reactions to punk-rockers in the 1980s.", 
+        "original-end-charpos": 1795, 
+        "original-start-charpos": 1618
+    }, 
+    {
+        "obfuscation": "One explanation of this is that the cap is a religious and social symbol .", 
+        "obfuscation-id": 15, 
+        "original": " \nOne explanation of this is that the cap is a religious and social symbol.", 
+        "original-end-charpos": 1870, 
+        "original-start-charpos": 1796
+    }, 
+    {
+        "obfuscation": "Traditionally , men take off their caps in church in order to show respect and generations of simple men have gone `` cap in hand '' to beg for their survival .", 
+        "obfuscation-id": 16, 
+        "original": " \nTraditionally, men take off their caps in church in order to show respect and generations of simple men have gone \"cap in hand\" to beg for their survival.", 
+        "original-end-charpos": 2026, 
+        "original-start-charpos": 1871
+    }, 
+    {
+        "obfuscation": "Undoubtedly , this humility is what many teachers seem to want from their students in the 1990s .", 
+        "obfuscation-id": 17, 
+        "original": " \nUndoubtedly, this humility is what many teachers seem to want from their students in the 1990s.", 
+        "original-end-charpos": 2123, 
+        "original-start-charpos": 2027
+    }, 
+    {
+        "obfuscation": "They find provoked and not respectfully treated by pupils who wear caps in class .", 
+        "obfuscation-id": 18, 
+        "original": " \nThey feel provoked and not respectfully treated by pupils who wear caps in class.", 
+        "original-end-charpos": 2206, 
+        "original-start-charpos": 2124
+    }, 
+    {
+        "obfuscation": "Of course , both teachers and pupils shall be met by respect in school .", 
+        "obfuscation-id": 19, 
+        "original": " \nOf course, both teachers and pupils shall be met by respect in school.", 
+        "original-end-charpos": 2278, 
+        "original-start-charpos": 2207
+    }, 
+    {
+        "obfuscation": "However , it is lack of respect to demand this humility from adolescents .", 
+        "obfuscation-id": 20, 
+        "original": " \nHowever, it is lack of respect to demand this humility from teenagers.", 
+        "original-end-charpos": 2350, 
+        "original-start-charpos": 2279
+    }, 
+    {
+        "obfuscation": "School has to look upon every individual pupil as an individual and to let this individual develop in her/his way .", 
+        "obfuscation-id": 21, 
+        "original": " \nSchool has to look upon every single pupil as an individual and to let this individual develop in her/his way.", 
+        "original-end-charpos": 2462, 
+        "original-start-charpos": 2351
+    }, 
+    {
+        "obfuscation": "People who do not want the pupils to break caps in class might ask where this is going to end , what are young persons wearing in2050 , are things getting worse and worse ?", 
+        "obfuscation-id": 22, 
+        "original": " \nPeople who do not want the pupils to wear caps in class might ask where this is going to end, what are young persons wearing in2050, are things getting worse and worse?", 
+        "original-end-charpos": 2632, 
+        "original-start-charpos": 2463
+    }, 
+    {
+        "obfuscation": "I would say that this is not the problem and it brings me to the next argument for allowing caps in the classroom .", 
+        "obfuscation-id": 23, 
+        "original": " \nI would say that this is not the problem and it brings me to the next argument for allowing caps in the classroom.", 
+        "original-end-charpos": 2748, 
+        "original-start-charpos": 2633
+    }, 
+    {
+        "obfuscation": "The reason why teachers become upset when pupils do not take off the cap is unclear .", 
+        "obfuscation-id": 24, 
+        "original": " \t \nThe reason why teachers get upset when pupils do not take off the cap is unclear.", 
+        "original-end-charpos": 2833, 
+        "original-start-charpos": 2749
+    }, 
+    {
+        "obfuscation": "It may be argued that it is rude and impolite or that the pupil 's eyes can not be seen .", 
+        "obfuscation-id": 25, 
+        "original": " \nIt may be argued that it is rude and impolite or that the pupil's eyes can not be seen.", 
+        "original-end-charpos": 2922, 
+        "original-start-charpos": 2834
+    }, 
+    {
+        "obfuscation": "however , the baseball cap has just become a symbol for more serious problems .", 
+        "obfuscation-id": 26, 
+        "original": " \nStill, the baseball cap has just become a symbol for more serious problems.", 
+        "original-end-charpos": 2999, 
+        "original-start-charpos": 2923
+    }, 
+    {
+        "obfuscation": "It is mainly boys in caps that cause the teachers ' irritation .", 
+        "obfuscation-id": 27, 
+        "original": " \nIt is mainly boys in caps that cause the teachers' irritation.", 
+        "original-end-charpos": 3063, 
+        "original-start-charpos": 3000
+    }, 
+    {
+        "obfuscation": "Even this has its explanation in religious traditions , thus , men traditionally take off the caps while women keep their hats on in order to show respect in church .", 
+        "obfuscation-id": 28, 
+        "original": " \nEven this has its explanation in religious traditions, thus, men traditionally take off the caps while women keep their hats on in order to show respect in church.", 
+        "original-end-charpos": 3228, 
+        "original-start-charpos": 3064
+    }, 
+    {
+        "obfuscation": "Owing to this , girls in baseball caps appear less provocative than boys .", 
+        "obfuscation-id": 29, 
+        "original": " \nOwing to this, girls in baseball caps appear less provocative than boys.", 
+        "original-end-charpos": 3302, 
+        "original-start-charpos": 3229
+    }, 
+    {
+        "obfuscation": "Furthermore , boys behave , in cosmopolitan , more provocatively than girls .", 
+        "obfuscation-id": 30, 
+        "original": " \nFurthermore, boys behave, in general, more provocatively than girls.", 
+        "original-end-charpos": 3372, 
+        "original-start-charpos": 3303
+    }, 
+    {
+        "obfuscation": "It is not to be said that teachers are careless about the real problems .", 
+        "obfuscation-id": 31, 
+        "original": " \nIt is not to be said that teachers are careless about the real problems.", 
+        "original-end-charpos": 3446, 
+        "original-start-charpos": 3373
+    }, 
+    {
+        "obfuscation": "However , some teachers are more likely to deal with the cap-problem than to search the origin to why things do not work away well in the classroom .", 
+        "obfuscation-id": 32, 
+        "original": " \nHowever, some teachers are more likely to deal with the cap-problem than to search the origin to why things do not work out well in the classroom.", 
+        "original-end-charpos": 3594, 
+        "original-start-charpos": 3447
+    }, 
+    {
+        "obfuscation": "In conclusion , the baseball cap has become a bigger issue than it deserves .", 
+        "obfuscation-id": 33, 
+        "original": " \t \nIn conclusion, the baseball cap has become a bigger issue than it deserves.", 
+        "original-end-charpos": 3673, 
+        "original-start-charpos": 3595
+    }, 
+    {
+        "obfuscation": "To wear a cap is , in most cases , a rather harmless means for young persons to show who they are .", 
+        "obfuscation-id": 34, 
+        "original": " \nTo wear a cap is, in most cases, a rather harmless way for young persons to show who they are.", 
+        "original-end-charpos": 3769, 
+        "original-start-charpos": 3674
+    }, 
+    {
+        "obfuscation": "When teachers choose to focus their attention on whether pupils take off their caps or not , they are neglecting more serious problems .", 
+        "obfuscation-id": 35, 
+        "original": " \nWhen teachers choose to focus their attention on whether pupils take off their caps or not, they are neglecting more serious problems.", 
+        "original-end-charpos": 3905, 
+        "original-start-charpos": 3770
+    }, 
+    {
+        "obfuscation": "Eventually , in order to deal with the pupils of today teachers have to get rid of old traditions and face modern society .", 
+        "obfuscation-id": 36, 
+        "original": " \nEventually, in order to deal with the pupils of today teachers have to get rid of old traditions and face modern society.\n", 
+        "original-end-charpos": 4029, 
+        "original-start-charpos": 3906
+    }
+]

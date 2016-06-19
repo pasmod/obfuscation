@@ -1,0 +1,380 @@
+[
+    {
+        "obfuscation": "\ufeffHow archive and meins , the complex data HCS attempts , a series of challenges with methods , which but RNAi response and operational data gathered?",
+        "obfuscation-id": 1,
+        "original": "\ufeffHow best to archive and mine the complex data derived from HCS experiments that provides a series of challenges associated with both the methods used to elicit the RNAi response and the functional data gathered?",
+        "original-end-charpos": 214,
+        "original-start-charpos": 0
+    },
+    {
+        "obfuscation": "to effective data industrialized countries retrieval for HCS experiments, of data , images and associates be conserv\u00e9es for information with senior integrity and form. readable",
+        "obfuscation-id": 2,
+        "original": "To enable effective data retrieval for HCS experiments, data and images and associated information must be stored with high integrity and in a readable form.",
+        "original-end-charpos": 372,
+        "original-start-charpos": 215
+    },
+    {
+        "obfuscation": "HCS data are stored in multiple a form that the desired characteristics of such data on the full from access, data. hinterfragt .",
+        "obfuscation-id": 3,
+        "original": "HCS data should be stored in a form that takes advantage of the characteristics of this type of data to enable full access, analysis and exploitation of the data.",
+        "original-end-charpos": 536,
+        "original-start-charpos": 373
+    },
+    {
+        "obfuscation": "an important issue is the basis of data model in the logic form.",
+        "obfuscation-id": 4,
+        "original": "A key factor is the database model which represents data in logical form.",
+        "original-end-charpos": 609,
+        "original-start-charpos": 537
+    },
+    {
+        "obfuscation": "the data model of data (or structure of data or schema) should be flexible , to the different types (i.e., information, HCS data exacerbates results: image of data , abgeleiteter metadata), melting simulation and a wide range of changes in different groups of data wells, (e.g., cells, features, images, image formats, from and other number of time-points, on). .",
+        "obfuscation-id": 5,
+        "original": "The data model (or database structure or database schema) should be flexible to handle the various HCS data types (i.e., compound information, results: image data and derived metadata), experiment simulation and a wide range of changes in the data (e.g., different numbers of wells, cells, features, images, different image sizes and formats, different number of time-points, and so on).",
+        "original-end-charpos": 1000,
+        "original-start-charpos": 610
+    },
+    {
+        "obfuscation": "the structure of data model is a description of data and relations in the data data, organized, cataloged, and searched effectively.",
+        "obfuscation-id": 6,
+        "original": "The structure of the data model provides a way of describing data and the relationships within the data, enabling data to be organized, cataloged, and searched effectively.",
+        "original-end-charpos": 1174,
+        "original-start-charpos": 1001
+    },
+    {
+        "obfuscation": "where a database Databases model implementation of the concentration of data that the actor useful visualization, analysis, and data mining.",
+        "obfuscation-id": 7,
+        "original": "Databases where a database model is implemented enable joining of related data to allow meaningful visualization, analysis, and data mining.",
+        "original-end-charpos": 1315,
+        "original-start-charpos": 1175
+    },
+    {
+        "obfuscation": "it is important as the data for integration with other systems.",
+        "obfuscation-id": 8,
+        "original": "The data model is also important for integration with other systems.",
+        "original-end-charpos": 1384,
+        "original-start-charpos": 1316
+    },
+    {
+        "obfuscation": "HCS data are three data: 1 .",
+        "obfuscation-id": 9,
+        "original": "HCS data are containing three types of data: 1.",
+        "original-end-charpos": 1432,
+        "original-start-charpos": 1385
+    },
+    {
+        "obfuscation": "links Database (RNAi or small molecules).",
+        "obfuscation-id": 10,
+        "original": "Database of compounds (RNAi or small molecules).",
+        "original-end-charpos": 1480,
+        "original-start-charpos": 1433
+    },
+    {
+        "obfuscation": "2 .",
+        "obfuscation-id": 11,
+        "original": "2.",
+        "original-end-charpos": 1482,
+        "original-start-charpos": 1481
+    },
+    {
+        "obfuscation": "images work Numbers storage. huge amounts .",
+        "obfuscation-id": 12,
+        "original": "Numbers of images that require significant amounts of storage.",
+        "original-end-charpos": 1544,
+        "original-start-charpos": 1483
+    },
+    {
+        "obfuscation": "3 .",
+        "obfuscation-id": 13,
+        "original": "3.",
+        "original-end-charpos": 1546,
+        "original-start-charpos": 1545
+    },
+    {
+        "obfuscation": "the concept of data Numbers parameters.",
+        "obfuscation-id": 14,
+        "original": "Numbers of files including image processing parameters.",
+        "original-end-charpos": 1601,
+        "original-start-charpos": 1547
+    },
+    {
+        "obfuscation": "4 .",
+        "obfuscation-id": 15,
+        "original": "4.",
+        "original-end-charpos": 1603,
+        "original-start-charpos": 1602
+    },
+    {
+        "obfuscation": "Meta-data.",
+        "obfuscation-id": 16,
+        "original": "Meta-data.",
+        "original-end-charpos": 1613,
+        "original-start-charpos": 1604
+    },
+    {
+        "obfuscation": "Thus, many of the data is also only a united plate.",
+        "obfuscation-id": 17,
+        "original": "Thus, a large amount of data is collected for just one well of a single plate.",
+        "original-end-charpos": 1691,
+        "original-start-charpos": 1614
+    },
+    {
+        "obfuscation": "other associated with In addition, information about the assay or experiment, as the typical recorded. information, proc\u00e8s-verbal",
+        "obfuscation-id": 18,
+        "original": "In addition, other associated information about the assay or experiment, such as protocol information, is also typically recorded.",
+        "original-end-charpos": 1822,
+        "original-start-charpos": 1692
+    },
+    {
+        "obfuscation": "four types of data having easy to define three categories of general HCS data: data: image , are the images acquired each Kanal among different Commissioners and visualization purposes thumbnails Numeric Results data: \u2013 the result of a crucial measurements analysis on an image with image of the analysis of algorithms.",
+        "obfuscation-id": 19,
+        "original": "Having four types of data is easy to define three general categories of HCS data: - Image data: These are the images acquired at each channel for each field within a well and produced thumbnails for visualization purposes - Numeric Results data: these are the measurements that result from performing an analysis on an image with image analysis algorithms.",
+        "original-end-charpos": 2182,
+        "original-start-charpos": 1823
+    },
+    {
+        "obfuscation": "the argument \u2013 Metadata: data are , for the two other types of data are (i.e., metadata data , other data). described",
+        "obfuscation-id": 20,
+        "original": "- Metadata: These are the associated data that provide context for the other two categories of data (i.e., metadata are data that describes other data).",
+        "original-end-charpos": 2335,
+        "original-start-charpos": 2183
+    },
+    {
+        "obfuscation": "that is another reason Examples are: \u2013 annotation, assay type, Pult in judged by protocols, calculated information, operators, data that dose\u2013response values, and annotations from other systems.",
+        "obfuscation-id": 21,
+        "original": "Examples are: well \u2013 compound annotation, assay type, plate information, protocols, operators, calculated data such as dose\u2013response values, as well as annotations imported from other systems.",
+        "original-end-charpos": 2529,
+        "original-start-charpos": 2336
+    },
+    {
+        "obfuscation": "Let\u2019s to understand are produced. data",
+        "obfuscation-id": 22,
+        "original": "Let\u2019s try to understand how data are produced.",
+        "original-end-charpos": 2575,
+        "original-start-charpos": 2530
+    },
+    {
+        "obfuscation": "normally circumventing HCS scan multiwell plates.",
+        "obfuscation-id": 23,
+        "original": "HCS microscopes typically scan multiwell plates.",
+        "original-end-charpos": 2623,
+        "original-start-charpos": 2576
+    },
+    {
+        "obfuscation": "normally plates thesis 96, 384, or 1536 wells. have",
+        "obfuscation-id": 24,
+        "original": "These plates typically have 96, 384, or 1536 wells.",
+        "original-end-charpos": 2675,
+        "original-start-charpos": 2624
+    },
+    {
+        "obfuscation": "a container Each the Pult in judging by the various , contains a by the cells.",
+        "obfuscation-id": 25,
+        "original": "Each well is a container in the plate that contains an individual sample of cells.",
+        "original-end-charpos": 2758,
+        "original-start-charpos": 2676
+    },
+    {
+        "obfuscation": "their Each is different fields.",
+        "obfuscation-id": 26,
+        "original": "Each well is divided into multiple fields.",
+        "original-end-charpos": 2800,
+        "original-start-charpos": 2759
+    },
+    {
+        "obfuscation": "a region Each area is good that a area image.",
+        "obfuscation-id": 27,
+        "original": "Each field is a region of a well that represents an area to image.",
+        "original-end-charpos": 2867,
+        "original-start-charpos": 2801
+    },
+    {
+        "obfuscation": "many images, Each area for every wavelength against the (referred as \u201cchannel\u201d, \u201cstaining\u201d), relevant to the fluorescent markers/probes in the interest of biology/dye (e.g., DAPI).",
+        "obfuscation-id": 28,
+        "original": "Each field consists of multiple images, one for each individual wavelength of light (referred to as a \u201cchannel\u201d, \u201cstaining\u201d), corresponding to the fluorescent markers/probes used for the biology/dye of interest (e.g., DAPI).",
+        "original-end-charpos": 3093,
+        "original-start-charpos": 2868
+    },
+    {
+        "obfuscation": "( in ) It is typical between two and four are means by the area of (e.g., Kanal shows every different parts of the cells: 1 chains channel: cell membranes, nuclei, 2 and 3 channel: endosomes, on).",
+        "obfuscation-id": 29,
+        "original": "There are typically between two and four channels per field (e.g., each channel shows different elements of the cells: 1 channel nuclei, 2 channel: cell membranes, 3 channel: endosomes, and so on).",
+        "original-end-charpos": 3292,
+        "original-start-charpos": 3094
+    },
+    {
+        "obfuscation": "they are the images analyzed automated image processing. immediately with",
+        "obfuscation-id": 30,
+        "original": "The images produced are immediately analyzed using automated image processing.",
+        "original-end-charpos": 3371,
+        "original-start-charpos": 3293
+    },
+    {
+        "obfuscation": "melting produced. results",
+        "obfuscation-id": 31,
+        "original": "Experiment results are produced.",
+        "original-end-charpos": 3403,
+        "original-start-charpos": 3372
+    },
+    {
+        "obfuscation": "Each seeded with a number of cells recognize the transformation of the picture algorithms.",
+        "obfuscation-id": 32,
+        "original": "Each well is seeded with a certain number of cells which has to be detected by image processing algorithms.",
+        "original-end-charpos": 3511,
+        "original-start-charpos": 3404
+    },
+    {
+        "obfuscation": "even the cell parameter a fundamental to the quality of automation, microscopy or assay performance.",
+        "obfuscation-id": 33,
+        "original": "The cell number counted is a basic parameter used for the quality control of automation, microscopy or assay performance.",
+        "original-end-charpos": 3633,
+        "original-start-charpos": 3512
+    },
+    {
+        "obfuscation": "the number of cells Frequenzbereichen by also reliance on experiment, but between 5 % and competitive 10000 cells.",
+        "obfuscation-id": 34,
+        "original": "The number of cells per well varies depending on the experiment, but typically ranges between 5 and 10000 cells.",
+        "original-end-charpos": 3746,
+        "original-start-charpos": 3634
+    },
+    {
+        "obfuscation": "often Very pictures of not long stunt \u00e9lectromagn\u00e9tiques fields are an idea assemblies function. with",
+        "obfuscation-id": 35,
+        "original": "Very often images from well fields are merged into one image using montage function.",
+        "original-end-charpos": 3831,
+        "original-start-charpos": 3747
+    },
+    {
+        "obfuscation": "In the specifics of every cell, different 2000-Programms (or measurements) unfairly image of automated processing.",
+        "obfuscation-id": 36,
+        "original": "For each cell, multiple object features (or measurements) are calculated by automated image processing.",
+        "original-end-charpos": 3935,
+        "original-start-charpos": 3832
+    },
+    {
+        "obfuscation": "as the cell particularities measurements as size, shape, intensity, on. .",
+        "obfuscation-id": 37,
+        "original": "The cell features include measurements such as size, shape, intensity, and so on.",
+        "original-end-charpos": 4017,
+        "original-start-charpos": 3936
+    },
+    {
+        "obfuscation": "the number of cell particularities Frequenzbereichen calculated characterized by the assay, but between 5 % and 500.Those particularities carefully filtered investigated, , and only parameters to hit definition. considered",
+        "obfuscation-id": 38,
+        "original": "The number of cell features calculated varies depending on the assay, but typically ranges between 5 and 500.Those features have to be carefully investigated, filtered and only parameters should be considered for hit definition.",
+        "original-end-charpos": 4247,
+        "original-start-charpos": 4018
+    },
+    {
+        "obfuscation": "In addition, cell aggregated often at the level are also a labeled as well as the statistical (one judging by Pult annotation and how special identify).",
+        "obfuscation-id": 39,
+        "original": "In addition, cell features are often aggregated to the well level to provide well level statistics (one well one row labeled with plate annotation and position as unique identify).",
+        "original-end-charpos": 4428,
+        "original-start-charpos": 4248
+    },
+    {
+        "obfuscation": "as a whole to stockpile size attempts on the acquired image data, image thumbnails, libraries , and the results numeric data.",
+        "obfuscation-id": 40,
+        "original": "The total storage size for experiments is primarily based on the acquired image data, image thumbnails, library information and the numeric results data.",
+        "original-end-charpos": 4583,
+        "original-start-charpos": 4429
+    },
+    {
+        "obfuscation": "the time data, purchases and a number of factors the nature of the nature of assay, plates, screen secondary), (primary, computational available hardware, the throughput or analysis of the instrument and the number of instruments can parallel.",
+        "obfuscation-id": 41,
+        "original": "The amount of data, acquisition and processing time varies depending on a number of factors including the type of assay, the number of plates, the type of the screen (primary, secondary), available computational hardware, the throughput of the instrument or analysis application and the number of instruments which can work parallel.",
+        "original-end-charpos": 4919,
+        "original-start-charpos": 4584
+    },
+    {
+        "obfuscation": "an example Table 2 analyses summarizes necessary time, series protocols for the storage and space.",
+        "obfuscation-id": 42,
+        "original": "Table 2 demonstrates example experiments and summarizes necessary time, number of records and require for storage space.",
+        "original-end-charpos": 5040,
+        "original-start-charpos": 4920
+    },
+    {
+        "obfuscation": "the size of numeric libraries results information and the data are still megabytes.",
+        "obfuscation-id": 43,
+        "original": "The size of the library information and numeric results data are counted in megabytes.",
+        "original-end-charpos": 5127,
+        "original-start-charpos": 5041
+    },
+    {
+        "obfuscation": "Numeric results should documents contains a series of (lines in tables).",
+        "obfuscation-id": 44,
+        "original": "Numeric results are estimated by the number of feature records (lines in tables).",
+        "original-end-charpos": 5209,
+        "original-start-charpos": 5128
+    },
+    {
+        "obfuscation": "to storage through the number of images acquired.",
+        "obfuscation-id": 45,
+        "original": "Image storage depends on the number of images acquired.",
+        "original-end-charpos": 5265,
+        "original-start-charpos": 5210
+    },
+    {
+        "obfuscation": "the number images judged by Pult number, Pult depends on the type (96, 384, 1536 ), number of fields, channels, confocality and a number of about in time useful , in the case of kincetic studies.",
+        "obfuscation-id": 46,
+        "original": "The number of images depends on plate number, plate type (96, 384, 1536 ), number of fields, number of channels, confocality levels and eventually time points in case of kincetic studies.",
+        "original-end-charpos": 5453,
+        "original-start-charpos": 5266
+    },
+    {
+        "obfuscation": "but the also typical image of size acquired between 500KB and 2 MB (single slice, single tiff Hergang without montage).",
+        "obfuscation-id": 47,
+        "original": "The typical image size acquired ranges between 500KB and 2 MB (single slice, single tiff file without montage).",
+        "original-end-charpos": 5565,
+        "original-start-charpos": 5454
+    },
+    {
+        "obfuscation": "these images Thumbnails often jpeg aroused compression, with their size series between 150- 300 kb.",
+        "obfuscation-id": 48,
+        "original": "Thumbnails of those images often are generated using jpeg compression, their size range between 150- 300 kb.",
+        "original-end-charpos": 5674,
+        "original-start-charpos": 5566
+    },
+    {
+        "obfuscation": "In categorized numeric results are data into three cell outputs: based, image rests based. and",
+        "obfuscation-id": 49,
+        "original": "For numeric results data are categorized in three types of outputs: cell based, image based and well based.",
+        "original-end-charpos": 5782,
+        "original-start-charpos": 5675
+    },
+    {
+        "obfuscation": "the number of the image rests even record in acquired images , the number of thumbnails produced.",
+        "obfuscation-id": 50,
+        "original": "The number of image based record should be equal to the number of acquired images which is also equal to the number of thumbnails produced.",
+        "original-end-charpos": 5922,
+        "original-start-charpos": 5783
+    },
+    {
+        "obfuscation": "as the number of results even rests on the number of all wells in Screenings experiment.",
+        "obfuscation-id": 51,
+        "original": "The record number of well based results data should be equal to the number of all wells in screening experiment.",
+        "original-end-charpos": 6035,
+        "original-start-charpos": 5923
+    },
+    {
+        "obfuscation": "the content of the high informatics, numeric images of data , the data validation numeric control of the images. visual",
+        "obfuscation-id": 52,
+        "original": "In high content informatics, the numeric data are supported by the images and the validation of numeric data is based on the visual inspection of images.",
+        "original-end-charpos": 6189,
+        "original-start-charpos": 6036
+    },
+    {
+        "obfuscation": "this is the solution informatics Any high content must efficiently , relations between the different levels of results numeric data, library information and the images.",
+        "obfuscation-id": 53,
+        "original": "Any high content informatics solution therefore needs to be able to efficiently handle the relationships between the various levels of numeric results data, library information and the associated images.",
+        "original-end-charpos": 6394,
+        "original-start-charpos": 6190
+    },
+    {
+        "obfuscation": "we in the coming subsection would be a model database (schema) and a with data data, libraries , and numeric results data.",
+        "obfuscation-id": 54,
+        "original": "In the next subsection we will describe a database model (schema) and a database solution for handling library data, images and numeric results data.",
+        "original-end-charpos": 6544,
+        "original-start-charpos": 6395
+    }
+]

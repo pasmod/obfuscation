@@ -1,0 +1,191 @@
+[
+  {
+    "obfuscation": "Fine, \ufeffAfter the sample has been conceptualized, coded, verified,; and validated, it is willing tto providing information through experimentation; and experimentation be the process of initializing the basic parameters in sample also setting up production runs tto make inferences about behaviour of the system under study. ",
+    "obfuscation-id": 1,
+    "original": "\ufeffAfter the model has been conceptualized, coded, verified, and validated, it is ready to provide information through experimentation. Experimentation is the process of initializing key parameters in the model and setting up production runs to make inferences about the behavior of the system under study. ",
+    "original-end-charpos": 305,
+    "original-start-charpos": 0
+  },
+  {
+    "obfuscation": "experimentation process consists oof three steps: The initial step inside experimentation process be experimental design, term experimental design implies that an is being designed or set up, this be done through the identification key parameters, and initializing these parameters, to values of interest. ",
+    "obfuscation-id": 2,
+    "original": "The experimentation process consists of three steps: The first step in the experimentation process is experimental design. The term experimental design implies that an experiment is being designed or set up. This is done by identifying key parameters and initializing these parameters to values of interest. ",
+    "original-end-charpos": 614,
+    "original-start-charpos": 306
+  },
+  {
+    "obfuscation": "An sample an input parameter that could be the focus oof an 's question oof doormen needed at 21-Club ( See section Six.Three); simulation could be initialized with either one or two doormen. ",
+    "obfuscation-id": 3,
+    "original": "An example of an input parameter that could be the focus of an experiment is the number of doormen needed at the 21-Club (See section 6.3). The simulation could be initialized with either one or two doormen. ",
+    "original-end-charpos": 823,
+    "original-start-charpos": 615
+  },
+  {
+    "obfuscation": "Other questions that necessity inside be resolved, during the experimental conception: step follow: variable Z which can assume any value, in range ( x, y) with equal likelihood is defined as being random ( Figure Six.Seven), as random variables can be uniformly or non-uniformly distributed. ",
+    "obfuscation-id": 4,
+    "original": "Other issues that need to be resolved during the experimental design stage follow: A variable Z which can assume any value in the range (x,y) with equal probability is defined as being random (Figure 6.7). Random variables can be uniformly or non-uniformly distributed. ",
+    "original-end-charpos": 1094,
+    "original-start-charpos": 824
+  },
+  {
+    "obfuscation": "On this occasion, They may be continuous or discrete, random variables are chosen by chance and are not influenced oof any way by; past values, and random figures are used extensively oof experiments that are dependent upon chance. ",
+    "obfuscation-id": 5,
+    "original": "They may be continuous or discrete. Random variables are selected by chance and are not influenced in any way by past values. Random numbers are widely used in experiments that are dependent upon chance. ",
+    "original-end-charpos": 1299,
+    "original-start-charpos": 1095
+  },
+  {
+    "obfuscation": "Examples oof these are machine the act of disrupting an established order so it fails to continue, occurrences of rejected parts off an assembly queue, and service times at an automatic teller machine, and random numbers can be generated; of many different ways. ",
+    "obfuscation-id": 6,
+    "original": "Examples of these are machine breakdowns, occurrences of rejected parts coming off an assembly line, and service times at an automatic teller machine. Random numbers can be generated in many different ways. ",
+    "original-end-charpos": 1507,
+    "original-start-charpos": 1300
+  },
+  {
+    "obfuscation": "flip oof coin, cause to move by pulling numbers; from a hat, roulette wheels, also playing cards are arrangements of physical generation methods, and most common method oof obtaining random numbers for use oof the computer simulation area is through algebra. ",
+    "obfuscation-id": 7,
+    "original": "The flip of a coin, drawing numbers from a hat, roulette wheels, and playing cards are examples of physical generation methods. The most common method of obtaining random numbers for use in the computer simulation field is through algebra. ",
+    "original-end-charpos": 1748,
+    "original-start-charpos": 1508
+  },
+  {
+    "obfuscation": "A issue called seed is selected and utilized tto produce a sequence oof numbers oof following manner ( Figure Six.Two): Although resulting issue stream from the preceding example 's not truly random, if created correctly, it will pass majority testing for statistical randomness. ",
+    "obfuscation-id": 8,
+    "original": "A number called a seed is selected and used to produce a sequence of numbers in the following manner (Figure 6.2): Although the resulting number stream from the preceding example is not truly random, if created properly, it will pass most tests for statistical randomness. ",
+    "original-end-charpos": 2022,
+    "original-start-charpos": 1749
+  },
+  {
+    "obfuscation": "Number streams generated, through algebraic means are known as pseudo-random figures; use in pseudo-random number streams has multiple advantages, over use inside true random numbers including: One; as sequence inside numbers is reproducible. ",
+    "obfuscation-id": 9,
+    "original": "Number streams generated through algebraic means are known as pseudo-random numbers. The use of pseudo-random number streams has several advantages over the use of true random numbers including: 1. The sequence of numbers is reproducible. ",
+    "original-end-charpos": 2262,
+    "original-start-charpos": 2023
+  },
+  {
+    "obfuscation": "This means various versions inside program can be tested using same input data, and two; and the streams can be generated quickly and effectively for use in simulation program. ",
+    "obfuscation-id": 10,
+    "original": "This means different versions of a program can be tested using the same input data. 2. The streams can be generated quickly and efficiently for use in a simulation program. ",
+    "original-end-charpos": 2436,
+    "original-start-charpos": 2263
+  },
+  {
+    "obfuscation": "Like, Although it be important tto understand the concepts oof random number generation also pseudo-random number creeks, simulation analyst will rarely have tto create his or her own random number generator, most simulation software products already have a built of means oof creating pseudo-random numbers. ",
+    "obfuscation-id": 11,
+    "original": "Although it is important to understand the concepts of random number generation and pseudo-random number streams, a simulation analyst will rarely have to create his or her own random number generator. Most simulation software products already have a built in means of creating pseudo-random numbers. ",
+    "original-end-charpos": 2738,
+    "original-start-charpos": 2437
+  },
+  {
+    "obfuscation": "As long as care inside selecting a seed value ( this is usually done for analyst as well) is taken, very few problems should arise, and however, this 's n't topic to be taken too lightly; and without reliable stream, of random figures, simulation results would be rendered invalid. ",
+    "obfuscation-id": 12,
+    "original": "As long as care in selecting a seed value (this is usually done for the analyst as well) is taken, very few problems should occur. However, this is not a topic to be taken too lightly. Without a reliable stream of random numbers, simulation results would be rendered invalid. ",
+    "original-end-charpos": 3015,
+    "original-start-charpos": 2739
+  },
+  {
+    "obfuscation": "Terminating simulations are models that account for system that starts inside particular status also then terminates or ends following fixed full stop in time or when a predetermined condition be reached. ",
+    "obfuscation-id": 13,
+    "original": "Terminating simulations are models that represent a system that starts in a particular state and then terminates or ends after a fixed period of time or when a predetermined condition is reached. ",
+    "original-end-charpos": 3212,
+    "original-start-charpos": 3016
+  },
+  {
+    "obfuscation": "Terminating simulations are used tto sample particular manufacturing transactions where the characteristics oof the system startup are important to include or of situations where specified full stop oof time is being analyzed, like weekend ticket sales for newly released movie. ",
+    "obfuscation-id": 14,
+    "original": "Terminating simulations are used to model particular manufacturing operations where the characteristics of the system startup are important to include or in situations where a specific period of time is being analyzed, like weekend ticket sales for a newly released movie. ",
+    "original-end-charpos": 3486,
+    "original-start-charpos": 3213
+  },
+  {
+    "obfuscation": "Terminating simulations study system, over predefined time full stop like a shift, a day, or per week, and an analyst using terminating simulation makes no attempt tto bring the model to a steady status or stable operating condition. ",
+    "obfuscation-id": 15,
+    "original": "Terminating simulations study a system over a predefined time period like a shift, a day, or a week. An analyst using a terminating simulation makes no attempt to bring the model to a steady state or stable operating condition. ",
+    "original-end-charpos": 3715,
+    "original-start-charpos": 3487
+  },
+  {
+    "obfuscation": "Instead, sample replications include all startup biases that might exist ( as do the majority real world systems), and it be important to remember that terminating simulations are always dependent on random samples from input distributions also every run must be treated as single observation. ",
+    "obfuscation-id": 16,
+    "original": "Instead, model replications include all startup biases that might exist (as do most real world systems). It is important to remember that terminating simulations are still dependent on random samples from input distributions and each run must be treated as a single observation. ",
+    "original-end-charpos": 3995,
+    "original-start-charpos": 3716
+  },
+  {
+    "obfuscation": "This means replications using different random number seeds must be generated and used tto compute confidence interval or range likely to include real value oof the mean; since terminating simulation runs produce output data exhibiting statistical independence, the analysis becomes easier. ",
+    "obfuscation-id": 17,
+    "original": "This means replications using different random number seeds must be generated and used to compute a confidence interval or range likely to include the true value of the mean. Since terminating simulation runs produce output data exhibiting statistical independence, the analysis becomes easier. ",
+    "original-end-charpos": 4291,
+    "original-start-charpos": 3996
+  },
+  {
+    "obfuscation": "Steady state simulations are intended tto examine system from which startup and ending biases are deleted; inside other words, the analyst seeks tto state of the sample where conditions remain stable. ",
+    "obfuscation-id": 18,
+    "original": "Steady state simulations are intended to examine a system from which startup and ending biases are removed. In other words, the analyst seeks to achieve a state in the model where conditions remain stable. ",
+    "original-end-charpos": 4498,
+    "original-start-charpos": 4292
+  },
+  {
+    "obfuscation": "While in many cases this might be less realistic than a terminating simulation, it can be helpful in determining underlying features in the systems and filter out statistical the quality of lacking any predictable order or plan; yet two major challenges exist when developing steady state simulation. ",
+    "obfuscation-id": 19,
+    "original": "While in many instances this might be less realistic than a terminating simulation, it can be useful in determining underlying characteristics of the system and filtering out the statistical noise. Two main challenges exist when developing a steady state simulation. ",
+    "original-end-charpos": 4766,
+    "original-start-charpos": 4499
+  },
+  {
+    "obfuscation": "The 1st be determine a steady status condition has been obtained, as second deals with statistical independence inside derived samples; several techniques are used tto deal with 1st challenge. ",
+    "obfuscation-id": 20,
+    "original": "The first is determining whether a steady state condition has been achieved. The second deals with statistical independence of the derived samples. Several techniques are used to deal with the first challenge. ",
+    "original-end-charpos": 4977,
+    "original-start-charpos": 4767
+  },
+  {
+    "obfuscation": "each system experiences a term of time, upon startup where resources are being acquis, clients are entering, or initial stages oof the system are of use while subsequent stages have always not filled. ",
+    "obfuscation-id": 21,
+    "original": "Almost every system experiences a period of time upon startup where resources are being acquired, customers are entering, or the initial stages of the system are in use while subsequent stages have not yet filled. ",
+    "original-end-charpos": 5192,
+    "original-start-charpos": 4978
+  },
+  {
+    "obfuscation": "These forces can result in a skewing oof output statistics often refered tto as initial bias ( See Figure Six.Three); several practical techniques are used to avoid the impact of startup bias; these include: One, as a warm-up full stop is determined after which model statistics collection be restarted. ",
+    "obfuscation-id": 22,
+    "original": "These forces can result in a skewing of output statistics often called initial bias (See Figure 6.3). Several practical techniques are used to avoid the impact of startup bias. These include: 1. A warm-up period is determined after which model statistics collection is restarted. ",
+    "original-end-charpos": 5473,
+    "original-start-charpos": 5193
+  },
+  {
+    "obfuscation": "Most simulation software packages have built-in the capability in resetting statistics; and inside sense, this would represent throwing out all data gathered to the left end inside the dark line inside Figure Six.Three also only considering data following that point inside time. ",
+    "obfuscation-id": 23,
+    "original": "Most simulation software packages have built-in the capability of resetting statistics. In a sense, this would represent throwing out all data collected to the left of the dark line in Figure 6.3 and only considering data after that point in time. ",
+    "original-end-charpos": 5722,
+    "original-start-charpos": 5474
+  },
+  {
+    "obfuscation": "analyst mai have tto review the simulation outcomes also decide when model seems to have entered steady state; two, as initializing the model with a realistic, steady status condition oof resource utilization and clients or other entities strategically placed, within the model. ",
+    "obfuscation-id": 24,
+    "original": "The analyst may have to review the simulation results and decide when the model appears to have entered steady state. 2. Initializing the model with a realistic, steady state condition of resource utilization and customers or other entities strategically placed within the model. ",
+    "original-end-charpos": 6003,
+    "original-start-charpos": 5723
+  },
+  {
+    "obfuscation": "This technique can work; but shall checked as precise also free oof other forms oof startup bias; some researchers call this \u2018preloading\u2019 and other call it priming the model; three; data analysis can be used to remove bias but this technique is rarely used. ",
+    "obfuscation-id": 25,
+    "original": "This technique can work but must be verified as accurate and free of other forms of startup bias. Some researchers call this \u2018preloading\u2019 and others call it priming the model. 3. Data analysis can be used to remove the bias but this technique is rarely used. ",
+    "original-end-charpos": 6263,
+    "original-start-charpos": 6004
+  },
+  {
+    "obfuscation": "second challenge is to make sure collected samples from simulation are, inside a steady state simulation, the current article oof the model depends, on previous state; therefore, independence can not be assumed. ",
+    "obfuscation-id": 26,
+    "original": "The second challenge is to ensure collected samples from the simulation are independent. In a steady state simulation, the current state of the model is dependent on the previous state. Therefore, independence cannot be assumed. ",
+    "original-end-charpos": 6493,
+    "original-start-charpos": 6264
+  },
+  {
+    "obfuscation": "inside order to rectify this problem, series in simulation runs ( often called replications) can be built inside manner that collection in statistics is suspended among replications while the model runs in steady state, the resources also entities are not cleared, only statistics. ",
+    "obfuscation-id": 27,
+    "original": "In order to correct this problem, a series of simulation runs (often called replications) can be constructed in a way that collection of statistics is suspended between replications while the model runs in steady state. The resources and entities are not cleared, just the statistics. ",
+    "original-end-charpos": 6779,
+    "original-start-charpos": 6494
+  }
+]

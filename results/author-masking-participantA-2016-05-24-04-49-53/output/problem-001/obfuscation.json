@@ -1,0 +1,436 @@
+[
+    {
+        "obfuscation": "\ufeffAfter the model has been conceptualized , coded , verified , and validated , it is ready to leave information through experimentation .", 
+        "obfuscation-id": 1, 
+        "original": "\ufeffAfter the model has been conceptualized, coded, verified, and validated, it is ready to provide information\r\nthrough experimentation.", 
+        "original-end-charpos": 133, 
+        "original-start-charpos": 0
+    }, 
+    {
+        "obfuscation": "Experimentation is the process of initializing key arguments in the model and setting up production runs to make inferences about the behavior of the system under study .", 
+        "obfuscation-id": 2, 
+        "original": " Experimentation is the process of initializing key parameters in the model and\r\nsetting up production runs to make inferences about the behavior of the system under study.", 
+        "original-end-charpos": 305, 
+        "original-start-charpos": 134
+    }, 
+    {
+        "obfuscation": "The experimentation process consists of three steps : The first step in the experimentation process is experimental purpose .", 
+        "obfuscation-id": 3, 
+        "original": " The\r\nexperimentation process consists of three steps:\r\nThe first step in the experimentation process is experimental design.", 
+        "original-end-charpos": 430, 
+        "original-start-charpos": 306
+    }, 
+    {
+        "obfuscation": "The term experimental design implies that an experiment is being planned or set up .", 
+        "obfuscation-id": 4, 
+        "original": " The term experimental design implies\r\nthat an experiment is being designed or set up.", 
+        "original-end-charpos": 516, 
+        "original-start-charpos": 431
+    }, 
+    {
+        "obfuscation": "This is done by identifying key arguments and initializing these parameters to values of interest .", 
+        "obfuscation-id": 5, 
+        "original": " This is done by identifying key parameters and initializing\r\nthese parameters to values of interest.", 
+        "original-end-charpos": 617, 
+        "original-start-charpos": 517
+    }, 
+    {
+        "obfuscation": "An example of an remark parameter that could be the focus of an experiment is the number of doormen needed at the 21-Club ( See section 6.3 ) .", 
+        "obfuscation-id": 6, 
+        "original": " An example of an input parameter that could be the focus of an\r\nexperiment is the number of doormen needed at the 21-Club (See section 6.3).", 
+        "original-end-charpos": 758, 
+        "original-start-charpos": 618
+    }, 
+    {
+        "obfuscation": "The pretense could be initialized with either one or two doormen .", 
+        "obfuscation-id": 7, 
+        "original": " The simulation could be\r\ninitialized with either one or two doormen.", 
+        "original-end-charpos": 827, 
+        "original-start-charpos": 759
+    }, 
+    {
+        "obfuscation": "Other issues that need to be resolved during the experimental purpose stage follow : A variable Z which can assume any value in the range ( x , y ) with equal probability is defined as being random ( Figure 6.7 ) .", 
+        "obfuscation-id": 8, 
+        "original": " Other issues that need to be resolved during the experimental\r\ndesign stage follow:\r\nA variable Z which can assume any value in the range (x,y) with equal probability is defined as being\r\nrandom (Figure 6.7).", 
+        "original-end-charpos": 1036, 
+        "original-start-charpos": 828
+    }, 
+    {
+        "obfuscation": "Random variables can be uniformly or non-uniformly spread .", 
+        "obfuscation-id": 9, 
+        "original": " Random variables can be uniformly or non-uniformly distributed.", 
+        "original-end-charpos": 1100, 
+        "original-start-charpos": 1037
+    }, 
+    {
+        "obfuscation": "They may be continuous or discrete .", 
+        "obfuscation-id": 10, 
+        "original": " They may be\r\ncontinuous or discrete.", 
+        "original-end-charpos": 1137, 
+        "original-start-charpos": 1101
+    }, 
+    {
+        "obfuscation": "Random variables are selected by chance and are not influenced in any way by past values .", 
+        "obfuscation-id": 11, 
+        "original": " Random variables are selected by chance and are not influenced in any way by past\r\nvalues.", 
+        "original-end-charpos": 1228, 
+        "original-start-charpos": 1138
+    }, 
+    {
+        "obfuscation": "Random numbers are widely used in experiments that are dependent upon chance .", 
+        "obfuscation-id": 12, 
+        "original": " Random numbers are widely used in experiments that are dependent upon chance.", 
+        "original-end-charpos": 1306, 
+        "original-start-charpos": 1229
+    }, 
+    {
+        "obfuscation": "Examples of these are machine breakdowns , occurrences of rejected parts coming away an assembly line , and service times at an automatic teller machine .", 
+        "obfuscation-id": 13, 
+        "original": " Examples of\r\nthese are machine breakdowns, occurrences of rejected parts coming off an assembly line, and service\r\ntimes at an automatic teller machine.", 
+        "original-end-charpos": 1459, 
+        "original-start-charpos": 1307
+    }, 
+    {
+        "obfuscation": "Random numbers can be generated in many different ways .", 
+        "obfuscation-id": 14, 
+        "original": "\r\nRandom numbers can be generated in many different ways.", 
+        "original-end-charpos": 1516, 
+        "original-start-charpos": 1460
+    }, 
+    {
+        "obfuscation": "The flip of a coin , drawing numbers from a hat , roulette wheels , and playing cards are examples of physical generation methods .", 
+        "obfuscation-id": 15, 
+        "original": " The flip of a coin, drawing numbers from a\r\nhat, roulette wheels, and playing cards are examples of physical generation methods.", 
+        "original-end-charpos": 1645, 
+        "original-start-charpos": 1517
+    }, 
+    {
+        "obfuscation": "The most common method of obtaining random numbers for use in the computer pretense field is through algebra .", 
+        "obfuscation-id": 16, 
+        "original": " The most common\r\nmethod of obtaining random numbers for use in the computer simulation field is through algebra.", 
+        "original-end-charpos": 1758, 
+        "original-start-charpos": 1646
+    }, 
+    {
+        "obfuscation": "A number called a seed is selected and used to produce a sequence of numbers in the following manner ( Figure 6.2 ) : Although the resulting number stream from the preceding example is not truly random , if made properly , it will pass most tests for statistical randomness .", 
+        "obfuscation-id": 17, 
+        "original": " A\r\nnumber called a seed is selected and used to produce a sequence of numbers in the following manner\r\n(Figure 6.2):\r\nAlthough the resulting number stream from the preceding example is not truly random, if created properly,\r\nit will pass most tests for statistical randomness.", 
+        "original-end-charpos": 2035, 
+        "original-start-charpos": 1759
+    }, 
+    {
+        "obfuscation": "Number streams generated through algebraic means are known as pseudo-random numbers .", 
+        "obfuscation-id": 18, 
+        "original": " Number streams generated through algebraic means are\r\nknown as pseudo-random numbers.", 
+        "original-end-charpos": 2121, 
+        "original-start-charpos": 2036
+    }, 
+    {
+        "obfuscation": "The use of pseudo-random act streams has several advantages over the use of true random numbers including : 1 .", 
+        "obfuscation-id": 19, 
+        "original": " The use of pseudo-random number streams has several advantages\r\nover the use of true random numbers including:\r\n1.", 
+        "original-end-charpos": 2236, 
+        "original-start-charpos": 2122
+    }, 
+    {
+        "obfuscation": "The sequence of numbers is reproducible .", 
+        "obfuscation-id": 20, 
+        "original": " The sequence of numbers is reproducible.", 
+        "original-end-charpos": 2277, 
+        "original-start-charpos": 2237
+    }, 
+    {
+        "obfuscation": "This means different versions of a program can be tested using the same remark data .", 
+        "obfuscation-id": 21, 
+        "original": " This means different versions of a program can be\r\ntested using the same input data.", 
+        "original-end-charpos": 2362, 
+        "original-start-charpos": 2278
+    }, 
+    {
+        "obfuscation": "2 .", 
+        "obfuscation-id": 22, 
+        "original": "\r\n2.", 
+        "original-end-charpos": 2366, 
+        "original-start-charpos": 2363
+    }, 
+    {
+        "obfuscation": "The streams can be generated quickly and efficiently for use in a model program .", 
+        "obfuscation-id": 23, 
+        "original": " The streams can be generated quickly and efficiently for use in a simulation program.", 
+        "original-end-charpos": 2452, 
+        "original-start-charpos": 2367
+    }, 
+    {
+        "obfuscation": "Although it is important to understand the concepts of random number generation and pseudo-random number streams , a model analyst will rarely have to create his or her own random number generator .", 
+        "obfuscation-id": 24, 
+        "original": "\r\nAlthough it is important to understand the concepts of random number generation and pseudo-random\r\nnumber streams, a simulation analyst will rarely have to create his or her own random number generator.", 
+        "original-end-charpos": 2656, 
+        "original-start-charpos": 2453
+    }, 
+    {
+        "obfuscation": "Most pretense software products already have a built in means of creating pseudo-random numbers .", 
+        "obfuscation-id": 25, 
+        "original": "\r\nMost simulation software products already have a built in means of creating pseudo-random numbers.", 
+        "original-end-charpos": 2756, 
+        "original-start-charpos": 2657
+    }, 
+    {
+        "obfuscation": "As long as care in selecting a seed value ( this is usually done for the analyst as well ) is taken , very few problems should happen .", 
+        "obfuscation-id": 26, 
+        "original": " As\r\nlong as care in selecting a seed value (this is usually done for the analyst as well) is taken, very few\r\nproblems should occur.", 
+        "original-end-charpos": 2889, 
+        "original-start-charpos": 2757
+    }, 
+    {
+        "obfuscation": "However , this is not a topic to be taken besides lightly .", 
+        "obfuscation-id": 27, 
+        "original": " However, this is not a topic to be taken too lightly.", 
+        "original-end-charpos": 2943, 
+        "original-start-charpos": 2890
+    }, 
+    {
+        "obfuscation": "Without a reliable stream of random numbers , pretense results would be rendered invalid .", 
+        "obfuscation-id": 28, 
+        "original": " Without a reliable stream of\r\nrandom numbers, simulation results would be rendered invalid.", 
+        "original-end-charpos": 3035, 
+        "original-start-charpos": 2944
+    }, 
+    {
+        "obfuscation": "Terminating simulations are models that represent a system that begins in a particular state and then terminates or ends after a fixed period of time or when a predetermined condition is reached .", 
+        "obfuscation-id": 29, 
+        "original": "\r\nTerminating simulations are models that represent a system that starts in a particular state and then\r\nterminates or ends after a fixed period of time or when a predetermined condition is reached.", 
+        "original-end-charpos": 3233, 
+        "original-start-charpos": 3036
+    }, 
+    {
+        "obfuscation": "Terminating simulations are used to model particular manufacturing operations where the characteristics of the organization startup are important to include or in situations where a specific period of time is being analyzed , like weekend ticket sales for a newly released movie .", 
+        "obfuscation-id": 30, 
+        "original": " Terminating\r\nsimulations are used to model particular manufacturing operations where the characteristics of the system\r\nstartup are important to include or in situations where a specific period of time is being analyzed, like\r\nweekend ticket sales for a newly released movie.", 
+        "original-end-charpos": 3509, 
+        "original-start-charpos": 3234
+    }, 
+    {
+        "obfuscation": "Terminating simulations study a system over a predefined time period like a switch , a day , or a week .", 
+        "obfuscation-id": 31, 
+        "original": " Terminating simulations study a system over a\r\npredefined time period like a shift, a day, or a week.", 
+        "original-end-charpos": 3611, 
+        "original-start-charpos": 3510
+    }, 
+    {
+        "obfuscation": "An analyst using a terminating pretense makes no attempt to bring the model to a steady state or stable operating condition .", 
+        "obfuscation-id": 32, 
+        "original": " An analyst using a terminating simulation makes no\r\nattempt to bring the model to a steady state or stable operating condition.", 
+        "original-end-charpos": 3739, 
+        "original-start-charpos": 3612
+    }, 
+    {
+        "obfuscation": "alternatively , model replications include all startup biases that might exist ( as do most real world systems ) .", 
+        "obfuscation-id": 33, 
+        "original": " Instead, model replications\r\ninclude all startup biases that might exist (as do most real world systems).", 
+        "original-end-charpos": 3845, 
+        "original-start-charpos": 3740
+    }, 
+    {
+        "obfuscation": "It is important to remember that terminating simulations are still dependent on random samples from input distributions and each test must be treated as a single observation .", 
+        "obfuscation-id": 34, 
+        "original": "\r\nIt is important to remember that terminating simulations are still dependent on random samples from input\r\ndistributions and each run must be treated as a single observation.", 
+        "original-end-charpos": 4021, 
+        "original-start-charpos": 3846
+    }, 
+    {
+        "obfuscation": "This means replications using different random act seeds must be generated and used to compute a confidence interval or range likely to include the true value of the mean .", 
+        "obfuscation-id": 35, 
+        "original": " This means replications using different\r\nrandom number seeds must be generated and used to compute a confidence interval or range likely to\r\ninclude the true value of the mean.", 
+        "original-end-charpos": 4198, 
+        "original-start-charpos": 4022
+    }, 
+    {
+        "obfuscation": "Since terminating pretense runs produce output data exhibiting statistical independence , the analysis becomes easier .", 
+        "obfuscation-id": 36, 
+        "original": " Since terminating simulation runs produce output data exhibiting\r\nstatistical independence, the analysis becomes easier.", 
+        "original-end-charpos": 4319, 
+        "original-start-charpos": 4199
+    }, 
+    {
+        "obfuscation": "Steady state models are intended to examine a system from which startup and ending biases are removed .", 
+        "obfuscation-id": 37, 
+        "original": "\r\nSteady state simulations are intended to examine a system from which startup and ending biases are\r\nremoved.", 
+        "original-end-charpos": 4429, 
+        "original-start-charpos": 4320
+    }, 
+    {
+        "obfuscation": "In other words , the analyst seeks to achieve a state in the model where conditions stay stable .", 
+        "obfuscation-id": 38, 
+        "original": " In other words, the analyst seeks to achieve a state in the model where conditions remain stable.", 
+        "original-end-charpos": 4527, 
+        "original-start-charpos": 4430
+    }, 
+    {
+        "obfuscation": "While in many instances this might be less realistic than a terminating pretense , it can be useful in determining underlying characteristics of the system and filtering out the statistical noise .", 
+        "obfuscation-id": 39, 
+        "original": "\r\nWhile in many instances this might be less realistic than a terminating simulation, it can be useful in\r\ndetermining underlying characteristics of the system and filtering out the statistical noise.", 
+        "original-end-charpos": 4727, 
+        "original-start-charpos": 4528
+    }, 
+    {
+        "obfuscation": "Two main challenges exist when developing a steady state pretense .", 
+        "obfuscation-id": 40, 
+        "original": " Two main\r\nchallenges exist when developing a steady state simulation.", 
+        "original-end-charpos": 4797, 
+        "original-start-charpos": 4728
+    }, 
+    {
+        "obfuscation": "The inaugural is determining whether a steady state condition has been achieved .", 
+        "obfuscation-id": 41, 
+        "original": " The first is determining whether a steady state\r\ncondition has been achieved.", 
+        "original-end-charpos": 4875, 
+        "original-start-charpos": 4798
+    }, 
+    {
+        "obfuscation": "The second deals with statistical independence of the derived samples .", 
+        "obfuscation-id": 42, 
+        "original": " The second deals with statistical independence of the derived samples.", 
+        "original-end-charpos": 4946, 
+        "original-start-charpos": 4876
+    }, 
+    {
+        "obfuscation": "respective techniques are used to deal with the first challenge .", 
+        "obfuscation-id": 43, 
+        "original": "\r\nSeveral techniques are used to deal with the first challenge.", 
+        "original-end-charpos": 5009, 
+        "original-start-charpos": 4947
+    }, 
+    {
+        "obfuscation": "Almost every system experiences a period of time upon startup where resources are being acquired , customers are entering , or the initial stages of the organization are in use while subsequent stages have not yet filled .", 
+        "obfuscation-id": 44, 
+        "original": " Almost every system experiences a period of\r\ntime upon startup where resources are being acquired, customers are entering, or the initial stages of the\r\nsystem are in use while subsequent stages have not yet filled.", 
+        "original-end-charpos": 5225, 
+        "original-start-charpos": 5010
+    }, 
+    {
+        "obfuscation": "These forces can result in a skewing of output statistics much called initial bias ( See Figure 6.3 ) .", 
+        "obfuscation-id": 45, 
+        "original": " These forces can result in a skewing of\r\noutput statistics often called initial bias (See Figure 6.3).", 
+        "original-end-charpos": 5328, 
+        "original-start-charpos": 5226
+    }, 
+    {
+        "obfuscation": "respective practical techniques are used to avoid the impact of startup bias .", 
+        "obfuscation-id": 46, 
+        "original": " Several practical techniques are used to avoid the\r\nimpact of startup bias.", 
+        "original-end-charpos": 5404, 
+        "original-start-charpos": 5329
+    }, 
+    {
+        "obfuscation": "These include : 1 .", 
+        "obfuscation-id": 47, 
+        "original": " These include:\r\n1.", 
+        "original-end-charpos": 5423, 
+        "original-start-charpos": 5405
+    }, 
+    {
+        "obfuscation": "A warm-up period is determined after which model statistics collection is restarted .", 
+        "obfuscation-id": 48, 
+        "original": " A warm-up period is determined after which model statistics collection is restarted.", 
+        "original-end-charpos": 5508, 
+        "original-start-charpos": 5424
+    }, 
+    {
+        "obfuscation": "Most pretense software packages have built-in the capability of resetting statistics .", 
+        "obfuscation-id": 49, 
+        "original": " Most\r\nsimulation software packages have built-in the capability of resetting statistics.", 
+        "original-end-charpos": 5597, 
+        "original-start-charpos": 5509
+    }, 
+    {
+        "obfuscation": "In a sense , this would constitute throwing out all data collected to the left of the dark line in Figure 6.3 and only considering data after that point in time .", 
+        "obfuscation-id": 50, 
+        "original": " In a sense, this\r\nwould represent throwing out all data collected to the left of the dark line in Figure 6.3 and only\r\nconsidering data after that point in time.", 
+        "original-end-charpos": 5759, 
+        "original-start-charpos": 5598
+    }, 
+    {
+        "obfuscation": "The analyst may have to review the pretense results and decide when the model appears to have entered steady state .", 
+        "obfuscation-id": 51, 
+        "original": " The analyst may have to review the simulation results\r\nand decide when the model appears to have entered steady state.", 
+        "original-end-charpos": 5878, 
+        "original-start-charpos": 5760
+    }, 
+    {
+        "obfuscation": "2 .", 
+        "obfuscation-id": 52, 
+        "original": "\r\n2.", 
+        "original-end-charpos": 5882, 
+        "original-start-charpos": 5879
+    }, 
+    {
+        "obfuscation": "Initializing the model with a realistic , steady state condition of resource use and customers or other entities strategically placed within the model .", 
+        "obfuscation-id": 53, 
+        "original": " Initializing the model with a realistic, steady state condition of resource utilization and customers\r\nor other entities strategically placed within the model.", 
+        "original-end-charpos": 6042, 
+        "original-start-charpos": 5883
+    }, 
+    {
+        "obfuscation": "This technique can make but must be verified as accurate and free of other forms of startup bias .", 
+        "obfuscation-id": 54, 
+        "original": " This technique can work but must be\r\nverified as accurate and free of other forms of startup bias.", 
+        "original-end-charpos": 6141, 
+        "original-start-charpos": 6043
+    }, 
+    {
+        "obfuscation": "Some researchers call this \u2018preloading\u2019 and others call it priming the model .", 
+        "obfuscation-id": 55, 
+        "original": " Some researchers call this \u2018preloading\u2019\r\nand others call it priming the model.", 
+        "original-end-charpos": 6220, 
+        "original-start-charpos": 6142
+    }, 
+    {
+        "obfuscation": "3 .", 
+        "obfuscation-id": 56, 
+        "original": "\r\n3.", 
+        "original-end-charpos": 6224, 
+        "original-start-charpos": 6221
+    }, 
+    {
+        "obfuscation": "Data analysis can be used to remove the bias but this technique is rarely used .", 
+        "obfuscation-id": 57, 
+        "original": " Data analysis can be used to remove the bias but this technique is rarely used.", 
+        "original-end-charpos": 6304, 
+        "original-start-charpos": 6225
+    }, 
+    {
+        "obfuscation": "The second challenge is to ensure collected samples from the pretense are independent .", 
+        "obfuscation-id": 58, 
+        "original": "\r\nThe second challenge is to ensure collected samples from the simulation are independent.", 
+        "original-end-charpos": 6394, 
+        "original-start-charpos": 6305
+    }, 
+    {
+        "obfuscation": "In a steady state model , the current state of the model is dependent on the previous state .", 
+        "obfuscation-id": 59, 
+        "original": " In a steady state\r\nsimulation, the current state of the model is dependent on the previous state.", 
+        "original-end-charpos": 6492, 
+        "original-start-charpos": 6395
+    }, 
+    {
+        "obfuscation": "consequently , independence can not be assumed .", 
+        "obfuscation-id": 60, 
+        "original": " Therefore, independence\r\ncannot be assumed.", 
+        "original-end-charpos": 6536, 
+        "original-start-charpos": 6493
+    }, 
+    {
+        "obfuscation": "In order to correct this problem , a series of pretense runs ( often called replications ) can be constructed in a way that collection of statistics is suspended between replications while the model runs in steady state .", 
+        "obfuscation-id": 61, 
+        "original": " In order to correct this problem, a series of simulation runs (often called replications)\r\ncan be constructed in a way that collection of statistics is suspended between replications while the model\r\nruns in steady state.", 
+        "original-end-charpos": 6758, 
+        "original-start-charpos": 6537
+    }, 
+    {
+        "obfuscation": "The resources and entities are not cleared , just the statistics .", 
+        "obfuscation-id": 62, 
+        "original": " The resources and entities are not cleared, just the statistics.", 
+        "original-end-charpos": 6823, 
+        "original-start-charpos": 6759
+    }
+]
