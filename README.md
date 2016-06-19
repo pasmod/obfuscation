@@ -31,3 +31,8 @@ Evaluation is done using the following command:
 python3 glad-main.py -i $inputDataset -m $modelDir -o Out
 ```
 #### Results
+The participants' answers are evaluated according the c@1 measure.
+
+|     | Team A | Team B | Team C |
+|-----|--------|--------|--------|
+| c@1 | 0.443  | 0.512  | 0.468  |
