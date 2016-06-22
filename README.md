@@ -5,7 +5,7 @@ Evaluation of the Author Masking Task at PAN2016
 An obfuscation software is called:
 * safe, if a forensic analysis does not reveal the original author of its obfuscated texts,
 * sound, if its obufscated texts are textually entailed with their originals, and
-* proper, if its obfuscated texts are inconspicuous.
+* sensible, if its obfuscated texts are inconspicuous.
 
 This project describes our methodology to evaluate the 3 approaches submitted to PAN 2016, Author Masking competition.
 
