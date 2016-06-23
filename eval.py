@@ -21,8 +21,12 @@ def c_at_one(answers):
     return (1.0 / n) * (n_c + (n_u * n_c / n))
 
 
+A = 'results/author-masking-participantA-2016-05-24-04-49-53/output'
+B = 'results/author-masking-participantB-2016-05-24-16-57-58/output'
+C = 'results/author-masking-participantC-2016-06-02-11-02-18/output'
+
 # DIRTY CODE! CLEAN IT
-def sample(problems, num_obfuscations=2):
+def sample(problems=A, num_obfuscations=2):
     result = []
     for _, dirs, _ in os.walk(problems):
         for dir in dirs:
@@ -38,7 +42,7 @@ def sample(problems, num_obfuscations=2):
                     obs['sensibility'] = {'A': '', 'B': ''}
                     obs['problem'] = problem[-11:]
                     result.append(obs)
-    filename = problems + 'result.json'
+    filename = problems + '/result.json'
     json.dump(result, open(filename, 'wb'))
 
 # DIRTY CODE! CLEAN IT
