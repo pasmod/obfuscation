@@ -20,6 +20,8 @@ def c_at_one(answers):
     n_u = 0  # glad does not support this feature
     return (1.0 / n) * (n_c + (n_u * n_c / n))
 
+
+# DIRTY CODE! CLEAN IT
 def sample(problems, num_obfuscations=2):
     result = []
     for _, dirs, _ in os.walk(problems):
@@ -34,12 +36,17 @@ def sample(problems, num_obfuscations=2):
                 for obs in selected_obfuscations:
                     obs['soundness'] = {'A': '', 'B': ''}
                     obs['sensibility'] = {'A': '', 'B': ''}
+                    obs['problem'] = problem[-11:]
                     result.append(obs)
     filename = problems + 'result.json'
     json.dump(result, open(filename, 'wb'))
 
-
-def guidline(submissions=[], num_problems=20, num_obfuscations=2):
+# DIRTY CODE! CLEAN IT
+def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-53/output',
+                          'results/author-masking-participantB-2016-05-24-16-57-58/output',
+                          'results/author-masking-participantC-2016-06-02-11-02-18/output'],
+             num_problems=20,
+             num_obfuscations=2):
     result = []
     print submissions
     for submission in submissions:
