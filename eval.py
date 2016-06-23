@@ -73,7 +73,7 @@ def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-
                         obs['soundness'] = ''
                         obs['sensibility'] = ''
                         obs['problem'] = problem[-11:]
-                        obs['submission'] = submission[64:-7]
+                        obs['submission'] = submission[23:-27]
                         result.append(obs)
     filename = 'results/guidline.json'
     json.dump(result, open(filename, 'wb'), sort_keys=False)
