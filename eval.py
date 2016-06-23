@@ -1,3 +1,4 @@
+from collections import OrderedDict
 import random
 import json
 import os
@@ -53,7 +54,8 @@ def guidline(submissions=[], num_problems=20, num_obfuscations=2):
                 problem = os.path.join(submission, dir)
                 obfuscation_file = problem + '/obfuscation.json'
                 with open(obfuscation_file) as data_file:
-                    obfuscations = json.load(data_file)
+                    obfuscations = json.load(data_file,
+                                             object_pairs_hook=OrderedDict)
                     indices = random.sample(range(1, len(obfuscations)-1),
                                             num_obfuscations)
                     selected_obfuscations = [obfuscations[i] for i in indices]
@@ -62,4 +64,4 @@ def guidline(submissions=[], num_problems=20, num_obfuscations=2):
                         obs['sensibility'] = ''
                         result.append(obs)
     filename = 'guidline.json'
-    json.dump(result, open(filename, 'wb'))
+    json.dump(result, open(filename, 'wb'), sort_keys=False)
