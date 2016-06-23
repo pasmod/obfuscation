@@ -62,6 +62,8 @@ def guidline(submissions=[], num_problems=20, num_obfuscations=2):
                     for obs in selected_obfuscations:
                         obs['soundness'] = ''
                         obs['sensibility'] = ''
+                        obs['problem'] = problem[-11:]
+                        obs['submission'] = submission[64:-7]
                         result.append(obs)
     filename = 'guidline.json'
     json.dump(result, open(filename, 'wb'), sort_keys=False)
