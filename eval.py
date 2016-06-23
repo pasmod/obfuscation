@@ -50,11 +50,9 @@ def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-
                           'results/author-masking-participantB-2016-05-24-16-57-58/output',
                           'results/author-masking-participantC-2016-06-02-11-02-18/output'],
              num_problems=20,
-             num_obfuscations=2):
+             num_obfuscations=3):
     result = []
-    print submissions
     for submission in submissions:
-        print submission
         for _, dirs, _ in os.walk(submission):
             if len(dirs) == 0:
                 continue
@@ -76,5 +74,5 @@ def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-
                         obs['problem'] = problem[-11:]
                         obs['submission'] = submission[64:-7]
                         result.append(obs)
-    filename = 'guidline.json'
+    filename = 'results/guidline.json'
     json.dump(result, open(filename, 'wb'), sort_keys=False)
