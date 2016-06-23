@@ -3,6 +3,7 @@ import random
 import json
 import os
 
+
 def c_at_one(answers):
     '''Given an answers file, computes the c@1 measure
 
