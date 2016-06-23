@@ -36,3 +36,30 @@ def sample(problems, num_obfuscations=2):
                     result.append(obs)
     filename = problems + 'result.json'
     json.dump(result, open(filename, 'wb'))
+
+
+def guidline(submissions=[], num_problems=20, num_obfuscations=2):
+    result = []
+    print submissions
+    for submission in submissions:
+        print submission
+        for _, dirs, _ in os.walk(submission):
+            if len(dirs) == 0:
+                continue
+            indices = random.sample(range(1, len(dirs)-1),
+                                    num_problems)
+            selected_problems = [dirs[i] for i in indices]
+            for dir in selected_problems:
+                problem = os.path.join(submission, dir)
+                obfuscation_file = problem + '/obfuscation.json'
+                with open(obfuscation_file) as data_file:
+                    obfuscations = json.load(data_file)
+                    indices = random.sample(range(1, len(obfuscations)-1),
+                                            num_obfuscations)
+                    selected_obfuscations = [obfuscations[i] for i in indices]
+                    for obs in selected_obfuscations:
+                        obs['soundness'] = ''
+                        obs['sensibility'] = ''
+                        result.append(obs)
+    filename = 'guidline.json'
+    json.dump(result, open(filename, 'wb'))
