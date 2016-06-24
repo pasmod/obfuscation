@@ -72,11 +72,9 @@ def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-
                     for obs in selected_obfuscations:
                         obs['1_obfuscation'] = obs['obfuscation']
                         obs['2_sensibleness'] = ''
-                        obs['3_original'] = obs['original']
-                        obs['4_soundness'] = ''
-                        obs['5_obfuscation-id'] = obs['obfuscation-id']
-                        obs['6_original-end-charpos'] = obs['original-end-charpos']
-                        obs['7_original-start-charpos'] = obs['original-start-charpos']
+                        obs['3_obfuscation-id'] = obs['obfuscation-id']
+                        obs['4_original-end-charpos'] = obs['original-end-charpos']
+                        obs['5_original-start-charpos'] = obs['original-start-charpos']
                         obs.pop('original', None)
                         obs.pop('original-end-charpos', None)
                         obs.pop('original-start-charpos', None)
