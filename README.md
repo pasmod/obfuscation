@@ -27,6 +27,7 @@ python3 glad-main.py --training $trainingDataset \
     * author-masking-participantB-2016-05-24-16-57-58
     * author-masking-participantC-2016-06-02-11-02-18
     * guidline.json: contains the guidline used by annotators to evaluate soundness and sensibility
+    * answers_original.txt: contains the evaluation results for the original texts
 
 Evaluation is done using the following command:
 ```python
