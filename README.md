@@ -37,12 +37,12 @@ python3 glad-main.py -i $inputDataset -m $modelDir -o Out
 The results of applying GLAD on the 2016 training set. Notice that all problems
 have postive labels, meaning that known documents and unknown documents all have
 the same author.
-C@1: 0.66433
+C@1: 0.656
 
 The participants' answers are evaluated according the c@1 measure.
 
 |     | Team A | Team B | Team C |
 |:---:|:------:|:------:|:------:|
-| C@1 |  0.400 |  0.463 |  0.468 |
+| C@1 |  0.411 |  0.467 |  0.477 |
 
 
