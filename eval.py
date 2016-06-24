@@ -1,5 +1,6 @@
 from collections import OrderedDict
 import random
+import codecs
 import json
 import os
 
@@ -89,3 +90,25 @@ def guidline(submissions=[
                         result.append(obs)
     filename = 'results/sensibleness_team_c.json'
     json.dump(result, open(filename, 'wb'), sort_keys=False, indent=4)
+
+def clean(text):
+    return text.replace('\n', ' ').replace('\r', '').replace('\t', ' ').strip()
+
+def create_pairs(submission):
+    pairs = []
+    for _, dirs, _ in os.walk(submission):
+        for dir in dirs:
+            problem = os.path.join(submission, dir)
+            obfuscation_file = problem + '/obfuscation.json'
+            with open(obfuscation_file) as data_file:
+                obfuscations = json.load(data_file)
+            for obfuscation in obfuscations:
+                pair = (clean(obfuscation['obfuscation']), clean(obfuscation['original']))
+                pairs.append(pair)
+    the_file = codecs.open("pairs.txt", "w", "utf-8")
+    for pair in pairs:
+        the_file.write(pair[0])
+        the_file.write('\t')
+        the_file.write(pair[1])
+        the_file.write('\n')
+    the_file.close()
