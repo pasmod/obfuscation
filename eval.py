@@ -17,7 +17,7 @@ def c_at_one(answers):
         lines = f.readlines()
     n = float(len(lines))
     probs = [float(line.split()[1]) for line in lines]
-    n_c = sum(p < 0.5 for p in probs)
+    n_c = sum(p > 0.5 for p in probs)
     n_u = 0  # glad does not support this feature
     return (1.0 / n) * (n_c + (n_u * n_c / n))
 
