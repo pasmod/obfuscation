@@ -1,4 +1,4 @@
-﻿problem-194 0.670583
+problem-194 0.670583
 problem-073 0.208798
 problem-065 0.513655
 problem-140 0.426765
