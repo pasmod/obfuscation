@@ -39,20 +39,23 @@ def sample(problems=A, num_obfuscations=2):
                                         num_obfuscations)
                 selected_obfuscations = [obfuscations[i] for i in indices]
                 for obs in selected_obfuscations:
-                    obs['soundness'] = {'A': '', 'B': ''}
-                    obs['sensibility'] = {'A': '', 'B': ''}
+                    obs['sensibleness'] = {'A': '', 'B': ''}
                     obs['problem'] = problem[-11:]
                     result.append(obs)
-    filename = problems + '/result.json'
+    filename = problems + '/sensiblenes_team_a.json'
     json.dump(result, open(filename, 'wb'))
 
 # DIRTY CODE! CLEAN IT
-def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-53/output',
-                          'results/author-masking-participantB-2016-05-24-16-57-58/output',
-                          'results/author-masking-participantC-2016-06-02-11-02-18/output'],
+def guidline(submissions=[
+                          #'results/author-masking-participantA-2016-05-24-04-49-53/output'
+                          #'results/author-masking-participantB-2016-05-24-16-57-58/output',
+                          'results/author-masking-participantC-2016-06-02-11-02-18/output'
+                         ],
              num_problems=20,
-             num_obfuscations=3):
+             num_obfuscations=3,
+             seed=123):
     result = []
+    random.seed(seed)
     for submission in submissions:
         for _, dirs, _ in os.walk(submission):
             if len(dirs) == 0:
@@ -84,5 +87,5 @@ def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-
                         obs['problem'] = problem[-11:]
                         obs['submission'] = submission[23:-27]
                         result.append(obs)
-    filename = 'results/guidline.json'
-    json.dump(result, open(filename, 'wb'), sort_keys=False)
+    filename = 'results/sensibleness_team_c.json'
+    json.dump(result, open(filename, 'wb'), sort_keys=False, indent=4)
