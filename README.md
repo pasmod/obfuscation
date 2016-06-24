@@ -43,6 +43,6 @@ The participants' answers are evaluated according the c@1 measure.
 
 |     | Team A | Team B | Team C |
 |:---:|:------:|:------:|:------:|
-| C@1 |  0.443 |  0.512 |  0.468 |
+| C@1 |  0.400 |  0.463 |  0.468 |
 
 
