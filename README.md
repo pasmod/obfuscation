@@ -34,8 +34,15 @@ Evaluation is done using the following command:
 python3 glad-main.py -i $inputDataset -m $modelDir -o Out
 ```
 #### Results
+The results of applying GLAD on the 2016 training set. Notice that all problems
+have postive labels, meaning that known documents and unknown documents all have
+the same author.
+C@1: 0.66433
+
 The participants' answers are evaluated according the c@1 measure.
 
 |     | Team A | Team B | Team C |
 |:---:|:------:|:------:|:------:|
 | C@1 |  0.443 |  0.512 |  0.468 |
+
+
