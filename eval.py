@@ -70,8 +70,19 @@ def guidline(submissions=['results/author-masking-participantA-2016-05-24-04-49-
                                             num_obfuscations)
                     selected_obfuscations = [obfuscations[i] for i in indices]
                     for obs in selected_obfuscations:
-                        obs['soundness'] = ''
-                        obs['sensibility'] = ''
+                        obs['1_obfuscation'] = obs['obfuscation']
+                        obs['2_sensibleness'] = ''
+                        obs['3_original'] = obs['original']
+                        obs['4_soundness'] = ''
+                        obs['5_obfuscation-id'] = obs['obfuscation-id']
+                        obs['6_original-end-charpos'] = obs['original-end-charpos']
+                        obs['7_original-start-charpos'] = obs['original-start-charpos']
+                        obs.pop('original', None)
+                        obs.pop('original-end-charpos', None)
+                        obs.pop('original-start-charpos', None)
+                        obs.pop('original', None)
+                        obs.pop('obfuscation-id', None)
+                        obs.pop('obfuscation', None)
                         obs['problem'] = problem[-11:]
                         obs['submission'] = submission[23:-27]
                         result.append(obs)
