@@ -4,6 +4,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "2", 
+            "C": "2", 
             "B": "1"
         }, 
         "original-start-charpos": 672, 
@@ -16,6 +17,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 2844, 
@@ -28,6 +30,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 190, 
@@ -40,6 +43,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 3726, 
@@ -52,6 +56,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "2"
         }, 
         "original-start-charpos": 2389, 
@@ -64,6 +69,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 1315, 
@@ -76,6 +82,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "2", 
             "B": "0"
         }, 
         "original-start-charpos": 10261, 
@@ -88,6 +95,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 9497, 
@@ -100,6 +108,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 4912, 
@@ -112,6 +121,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 5230, 
@@ -124,6 +134,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 1479, 
@@ -136,6 +147,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 4019, 
@@ -148,6 +160,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 2266, 
@@ -160,6 +173,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 3644, 
@@ -172,6 +186,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "1"
         }, 
         "original-start-charpos": 1231, 
@@ -184,6 +199,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 2687, 
@@ -196,6 +212,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "2", 
             "B": "1"
         }, 
         "original-start-charpos": 6024, 
@@ -208,6 +225,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 3632, 
@@ -220,6 +238,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 1021, 
@@ -232,6 +251,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 951, 
@@ -244,6 +264,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 1691, 
@@ -256,6 +277,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 2528, 
@@ -268,6 +290,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 3204, 
@@ -280,6 +303,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 1959, 
@@ -292,6 +316,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "2", 
             "B": "2"
         }, 
         "original-start-charpos": 99, 
@@ -304,6 +329,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "1"
         }, 
         "original-start-charpos": 2816, 
@@ -316,6 +342,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 555, 
@@ -328,6 +355,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 3555, 
@@ -340,6 +368,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "2", 
             "B": "0"
         }, 
         "original-start-charpos": 3910, 
@@ -352,6 +381,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "0", 
             "B": "1"
         }, 
         "original-start-charpos": 2695, 
@@ -364,6 +394,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 1033, 
@@ -376,6 +407,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 2231, 
@@ -388,6 +420,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 2725, 
@@ -400,6 +433,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 1231, 
@@ -412,6 +446,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 6610, 
@@ -424,6 +459,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 8633, 
@@ -436,6 +472,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 478, 
@@ -448,6 +485,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "2", 
+            "C": "2", 
             "B": "1"
         }, 
         "original-start-charpos": 296, 
@@ -460,6 +498,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 126, 
@@ -472,6 +511,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "2", 
+            "C": "2", 
             "B": "2"
         }, 
         "original-start-charpos": 1450, 
@@ -484,6 +524,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "2", 
             "B": "0"
         }, 
         "original-start-charpos": 178, 
@@ -496,6 +537,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "2", 
+            "C": "2", 
             "B": "2"
         }, 
         "original-start-charpos": 1158, 
@@ -508,6 +550,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "2", 
+            "C": "2", 
             "B": "2"
         }, 
         "original-start-charpos": 3910, 
@@ -520,6 +563,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 7910, 
@@ -532,6 +576,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 10630, 
@@ -544,6 +589,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "1"
         }, 
         "original-start-charpos": 6308, 
@@ -556,6 +602,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 4410, 
@@ -568,6 +615,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "1"
         }, 
         "original-start-charpos": 6648, 
@@ -580,6 +628,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 3812, 
@@ -592,6 +641,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "1"
         }, 
         "original-start-charpos": 2472, 
@@ -604,6 +654,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 1021, 
@@ -616,6 +667,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "1"
         }, 
         "original-start-charpos": 1946, 
@@ -628,6 +680,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "2", 
+            "C": "2", 
             "B": "0"
         }, 
         "original-start-charpos": 671, 
@@ -640,6 +693,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "0", 
             "B": "1"
         }, 
         "original-start-charpos": 3990, 
@@ -652,6 +706,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 3964, 
@@ -664,6 +719,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "2", 
+            "C": "2", 
             "B": "2"
         }, 
         "original-start-charpos": 6424, 
@@ -676,6 +732,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "0", 
             "B": "0"
         }, 
         "original-start-charpos": 303, 
@@ -688,6 +745,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "1"
         }, 
         "original-start-charpos": 1051, 
@@ -700,6 +758,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "1", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 1395, 
@@ -712,6 +771,7 @@
         "submission": "participantB", 
         "sensibleness": {
             "A": "0", 
+            "C": "1", 
             "B": "0"
         }, 
         "original-start-charpos": 1683, 
