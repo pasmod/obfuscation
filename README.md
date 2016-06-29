@@ -46,4 +46,14 @@ The participants' answers are evaluated according the c@1 measure.
 |:---:|:------:|:------:|:------:|
 | C@1 |  0.411 |  0.467 |  0.477 |
 
+#### Results Soundness
+We measured the semantic textual similarity (STS) between the original text segments and their paraphrases with the *Overlap* method from http://m-mitchell.com/NAACL-2016/SemEval/pdf/SemEval92.pdf
+
+The best possible score would be a mean of 5. The worst possible score is 0.
+
+Results:
+|     | Team A | Team B | Team C |
+|:---:|:------:|:------:|:------:|
+| Mean STS | 4.87  |  4.04 |  4.48 |
+
 
