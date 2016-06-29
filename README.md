@@ -52,6 +52,7 @@ We measured the semantic textual similarity (STS) between the original text segm
 The best possible score would be a mean of 5. The worst possible score is 0.
 
 Results:
+
 |          | Team A | Team B | Team C |
-|----------|--------|--------|--------|
+|----------|:--------:|:--------:|:--------:|
 | Mean STS | 4.87   | 4.04   | 4.48   |
