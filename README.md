@@ -56,3 +56,13 @@ Results:
 |          | Team A | Team B | Team C |
 |----------|:--------:|:--------:|:--------:|
 | Mean STS | 4.87   | 4.04   | 4.48   |
+
+#### Results Sensibleness
+We manually annotated a subset of 20 problems (3 paraphrases from each problem) for each team. We used 3 labels: 2 (comprehensible), 1 (partially comprehensible), and 0 (incomprehensible)
+
+The following table reports the mean of all scores. The highest possible score is 2, the lowest 0.
+
+
+|          | Team A | Team B | Team C |
+|----------|:--------:|:--------:|:--------:|
+| Average score | 1.94   | 0.57   | 1.20   |
