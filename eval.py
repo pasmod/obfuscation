@@ -48,8 +48,8 @@ def sample(problems=A, num_obfuscations=2):
 
 # DIRTY CODE! CLEAN IT
 def guidline(submissions=[
-                          #'results/author-masking-participantA-2016-05-24-04-49-53/output'
-                          #'results/author-masking-participantB-2016-05-24-16-57-58/output',
+                          #'submissions/author-masking-participantA-2016-05-24-04-49-53/output'
+                          #'submissions/author-masking-participantB-2016-05-24-16-57-58/output',
                           'submissions/author-masking-participantC-2016-06-02-11-02-18/output'
                          ],
              num_problems=20,
