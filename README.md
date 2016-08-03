@@ -13,10 +13,11 @@ This project describes our methodology to evaluate the 3 approaches submitted to
 * **corpora**:
     * **pan13-pan15-author-verification-training-corpus-english**: this folder contains all training instances of the author verification task from PAN2013 till PAN2015. Problem named are slightly modified to indicate the competition year. Also a new truth file is added which is simply the concatentation of all truth files from PAN2013 till PAN2015.
     * **pan16-author-masking-training-dataset-2016-02-17**: contains the training instances for author masking task at PAN2015. These instances are just a subset of instances from PAN2013 till PAN2015.
-* **glad**: implementation of the paper "GLAD: Groningen Lightweight Authorship Detection". The source code is copied from [here](https://github.com/pan-webis-de/glad). We eliminated some unnecessary files for the evaluation.
-* **model**: contains the model trained on PAN2013 till PAN2015. Training is done using the following command:
+* **safeness**
+    * **glad**: implementation of the paper "GLAD: Groningen Lightweight Authorship Detection". The source code is copied from [here](https://github.com/pan-webis-de/glad). We eliminated some unnecessary files for the evaluation.
+    * **model**: contains the model trained on PAN2013 till PAN2015. Training is done using the following command:
 ```python
-python3 glad-main.py --training $trainingDataset \
+python3 safeness/glad/glad-main.py --training $trainingDataset \
                      -i $inputDataset \
                      --save_model $modelDir
 ```
@@ -31,7 +32,7 @@ python3 glad-main.py --training $trainingDataset \
 
 Evaluation is done using the following command:
 ```python
-python3 glad-main.py -i $inputDataset -m $modelDir -o Out
+python3 safeness/glad/glad-main.py -i $inputDataset -m $modelDir -o Out
 ```
 #### Results
 The results of applying GLAD on the 2016 training set. Notice that all problems
