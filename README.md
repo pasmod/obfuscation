@@ -1,4 +1,6 @@
 # Obfuscation
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/pasmod/obfuscation/blob/master/License.md)
+
 Evaluation of the Author Masking Task at PAN2016
 
 #### Problem Description
