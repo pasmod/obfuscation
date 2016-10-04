@@ -16,7 +16,6 @@ An obfuscation software is called:
 
 #### Folder Structure
 ```
-+--
 +-- corpora (contains the training instances of the competition)
 |   +-- pan13-pan15-author-verification-training-corpus-english/
 |   +-- pan16-author-masking-training-dataset-2016-02-17/
