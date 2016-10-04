@@ -62,7 +62,7 @@ The following table reports the mean of all scores. The highest possible score i
 |----------|:--------:|:--------:|:--------:|
 | Average score | 1.94   | 0.57   | 1.20   |
 
-# Citation
+### Citation
 I you want to cite us in your work, please use the following bibtex entry:
 ``` bash
 @inproceedings{DBLP:conf/clef/LiebeckM016,
