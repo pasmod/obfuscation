@@ -15,7 +15,7 @@ An obfuscation software is called:
 * sensible, if its obfuscated texts are inconspicuous.
 
 #### Folder Structure
-.
+```
 +--
 +-- corpora (contains the training instances of the competition)
 |   +-- pan13-pan15-author-verification-training-corpus-english/
@@ -27,6 +27,7 @@ An obfuscation software is called:
 +-- sensibleness (results obtained for sensibleness)
 +-- soundness (results obtained for soundness)
 +-- submissions (submissions of the teams)
+```
 
 #### Results Safeness
 The results of applying GLAD on the 2016 training set. Notice that all problems
